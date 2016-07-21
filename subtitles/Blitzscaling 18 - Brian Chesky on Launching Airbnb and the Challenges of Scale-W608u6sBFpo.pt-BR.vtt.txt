@@ -1,0 +1,3357 @@
+WEBVTT
+Kind: captions
+Language: pt-BR
+- É uma grande honra para nós,
+termos Brian Chesky aqui.
+Brian é obviamente o CEO e co-fundador
+do que eu creio que é, de fato,
+o mais interessante
+dos unicórnios de agora e amanhã
+em todos os tipos de níveis.
+Não somente a maneira que mundo deve ser,
+mas também muitas coisas que aprendi com o Brian.
+aprendi sobre design,
+aprendi sobre, meio que, quais são as boas maneiras
+de ser um empreendedor neste sentido.
+Assim, é uma grande honra,
+para nós termos ele aqui.
+Obrigado por vir. [Brian] obrigado, obrigado.
+- Vamos iniciar com,
+pode até ser conhecida,
+mas é interessante começarmos com a história do AirBNB.
+- [Brian] Sim.
+- [Reid] Como você teve a ideia?
+Como eram os primeiros dias?
+- [Brian] Sim, sim.
+Bom, obrigado, obrigado a todos por ouvirem.
+Desculpe-me, essa coisa está caindo.
+Então Airbnb,
+muitas pessoas diriam que,
+ou um tanto de pessoas disseram
+que "é a pior ideia que já deu certo."
+Ou, ao menos eu posso dizer muito que
+que todos da epoca diziam que,
+ era a pior ideia do mundo, e que funcionou!
+Assim talvez essa seja a boa conexão.
+A pior ideia que já deu certo.
+Airbnb —&nbsp;eu irei só fazer uma
+visão geral, tipo, rápidão
+sobre antes do Airbnb.
+Eu sou diferente do que muitos
+fundadores de tecnologia
+devido ao fato que fiz escola de arte.
+Assim eu era um artista por treinamento.
+Eu fiz a Rhode Island Escola de Design.
+Não sei se vocês conhecem esta escola.
+Eu estudei design industrial,
+e o design industrial
+eu sei que eles ensinam aqui em Stanford.
+É um tipo de design de produto,
+tudo desde uma escova de dentes até
+uma nave espacial, eles dizem,
+e tudo entre essas coisas. Deus te abençoe.
+E eu, crescendo, eu nunca de fato pensei
+em ser um empreendedor.
+Eu nem sei se existia.
+Eu nem sei se
+eu já tinha sequer ouvido
+a palavra empreendedor.
+Aquilo teria sido um coisa
+quase absurda de dizer
+no norte de Nova Iorque, onde cresci,
+o usar daquela palavra.
+De fato, em retrospectiva o único empreendedor
+que eu conhecia era o Bob da Pizza do Bob.
+E eu não queria ter uma loja de pizza,
+assim eu não acho que eu sequer
+pensei em abrir uma empresa.
+Meus pais são ambos assistentes sociais.
+Minha mãe costumada ter uma piada:
+ela disse que eu escolhia um emprego pelo amor
+e não fazia dinheiro,
+então que deveria escolher um emprego pelo dinheiro.
+E eu disse, "Bom, eu vou para a escola de arte"
+E ela disse, "Ah meu Deus!"
+"Você escolheu o único caminho na vida"
+"que paga menos que assistente social"
+"porque você será um artista e não irá receber."
+Assim ela disse, "se você fizer isso,"
+"esteja certo que você não vai voltar para casa,
+"para vir morar no porão.
+"Só garanta que você tenha um emprego um dia
+"e que se pegar tal emprego,
+"este certo que ele oferece seguro de saúde."
+E isso era tipo uma grande
+ambição para meus pais.
+Então nada era sobre abrir uma empresa grande,
+ou escalar uma empresa.
+Assim eu não ia poder
+chamar meus pais,
+"Ah meu Deus, o que eu faço?"
+"Eu tenho 100 empregados, como escalar?"
+Aquilo não aconteceria na minha família.
+Eu acabei indo para a RISD (Rhode Island Escola de Design),
+e a escola teve um impacto profundo em mim,
+provavelmente muito tipo aqui em Stanford,
+porque ao crescer, você é ensinado a olhar para a frente.
+Crescendo, você não é recompensado por fazer diferente,
+você só é chamado para a sala do diretor.
+E eu estava lá, quase sempre.
+Assim, acabei na RISD e os professores diziam:
+você é um designer, você pode redesignar qualquer coisa!
+Basicamente, eles dizem que você pode mudar o mundo.
+Isso não algo que a maioria dos pais falam para seus filhos.
+"Você pode mudar o mundo"
+Eles te dizem para se comportar.
+E assim eu acabei,
+uma outra coisa que aconteceu na RISD,
+Eu encontrei meu co-fundador,
+um dos meus co-fundadores, na RISD,
+chamado Joe Gebbia.
+Um dia o Joe diz:
+"Brian, eu acho que eu e meu vizinho
+"vamos iniciar uma empresa juntos.."
+Bom, eu vivo em L.A. trabalhando como um designer industrial,
+e lembro da minha vida,
+e você, talvez, confronta essas decisões,
+onde tudo na minha frente na vida
+se parece com tudo do passado.
+Em outras palavras, é como se a
+estrada fosse desaparecendo
+no horizonte, e isso me deixou aterrorizado.
+porque era aquele emprego, com seguro de saúde.
+E na RISD, eles haviam dito —&nbsp;não eu posso fazer qualquer coisa.
+Eu posso mudar o mundo,
+e eu não estou fazendo nada disso.
+Assim, eu tive esse momento impulsivo,
+onde estava indo para o trabalho
+e meu colega de quarto,
+meu amigo Joe na RISD,
+estava tentando me convencer
+a sair da empresa
+e ir para São Francisco,
+para tipo iniciarmos uma empresa.
+Nós não tínhamos ideia de como essa empresa seria.
+E nós simplesmente pensamos,
+vamos pensar em uma ideia grande.
+E assim, um dia eu vou para o trabalho,
+e eu peço demissão,
+e eu estou morando em uma casa
+com um tanto de amigos
+que vieram de todo lado do país,
+e eu digo "bom pessoal, eu vou ir."
+E eles pensaram que eu tinha, tipo,
+uma crise do início de carreira.
+Eles acharam que tinham que
+fazer uma intervenção,
+mas não, não, está tudo bem.
+Eu eu peguei um cochão velho de espuma,
+enrolei ele na trazeira de um velho Honda Civic.
+Com 1000 dólares no banco,
+eu dirigí para San Francisco.
+Isto foi em outubro de 2007.
+Eu cheguei em São Francisco e Joe me
+diz que o aluguel é de $1.150,00
+Eu não tinha aquilo tudo.
+Naquele final de semana, uma conferência
+internacional de design
+estava vindo para San Francisco.
+Nós visitamos o site da conferência,
+e percebemos, no site da conferência,
+que eles tinham uma aba de hotéis
+e nós clicamos na aba de hotéis.
+E na aba, tinham sempre hotéis
+e próximo de cada hotel, mostrava,
+"lotado", "lotado", "lotado".
+E naquela hora, nós só tivemos essa ideia.
+E dissemos, "bom, designers precisam de um lugar para ficar,"
+"eles literalmente não tem dinheiro,
+"de fato eu nem sei como vou pagar o aluguel."
+Assim nós pensamos —&nbsp;e se nós criarmos uma pousada
+[bed and breakfast, BNB, cama e café]
+para a conferência de design?
+Naturalmente, talvez isso não seria o que a maioria de vocês
+pensariam em fazer, mas isso era o que nós pensamos em fazer.
+Você sabe, você faz RISD,
+e é do tipo "ahh, eu tenho uma solução criativa!"
+Assim pensamos, "Vamos criar o Cama e Café dos Designers
+"para a conferência."
+Infelizmente, nós não tinhamos camas.
+O Joe tinha —&nbsp;havíamos acabado de nos mudar.
+Aquilo iria ser tipo Chão e Café.
+Tipo não era a melhor coisa.
+Assim, Joe tinha 3 camas de ar.
+Ele tinha acabado de acampar,
+e ainda tinha algumas camas de ar.
+E nós tiramos as camas de ar do armário,
+e inflamos elas,
+E chamamos de "Cama de Ar e Café" [Air Bed and Breakfast].
+E é daí que surgiu o nome.
+Airbedandbreakfast.com
+Assim muitas pessoas ouvem o nome, elas acham que é tipo,
+"ar" [air] é a plataforma e "bnb" é a casa.
+Não, é só "camas de ar".
+Isso era tudo que isso era. (risadas)
+Aqui era só "colchão de ar".
+E assim, nós acabamos recebendo 3 pessoas
+de lugares do mundo.
+Uma mulher de 35 anos de Boston,
+um pai de 45 anos, pai de 5 pessoas, de Utah,
+e uma pessoa de 30 anos, da India.
+E, agora, eu te digo,
+que a razão que iniciamos a fazer isto
+é porque nós achamos que aquilo era
+engraçado, legal e faríamos dinheiro.
+Porque nós precisávamos pagar o aluguel.
+Existe algo que acontece, no entanto,
+quando outros moram com você,
+é tipo um laço de amizade
+que contrai de um ano para um dia..
+Em outras palavras,
+se você encontrou alguém,
+talvez aqui em Stanford, ou no mundo real,
+e você passa a conhecer eles,
+quanto tempo leva para você, tipo, convidar eles
+na sua casa e jantar com eles?
+Isso poderia levar meses, até um ano.
+Você não só conhece as pessoas.
+Isto é, o que aconteceu,
+é que a amizade do ano foi compactada
+para alguns dias.
+Assim, essas pessoas chegaram como estranhos,
+e elas literalmente sairam como amigos.
+De fato nós mantemos contato com elas.
+De fato, um dos convidados acabou
+me convidando para seu casamento.
+O outro hóspede, a mulher,
+se mudou de Boston para San Francisco.
+E eu creio que nós entendemos
+que existia uma ideia maior aqui.
+Eu perguntei ao Joe,
+Eu disse —&nbsp;qual é o melhor engenheiro que você conhece?
+Porque eu e o Joe éramos designers.
+O Joe podia fazer engenharia de front-end,
+mas nós éramos ambos pessoas de design e produto.
+E o Joe disse —&nbsp;bom, meu velho colega de quarto, Nate, é bom.
+O Nate e o Joe se encontraram no Craigslist.
+Ele atendeu a Harvard, e era um ciêntista da computação.
+E assim nós 3 nos encontramos
+e dissemos, nós basicamente temos
+essa ideia básica.
+Nós dissemos —&nbsp;e se você pudesse reservar a casa de uma pessoa
+da mesma forma que você faz com um hotel,
+em qualquer lugar do mundo?
+E isso foi basicamente como tudo começou.
+Uma ressalva que faço na história é,
+depois daquele primeiro final de semana,
+não era um flash tipo "Ahh meu Deus,
+isso vai ser grande!"
+De fato nós não fizemos nada por 4 meses.
+De fato, a coisa que nós não normalmente comentamos,
+é que, depois daquilo, nós iniciamos a explorar
+a criação de um site de encontro colegas de quarto.
+Porque achamos que ninguém iria querer
+aquela coisa do Colchão de Ar com Café,
+e que pessoas precisavam de colegas de quarto.
+Assim pensamos: colegas de quarto
+com Craigslist com Facebook.
+Colegas de quarto com perfis.
+Até que um dia digitamos "roommates.com"
+e entendemos que já existia. (risadas)
+E já estávamos trabalhando a 3 ou 4 semanas
+e eu disse, "por que diabos não tentamos
+isso no primeiro dia?"
+Porque eu desperdicei 4 semanas. (risadas)
+Assim, nós não sabíamos o que fazer.
+Nós fomos para casa para o Natal,
+e as pessoas são assim: "o que você está trabalhando?"
+E eu era, tipo, não queria dizer
+para todos da minha família que estava desempregado.
+Então eu disse —&nbsp;eu sou um empreendedor.
+É claro, minha mãe disse,
+"Você está de fato desempregado."
+Eu eu disse —&nbsp;não, eu sou, de fato, um empreendedor.
+E aí é então quando eu aprendi,
+que quando você começa algo,
+a diferença entre desempregado e um empreendedor
+está na sua cabeça —&nbsp;é um ponto de vista.
+E eu era, na minha cabeça, um empreendedor.
+E eles disseram —&nbsp;bom, o que você está empreendendo?
+Eu eu tipo, porque não era realmente uma palavra comum lá,
+disse —&nbsp;bom, eu tenho essa coisa de "Cama de Ar e Café".
+Eles, tipo —&nbsp;Cama de ar e o quê?
+E assim nós começamos a nos acostumar em apresentar o "pitch".
+Nós pensamos —&nbsp;talvez nós devêssemos fazer essa coisa.
+E, ainda não era óbvio.
+A ideia original era camas de ar para conferências.
+Assim, acabamos que lançamos para a conferência
+South by Southwest [SxSw], em 2008.
+E simplesmente, a ideia toda era,
+se você está indo para a conferência
+e você não tem muito dinheiro,
+você pode dormir na casa de
+alguém em uma cama de ar.
+E asssim, nós terminamos,
+a segunda versão de nosso site,
+e tivemos dois usuários, e eu era um deles.
+Assim foi meio que como começou.
+Era, francamente, não era a história do Facebook,&nbsp;duas semanas.
+Foi uma estrada longa.
+- A propósito,
+[Reid] E não sabia do lance dos colegas
+de quarto até praticamente agora.
+- Sim.
+Nós não normalmente falamos disso.
+- Minha primeira startup, eu mesmo, tinha o nome Socialnet.
+E era uma plataforma social
+para uma variedade de serviços de encontro,
+que incluia um serviço de colegas.
+- Interessante!
+- E aquilo foi em 97.
+- Nós dois, estávamos tipo circulando ideias próximas.
+- Eu não tinha percebido
+que tínhamos encontros, encontros profissionais,
+atividades e colegas de quarto.
+Essas eram as quatro coisas.
+- Isso é incrível.
+- É hilariante, eu não tinha ideia.
+- Sim, a ideia era que, tipo o
+Air Bed e Breakfast
+não era uma super ideia.
+Nós pensamos que existiria uma ideia maior
+assim não pensamos que era aquilo.
+Nós achamos que iria pagar o aluguel
+assim teríamos algum tempo para pensar na ideia melhor.
+E achávamos que a grande ideia
+era algo tipo redes sociais.
+E, é claro acabou que aquela pequena ideia maluca
+que achamos que ninguém faria,
+se tornou a grande ideia.
+E eu creio que aconteceram algumas lições lá.
+A primeira, é que todas essas ideias boas ou grandes
+frequentemente parecem estúpidas.
+Alguém uma vez me disse, nos primeiros dias,
+não se preocupe sobre alguém roubar sua ideia.
+Se tiver alguma coisa boa, todo mundo vai ignorar.
+E isso era exatamente a verdade.
+E a segunda coisa era que, muitas dessas ideias
+são tipo —&nbsp;você resolvendo seu próprio problema.
+E não são tipo um problema que muda a vida,
+é um incômodo;
+e isso era claramente o caso nosso.
+- [Reid] Diga-nos um pouco sobre os primeiros dias.
+Vocês realmente sofreram para manter a coisa.
+- [Brian] Nossa cara, nós somos uma dessas empresas
+que lançaram muitas vezes.
+De fato eu aprendi algo,
+Porque nós continuávamos a fazer
+lançamentos para receber atenção da imprensa.
+Se você lança e ninguém percebe,
+você de fato pode continuar lançando (risadas).
+Assim, nós continuamos lançando.
+Tipo "lançamos!"
+E as pessoas continuavam a escrever sobre aquilo,
+tipo como se tivéssemos lançado.
+Nós tipo —&nbsp;vamos simplesmente continuar lançando
+até termos usuários.
+E assim mudávamos coisas,
+mudamos o nome
+e mudamos de novo.
+Assim o prímeiro dito lançamento
+foi aquele primeiro final de semana,
+mas aquele foi só de 3 pessoas.
+O segundo lançamento foi
+Camas de Ar e Conferências Estados Unidos.
+E tivemos dois clientes —
+eu era um deles.
+E assim nós decidimos —&nbsp;nós vamos
+lançar ao menos mais uma vez.
+Quando eu, eu utilizei na South by Southwest;
+Na época, não existia pagamentos
+e você tinha que dormir na cama de ar.
+E muitas pessoas me disseram um tanto de coisas.
+Elas diziam —&nbsp;por que eu tenho que...
+Tipo, eu quero ir para Londres, mas não existem conferencias..
+E nós, tipo, por que isso tem
+que ser só para conferências?
+Na época, aquilo nem era óbvio.
+Por que alguém ficaria na casa
+de outra pessoa caso não tivesse uma conferência?
+Aquilo seria muito estranho.
+E então pensamos,
+Espere, por que precisa ser nas camas de ar?
+Na época, de fato, nós tínhamos uma regra.
+Que você tinha que ter um colchão de ar.
+Assim, você tinha que inflar o colchão
+e colocá-lo na sua cama. (risadas)
+E, tipo, todos diziam,
+"Por que eu tenho colchões de ar na minha cama?"
+"Isto é muito desconfortável"
+"E eu acordei de um lado da cama
+e acordei do outro lado.
+Era a coisa que enrolava ao meu redor, era quente!"
+Nós então dissemos — ok, tudo bem!
+Você não precisa de ter um colchão de ar.
+Você pode ter uma cama de verdade.
+E a coisa final era —&nbsp;pagamentos.
+Nós talvez somos o primeiro site
+na internet
+onde você podia reservar direto
+com as pessoas
+e pagar diretamente para eles.
+Em outras palavras, tinha a Ebay.
+E a Ebay usava PayPal,
+mas você não sentia —
+- [Reid] Antes do PayPal, existiam os cheques.
+- [Brian] Existiam, sim, sim, os cheques.
+Exatamente!
+E não existia muito legado naquilo.
+Porque nós olhamos para
+a Ebay e Etsy.
+Que existiam antes de nós.
+E a Etsy utilizava PayPal
+e em ambos, você faz a compra,
+e aquilo levava você para o PayPal.
+E nós queríamos uma experiência como a de reservar um hotel.
+Você nunca sai do AirBNB.
+Nós faríamos a reserva, o recebimento e o envio do dinheiro.
+Assim, por outro lado eles pagavam direto
+e tiravam a taxa
+e utilizavam dois pagamentos, assim...
+E aquilo era um tipo de ideia maluca.
+Aquilo quase nos assustou.
+Parecia insano que você poderia
+pagar alguém
+e poder reservar algo com eles,
+e que teria um sistema de reputação.
+Nós decidimos, vamos fazer isso.
+E na época, pensávamos,
+isso é um pouco doido demais.
+É um pouco assustador demais.
+"Eu não se podemos fazer isso".
+"Eu não sei se isso irá funcionar".
+Nós decidimos fazer de qualquer maneira.
+Assim, no verão de 2008,
+nós acabamos basicamente fazendo o design
+da versão final do produto.
+Assim, nós desenhamos tal produto
+onde você poderia reservar a casa de alguém
+em qualquer parte do mundo.
+Nós tínhamos uma regra,
+três cliques para reservar —&nbsp;um botão.
+Porque existiam muitos cliques
+e muitas maneiras de se obter uma casa
+que eram complicadas demais.
+E eu lembrei que ouví a história
+de quando Steve Jobs desenvolveu o iPod,
+não importava onde ele estava, no seu iPod,
+ele precisava estar certo
+que ele estava sempre a três cliques de uma música.
+E nós dissemos —&nbsp;você deve sempre estar a três cliques
+do momento de ter uma reserva paga.
+Assim, nós criamos isto,
+basicamente uma página com uma barra de procura,
+anúncios, a página raiz e isto é
+exatamente o produto
+que você vê hoje, com revisões,
+sistema de pagamento e suporte ao consumidor.
+E nós basicamente nós acabamos lançando aquilo.
+Mas isto foi a terceira versão do produto.
+Nós estávamos, basicamente, refazendo o produto.
+Neste ponto, eu fui apresentado
+para muitos investidores.
+Provavelmente 15 investidores anjos.
+Nós levantamos de 100 a 150 mil dólares
+em uma avaliação financeira de 1.5 milhões.
+Éramos 1 milhão e eventualmente
+alguém nos convenceu que poderíamos obter 1.5 milhões em valuation.
+Um extra de 50 mil.
+Assim nós estávamos tentando vender 10% da empresa
+por 150 mil
+e das 15 pessoas que fomos apresentados,
+Eu penso que, vocês sabem,
+nós fomos apresentados via e-mail.
+Eu creio que, seis, sete ou oito deles
+nem mesmo responderam os e-mails
+assim nós nunca ouvimos deles de novo.
+Talvez seta ou oito deles responderam,
+e desses, metade deles disseram
+"Isto não se encaixa na minha tese de investimento"
+O que era estranho,
+porque o investimento deles era tipo
+empresas de internet para consumidores,
+e nós éramos internet para consumidores.
+Assim eu assumi que seria encaixável na tese,
+mas não.
+Ou eles disseram que o mercado não era grande o suficiente.
+Uma pessoa disse,
+"Eu não estou tão empolgado sobre viagem
+como uma categoria."
+Assim nós dissemos, "Oka".
+E assim nós acabamos
+encontrando mais alguns investidores
+e todos eles passaram nós.
+O ponto baixo era,
+nós acabamos lançando em Agosto de 2008,
+nós encontramos com um anjo, Mike Maples.
+E nós decidímos — eu era tão pretensioso que disse,
+"Eu nem vou levar os slides".
+"Eu só vou mostrar o site ao vivo."
+Aquele dia nós lançamos no TechCrunch.
+Tivemos 10.000 visitas de pessoas no nosso site.
+Eu chego lá sem slides.
+Eu tenho um site, digito no site,
+e não funciona.
+Assim eu, basicamente, sentei na frente dele tipo
+por uma hora,
+e eu não sabia o que dizer.
+Eu estou tentando explicar para ele o conceito,
+e ele tipo "eu não tenho a mínima ideia do que você está falando".
+Assim, desnecessário dizer —
+- [Reid] O Mike nunca me contou essa história.
+- [Brian] Sim, sim, sim, foi muito
+vergonhoso.
+E, sempre tenha seus slides.
+Como um backup, caso seu site não funcione,
+ou ao menos simplesmente não deixe seu site cair.
+Você vai encontrar com um investidor
+e será o último dinheiro que você tem.
+Assim, você conhece aqueles ficheiros
+que crianças usavam para colocar
+cartões de baseball nas fichas?
+Nós colocamos cartões de créditos nelas.
+Nós provavelmente, eu provavelmente tinha
+30.000 em dívidas de cartão.
+Eu pegava cartões com,
+tipo um típico máximo de 5 mil
+e eu pegava mais cartões de crédito
+até que as empresas pararam de me dar
+cartões de crédito.
+E o Joe fez o mesmo.
+E, você sabe, nós entramos em dezenas de milhares
+de dólares em dívidas de cartão.
+Nós acabamos lançando
+na Convenção Democrática Nacional, embora.
+E nós conseguimos..
+Em 2008, o que era, o número..
+Basicamente tivemos uma ideia básica,
+que tínhamos que fazer as pessoas falarem sobre nós
+e nós tínhamos essa coisa do
+problema do ovo e da galinha.
+Como você consegue convidados sem as casas?
+Bom, você não pode ter casas se não tem hóspedes.
+Agora, como ter eles ao mesmo tempo?
+E como fazer isso em um site de viagem?
+onde você não pode só focar em uma única cidade,
+porque pessoas viajam para outras cidades.
+Então você tem que focar in cidades em todo o mundo
+ao mesmo tempo.
+E, basicamente, a coisa que pensamos,
+é que precisamos de ter um monte de divulgação.
+Assim, um tipo de combustão espontânea
+ao mesmo tempo.
+E assim, nós pensamos, talvez eventos,
+versões maiores premium de eventos
+em formação.
+E nós pensamos, o que é um evento premium?
+E pensamos, a Convenção Nacional Democrática.
+Barack Obama estava vindo para Denver.
+Haviam 80.000 pessoas vindo
+ou era um estádio de futebol de 80.000 lugares
+e eles tinham 27.000 quartos de hotéis.
+E pensamos "Wow! existe uma oportunidade aqui".
+Ainda, era bem um movimento orgânico.
+E nós contactamos o New York Times, CNN
+e eles pensaram,
+"Do que vocês estão falando? isso é loucura."
+"Ninguém jamais irá ficar com outras pessoas."
+Assim nós acabamos simplesmente contactando
+os jornais locais.
+Eles nos ignoraram, e nós tivemos esta ideia,
+porque nós não simplesmente começamos
+por conseguir que qualquer pessoa fale sobre nós?
+Pensamos que, se alguns escreverem sobre nós,
+outras pessoas iriam olhar para eles.
+Assim nós literalmente começamos com blogueiros.
+Eu não estaria surpreso caso algum estudante do ensino
+médio tenha escrito sobre nós no jornal da escola.
+Mas, se nós literalmente tivemos blogueiros escrevendo sobre nós,
+então as pessoas iriam colocar no Google "CND"
+eles iriam nós nos resultados,
+Porque todos aqueles bloqueiros escreveram sobre nós.
+Aí os jornais locais escreveriam sobre nós
+e eventualmente conseguimos nosso caminho
+acima até que a CNN e New York Times receberam.
+Começou a ter tração,
+mas nós ainda estávamos devendo.
+Nós conseguimos 80 reservas, talvez menos,
+para a Convenção Democrática Nacional.
+Nós conseguimos uma ou duas reservas
+para a Convenção Republicana Nacional.
+Esta não funcionou muito bem.
+E então, no próximo final de semana,
+não tivemos nada de reservas.
+Nós entendemos, se só tivessem
+convenções políticas
+toda semana, nós teríamos um negócio.
+Mas não tinha nada.
+Assim, isso é agora quase um ano
+no negócio.
+Nós tínhamos dezenas de milhares
+de dólares em dívidas de cartão,
+todos investidores disseram não para nós,
+nós lançamos três vezes,
+nós tínhamos divulgação nacional,
+e nós tinhamos praticamente nada
+de consumidores todos os dias.
+E agora, meu, um dos meus co-fundadores
+decide que ele está mudando para Boston,
+ele está noivando,
+e sua noiva talvez não está interessada
+em morar na costa oeste
+e aquilo não estava claro se nós
+ficaríamos juntos
+como um time de fundadores.
+Todo mundo atinge o fundo do poço,
+para mim isto era o fundo do poço.
+Nós estávamos totalmente devendo,
+nós não sabíamos o que fazer, estávamos desesperados,
+tarde da noite, era meia noite,
+talvez uma da manhã, e o Joe e eu, eu acho
+talvez —&nbsp;nós somos "Cama de Ar e Café",
+as camas de ar não estão funcionando,
+talvez nós temos que vender café da manhã.
+(risadas)
+Digo —&nbsp;todo mundo tem que comer!
+E assim pensamos, "Vamos simplesmente
+entrar no negócio de café da manhã."
+Assim, nós acabamos que fizemos,
+não faríamos ovos
+assim decidimos "vamos fazer cereais."
+Assim nós começamos a fazer cereal
+E fizemos um cereal matinal com temática de presidente.
+Nós fizemos um cereal com o tema Barak Obama.
+Nós chamamos de "Obama Oh's"
+O café da manhã da mudança.
+E nós criamos o cereal temático John McCain.
+E chamamos de capitão McCain.
+Um "maverick" a cada mordida.
+E nós literalmente construimos
+nossas próprias caixas de cereal.
+E nós basicamente utilizamos de uma prensa
+e também, francamente, de desespero.
+E eu não estava comendo nessa altura,
+assim eu estava, provavelmente, começando
+a delirar.
+Mas, nós ligamos para a "Moinhos Gerais",
+eles tipo — "do que vocês estão falando?"
+"Vocês realmente acham que nós vamos fazer,
+cereal com temática presidencial sem licenças?"
+Nós tipo — "Okay, eu acho que você não vão."
+E aí, então, nós ligamos para outras empresas menores.
+Elas, tipo, "Ótimo, nos envie um pagamento,"
+"sem direito a devolução, de $200.000"
+Eu disse —&nbsp;"OK, isso não vai dar certo."
+Assim nós encontramos esse cara em Berkeley.
+Ele era um ex-aluno da RISD.
+Ele falou —&nbsp;"eu não consigo imprimir 100.000 caixas"
+"de cereal mas olha o que vou fazer."
+"Eu vou imprimir 1.000 caixas de cereal de graça,
+"simplesmente me pague royalties."
+Nós tipo, "Obrigado!"
+Um dia, Joe chega com 1.000 peças
+de papel cartão gigante.
+Eu tipo, "Que diabos é isso?"
+Ele tipo, "Essas são caixas de cereal."
+Aquilo era só peças de papelão
+nós tinhamos que dobrar e colar como caixas.
+Ninguém tinha me avisado.
+Assim, para financiar a empresa,
+nós simplesmente dobramos,
+tipo origami gigante,
+1.000 caixas de colecionar de cereais,
+colocar cereal dentro,
+e vendemos ela a $40 a caixa.
+Nós pensamos —&nbsp;quem irá pagar 40 por caixa,
+mas aquelas eram edição limitada,
+assim nós numeramos cada uma.
+Nós chamamos de edição limitada.
+E nós vendemos 30.000 em cereais.
+E assim é como nós investimos na empresa.
+E agora nós temos valor principal,
+que é, seja um empreendedor "em céreal"
+tipo "série" com C. [Empreendedor em série]
+Eu sei que é uma piada ridícula, mas...
+E isso é basicamente como nós começamos.
+E, esta é a última parte da história.
+A última parte da história é,
+era Novembro de 2008,
+nós de novo estávamos quase quebrados,
+deu mais de um ano,
+nós lançamos 3 vezes,
+nós tínhamos obtido divulgação nacional,
+nós tínhamos somente poucos usuários por dia,
+todo mundo dizia que era loucura.
+Eu disse para um dos meus mentores
+sobre o negócio.
+Ele disse —&nbsp;Brian, eu espero que esta
+não seja a única ideia
+que você está trabalhando.
+Minha mãe disse — se você precisa de dinheiro,
+você não tem que deixar estranhos ficarem na sua casa.
+Deixa eu lhe enviar dinheiro.
+Assim as pessoas estavam muito preocupadas.
+E você começa a pensar sobre
+as decisões que você fez na vida para chegar aqui.
+Assim eu poderia dizer a vocês, que não me senti
+esperto ou bem sucedido,
+ou talentoso, neste momento.
+Eu pensei que o mundo estava contra mim.
+Eu ia dormir, meu coração batia toda noite.
+Eu acordava tipo super acordado,
+tipo —&nbsp;o que eu vou fazer,
+como eu vou passar pelo dia?
+Nós não temos dinheiro.
+E um monte de pessoas recomendaram
+que fossemos até o Y Combinator.
+E nós éramos, tipo,
+"Bom, nós já lançamos,"
+"nós estamos além disso."
+E eles, "vocês estão morrendo."
+E nós então, "Ok, eu acho que
+não estamos além de nada"
+"quando estamos morrendo."
+E assim nós encontramos com Paul Graham
+do Y Combinator.
+E ele achou que a ideia era bem terrível.
+De fato ele disse, "As pessoas
+estão de fato fazendo isso?"
+E eu disse, "Sim."
+E a segunda pergunta era, "O que tem de errado com elas?"
+E eu disse, "Ah que merda!"
+Assim eu pensei que aquela entrevista deu muito errado,
+mas no final da entrevista,
+O Joe deu para ele uma caixa do Obama Oh's.
+E o Paul Graham achou que nós tínhamos comprado
+aquela estúpida caixa de cereais.
+E ele disse, "Não, isto é como nós financiamos a empresa."
+E o Paul Graham disse,
+"Se vocês conseguem convencer as pessoas a pagar 40
+"por um cereal de 4,
+"talvez vocês conseguem que estranhos
+"fiquem na casa de estranhos."
+E ele também gostou de nós porque
+ele disse que éramos baratas.
+E ele disse, "este é um inverno nuclear de investidores"
+"e as únicas pessoas que vão sobreviver são as baratas
+"e vocês são baratas. " (risadas)
+Assim eu era tipo, "Valeu!!"
+Isso era de fato a coisa mais legal.
+Por seis meses, era o único elogio
+que tinha recebido,
+que eu era uma barata.
+E eu lembro que liguei para minha mãe tipo,
+"Mãe! eu sou uma barata.
+"Eu entrei!"
+Assim foi como nós entramos no Y Combinator
+e aquilo foi um tipo de ponto de mudança para nós.
+- [Reid] E assim, mas o Y Combinator por si
+não fez os números mudarem.
+O que foi a coisa que vocês fizeram,
+ou as poucas coisas que fizeram
+que foi o diferencial de inflexão?
+- [Brian] Houveram duas --
+[Brian - isto está ligado?]
+- [Reid —&nbsp;sim]
+- [Brian] Foram duas coisas.
+A primeira coisa que o Y Combinator fez foi,
+que basicamente criou uma estrutura
+para nós para trabalharmos naquilo o tempo todo, e morarmos juntos.
+Assim, em outras palavras,
+nós estávamos todos focados naquilo
+mas era tipo, cada um tinha outras coisas
+acontecendo com suas vidas.
+E eu creio que o inimigo de uma start-up
+é o outro lado da vida de todos.
+É verdade, tipo,
+você tem uma vida e você tem férias
+e tem conferências e você vai embora
+e você faz outras coisas e é tipo,
+o inimigo de uma start-up.
+Você sabe, Paul Graham dizia,
+"Startups não morrem, elas simplesmente se apagam."
+E assim, te digo, nós simplesmente decidimos,
+por 3 meses,
+Que Nate iria se mudar de Boston para San Francisco
+e que acordaríamos as 8:00.
+E que iríamos para cama a meia noite, por 7 dias por semana,
+e nós trabalharíamos das 8 até a meia noite,
+todos os dias.
+E sete dias por semana,
+nós teríamos uma noite completa de sono, mas era aquilo.
+Nós estaríamos naquele tipo de dedicação por 3 a quatro meses,
+aquilo criou um ritmo real e sério
+nós não estávamos fazendo outras coisas.
+Estávamos totalmente focados.
+Aquilo foi a primeira coisa.
+A segunda coisa era, Paul Graham.
+Eu creio que a segunda era Paul Graham
+ele nos deu uma série de conselhos
+que provavelmente mudaram nosso negócio para sempre.
+Provavelmente o conselho mais importante que já recebi,
+que é provavelmente o conselho mais provável
+de ser o mais importante que eu posso oferecer a vocês,
+ou um dos mais importantes,
+é ele basicamente desenhou este gráfico
+e ele basicamente disse,
+que é melhor ter 100 pessoas que amam você,
+100 consumidores que lhe amam,
+do que um milhão de consumidores que mais ou menos gostam de você.
+Em outras palavras,
+se você tem 100 pessoas que absolutamente amam o seu produto,
+elas irão contar para outras 100, e então essas irão contar para outras 100,
+ou mesmo com 10 pessoas, e essa coisa irá crescer.
+Nós vamos isso de crescimento viral.
+De fato, quase todos os movimentos na história
+tiveram crescimentos desta forma também.
+Existem, tipo, seguidores profundamente apaixonados
+e eles crescem as coisas.
+E eles são defensores de consumidores.
+E o problema é, no Silicon Valley,
+o conhecimento geral é —
+eu tenho que criar uma app,
+essa coisa precisa de ter este coeficiente viral,
+e eu preciso de um milhão de pessoas utilizando.
+E eles tem que gostar daquilo o suficiente para compartilhar.
+E essa é a maneira totalmente errada de pensar sobre isto,
+especialmente se você está em um negócio de serviço como o nosso.
+Assim Paul Graham disse,
+"Tudo que você tem que fazer é obter 100 pessoas que amam vocês."
+"Não se preocupe sobre os milhões de usuários."
+Aquilo foi totalmente libertador.
+Porque até então eu pensava, "como que
+eu vou conseguir arrumar um milhão de pessoas
+se eu nem consigo convencer a minha mãe ou minha irmã para entrar nesse coisa?"
+Mas, eu consigo arrumar 100 pessoas.
+E assim nós literalmente decidimos,
+fazer coisas que não escalam.
+Se, tudo que você precisa é obter 100 pessoas que lhe amam,
+fazer coisas que não escalam.
+Acontece que, 100 pessoas que lhe amam é realmente difícil,
+porque é fácil, 100 pessoas que gostam de você,
+100 pessoas que lhe amam significa que você tem que conhecer elas.
+Você precisa entender os problemas dela.
+Assim nós literalmente voávamos, durante o Y Combinator,
+de Mountain View,
+nós fomos de Mountain View para New York.
+Nós íamos, Joe e eu, até New York,
+e nós fomos de porta em porta,
+porque New York era onde a grande parte da nossa comunidade estava.
+E nós encontrávamos com cada um dos nossos anfitriões.
+E nós morávamos com eles.
+Nós literalmente morávamos com eles,
+nós escrevíamos as primeiras opiniões para os lugares.
+E de fato, eu ia lá e era tipo,
+"Wow, as fotos são horríveis!"
+"Esta é de fato uma casa muito interessante"
+E o anfitrião tipo, "Bom, eu não consigo entender"
+"como colocar as fotos no meu computador."
+Isto era antes mesmo do iPhone e das câmeras de alta qualidade.
+Isto era onde pessoas tinham que plugar a câmera no seu laptop.
+Assim nós pensamos, "E se você só clicasse um botão"
+"e um fotógrafo aparecesse magicamente no próximo dia"
+"e fotografasse sua casa?"
+E nós pensamos que seria incrível.
+E assim eu fui para casa com o Joe
+e nós emprestamos uma câmera de
+um dos nossos amigos do Brooklyn
+que era um fotógrafo,
+e nós batíamos na porta (som de batida).
+E eles tipo "Quem é?"
+Oie, to aqui, eu sou o fotógrafo!
+E eles tipo "wow, isso é uma pequena empresa."
+"Os fundadores também vem para fotografar a minha casa."
+(risadas)
+Eu também carregava um talão de cheques
+na minha mochila.
+E se você precisasse ser pago,
+E simplesmente lhe escrevia um cheque
+e batia na sua porta e lhe entregava o cheque.
+Então, aqui era também um lembrete
+de quão pequenos nós éramos.
+Mas o ponto é que, fazer coisas que não escalam;
+se você só pensar em criar algo
+que mesmo que só uma pessoa ama,
+é muito fácil criar algo que uma única pessoa ama.
+Especialmente se é um serviço.
+E daí você vai de pessoa em pessoa.
+E assim que tem 100 pessoas,
+então você começa a focar em entender como escalar aquilo.
+E é um problema intelectual totalmente diferente
+para escalar algo que 100 pessoas amam
+do que entender o que é aquilo.
+E aquilo era um ponto de mudança para nós.
+Assim, em torno de Abril de 2009,
+nós tínhamos centenas de pessoas que nos amavam.
+As pessoas começaram a reservar.
+E se tornou claro que existia um negócio real lá.
+E nós, disse o Paul Graham,
+"Vocês tem que ser lamen-rentáveis até o dia do demo day."
+O demo day é o fim do Y Combinator
+quando todos apresentam para investidores.
+Bom, nós dissemos,
+início de 2009, não estava claro que existiriam investidores.
+A Sequoia Capital tinha colocado uma apresentação de slides,
+"RIP Good Times" [Os Bons Tempos de Foram]
+Aquilo era a pior coisa possível para mim naquele momento.
+Eu tipo, o que você quer dizer dos bons tempos?
+Este último ano foi o pior ano da minha vida.
+O que você quer dizer sobre os bons tempos terminaram?
+Como será o próximo ano? (risadas)
+Porque não tinha sido bom o ano anterior.
+Eu tipo, "Meu Deus. Eu não sei o que isso quer dizer."
+E o que aquilo queria dizer era,
+Paul Graham disse que talvez nenhum,
+ele de fato nos disse isso.
+Ele disse que talvez não teriam investidores no demo day.
+Você consegue imaginar isso?
+Na Y Combinator, talvez não existiriam investidores no dia das demonstrações.
+E assim, se vocês quiserem atrasar o processo,
+porque podem não existir investidores,
+vocês podem.
+E nós decidimos, bom nós não podemos atrasar,
+nós vamos morrer.
+Assim Paul Graham disse,
+"Bom talvez não tenham investidores,"
+"se vocês forem lucrativos talvez não precisem de investimento."
+E assim nós decidimos,
+vamos ser lamen-rentáveis.
+Lamen-rentáveis, significa que você é rentável
+para viver de lamen.
+E eu tipo, "Bom, isso é mais do que eu estou vivendo agora."
+"Assim está tranquilo está favorável"
+E assim, em Abril já pagávamos o lamen.
+E a Sequoia Capital investiu US$ 600.000,00.
+Na época, aquilo era um acordo muito grande
+para conseguir a Sequioa Capital como investidor.
+Eles não tinham investido em muitas,
+eles investiram no LinkedIn,
+eles investiram no Google, PayPal
+meio que tipo, meu Deus.
+Era um evento de legitimização muito grande para nós.
+Eu penso que, a partir daquele ponto,
+o resto seria meio que,
+não quero dizer história
+porque nós vamos falar sobre o que aconteceu depois,
+mas aquilo foi o momento, ao menos,
+que o encontro produto-mercado aconteceu.
+E então aquilo partiu da construção do produto
+para, tipo, construir uma empresa.
+—&nbsp;[Reid] E como vocês começaram a conseguir?
+Tipo, vocês tinham esta comunidade inicial em New York,
+vocês de fato conheciam seus clientes muito bem,
+assim vocês entenderam que fotografia era chave
+para destravar o mercado.
+Vocês entendiam que manter os anfitriões conectados muito bem
+também destravava o mercado.
+Então como vocês começaram a se movimentar para outras cidades?
+- [Brian] Então, a coisa inesperadamente
+grande sobre nosso negócio,
+esta palavra, efeito de rede, acaba sendo banalizado
+e nem é claro se ainda significa algo
+porque todo mundo diz que eles vivem o efeito rede.
+Mas nós verdadeiramente éramos uma rede.
+E vou lhes dizer como aconteceu.
+Assim, nós lançamos em Nova Iorque.
+Ou, nós nem mesmo lançamos,
+quero dizer, nós lançamos em todos os lugares
+que pudessem acessar via internet, basicamente
+e existia o Google Maps.
+Mas, New York era a grande cidade que nós lançamos.
+A coisa era, que éramos um produto de viagem em New York,
+quer dizer, diferente de outras empresas
+onde a demanda e oferta, tipo uber,
+os motoristas e passageiros estavam em New York.
+No Airbnb, os anfitriões estavam em New York
+mas os viajantes vinham de todo lado do mundo.
+Assim, pessoas de todos os lados do mundo
+ouviam sobre e descobriam casas em New York.
+Elas viajavam para New York,
+e elas viajam também para San Francisco,
+e então elas voltavam para suas cidades
+e elas espalhavam a ideia.
+A outra coisa é que elas mudavam de hóspedes para anfitriões.
+E assim a rede aumentava naturalmente
+Mas nós também focávamos em eventos,..
+Nós focamos na Convenção Democrática Nacional.
+Nós fizemos essa na inauguração em 2009.
+Nós focamos em shows e festivais musicais.
+A copa, as olimpíadas,
+estes são anteriores, não a última,
+mas aquela anterior.
+Assim, eventos e relações públicas foram provavelmente
+as principais maneiras de alavancagem.
+E aí nós criamos esta ferramenta
+de postar no Craigslist com um clique,
+que o Craig's List permitiu que fizéssemos
+até que eles desligaram depois de alguns anos.
+Mas, nós permitimos que anfitriões, basicamente,
+nós construimos uma ferramenta onde eles podiam,
+com um simples clique de um botão,
+clicar e distribuir seus posts no Craigslist
+para conseguir mais distribuicão.
+E, assim, as listagens eram relistadas
+no Craigslist
+o que alimentava de volta.
+Nós começamos a fazer bem pouco de propaganda Google;
+Mas a maneira principal que cresceu
+foi no boca a boca e RP (relações públicas).
+Em RP, nós fazíamos para promover os eventos.
+Nós não tinhamos nenhuma parceria.
+Nós tentamos parcerias com empresas de eventos.
+Nós tentamos parceria com..
+parcerias na sua empresa, no início,
+eu entendo que nunca funcionam,
+porque tem tanta fita vermelha e papel
+que, até o momento que você consegue algo,
+você já está morto.
+E então, mas RP é super,
+que se você tem uma ideia que vale a pena,
+as pessoas irão falar sobre aquilo.
+E quase sempre, quanto mais absurda a ideia,
+de certa maneira é melhor porque vale a pena escrever sobre.
+Tipo, porque tinham pessoas absurdas fazendo isto
+e eles não conseguiam parar de escrever sobre aquilo.
+E assim aquilo era de fato uma coisa boa.
+Sendo um tipo de ideia provocativa
+era bom para conseguirmos visibilidade.
+E assim nós pensamos,
+"se somente conseguirmos que as pessoas usem isso,"
+"elas vão contar para as outras sobre isso"
+E assim, essa ideia, primariamente, começou pelo boca a boca.
+E assim nós íamos até as cidades
+e educávamos os anfitriões.
+Nós fazíamos estes encontros.
+Assim íamos em uma cidade,
+e chamávamos de "ligando um mercado".
+Nós fazíamos uma reunião.
+Nós encontrávamos uns 10 ou 20 anfitriões, e educávamos eles.
+Mas a outra coisa é que,
+em San Francisco, ou aqui em Stanford,
+não é novidade, você conhecer alguém
+que criou um web site.
+Tipo, não é grande coisa
+e você tem 15 pessoas que vem falar com você.
+Mas você vai para, tipo, Boston,
+ou Austin, Texas,
+você vai para San Diego,
+a maioria das pessoas não encontram,
+no dia a dia,
+pessoas que criaram um site ou produto que elas usam.
+Isto é muito novidade.
+E se elas gostam do produto,
+elas querem encontrar aquela pessoa.
+E assim, você está na cidade,
+e literalmente fomos cidade por cidade.
+Nós fomos para Paris,
+fomos para Londres.
+Nós encontrávamos os anfitriões, nós educávamos eles;
+então uma coisa que não havíamos entendido é,
+que eles ficavam tão felizes ao nos conhecer,
+e eles achavam que éramos pessoas
+razoavelmente legais,
+que eles falavam para seus amigos sobre aquilo.
+E seus amigos então começavam a se envolver naquilo.
+E eles ficavam mais engajados.
+Nós entendemos, depois que eles nos conheciam,
+eles ficavam mais engajados.
+E então nós também fotografávamos sua casa,
+oferecíamos dicas,
+e assim estes mercados começaram a iniciar.
+E continuávamos a obter visibilidade (imprensa).
+Nós sempre tínhamos algum tipo de Obama Oh's
+que fazia com que as pessoas falavam sobre nós,
+e nós simplesmente religiosamente
+focamos em garantir
+que os usuários realmente nos amavam.
+E nós sentimos, que, se você nos ama,
+você vai contar mais aos seus amigos
+e uma hora aquilo ia crescer.
+- [Reid] Eu creio que esta é uma ótima história para aquecimento.
+- [brian] Yeah.
+- [Reid] E vou entrar em escalabilidade.
+[Brian] Meu Deus, estou só aquecendo. Que merda!
+- [Reid] Sim, exatamente. (risadas)
+- [Brian] O que vem aí?
+- [Reid] É o esperado canônico.
+Assim vamos, primeiramente, iniciar com algumas coisas
+que vocês fizeram muito unicamente
+diferente de muitas outras empresas de consumidores na Internet.
+Por exemplo, porque você e o Joe eram designers,
+vocês dão atenção ao design
+em um nível muito mais intenso.
+- [Brian] Até nas minhas meias, se notar.
+- [Reid] Sim, exatamente.
+Mas você tem este conceito de design 7 estrelas.
+- [Brian] Sim, sim.
+Assim o conceito é o seguinte:
+Na internet, especialmente na maioria dos negócios de marketplace,
+o paradigma é 5 estrelas, certo?
+Assim um vídeo de YouTube, Airbnb ou Uber ou qualquer coisa,
+é tipo 5 estrelas.
+E o problema com 5 estrelas é, 5 estrelas --
+a única razão que você daria menos que 5 estrelas
+é porque é horrível.
+Se você avaliar Uber 4 estrelas,
+sua vida poderia estar em perigo.
+Em outras palavras, o trabalho de dar
+5 estrelas é bem simples.
+No Airbnb, a propósito, as pessoas
+acabam deixando avaliações de 3 ou 4 estrelas.
+Mas, nossa meta não era para conseguiur 5 estrelas.
+Porque 5 estrelas seria interessante o suficiente
+para que outras pessoas fizessem reservas,
+mas nós queríamos construir um produto
+onde você adoraria tanto que diria para todos sobre aquilo.
+E teria um impacto significativo na sua vida.
+E nós acreditamos que viagem
+tem um impacto de transformar sua vida.
+Tipo, eu viajei muito e já conheci pessoas
+e tem um impacto na vida.
+E nós queríamos aquilo.
+Assim nós pensamos, e se você reservasse no Airbnb
+e nós vendemos um produto e você não deixou 5 estrelas,
+mas você mandou um e-mail para a empresa
+pedindo pela sexta estrela.
+Porque o produto era tão bom,
+que você tinha que quase ir além.
+E assim nós imaginamos,
+quando nós fazemos design de produtos,
+nós imaginamos que isso é o que consumidores esperam.
+Eles esperam que exista uma experiência 5 estrelas.
+E assim nós basicamente perguntamos
+uma pergunta intelectual.
+Vamos falar da chegada no aeroporto, por exemplo.
+O que seria uma experiência 5 estrelas de check-in no Airbnb?
+A experiência de check-in 5 estrelas é,
+eles lhe dão o endereço, você
+chega até a casa,
+você bate na porta e eles estão lá.
+E eles abrem a porta e deixam você entrar.
+Isto é cinco estrelas.
+E qualquer coisa pior que isso,
+você começa a deixar --
+4 estrelas seria, você chama eles,
+eles demoram 5 minutos,
+e provavelmente você deixa 4 estrelas.
+Uma estrela é obviamente quando eles nunca apareceram.
+Assim o esforço é pequeno.
+Você bate na porta e eles abrem a porta.
+Isso é um esforço baixo.
+E nós perguntávamos, "Bom, o que seria o seis estrelas?"
+Bom, o seis estrelas é,
+eles provavelmente pegam você no aeroporto.
+E você não bate na porta deles,
+eles de fato vão te buscar no aeroporto.
+Então o que seria uma avaliação 7 estrelas?
+Você pode de fato brincar, porque isso é engraçado.
+Bom, 7 estrelas é, eles nem pegam você no aeroporto,
+eles enviam uma limousine.
+E você abre a porta da limousine,
+e eles sabem que você gosta de Pringles.
+Desculpem, este foi um exemplo estranho,
+mas enfim aqui estou improvisando
+e estamos rodando assim.
+Assim tem Pringles lá e tem água de coco
+e eles sabem que você gosta de surfar
+e tem uma revista de surf,
+mesmo que você esteja em São Francisco,
+e não irá surfar, tudo bem.
+Assim isto é um 7 estrelas.
+Assim o que é o caso das 8 estrelas?
+Bom, o check-in 8 estrelas é,
+você checa no aeroporto e eles, tipo,
+"Nós estamos chegando"
+E você, tipo, "Onde estão vocês?"
+E, do nada, você vê um elefante gigante.
+Um elefante está andando pelo terminal.
+E tem um desfile para você.
+Você sobe no elefante e vai para a galera.
+(ahuhauahuahu)
+E você diz, "o que é um check-in 9 estrelas?"
+Se aquilo é um check-in 8 estrelas,
+como seria 9 estrelas?
+O check-in 9 estrelas é,
+você sai do avião e você nem sai --
+no momento que você sai do avião,
+existem 5,000 crianças gritando, mulheres e garotos;
+eles estão segurando placas.
+Eu chamo do check-in dos Beatles.
+São os Beatles em 1964 chegando na américa.
+E elas estão só te esperando e gritando por você.
+E basicamente eles seguem você
+e eles fazem uma conferência de imprensa
+na frente do jardim do seu Airbnb.
+E assim, então, o que seria um check-in 10 estrelas?
+(uhauhuhaha)
+Bom, eu poderia chegar aos 30 mas não vou.
+Porque seria um dia muito longo.
+O check-in de 10 estrelas é,
+você chega no aeroporto,
+e tem uma placa pequena que tem seu nome nela,
+e você, tipo, legal esta é minha carona.
+Mas você se toca que a pessoa
+vestida com um terno de limousine
+é o Elon Musk, e ele leva você para o espaço.
+(ahuuahuhauha)
+Eu exagerei um pouco para fazer meu ponto.
+Normalmente nós não vamos até o 10.
+O ponto principal é que, se você,
+se tudo que você tem que fazer é ter 100 pessoas que amam você,
+então é muito fácil cair na ilusão
+que o cinco estrelas é o que as pessoas esperam,
+mas para construir algo que as pessoas amam,
+você quase que tem que fazer algo que é mais do que eles esperam.
+E assim, cada momento é uma oportunidade
+para fazer algo que é mais do que as pessoas esperam.
+E nós brincamos com isso,
+que você vai até o 10.
+Agora, nós não vamos fazer tudo isso,
+mas talvez, de repente um 6 estrelas não é algo que faz mal.
+Agora, nós temos que oferecer um serviço,
+de recepção no aeroporto ou algo do tipo.
+Assim, nós fazemos isso em todos os pontos da nossa experiência.
+E isto pode aplicar para quase tudo.
+Trabalhos no escritório ou como você contrata as pessoas.
+Digo a vocês, nós criamos o storyboard do início ao fim
+da nossa experiência de entrevistas.
+- [Reid] Eu creio que uma outra coisa
+nos seu princípio de design de 7 estrelas
+que você ainda não colocou,
+e que é muito importante, é, que não é só uma página
+e não é só um aplicativo móvel.
+- [Brian] Sim.
+Sim, eu penso...
+Uma vez eu disse a alguém sobre o nosso produto.
+De fato, existe esta tal pessoa que trabalha
+para os executivos da Disney...
+E disse, "Sim, nós temos um time de produto."
+E ele pensou "Um produto..."
+Ele disse, "Produto, você se refere, tipo, a casa?"
+E no Airbnb, nós historicamente chamamos de produto
+o site e os aplicativos, a tecnologia.
+E eu tipo, "Ahh, isso é um tanto estranho."
+Veja, no Facebook,
+Mark Zuckerberg diz que o produto é o site ou o aplicativo.
+Mas falando tecnicamente,
+o produto é tudo que o consumidor está comprando.
+Os consumidores não estão comprando o seu site,
+e eles não estão comprando nosso aplicativo.
+Aquilo é só uma porta da frente da comunicação.
+O que eles estão comprando é uma casa.
+E, francamente, o que eles compram
+além da casa
+é o anfitrião.
+A experiência da hospitalidade.
+Esta ideia de pertencimento.
+E assim, nós entendemos, bem no início
+que éramos um negócio offline-online.
+De fato, na China, eles dizem O ao O,
+online ao offline.
+Mas nós, tipo, começamos,
+Eu creio, a economia do compartilhamento...
+Nós somos tipo uma próxima onda da internet.
+Assim, existia uma onda da internet, as coisas online.
+Amazon, livros online.
+E outra onda da Internet,
+conectando todos juntos,
+LinkedIn, FaceBook.
+Mas então uma outra onda da internet,
+a internet voltando ao mundo real.
+O Airbnb era um destes exemplos.
+E assim, nós começamos a colocar
+no storyboard toda a experiência
+e notamos que é realmente sobre
+todos os momentos da experiência.
+E nós temos que ser responsáveis,
+não somente pela parte online do produto,
+mas também com a parte offline do produto.
+E assim é o que fizemos.
+- [Reid] Então, como uma ponte
+para entender como você define cultura,
+eu creio que é interessante compartilhar com as pessoas
+como você aplica o design ao escritório.
+- [Brian] Sim.
+- [Reid] Como parte da formulação da cultura.
+- [Brian] Sim.
+Eu creio que, existem todas estas coisas...
+deixe me voltar um pouco e dizer,
+antes de dizer aquilo, deixe-me dizer isto,
+Eu me considero um designer de tradição
+mas eu penso que um designer...
+Veja bem, o Steve Jobs dizia,
+"Design não é como algo aparenta,
+"é como algo funciona."
+E eu creio que, quando você entende
+que design é como algo funciona,
+você imagina quase tudo precisa de pensamento e design.
+Que você não simplesmente faz o design de um site ou de uma aplicação,
+você faz o design de tudo, de uma empresa.
+E o design da sua organização,
+você faz o design dos prédios, tudo.
+E assim, nós começamos pensando,
+que uma vez que você observa
+que tudo pode passar por design,
+então você não tem que tirar tudo de uma caixa
+e plugar aquilo.
+Em outras palavras, sua empresa
+não precisa parecer como toda e qualquer outra empresa.
+Tudo pode ser reinventado.
+Agora, nem tudo tem que ser reinventado.
+Você não tem que reinventar gestão,
+e sistemas de RH,
+mas existem umas coisas básicas
+que podem ser o núcleo que você deve reinventar.
+E, para nós, nós decidimos que o espaço
+que nós trabalhamos deveria ser reinventado.
+Antes de tudo, nossa competência maior
+era em mostrar
+lugares interessantes pelo mundo.
+Nós temos que ter um local legal.
+E eu também notei, no início,
+que um local legal, um espaço interessante
+seria um grande diferencial
+para contratar pessoas
+e que você iria gastar mais tempo no seu escritório
+do que você ficaria na sua casa.
+E assim era profundamente importante
+que as pessoas estivessem confortáveis e felizes.
+E assim aquilo era um tipo de hipótese
+e eu creio que é nem precisa de pensar muito sobre isto,
+mas penso que é um momento
+que as pessoas simplesmente ignoram.
+É um pensamento nos planos de fundo.
+E, eu disse, que bom que
+é um pensamento assim para todos os outros.
+porque será uma vantagem competitiva para nós.
+E uma das coisas que nós decidimos era,
+como podemos reinventar nosso escritório?
+Tinhamos, tipo, 100 ideias,
+mas eu irei somente dar a você uma delas.
+Um dos nossos escritórios, que tínhamos,
+você chegava na entrada e tinhamos fotos
+das nossas casas em torno do mundo.
+E assim, você chegava nesta recepção,
+e eu lembro que as pessoas estavam só andando
+pela nossa recepção e olhando para estas casas, tipo,
+"Ah, essas são incríveis"
+E eu pensei, eu não conseguia entender,
+mas eu pensei que tinha que existir uma maneira melhor
+do que simplesmente mostrar as fotos das nossas casas.
+E eu não conseguia entender.
+Um dia, eu estou caminhando para casa,
+Eu estou caminhando da minha casa até --
+Eu estou andando pela rua.
+E eu passo por uma loja de móveis
+e é tarde da noite
+e a loja de móveis estava iluminada.
+Eles iluminam de noite
+e é tipo de, janela do chão ao teto.
+E eu olhei naquilo e é um showroom.
+Eles basicamente criaram certos quartos.
+E era hilário.
+E eu pensei que seria muito engraçado
+simplesmente fazer uma reunião
+naquele mostruário.
+E, de fato, no próximo dia eu levei alguém
+para uma reunião
+no showroom e nós ficamos lá na mesa de jantar
+de uma loja de móveis,
+mas você sentia que estava em uma sala de jantar.
+E era um tanto engraçado.
+Aquilo era um tanto absurdo.
+Era tipo ter uma reunião na Ikea,
+mas era um tanto engraçado.
+E de repente nós sacamos,
+e se todas nossas salas de reunião
+fossem modeladas peça por peça com base
+nos apartamentos do nosso site.
+E nós acabamos fazendo aquilo.
+E assim, eu lembro que uma vez mandamos
+um e-mail para alguém.
+E dissemos, "Hey, você se importa
+se recriarmos sua casa"
+"em nosso escritório?"
+E eles, tipo, "O que?"
+E eu, tip, "Sim, tudo que eu preciso é de um inventário"
+"de tudo que tem na sua casa."
+E assim algumas pessoas fizeram,
+e nós literalmente recriamos os espaços.
+Assim, você vai lá e nossas salas de reuniões
+são literalmente, lares que você entra dentro.
+Tipo showrooms das nossas casas.
+É uma reinvenção sutil.
+E não custa muito caro
+porque na casa das pessoas
+os móveis que eles utilizam é de fato mais barato
+do que móveis de escritório.
+É muito criativo e nós temos dezenas de milhares
+de pessoas
+por ano que voam e aparecem para
+visitar nosso escritório, agora.
+E nosso escritório se tornou uma grande
+vantagem competitiva em termos de contratação.
+E as pessoas gostam de ficar lá.
+Mas isto é só um pequeno exemplo onde quase tudo
+é uma oportunidade criativa.
+- [Reid] E isto era uma dessas coisas
+que eu dizia "Meu Deus, esta é uma ideia genial!"
+Porque parte do que você tem que fazer,
+e quando você define uma cultura
+é, você está criando criar uma norma
+do que nós todos temos que focar,
+o que estamos fazendo.
+- [Brian] Sim.
+- [Reid] E tátil e visual --
+- [Brian] Sim.
+- [Reid] Aqui está! - é animal.
+- [Brian] É tão crítico
+que não existe dissonância
+entre o que está dentro do escritório
+e o que está fora do escritório.
+E eu lembro, eu já estive em algumas empresas antes.
+Tipo, uma vez eu fui em uma agência de viagens,
+uma revista de viagens.
+E eu imaginei o escritório deles sendo um local incrível
+e eu não sei o que eu imaginei,
+mas eu estive lá,
+era cinza, tinha teto de forro, cubículos
+e você poderia colocar qualquer logo na frente
+e aquilo poderia ser literalmente qualquer empresa.
+E eu pensei que, as pessoas tem que estarem
+no modelo mental do seu produto.
+E assim, você tem que colocar seu produto no escritório.
+As pessoas tem que estarem imersivas no mundo
+porque elas estão trabalhando naquele mundo.
+E, então, quando eles trabalham para você,
+é como se eles estivessem trabalhando
+no centro do universo.
+O centro do universo do seu negócio
+precisa ser o mais potente.
+E o problema é,
+com a maioria das empresas
+é o menos potente.
+É tipo só coisas cinzas com forros de gesso
+e cubículos.
+E assim eu pensei que era uma grande oportunidade
+de reinventar.
+E nós agora temos muitos CEOs e outras pessoas
+que vem ao nosso escritório para obterem inspiração,
+mesmo ontem eu estava mostrando as coisas
+para alguém.
+- [Reid] Bom, certamente teve
+um efeito para mim também.
+De fato, antes de entrarmos em design e cultura,
+isso de fato traz um outro ponto
+que creio que é importante.
+Você passou, eu creio que foi quase um ano.
+- [Brian] Sim.
+- [Reid] Vivendo no Airbnb.
+- [Brian] Sim.
+- [Reid] Por que você não diz algo sobre
+por que você fez aquilo e o que você aprendeu naquilo.
+- [Brian] Eu fiz aquilo de fato por necessidade.
+Então, aqui está o ponto.
+Quando nós começamos o Airbnb,
+nós começamos no nosso apartamento de 3 quartos.
+E nós começamos a trabalhar no apartamento.
+E diferente da maioria das empresas,
+a maioria das empresas, quando elas começam a contratar,
+elas procuram por um espaço de escritório.
+Nós decidimos que iríamos trabalhar
+no nosso apartamento para sempre.
+De fato, originalmente nós éramos
+inspirados pelo Craigslist
+que funciona em uma casa.
+Nós pensamos, talvez possamos colocar 100
+pessoas em uma casa.
+Nós não fizemos aquilo, felizmente.
+Mas nós começamos trabalhando e nós contratamos
+pessoas tão rapidamente,
+que não conseguimos encontrar um escritório a tempo.
+Em dado ponto, nós tínhamos,
+eu creio 15 ou 17 pessoas
+trabalhando em um apartamento de 3 quartos.
+Nós literalmente tivemos reuniões no banheiro
+e nas escadas.
+Era um tanto estranho.
+A propósito, nunca entreviste alguém no banheiro.
+É, aparentemente, uma grande violação.
+(uhauhauhaua)
+Mas em um dado momento, nós não tínhamos espaço
+assim transformamos nossos quartos em salas de reuniões.
+E eu decidí que ia simplesmente deixar
+meu quarto ser da empresa.
+Vocês podem transformar ele em uma sala de reuniões
+e eu irei encontrar um local para morar.
+E meu primeiro instinto, era, bom onde devo ir?
+Eu nunca morei sem colegas de quarto.
+Assim eu vou ir para o roommates.com,
+eu vou no Craigslist [.com].
+E então, sei lá, por alguma razão eu pensei,
+"Espere um segundo,
+"por que eu tenho ir para o Craigslist?
+"nós temos milhares de casas aqui em San Francisco.
+"Talvez eu possa alugar uma pelo mês.
+"ou alguns meses."
+E então eu pensei, "Espere um segundo."
+"Por que não eu simplesmente -
+"De fato seria meio legal
+se eu ficasse nelas
+"por algumas noites e de fato
+poderia testá-las.
+"E eu poderia viajar sem sair da cidade."
+E então eu acabei fazendo isto.
+Eu pensei, por algumas semanas, mas
+acabou sendo meses,
+que se tornaram quase um ano, eu
+creio que eram 10 ou 11 meses
+onde eu ficava em casas diferentes
+a cada 3 a 5 noites.
+As pessoas, tipo, "De onde você é?"
+Eu, tipo, de 3 quarteirões daqui.
+E eles, tipo, "espere um segundo,"
+o que está acontecendo aqui?
+Mas aquilo era uma grande mensagem da empresa
+e a mensagem era,
+isto não é um emprego, nem mesmo uma carreira,
+isto é um chamado, uma paixão.
+E eu creio que uma cultura forte
+é quando as pessoas acreditam
+e sentem o que você está fazendo.
+E elas não —&nbsp;
+existe esta velha passagem sobre dois homens,
+que estavam assentando tijolos,
+um homem vem falar com outro ele diz,
+"O que você está construindo?"
+Ele diz, "Eu estou construindo um muro."
+Ele pergunta a outra pessoa,
+"O que você está construindo?"
+Ele responde, "Estou construindo uma catedral."
+Eu creio que Simon Sinek escreveu sobre isto.
+Mas é sobre a ideia que você não está, não está,
+você não está construindo sistemas financeiros,
+você não está construindo um web site,
+você não está fazendo design de
+diferentes telas e maquetes.
+Você está construindo esta missão.
+Você está criando este tipo de mundo.
+E isto é somente possível
+se você está constantemente utilizando o produto.
+E mesmo se você for uma agência de viagens,
+você pode estar morando e respirando seu produto.
+E eu sempre pensei que cada um de nós
+tem que ser uma pessoa de produto.
+Você não pode ser uma pessoa de negócios,
+você é uma pessoa de produto,
+primeiro e mais importante.
+E o produto tem que ditar as regras,
+e o produto é a coisa que você está vendendo.
+Assim, nós tínhamos que estar profundamente apaixonados,
+todos nós,
+sobre tudo que nós fazíamos com o produto.
+E aquilo realmente comunicou a todos da empresa,
+você realmente deve utilizar o produto
+quando você viaja.
+Você deve usar o produto quando você está na
+sua casa.
+Você deve ser anfitrião, e você
+deve ser um expert
+em todos os pontos sobre o produto.
+E o número de pessoas que vejo
+que trabalham em empresas grandes
+onde eles são tão desconectados do consumidor,
+estas são as empresas que são eliminadas.
+- [Reid] Sim.
+Ok, então a última parte sobre, tipo,
+bom, existem muitas coisas que são únicas sobre o Airbnb,
+mas a última coisa do ponto de vista da aula
+antes de chegarmos na parte da escala. O design da cultura.
+- [Brian] Sim.
+- [Reid] Então, parte da razão porque nós falamos
+com o papel seu como CEO,
+o que você fez com o escritório,
+estes são dois dos elementos,
+mas quais são as outras coisas?
+Porque o design da cultura era uma das coisas
+que eu vejo que você coloca mais energia nisto
+do que qualquer outro empreendedor.
+- [Brian] Sim, eu..
+Bom, cultura, primeiramente, cultura, eu defino
+como uma maneira compartilhada de fazer coisas.
+Então é isso.
+E eu não creio que exista, necessariamente,
+culturas boas ou más.
+Você poderia argumentar que existem culturas más.
+Mas usualmente isto é subjetivo.
+Eu creio que existem culturas fracas e culturas fortes.
+E o que eu considero uma cultura má,
+outros podem considerar boas.
+Simplesmente. esta é a maneira que eles fazem as coisas.
+E eu queria criar uma cultura forte.
+Uma cultura onde todos tivessem uma missão,
+que fosse compartilhada e onde as pessoas estivessem profundamente apaixonadas
+e existia uma maneira definida onde certas coisas fossem feitas.
+E existiam uma série de crenças que nós tinhamos,
+e algumas poucas ideias de governança.
+E assim, eu decidí que nós queríamos ter uma cultura forte.
+Nós fizemos um tour na Zappos.
+Com o Alfred Lin no nosso conselho.
+Ele comanda a Zappos com Tony Hsieh.
+E nós fizemos muita pesquisa.
+E uma coisa que eu aprendi é,
+que uma cultura forte é um local onde os fundadores,
+é uma cultura do tipo de fundadores
+e é onde os fundadores realmente colocam
+um tipo de tipo forte de maneiras de fazer coisas
+que as pessoas acabam acatando
+e se tornam profundamente apaixonados de estarem lá.
+E, de novo, não é um emprego.
+Nas culturas fracas, é ridículo ficar com os colegas.
+Nas culturas fortes, é completamente natural.
+E, assim, a primeira coisa que eu entendi
+como sendo o momento cultural mais importante
+é quando você contrata alguém.
+Quando você começa uma empresa,
+a parte mais importante das decisões culturais que você faz
+são as pessoas que você se cerca.
+A segunda coisa mais importante é decidir quando
+as pessoas não se encaixa, e removê-las.
+Existem centenas de outras culturas,
+mas eu creio que contratação é a coisa mais importante
+dentro da cultura
+porque você está trazendo pessoas para dentro
+e assim a cultura se torna as pessoas em torno de você.
+E assim a coisa mais importantes é a contratação.
+Eu decidí entrevistar cada pessoa,
+o que não é loucura quando você está com 5 empregados,
+mas eu creio que eu entrevistei os primeiros 100 empregados.
+Eu não sei qual é o número,
+mas eu me lembro que as pessoas estavam implorando
+para eu parar de entrevistar candidatos.
+E depois de um ano depois deles estarem implorando,
+eu de fato parei de entrevistar.
+Mas, literalmente eu entrevistava cada pessoa.
+E hoje, quando você entrevista no Airbnb,
+você tem que passar por entrevistas funcionais e técnicas.
+Assim, se você é um engenheiro,
+você deve ir entrevistas de engenharia
+ou entrevistas funcionais,
+mas você também tem que passar por entrevistas culturais.
+E todos tem que passarem por duas.
+Nós precisamos de duas, porque, em casos,
+você sabe,
+você faz decisões erradas.
+Assim, nós temos duas pessoas.
+E as pessoas estão basicamente testando 6 valores principais.
+Vou te dar um exemplo.
+Um dos nossos valores centrais é sobre ser um anfitrião.
+Assim, eles são apaixonados com a noção
+de dar e de hospitalidade.
+E você pode, tipo, dizer olhando
+nas vidas deles e o passado
+se eles são ou não apaixonados com aquilo.
+É bem difícil não ser um anfitrião, no seu DNA,
+e querer trabalhar no Airbnb com sucesso.
+Seria uma coisa meio estranha.
+Então você acaba aprendendo estas coisas.
+Assim, essas são algumas das coisas.
+Nós criamos um conselho dos principais valores.
+Quase que parece uma coisa absurda de dizer.
+Da maioria das empresas, eu não conheço nenhuma
+que realmente faz este tipo de coisa.
+O conselho dos valores, são basicamente 12 pessoas
+que são experts nos valores e na cultura.
+E elas funcionam como um tipo de um conselho
+para todos na empresa.
+Assim, se as pessoas não estão seguras
+se algo é da forma certa, ou não.
+Se eu não sei se algo bate com a marca
+ou não, você pode marcar hora com
+essas pessoas e eles podem lhe
+oferecer feedback.
+Assim, essas são algumas das coisas
+que fazemos.
+Nós tentamos não ser dogmáticos demais
+com a nossa cultura.
+Eu creio que é possível de passar dos limites
+na questão sobre a maneira de se fazer coisas
+que não devemos reinventar.
+Assim essas coisas precisam ser atemporais
+e mais fundamentais.
+Não tipo, esta é a forma de fazer apresentações.
+Isto não é cultura.
+Cultura é, tipo, crenças que nunca mudam,
+diante de quaisquer condições tecnológicas.
+- [Reid] E como você,
+quero dizer, obviamente você
+faz isso muito bem
+por pessoalmente fazer isto,
+e então desenvolvendo isto em prática
+ao ponto de incluir entrevistas culturais.
+Quais são os tipos de coisas
+que, na medida que você encontrou a escala,
+ou quais são as coisas precisas que encontrou.
+- [Brian] Sim, você não mais consegue fazer aquilo.
+Então você precisa ser basicamente
+implacável
+e fazer as coisas culturais toda semana.
+E assim, eu faço o máximo das coisas
+culturais que eu fazia,
+mas agora elas não são mais pessoalmente.
+Os pontos principais, que alavancam, que eu faço com cultura
+é permitir que pessoas façam as coisas no meu lugar.
+Você chamaria de alavancar.
+Elas estão fazendo isto para você.
+Assim, nos primeiros dias, eu fazia todas as entrevistas.
+Então eu treinei as pessoas.
+Eu escolhi a dedo as pessoas e
+eu disse que você deveria fazer
+as entrevistas.
+e aqui é que você deve buscar.
+Assim, eu gastei dias com elas
+mostrando para elas como fazer.
+E assim nós começamos a entrevistar.
+E nós tínhamos todas essas pessoas,
+assim, e tive que criar um círculo pequeno
+que treinava essas pessoas.
+Eu costumava conhecer todos os empregados
+e dar para eles uma orientação pessoal.
+Então eu comecei fazendo orientações semanais
+para grupos de pessoas.
+E agora nós temos tudo gravado
+porque nós contratamos as pessoas por todo o mundo
+assim nós institucionalizamos essa coisa da semana dos recém-contratados
+e nós entregamos vídeos e histórias,
+Eu faço as séries de e-mail do Domingo a noite -
+creio que você mesmo viu alguns desses e-mails.
+Todo Domingo a noite,
+Eu escrevo um e-mail para a empresa
+que não é realmente um e-mail tático,
+mas algo do tipo, acima das árvores,
+tipo, bem dos que provocam,
+tipo um e-mail sobre cultura.
+Porque eu entendo que, se,
+no seu primeiro dia,
+você diz algo para as pessoas,
+elas se lembram,
+mas então 100 pessoas dizem
+100 coisas depois daquilo.
+Assim você tem que continuar
+a repetir as coisas.
+Assim eu penso que cultura
+é relacionada com repetição.
+É sobre repetir algo de novo e de novo.
+as coisas que realmente importam para uma empresa.
+Assim, é sobre tentar fazer o
+design no máximo de coisas,
+como em nosso espaço,
+quando você faz o check-in, com seu cartão eletrônico,
+quando você o insere,
+em cima ele diz, "Conquiste a missão"
+É um dos valores que tipo
+te lembra, todos os dias, para fazer
+aquilo.
+Assim, tem muitas coisas sutis
+que fazemos.
+E creio que é um tipo de ponto de conexão -
+Quais são todos os momentos que podem receber um design
+que coloca como você quer que as pessoas valorizem as coisas.
+E tudo pode receber um design.
+Na questão de cultura, algumas pessoas que ouví,
+quando escrevi um certo blog post,
+foi baseado no que Peter Thiel disse,
+digo "Não destrua a cultura"
+Porque eu pedi um conselho do Peter Thiel,
+E ele disse - não destrua a cultura.
+E eu, tipo, "Que merda. Como se faz isso?"
+Mas a maneira que você não acaba com a cultura
+é focando nela e fazendo o design.
+Eu já ouví pessoas falando do contrário.
+Existem advogados do diabo que dizem,
+que culturas são orgânicas.
+Que não deve ter um design, e quando elas recebem um design,
+elas se tornam falsas e desleixadas.
+De fato eu não acredito nisto,
+porque a maior parte das pessoas que criam culturas orgânicas
+acordam com uma cultura que elas não exatamente adoram.
+Agora, isto não quer dizer que você controla tudo que todos fazem.
+O ponto central da cultura é
+em controlar certas poucas coisas.
+Tipo, todos aqui são anfitriões.
+E eu não vou lhe dizer como agir,
+mas eu vou lhe dizer,
+que todos aqui tem que oferecer hospitalidade.
+E eu vou impor isto em todos.
+Se você não gosta, vá para algum outro local.
+Assim, você seleciona somente algumas coisas.
+Você não poderá pegar de tudo
+porque daí você é tipo Big Brother.
+- [Reid] Sim.
+[Inaudível] disse que cultura são as normas que definem
+qual é o time que está jogando
+e quais são as condições para vencer.
+- [Brian] Sim.
+- [Reid] E como nós medimos nossas responsabilidades,
+não por meio de hierarquia.
+mas por meio de uma comunidade.
+- [Brian] Sim, correto.
+- [Reid] Cada um de nós.
+- [Brian] E eles trabalham bem nesta
+responsabilidade entre pares.
+- [Reid] Sim. Isto é o principal,
+E como eu dizia antes da aula,
+Reed Hastings também falou disto.
+- [Brian] Sim.
+- [Reid] Algumas semanas atrás.
+Assim, vamos falar dos desafios de se escalar.
+Então agora..
+Um tempo substancial no mundo selvagem.
+- [Brian] Sim.
+- [Reid] Você sabe, fazendo o Obama Oh's
+- [Brian] Sim.
+- O cereal e bola pra frente
+para a questão do café da manhã.
+Então o investimento,
+começando a obter usuários que amam vocês,
+começando a obter um efeito rede
+com o qual hóspedes passavam
+e então se tornavam anfitriões espalhando para o mundo.
+E assim, agora você começou a encontrar
+o seu produto-mercado.
+e vocês começaram a escalar.
+Quais foram as coisas que começaram
+a mudar para você
+que você teve que aprender agora, "agora" que você está escalando?
+- [Brian] A primeira eras--
+- [Reid] É uma lista grande.
+- [Brian] Sim.
+A primeira era contratação.
+Eu creio que contratação e gestão
+das pessoas que você contratou,
+até hoje -
+Desde o meio de 2008 até hoje,
+aquilo provavelmente se tornou e ainda é
+a coisa mais importante.
+E quando você está somente iniciando,
+ao contrário de estar procurando os co-fundadores corretos,
+o que é de fato um tipo de coisa das mais importantes,
+mas que deixa de ser importante.
+Assim, antes do equilíbrio produto-mercado
+e depois dos seus co-fundadores,
+o procurar pessoas não era a coisa mais importante
+porque você e seus co-fundadores
+presumidamente fazem todo o trabalho.
+E simplesmente cai em você mesmo entender quase tudo.
+E assim acabei, antes do produto-mercado,
+fazendo de tudo.
+Eu literalmente fiz de tudo menos código.
+Eu fiz de tudo.
+E então depois de equilíbrio produto-mercado,
+você faz bem menos daquilo exceto gestão,
+criar uma visão e contratar pessoas.
+E assim, do nada, você muda
+e você passa de, criando um produto,
+para criar uma empresa que faz um produto.
+Bom, sendo a empresa praticamente pessoas.
+E assim eu tinha que encontrar ótimas pessoas,
+atrair elas, recrutar elas,
+e então, a coisa louca é que quando você contrata elas,
+é tipo, e agora o que eu faço?
+eu tenho que gerir elas.
+Como gerenciar alguém?
+E o que sequer isso quer dizer?
+Eu nunca havia gerido ou fui gerido por alguém na minha vida.
+Digo, eu trabalhei em uma empresa antes,
+mas em retrospectiva, eu não acho que eu era muito gerenciado.
+Aquilo era uma pequena empresa e eu
+meio que fazia minhas próprias coisas.
+E, sobre chefiar,
+eu tinha sido um conselheiro de acampamento
+tipo um acampamento e hockey.
+Aquilo não era muito gestão.
+Eles eram jovens de 12 anos e eu tinha
+que dizer a eles como andar de skate,
+mas não era de fato gerenciamento.
+Então fiquei tipo "Meu Deus.
+"Eu não sei de fato o que é gerenciar."
+E você tem que gerenciar pessoas mais velhas que você
+e aquilo é também meio estranho.
+Tipo, "Ai meu Deus."
+E assim, no início, é uma experiência muito estranha.
+Assim você meio que aprende, parcialmente, por tentativa e erro.
+fazendo muitos erros.
+Tipo, um erro clássico de gestão,
+é que as pessoas reclamam, e você imediatamente
+vai apaziguar elas.
+assim você acaba recompensando as pessoas que reclamam.
+E as pessoas que não reclamam acabam desprivilegiados,
+mas elas não são tão extrovertidas assim elas acabam saindo da empresa.
+Existem essas pequenas coisas que são tipo,
+em retrospectiva, intuitivas, mas parecem contraintuitivo.
+E assim eu tive que aprender,
+E creio que aprender a contratar e gerir
+foi realmente uma grande coisa.
+Eu creio que, aprender, como avançar do
+modo intuição para o modo informado com dados.
+Porque eu creio que, quando você está
+começando a construir um produto,
+os dados não são as coisas mais importantes.
+Eu sei de pessoas que fazem muitos testes A/B
+para tentarem entender o produto.
+E realmente penso que dados antes do equilíbrio
+produto-mercado, não é a coisa mais importante.
+Ao menos não era para nós.
+Nós de fato íamos muito atrás das interações humanas.
+Só depois você tem que trabalhar
+no sentido de buscar dados.
+Assim, obviamente, testes A/B e análises de cohort
+e todas essas coisas que eram completamente novas para mim.
+Salvando dados, tipo construindo pessoas,
+pensando mais a longo prazo.
+Quando você é uma start-up antes do produto-mercado,
+pensar a longo prazo parece absurdo,
+porque pode nem existir o longo prazo.
+É quase tipo, você está morrendo,
+você não está pensando sobre
+o que você quer fazer quando você cresce.
+Você só vai pensar como não morrer.
+E como eu cuido dessa ferida.
+Você acaba saindo deste terminal -
+e começa a persar mais terminal.
+Eu creio que essas são provavelmente
+algumas das grandes coisas,
+mas existem outras coisas.
+Como, de fato ter um plano,
+um mapa do caminho, uma estratégia.
+Você não tem planos, em uma start-up.
+Você não tem estratégias,
+você não tem mapas do caminho.
+O mapa é para as próximas duas semanas,
+e, do nada, eu tenho 3 engenheiros,
+eles precisam de saber o que fazer para os próximos 3 meses.
+Assim você tem que começar a criar os mapas.
+Você começa a ter lista de desejos.
+Como eu vou conseguir que falem do produto?
+Como vou expandir - coisas deste tipo.
+-[Reid] Bom, a tese geral, sobre blitzscaling, como você sabe
+porque você é uma dessas pessoas
+vivendo e fazendo isto, é...
+que o que lhe trouxe até aqui não é o que vai te levar lá.
+E você está em mudanças, tipo,
+você era quase totalmente focado no curto prazo
+onde resultados desta semana,
+de hoje, neste mês, importam,
+versus, qual é meu plano anual?
+O que, de fato, eu estou tentando fazer
+acontecer daqui a 1-2 anos, que mudam.
+A pergunta é, "eu estou fazendo isto eu mesmo
+"ou eu estou essencialmente primeiramente contratando pessoas,
+"daí contratando gerentes, então executivos,
+"e mantendo uma cultura diante de tudo."
+O jogo muda conforme vai indo.
+E assim o que lhe trouxe aqui não é o que te leva além.
+- [Brian] Isto é uma das coisas estranhas.
+É tipo, existe uma percepção
+que quando você começa uma empresa, ou cresce uma empresa —&nbsp;a
+Veja, todos, quando me perguntam sobre o Airbnb,
+eles sempre me perguntam sobre os dias da fundação,
+Isto é como se você tem uma ideia, ela decola.
+e você só tem que achar uma maneira de gerir.
+E a verdade é que vários brilhos se vão
+em todos os outros estágios.
+Você tem cinco estágios.
+Estágios 2, 3, 4, e 5 são tão complicados
+ou mais complicados que o estágio um.
+Quero dizer, eu creio que o estágio um
+é de fato muito direto.
+Resolva seu problema,
+faça algo que não escala,
+encontre 100 pessoas que te adoram,
+e tenha alguns ótimos co-fundadores que você confia,
+esteja certo que vocês são full stack,
+designers e engenheiros no seu time de fundadores, idealmente.
+Estes são só princípios básicos.
+Eu não creio que é tão complicado
+e mesmo se fosse, é um assunto com boas leituras.
+Mas a coisa que vem depois,
+não existem muitos livros sobre o assunto
+e todo mundo lhe oferece o conselho errado.
+Você tem que descobrir e você está meio que sozinho.
+E o risco é,
+se eu pergunto a um CEO como gerenciar
+e ele trabalha em uma empresa grande,
+ele irá me dizer a coisa errada.
+É tipo você falando sobre skating,
+mas não é gelo, é água.
+E o skate para gelo não funciona ainda.
+Nós convidamos um ex-CEO para visitar,
+e ele me deu um conselho que eu nunca vou esquecer.
+Ele disse que, "A cada 6 meses que você fica no seu emprego
+"é uma promoção".
+E quase penso, em retrospectiva, que é melhor
+dizer que a cada 6 meses é um emprego completamente diferente.
+Assim não uma  metáfora onde você é um atleta
+como um jogador de tenis e você vai jogando
+pequenos torneios
+e vai subindo.
+Você começa jogando tennis e se torna um jogador
+de boliche,
+e se torna um jogador de futebol
+e daí está jogando hockey.
+O emprego muda tanto que
+é como se tivesse em um esporte diferente
+a cada emprego.
+E é por isso que é razoavelmente,
+não sei se é raro,
+mas é difícil de iniciar uma empresa,
+e ser a pessoa certa para iniciar a empresa
+e a pessoa certa para gerenciar ela
+quando ela tem 1000 pessoas.
+Porque significa que você tem que ser pessoas diferentes.
+E é totalmente diferente.
+Em uma empresa grande,
+você tem que ser extremamente forte -
+normalmente você tem que ser razoavelmente forte
+na comunicação pública e escrita
+porque aquilo se torna sua ferramenta primária de gestão.
+Como eu falo com a empresa?
+Ou eu escrevo a eles um e-mail,
+ou eu digo algo em um vídeo
+ou na frente de muitas pessoas.
+No estágio inicial,
+você está em uma mesa de cozinha
+e são quatro pessoas.
+Assim, suas interações são diferentes.
+Existem, simplesmente, estas coisas sutis,
+as habilidades começam a mudar.
+A coisa mais importante, eu creio, é ser adaptável.
+porque ninguém é um expert em tudo.
+Mas você tem que ser muito adaptável.
+E eu vi pessoas que conseguiram escalar
+e pessoas que não conseguiram.
+E eu creio que existem duas coisas
+que eu identifiquei na questão de conseguir escalar.
+Uma é simplesmente o talento e inteligência em geral.
+Se você acha que tem tudo na cabeça, quando começa,
+é difícil não ter tudo na sua mente.
+Mas a outra coisa é que as pessoas
+que são, tipo, curiosas e adaptáveis.
+Eu descobri que, tipo,
+Pablo Picasso dizia,
+ele disse, "Levei quatro anos
+"para aprender a pintar como Raphael,
+"mas me custou uma vida toda para
+aprender a pintar como uma criança."
+Nós temos que ser como crianças no coração, nas startups, eu penso.
+No sentido de sermos curiosos,
+de sermos mente abertas, de receber as pessoas,
+você é aventureiro e você não é um sabe tudo.
+Os sabe-tudo nunca vão escalar nas start-ups.
+Assim se alguém é um sabe-tudo,
+eles sabem tudo assim eles nunca vão conhecer mais.
+Assim, você nunca vai conseguir escalar.
+Esta é meio que a maneira que penso sobre isto.
+Assim, essas são as coisas e eu tive que me tornar isso.
+E eu busquei seu conselho,
+e se você não é um sabe-tudo,
+você não tem vergonha de pedir feedback.
+E assim eu tive que me cercar de pessoas
+que são muito mais espertas que eu
+e muito mais experientes que eu,
+incluíndo o Reid e muitas outras
+que já passaram por aquilo que eu
+ainda não passei ainda.
+Mas você está certo,
+nem é como mandar uma espada
+em um novo tipo de dragão,
+é um esporte totalmente diferente.
+- [Reid] O termo que eu utilizo
+para isto é aprendizes infinitos,
+e você é uma das pessoas que eu coloco como exemplo.
+porque, literalmente, a primeira vez que eu
+e você fizemos um evento com a imprensa,
+aquilo era a primeira vez que eu fui para a imprensa
+com um empreendedor do meu portifolio,
+onde a primeira pergunta que você me perguntou,
+quando eu saí do palco, foi
+"O que eu deveria ter feito melhor?'
+- [Brian] Sim.
+- [Reid] Aqui foi, literalmente,
+quando saímos, e foi tipo -
+"O que eu deveria ter feito melhor?"
+Eu tipo, você era o primeiro que eu tinha
+feito aquilo com alguém
+e foi a primeira vez que apareceu
+esta primeira pergunta.
+- [Brian] Sim.
+- [Reid] De qualquer forma, aprendiz infinito,
+eu penso que é de fato,
+a chave para gerir a escala e a super escala (Blitzscaling).
+Internacional!
+Uma das coisas, que assim que você começa a escalar,
+é que a competição muda.
+- [Brian] Ah sim.
+- [Reid] Certo, assim você teve o Wimdu
+nos primeiros dias.
+Como aquilo mudou sua noção
+de como vocês jogavam, quando começaram
+a perceber
+que as pessoas partiram do,
+"Ah, isto é loucura" para o  "Ah, isto é essencial"
+"e todos nós estamos tentando competir."
+- [Brian] Sim, existem vários estágios na startup.
+O primeiro estágio, eu creio, é sobrevivência.
+Significando, que você não foi feito para sobreviver.
+Você começa uma empresa, você tem uma ideia,
+e todos dizem que você é louco.
+Você não consegue nenhum dinheiro,
+você não consegue levantar nenhum investimento,
+vocês são co-fundadores,
+você nem sabe se alguém
+vai querer continuar a trabalhar naquilo.
+E assim eu chamo de sobrevivência.
+E o não morrer é trabalhar naquilo até o próximo dia.
+Ninguém de fato mata você, você simplesmente vai sumindo,
+e você deixa de trabalhar naquilo.
+O segundo estágio é provavelmente tipo apagar incêndios.
+E assim você acaba sendo bombeiro,
+"Ah meu Deus, nós estamos crescendo.
+"Eu preciso contratar essas pessoas,
+e eu não sei o que fazer."
+E então, assim que você passa pela sobrevivência
+e alguns dos fogos iniciais,
+você tem o luxo de ter todas essas novas pessoas
+que agora decidem copiar você e tentam destruir você.
+Assim é um tipo de ameaça existencial.
+Verdadeiras ameaças existenciais.
+E nós tivemos duas.
+Uma foram as relações com governo
+e outra foram os competidores.
+E eu vou falar sobre competidores.
+Assim, nós chegamos no ponto onde nós começamos a ter sucesso
+simplesmente para conseguirmos todas estas
+pessoas nos copiando.
+Um dia, era no início de 2011,
+assim, dois anos desde 2009,
+de funcionamento.
+Assim 2009, 2010, tudo funcionava.
+2011, chegou, assim tivemos 2 anos de lua de mel.
+Eu não sei se você quer chamar de lua de mel,
+e assim, do nada,
+a propósito, em 2010 alguém,
+este cara chamado Howard Hartenbaum,
+ele é um investidor da August Capital.
+Ele me disse, "O que quer que aconteça,
+"tudo que você tem que fazer é garantir
+"que estes dois irmãos não copiem o seu site. "
+(hauhauhahuau)
+E eu disse, "Quais dois irmãos?"
+E ele disse, "Eles são chamados irmãos Samwer
+"e são conhecidos
+"e normalmente quado eles copiam seu site,
+"eles escalam ele e acabam com você."
+E ele foi, tipo, "Não se preocupe, no entanto,
+"porque está tudo bem com você."
+"Porque eles não copiaram o seu site
+"e se eles não fizeram até agora, não irão fazer."
+Eu, tipo, "Obrigado Deus, nós estamos livres."
+Do nada, nós percebemos algumas atividades
+suspeitas nas pessoas e pessoas
+enviando spam para nossos usuários
+e nós, tipo, algo está acontecendo.
+Nós não sabíamos o que acontecia.
+Acontece que, nós descobrimos que os irmãos Samwer
+estavam de olho no Airbnb.
+Agora, eu vou lhes dizer quão aterrorizante aquilo era.
+Em 2011, a startup mais quente do mundo era a Groupon.
+Eles sairam de zero dólares para, eu acho,
+um bilhão de dólares de receita
+em tipo um ano, ou dois.
+Naquele momento, nem eram conhecidos.
+De fato, ainda é algo meio desconhecido.
+Mas Groupon cresceu super rápido,
+não devido aos negócio nos EUA,
+mas devido ao negócio na Europa,
+que era chamado de CityDeal.
+Que de fato era um clone do Oliver Samwer
+que o Groupon teve que comprar.
+Assim, basicamente, estes dois irmãos, não somente,
+como disseram, iriam matar tudo que eles clonassem,
+tipo o ataque dos clones,
+mas eles também tinham criado o que era,
+ou ao menos estavam posicionados na época
+como a mais rápida e crescente,
+startup de sucesso de todos os tempos.
+Era assim que o Groupon era posicionado.
+Aqueles não eram alguns
+que estávamos interessados em lutar, certo?
+Do nada, este dragão gigante aparece
+e você, tipo, não é possível derrubar ele.
+E agora, neste estágio,
+nós tínhamos levantado 7 milhões de dólares,
+de fato, de você.
+(huahuauahu)
+- [Reid] Sim.
+É nessa hora que eu entro na cena.
+- [Brian] Sim, assim, Reid
+tinha nos dado 7 milhões de dólares
+e então, do nada, em 2010 eu creio,
+em Abril de 2010.
+Por Janeiro ou Fevereiro ou Março,
+Algum ponto em 2011,
+eles levantam 90 milhões de dólares.
+E nós tínhamos 40 empregados,
+e nos levou dois anos e meio para
+encontrarmos estas 40 pessoas.
+E em 30 dias, eles contrataram 400 pessoas.
+E eles abriram 20 escritórios
+E eu não tinha ideia nem mesmo como abrir um segundo escritório.
+Nós tínhamos um escritório, como eu consigo um segundo?
+Eu tenho que me mudar?
+Tenho que arrumar um apartamento?
+E eles tinham 90 milhões de dólares
+e eu, tipo, isto é horrível.
+E eles basicamente disseram,
+"Nós vamos fazer na Europa
+"o que vocês fizeram nos Estados Unidos."
+Agora, o problema é que,
+para a maioria das empresas, se elas escolhem Europa,
+elas são só uma pequena empresa.
+Mas no Airbnb, se você escolher a Europa,
+não existe mais o Airbnb.
+Um site de viagens onde você não pode viajar para a Europa
+é tipo um telefone sem e-mail
+ou um telefone sem sinal.
+Não existe razão para aquilo existir.
+Assim, isto se tornou uma aposta que valia a empresa.
+E nós não sabíamos o que fazer.
+Nós tínhamos uma proposta para comprar a empresa.
+E teria sido muito caro,
+mas o mais importante,
+é que seria um grande custo em termos de cultura.
+E eu não sabia o que fazer.
+Eu lembrei que, eu liguei para o Mark Zuckerberg
+porque eles tinham clonado o Facebook,
+com a coisa (algo em françês)
+E eu liguei para o Andrew Mason.
+Andrew Mason me disse,
+"Sim, eles provavelmente vão matar você. "
+(ahuuahuahu)
+Ele me contou uma história que o Oliver Samwer
+era tão bom em copiar empresas
+que era tão fácil para ele.
+Que ele queria mais um desafio.
+E ele decidiu contratar desenvolvedores da Coréia do Norte.
+(auhauhauhua)
+Só porque, eu sei lá,
+o Andrew falou que era, tipo,
+porque ele só queria fazer as coisas mais desafiadoras,
+porque era muito fácil.
+De fato eu não acredito nesta história, mas ...
+E tinha toda essa mitologia.
+Mark Zuckerberg me disse,
+"Não deixe eles venderem,
+"aquele que tiver o melhor produto vencerá."
+E ele estava certo.
+Paul Graham me deu um conselho melhor, no entanto.
+Ele disse, "Vocês são missionários,
+eles são mercenários
+"e de vez em quando, os missionários vencem."
+Assim ele disse, "Você você deve, basicamente,
+pretender
+"tipo eles tiveram este bebê,
+"mas eles não querem educar este bebê."
+E assim eu pensei, bom, nós somos fundadores.
+Nós queremos crescer esta empresa.
+Assim eu era tipo um pai que quer que esta criança
+cresça
+e torne-se esta empresa maravilhosa.
+E assim eu disse...
+Bom, eu não disse direto para o Oliver Samwer,
+mas minha visão era, meu maior contra-ataque,
+ou maior vingança em você é,
+que vou fazer você rodar esta empresa a longo prazo.
+Assim você teve o bebê,
+agora você tem que educar a criança.
+E você ficará preso a isto por 18 anos.
+Porque eu sabia que ele queria vender a criança,
+Eu, tipo, "Não, não. Você irá rodar esta empresa."
+E eu sabia que ele poderia rodar mais rápido do que eu por um ano,
+mas ele não iria conseguir continuar aquilo.
+Assim aquela era nossa estratégia.
+E nós construímos a empresa para longo prazo.
+E no final nós ganhamos,
+tínhamos uma comunidade melhor.
+Ele não conseguia entender a comunidade.
+E eu creio que tínhamos um produto melhor.
+E aqueles foram dias de fazer ou morrer.
+E nós acabamos indo para a Europa,
+nós contratamos um monte de gerentes locais,
+nós viajamos eles todos em San Francisco
+e nós, basicamente, treinamos eles por um ou dois meses.
+E dissemos - vá para seu país,
+contratem seus times,
+aqui é como você abre um mercado,
+aqui é como você abre as cidades
+e nós abrimos, eu creio, 8 ou 10 escritórios,
+em tipo 3 meses.
+Aquilo foi completamente insano.
+Nós contratamos centenas de pessoas
+e a velocidade da empresa engatou naquele momento.
+Alguns anos depois, obviamente,
+era o fim do jogo.
+- [Reid] Sim, aquilo foi um dos principais gatilhos
+para o Airbnb ir na direção da escala maior, Blitzcaling, da organização.
+- [Brian] Sim, porque não éramos...
+Eu penso que o primeiro momento era a aceleração Y combinator
+onde tivemos que nos apressarmos.
+Se não tivéssemos sucesso, no fim do Y Combinator,
+nós provavemente iríamos parar,
+assim nós nos forçamos.
+E então começamos a andar,
+mas não estávemos andando tão rápido.
+E daí 2011 e boom!
+Samwer, quero dizer, nos deu um
+presente que foi escalar rápido.
+E ele, ele levou a empresa que era tipo de certo sucesso
+e tipo compactou nosso tempo
+para obtermos um efeito de rede internacional
+dentro de um ano.
+E no final de 2011,
+era claro que iríamos crescer muito rápido.
+- [Reid] Agora, as duas ultimas perguntas antes de
+irmos para as perguntas da audiência.
+A primeira é,
+a outra coisa-gatilho, obviamente,
+era relacionado com governo e leis.
+E você e eu falamos sobre isso muito.
+Assim vocês podem encontrar isto em detalhes no YouTube
+e Google e notícias, etc.
+Porque, falando direto,
+esta é a maneira que o mundo deve ser.
+As pessoas devem poder ter este tipo de conexão social.
+As pessoas devem poder, vocês sabem,
+elas já podem alugar quartos, como estudantes,
+elas devem poder alugar uma cama.
+As pessoas devem poder se conectarem com as outras
+E obviamente, nós temos que garantir que neste espaço social,
+como vizinhança, que as coisas sejam feitas da maneira mais correta.
+Mas fale um pouco dessa identidade,
+na medida que entramos na escala
+tipo esses foram desafios que nos afetaram.
+- [Brian] Sim, assim, tem um problema
+com todos estes desafios
+que é quando eles lhe acertam, é tipo,
+você está caminhando pela rua e alguém
+simplesmente lhe dá um soco de um lado da sua cara,
+e você nunca vê aquilo vindo.
+E isto é meio que o que se sente
+com cada um desses desafios.
+Assim Samwer meio que nos acertou de lado
+na cara
+e a mesma coisa aconteceu com as relações com governo.
+Nós tivemos um tanto de problemas.
+O primeiro problema que eu lembro ter foi
+em Junho de 2010,
+quando recebemos uma notícia que a cidade de New York
+iria passar uma lei.
+Eles nem sabiam do Airbnb,
+mas eles estavam tentando ir atrás
+de um proprietário
+que nem estava no Airbnb
+que estava convertendo apartamentos em hotéis
+sem obter licenças.
+E nós pensamos, "Uh ah, este é um problema
+"porque isso pode afetar nossos usuários."
+É claro que afetou.
+Eles disseram, "Ah, a cidade não irá exigir nada de vocês."
+"É simplesmente um tipo de exigência de conduta,
+"não se preocupe com isto. "
+E nós ficamos meio que, "OK, não vamos nos preocupar com isto."
+Daí, alguns anos depois,
+nós recebemos um email ou uma ligação,
+de fato uma carta
+do procurador geral do estado de New York
+dizendo, "Bom, de fato existe esta lei
+e vocês estão violando ela."
+Ou, seus usuários estão violando ela.
+E assim, nós queremos os dados dos seus usuários
+para exigências contra milhares de pessoas
+porque não sabemos se eles estão pagando seus impostos
+e mais importante,
+nós achamos que eles estão quebrando as leis de aluguel a curto prazo.
+E assim, do nada, nos estamos diante desses
+desafios potencialmente gigantes.
+E os Procuradores Gerais são pessoas que nos assustam.
+Eles de fato tem poder na jurisdição
+e eles tem reputações de colocar as pessoas na cadeia,
+especialmente os procuradores de New York.
+O antecessor dele era o Elliott Spitzer.
+E ele era muito assustador como Procurador Geral.
+Assim, você fica meio que, e do nada,
+eu lembro de nós tendo conversas
+tipo, você sabe,
+você luta contra um procurador geral ou não?
+E como se faz isto?
+E eu posso dizer a você os detalhes
+de como aquela luta funcionou,
+mas eu creio que o que importa mais são os princípios.
+Digo, os detalhes eram que,
+ele queria detalhes específicos de informações
+de dezenas de milhares de usuários,
+muitos dos quais não estavam violando regras.
+Nós pensamos, não no meu estado é uma coisa,
+mas nós não vamos simplesmente entregar
+dados para que você descubra as regras
+que as pessoas possam estar quebrando.
+Isto seria uma expedição tipo pescaria.
+E nós pensamos que se desafiássemos eles na corte, nós venceríamos.
+Nós desafiamos eles na corte, e nós vencemos.
+E nós eventualmente comprometemos
+uma quantidade restrita dos dados dos usuários,
+o que não é diferente de uma intimação,
+que basicamente todas as empresas devem fazer,
+mas aquela outra coisa era muito maior.
+Era tipo uma expedição de pesca
+e assim nós não queríamos fazer aquilo.
+Mas a coisa maior era,
+como você aprende como lidar com as relações com governo.
+Aquilo era um desafio grande.
+Nós tivemos muita tentativa e erros.
+Meu primeiro instinto era lutar.
+Era tipo ser um tipo de luta pelas pessoas,
+mobilizar as pessoas.
+Em 2010 nós queríamos fazer aquilo.
+Nós começamos um rally, um rally político.
+Depois que eu aprendi como criar um site,
+Eu tive que aprender como iniciar um rally político.
+Assim nós íamos para New York
+para a prefeitura,
+e nós entregávamos placas para as pessoas para ajudarem.
+E então nós entendemos,
+que aquilo não era, realmente, a maneira mais certa para nós.
+Nós somos uma empresa onde as pessoas vivem juntas.
+E nós estamos tentando ensinar as pessoas
+que as pessoas são fundamentalmente boas
+e que nós estamos morando juntos.
+Uma empresa onde as pessoas vivem juntas
+não é uma boa empresa que tem fama de ser briguenta.
+porque o maior medo é,
+que as pessoas iriam lutar na casa delas, isto e aquilo,
+nós precisamos nos tornarmos parceiros das cidades.
+Nós queremos que as cidades saibam que elas nos amam.
+E assim, nós decidimos, você sabe,
+nós vamos matar eles com bondade.
+Em outras palavras, nós vamos mostrar para eles
+que queremos ser parceiros.
+E eu também aprendi uma outra lição
+das relações com governo, que é,
+Eu sempre tive um instinto que,
+se as pessoas não gostam de você,
+você não deve falar com elas.
+E alguém me disse um ditado.
+Eles dizem, "É difícil odiar alguém próximo."
+E assim eu meio que criei este pensamento contraintuitivo
+que é que eu vou encontrar todos que me odeiam
+e a meta não é fazer com que eles me odeiem, no final,
+você irá me odiar menos uma vez que me conhecer,
+e eu creio que você irá me entender.
+E aquilo era totalmente contraintuitivo,
+porque eu costumava ter este certo medo,
+que se eu não acreditasse que poderia convencer elas,
+que seria uma má reunião
+e que não queria ter más reuniões.
+Eu queria evitar conflito.
+E assim, nós basicamente tínhamos esta visão
+que iríamos visitar todos.
+E quanto mais você nos odiar,
+mais nós estaremos inclinados para conversar com você
+porque nós acreditamos que existe um mal entendido.
+E não é que temos que fazer com que você goste de nós,
+mas ao menos você irá nos entender
+e ao menos você estará informado.
+Então decidimos fazer viagens para ouvir sugestões
+Em certo momento, na cidade de New York,
+Eu tinha decidido que iria encontrar com todos que me odiavam
+ou com muitos deles.
+E eu estou encontrando com outras 40 pessoas,
+toneladas de reuniões horríveis meses depois,
+e existia muito menos ódio
+contra o Airbnb.
+Digo, as pessoas, do nada, já tinham
+entendido.
+E assim aquilo realmente ajudou muito.
+Agora nós tínhamos que encontrar senadores,
+e todos os tipos de políticos,
+nós estávamos nas votações em San Francisco.
+Como você luta com um projeto de lei?
+Existem, tipo,
+é simplesmente loucura, porque...
+Porque somos um negócio no mundo real,
+o escopo do que eu tive que aprender
+e espantoso.
+Nós tivemos, em um verão,
+quase um milhão de pessoas vivendo em uma casa toda noite.
+Como que você garante a segurança de um milhão de pessoas todas as noites?
+Que estão ficando em casas de desconhecidos,
+em geral de países diferentes.
+Onde em alguns casos os países nem possuem relações,
+tipo, as culturas diferentes.
+Assim quão maior a lição, você sabe,
+você tem um ditado,
+"Começar uma empresa é como pular de um penhasco
+"e cair em cima de um avião em movimento."
+E eu creio que, meu ponto é, que nunca acaba.
+Aquilo, certamente aconteceu comigo,
+começar uma empresa,
+mas então sempre havia uma outra grande coisa.
+E agora eu tenho novas coisas.
+E assim nunca acaba.
+E assim, eu creio que a coisa maior
+que tive que aprender é aprender.
+E aprendizado significa ir até a raiz
+e sei lá.
+- [Reid] Bom, a última coisa diante das coisas
+que lhe surpreenderam no caminho do crescimento
+dessas empresas globalmente relevantes,
+porque você acabou de voltar disso.
+Paris.
+- [Brian] Sim, o Deus.
+Então, todos estão bem sabendo
+das coisas horríveis que aconteceram em Paris na semana passada.
+Terroristas mataram, creio eu, 129 pessoas.
+Estado Islâmico.
+Bom, talvez vocês ainda não saibam é que
+eu estava em Paris com uma grande parte da empresa
+enquanto os ataques estavam acontecendo.
+Assim, na semana passada, nós tivemos nossa
+convenção anual ou conferência.
+Nós temos essa coisa que se chama Airbnb Open.
+E é anual,
+é o terceiro ano, na sequência, que fazemos isto,
+E os anfitriões de todo o mundo voam para lá.
+No ano passado foi em São Francisco,
+e neste ano nós fizemos em Paris.
+E é tipo nossa versão do que a SalesForce
+chama de DreamForce ou sei lá.
+E os anfitriões se encontram
+e nós realmente, tipo, atualizamos eles
+sobre os novos produtos, os novos valores e tudo.
+E nós tivemos 645 empregados
+que voaram para Paris para juntarem-se a isto,
+e outros 5.000 anfitriões.
+E eu estava lá em Paris com todos eles.
+E a propósito, meus pais foram,
+minha irmã, minha namorada também,
+assim todos da minha vida estavam lá.
+E eu estou em Paris,
+já são dois dias de conferência,
+E fiz duas palestras principais,
+uma no primeiro e outra no segundo dia,
+e quando eu dei uma boa respirada tipo "ah, terminei."
+"Graças a Deus. Eu vou relaxar."
+Eu tive um jantar.
+Um jantar de comemoração.
+Nós chamamos de o jantar da rua 10.
+Basicamente nós tivemos um escritório na rua 10 (São Francisco).
+Tinha basicamente todos,
+os primeiros 40 empregados da empresa.
+Que ainda estão conosco.
+Assim nós chamamos aquilo de jantar dos primeiros empregados.
+E trouxemos eles para comemorarmos
+e reconhecer eles por estarem conosco
+por quase 5 anos.
+E nós estamos neste jantar maravilhoso,
+O Joe faz um brinde, "Obrigado a todos," bla bla bla...
+É um jantar incrível.
+Do nada, nossos celulares começam a tocar
+e olhamos no Twitter tipo "Ataque em Paris."
+E era um restaurante onde tinha acontecido o tiroteio.
+Nós meio que, "Oh isto é realmente horrível, terrível."
+Mas, não diferente de quando você lê
+que algo horrível aconteceu na sua cidade,
+e você tipo, "Okay, isto é realmente triste."
+E assim colocamos os celulares de lado.
+Cerca de 30 minutos depois,
+meu celular começa a tocar de novo.
+Aconteceu um massacre em um teatro.
+E 80, 100 pessoas, bom, de fato nós não sabemos,
+era um massacre na hora.
+100 pessoas foram feitas de refém em um teatro,
+em outra localização.
+E meu fone começa a tocar de novo.
+Acontece um ataque suicida do lado de fora de um estádio.
+Meu Deus.
+Do nada meu fone começa a tocar de novo.
+Neste ponto, o que tinha acontecido era,
+que tínhamos 645 empregados que haviam ido para jantares e eventos
+pela cidade de Paris,
+e 5.000 anfitriões de 110 países
+que estavam espalhados pela cidade.
+E, neste momento,
+aconteceram 7 ataques cordenados
+acontecendo em um período de uma hora,
+em locais aleatórios por toda a cidade,
+particularmente nas áreas que todos os
+nossos empregados estavam,
+e todos os nossos anfitriões estavam.
+E a coisa que era mais assustadora era,
+os locais que eles escolheram eram locais de encontro de muitas pessoas
+e muitos países, eram todos os nossos...
+era onde nossas pessoas estavam.
+E eles também escolheram locais aleatórios
+para criar esta psicologia que os ataques
+poderiam acontecer em qualquer lugar.
+Assim, nestas alturas, o medo apareceu no jantar.
+Nós entendemos que estávamos sob ataque.
+Poderiam acontecer outros 5 ou 10 ataques,
+e poderia acontecer em qualquer local.
+Eu comecei a descobrir que
+existiam empregados que estavam,
+alguns dos nossos empregados estavam em um restaurante
+que era próximo do teatro Bataclan
+o local do massacre onde 89 pessoas morreram.
+E um dos meus empregados,
+alguém que sou muito próximo,
+estava sentado em um restaurante,
+olhando pela janela,
+quando ele viu todas essas pessoas correndo
+por suas vidas.
+E elas estavam gritando.
+O visual de quando alguém está lutando pela vida
+e eles acabavam de testemunhar uma série de assassinatos,
+eu só consigo imaginar como é a sensação.
+E assim, as pessoas..
+E então, do nada, as pessoas estavam,
+em restaurantes, eles desligaram as luzes,
+eles fecharam os portões de metal,
+elas estavam escondendo debaixo das mesas.
+Nós tínhamos todo um time no estádio.
+E no estádio, eles tinham uma debandada.
+E as pessoas estavam correndo das arquibancadas no estádio.
+Então isso não era algo que eu tinha tido que lidar.
+Assim, o que você faz?
+Assim, eu estou nesta festa,
+nós tínhamos nosso chefe de segurança, que estava em um outro prédio.
+E criou um centro de comando remoto.
+Eu literalmente criei um centro de comando no caminho do chuveiro,
+porque estávamos em um apartamento de 2 quartos com 50 pessoas,
+E não tinha onde mais ir.
+Digo, existia um chuveiro gigante
+e era de fato uma boa acústica,
+porque era de fato de pedra,
+assim, se você estivesse só sentado lá -
+e não podia ouvir ninguém mais,
+assim eu fechava a porta,
+nós criamos este centro de comando com nossos telefones
+e nós pegamos nossos laptops, porque tínhamos ainda sinal,
+Mas disseram que a internet iria cair a qualquer momento.
+E começamos pelo primeiro passo que era
+contabilizar todos.
+Assim criamos uma lista dos 645 empregados
+e nós começamos a ligar e enviar e-mails.
+Nós andamos pela lista e fizemos este centro de comando
+contabilizar todos.
+E então nós precisávamos saber
+qual é a próxima coisa para fazer.
+Nós precisávamos trabalhar com o governo local,
+porque algumas pessoas iriam dormir fora
+e nós poderíamos prover acomodação.
+Assim nós trabalhamos com a cidade
+e o governo federal da França
+para tentar encontrar acomodação.
+E conseguimos que nossos anfitriões, 300 deles,
+abrissem suas casas, de forma voluntária,
+para todos que precisavam de casas.
+E então nós precisávamos entender,
+bom, o que faríamos com esta conferência?
+Porque nós tínhamos que cancelar a próxima manhã
+e contabilizar as pessoas e lidar com suas famílias
+porque todos estavam tentando contato,
+assim era algo que,
+era uma das coisas mais insanas provações.
+Nós tivemos que voar todas estas pessoas de volta.
+E certificar que, você sabe,
+nós oferecemos suporte aos empregados.
+E eu nunca tive que, na minha vida,
+que lidar com qualquer coisa como isto.
+Nós estávamos no centro desta gigante crise,
+e tão notável era no momento,
+mas não notável na seara de uma startup.
+Em outras palavras, era algo muito específico,
+mas aquele evento físico é uma metáfora
+das muitas coisas que você faz.
+E isto era só segurança física.
+Eu nunca tive que lidar com algo tipo
+vida e morte, como isto, antes,
+mas muito disto me lembra --
+quando eu estava passando por isso na semana passada,
+estava tipo, "Ah meu Deus, isto me lembra dos
+"dos primeiros quatro anos do Airbnb."
+E não quero dizer, digo, quero dizer da maneira que meu corpo sentia.
+O coração batendo constantemente,
+sem saber como íamos passar o dia,
+constantemente apagando incêndios,
+Eu espero que eu esteja vendendo como começar uma empresa,
+a propósito.
+(risadas)
+Para as pessoas certas, é pressa,
+mas é essa coisa constante.
+E a outra coisa que,
+a última coisa que quero dizer,
+que era naquele momento que eu,
+me lembrei da responsabilidade que tenho.
+porque, você sabe, eu sou consciente
+da resposabilidade que tenho.
+Nós temos poucos  milhares de empregados,
+nós temos dezenas de milhões de membros,
+mas naquele momento,
+você fica tão mais consciente.
+Sua responsabilidade é verdadeiramente real.
+E a vida das pessoas, digo, em alguns casos,
+eles, talvez, dependem de você
+ou ao menos o sustento deles depende de você.
+E naquilo eu tive uma grande e humilde realização.
+- [Reid] Bom, nós podemos ficar mais um pouco?
+- [Brian] Sim.
+- [Reid] Porque eu sei que estamos na hora,
+- [Brian] Desculpa, essa foi uma história longa.
+- [Reid] Não, eu quero estar certo,
+aquela foi uma história muito importante de passarmos,
+pelas todas as razões óbvias,
+mas eu quero passar por algumas perguntas também.
+Começando aqui.
+- [Estudante] Você poderia dizer algo mais
+sobre aprender como aprender?
+Tipo, aquilo seria tipo ler livros,
+ou auto reflexão?
+- [Brian] Sim, então...
+- [Estudante] você pode repetir a pergunta?
+- [Reid] É, fale sobre aprender como aprender.
+- [Brian] Sim.
+Eu certamente não sou um expert em aprendizado.
+Eu creio que as pessoas, aqui em Stanford
+irão lhe ensinar muito mais sobre como aprender.
+Mas eu posso lhes dar somente uma dica.
+Eu creio que existem muitas dicas,
+Mas vou lhes dar talvez uma.
+Se eu lhe disser que eu quero que você aprenda sobre
+um tópico e você tem uma semana para fazer.
+Assim, digamos que quero que você aprenda
+sobre o básico do design de interfaces e você tem uma semana,
+o que você faria?
+Você iria --
+e eu quero que você realmente aprender aquilo.
+E quero que você aprenda tudo que é importante.
+Eu quero que você se torne um expert
+ou ao menos um expert temporário
+de tal forma que você deve saber o básico,
+e saber as coisas mais importantes.
+Você provavelmente iria ler muitos livros,
+falar com um monte de gente, e entrevistar pessoas,
+e entrar neste processo bem exaustivo
+só para ler sobre o design de interfaces.
+E assim, e se eu te digo, naquela semana,
+que quero que você também aprenda o básico
+do desenvolvimento front-end,
+E quero que você aprenda sobre o básico de contabilidade
+assim você terá livros caixa
+e eu quero que você entenda
+como abrir uma empresa.
+Agora, como você faz isto?
+porque você começa a adicionar as horas,
+você não tem essas horas.
+Assim o que você aprende é que,
+você não pode aprender tudo sobre um tópico.
+Assim, você tem que se tornar muito bom em fechar circuitos
+para aprender em cima da fonte definitiva do tópico.
+A habilidade se torna,
+sua expectativa de que você vai para a fonte correta.
+porque se você for para a fonte incorreta,
+você irá aprender as coisas erradas,
+mas você também entende que, se você ler as fontes corretas,
+você não tem que ler nenhuma outra fonte.
+E, sobre gestão,
+alguém me deu um livro,
+"High Output Management"
+e acontece que eu nunca preciso ler 10 diferentes livros de gestão,
+Eu só tenho que ler aquele único livro.
+- [Reid] Quem lhe deu foi Keith.
+- [Brian] Foi Keith Rabois, verdade.
+E é do Andy Grove, fundador da Intel
+e se você ler aquele livro sobre gestão,
+você tipo entende sobre gestão.
+E, você sabe, o Paul Graham
+provavelmente foi a mesma versão disto
+no Y Combinator.
+E assim, o que eu tive que aprender a fazer
+foi procurar experts.
+E, é tipo equivalente
+de tipo, leituras e escritas
+das pessoas inteligentes, ao contrário de..
+ se você tivesse que aprender sobre jornalismo,
+leia sobre alguém que é realmente informado
+do que assistir um talk show político
+por quatro horas.
+porque você irá sair daquilo ainda confuso,
+e você não terá nenhum contexto profundo.
+Assim, eu descobri que ir até a fonte,
+E o Reid era uma fonte para mim.
+Eu queria entender sobre confiança e segurança,
+E fui até o George Tenet,
+diretor da CIA,
+e isto foi razoavelmente tipo
+[Reid] ex-diretor.
+- [Brian] Ex-diretor, me desculpe.
+E aquilo era um pouco acima dos limites,
+mas foi proveitoso.
+E a coisa legal é,
+que quanto mais sucesso você tem,
+mais você tem acesso a eles.
+Mas mesmo antes de você se tornar bem sucedido,
+você pode certamente ler sobre os melhores.
+E eu também aprendi nas biografias,
+mas creio que ir até a fonte.
+Bom, existem várias outras dicas,
+mas esta é a dica que daria.
+E aí você não pode ter vergonha.
+Porque eu entendi que a maioria das pessoas irão lhe ajudar
+se você perguntar uma pergunta.
+E a maior razão que as pessoas não ajudam
+é porque elas não recebem perguntas.
+E nós estamos aqui para compartilhar informação e conhecimento.
+Assim você tem que estar inclinado para ter a coragem
+de perguntar as pessoas e buscar conhecimento.
+E eu não tinha vergonha de perguntar as perguntas,
+tipo, de novo e de novo,
+ao ponto de ser provavelmente irritante,
+mas eu não ligava.
+E era muito sem vergonha,
+(hauhauauuh)
+Eu nunca ligaria se eu irritasse você.
+Porque eu era, meio que, "Eu preciso aprender isso."
+- [Reid] Sim, exatamente.
+- [Audience Member] Você poderia
+nos dizer sobre a pré-história
+que você teve com seus co-fundadores,
+e como você selecionou eles
+e sabia que eles eram as pessoas certas para você?
+- [Brian] Sim, Eu tipo fui muito sortudo.
+Se eu escrevesse um livro sobre como criar uma empresa,
+eu creio que uma única parte que eu não ajudaria
+é sobre escolher co-fundadores, porque eu só fui
+sortudo,
+esta parte tipo caiu no meu colo.
+E fiz a escola RISD com o Joe
+e eu era amigo dele por 7 anos.
+E agora são 15.
+Mas eu era amigo dele por 7 anos
+antes de iniciar a empresa com ele
+e ele era tipo meu melhor amigo
+ou um dos meus melhores amigos.
+E daí meu co-fundador, Nate.
+Ele, meio que, eu não conhecia ele,
+e assim, foi um pouco mais que acaso,
+Assim, era um tipo de sorte mesmo,
+E eu tinha uma intuição que ele era um grande engenheiro,
+e eu podia dizer, pelas coisas que ele construia
+que ele era extraordinário,
+mas tinha um elemento de sorte no Nate.
+Assim, eu não sou o melhor,
+Eu não passei pelo trabalho de
+ter que encontrar co-fundadores,
+assim eu não consigo lhe dizer grandes coisas sobre o que fazer.
+Eu posso dizer algumas poucas coisas, no entanto.
+A primeira coisa que diria é,
+você tem -
+algumas coisas sobre co-fundadores.
+Primeira, seus co-fundadores tem que ser
+melhores que você.
+Se eles não são melhores que você,
+você ao menos deve sentir que eles são iguais.
+E eu vejo muitas pessoas que encontram co-fundadores
+os quais eles meio que conscientemente sabem que não são equivalentes,
+e eles não são realmente co-fundadores,
+eles se tornam meio que primeiros empregados que não escalam.
+E quando eles não escalam,
+eles ficam super desprivilegiados
+e eles não são úteis e eles não se tornam capazes de contribuir.
+E eu creio que, as vezes, as pessoas fazem
+isto porque elas são preguiçosas
+ou por insegurança,
+eles não querem um igual na empresa
+porque poderia haver um conflito de poder.
+Eu creio que você tem que tentar encontrar pessoas que você admira
+que são melhores que você, que desafiam você.
+A mentalidade é, que se elas são melhores que você,
+então você irá crescer junto
+e se tornar melhor porque você está em torno delas.
+A outra coisa é,
+você tem que ter pessoas que você realmente
+acredita e gosta.
+Você vai estar ao lado dessas pessoas por 12 horas por dia,
+14 horas por dia, 16 horas por dia.
+E se você ficar tipo meio irritado com elas depois de 4 horas,
+você ficará irritado com elas depois do sétimo mês,
+24 horas por dia.
+Você não vai mesmo conseguir ficar do lado delas.
+Assim você precisa de pessoas que você gosta,
+que você confia, e que você admira.
+E, idealmente, você tem um histórico grande com elas.
+E tinha grande história com um dos dois,
+Mas eu creio que Nate, que eu não tinha grande histórico,
+provou que você não precisa ser amigo com eles
+por 7 anos para que aquilo dê certo.
+E eu geralmente busco habilidades complementares
+ao contrário de conflito de habilidades.
+Agora, o Joe e eu, somos meio que as mesmas pessoas no papel,
+ao menos nossas origens,
+mas nós no final tivemos, francamente,
+personalidades bem diferentes e habilidades, no final.
+E, o Nate é totalmente o oposto de nós em todas as maneiras.
+- [Reid] A mulher.
+- [Estudante] Eu estava pensando, sobre o seu início,
+onde você era um designer.
+Como que você conseguiu mudar
+e entrar no modo empreendedor?
+Tipo assim, qual foi a mudança mental?
+Também, tipo, você comentou dos momentos difíceis,
+como você se convenceu,
+que aquilo era uma boa ideia para trabalhar.
+Quando você ia trabalhar?
+Quando você pararia?
+- [Brian] Eu repito a pergunta --
+- [Reid] Sim, sempre faça um sumário e então..
+- Tipo, como eu mudei de designer
+para empreendedor, e nos dias difíceis,
+como que eu levava, certo?
+Mudando de designer para empreendedor..
+É bem, tipo, como que muda de qualquer coisa
+para se tornar um empreendedor
+Eu era sempre, tipo, em retrospectiva,
+acontece que, eu sempre fui um empreendedor,
+Eu só não sabia que existia.
+Significando que eu sempre estava criando coisas
+e iniciando coisas mesmo que elas não eram negócios,
+eram usualmente projetos e filmes com meus amigos
+ou as coisas, quando cresci, eu fiz clubes.
+E assim, eu creio que a melhor maneira de se tornar um empreendedor
+é simplesmente se tornar um empreendedor.
+Tipo, eu não sei de qual outra forma dizer.
+Em outras palavras, simplesmente comece.
+E simplesmente crie coisas.
+Crie coisas para as pessoas.
+A melhor preparação para criar uma empresa
+é criar uma empresa
+Se você não consegue criar uma empresa, crie um clube.
+Ou crie um produto, ou crie algo.
+E eu descobri isso pela minha vida,
+todas as coisas que eu criei,
+seja meu clube do time de hockey no colégio
+ou uma coisa que tinha um design
+ou um projeto com meus amigos, para brincar.
+E usualmente era algo fora da escola
+e eram coisas um pouquinho maldosas,
+tipo, você entende, bem pouco.
+Tipo por zoeira ou algo do tipo.
+Eu creio que a melhor maneira.
+Digo, eu penso que fora o fato que
+é bom aprender disso nas aulas
+a coisa que é mais importante
+do que estar aqui agora
+é sair dessa coisa e começar algo imediatamente.
+E não aprender como começar aquilo,
+simplesmente iniciar aquilo.
+Porque você irá confiar em você mesmo e irá aprender.
+Assim aquilo foi o que fiz.
+Na RISD, no entanto,
+a escola lhe ensina a começar coisas,
+porque você constantemente tem --
+Eles lhe dão desafios impossíveis.
+Tipo, vai faz, descubra como, vai.
+E eu penso que simplesmente fazendo aquilo,
+torna-se quase algo impulsivo.
+Você tem que meio que aprender a ser impulsivo de certa forma,
+porque simplesmente iniciar e mergulhar é um
+tipo de coisa impulsiva.
+Eu penso que a segunda coisa é,
+porque nós continuamos as coisas nos momentos difíceis.
+O que é outra forma de dizer,
+porque você tem convicção e resiliência, certo?
+Porque você tem que ter resiliência e convicção
+para continuar a fazer.
+A coisa, sobre as startups,
+é claro, que sempre faço citações do Steve Jobs,
+porque ele é uma das pessoas que aprendi de,
+de longe, é claro.
+Assim existe uma lição,
+estude as pessoas que você admira.
+Mas ele diz, "Você tem que estar apaixonado
+"com as coisas que você faz
+"porque existirão dias onde será
+tão difícil,
+"que é muito fácil deixar de acreditar. "
+Assim se você tem essa reserva de paixão profunda
+para aquilo que você está fazendo,
+você irá perder fé e irá parar de acreditar naquilo,
+quando as coisas ficarem difíceis.
+E eu tive esta profunda convicção que funcionaria.
+E muitas pessoas dizem,
+"Bom porque você tem esta convicção?
+"Porque vc acreditaria que o Airbnb funcionaria?"
+E aquilo foi logo naquela primeira semana que nós recebemos 3 pessoas
+e eu vi como minha vida mudou.
+E eu vi como a vida das outras pessoas mudaram.
+Elas literalmente mudaram.
+Uma pessoai se mudou.
+A outra pessoa decidiu pegar um outro caminho
+devido aos designers que ele conheceu.
+E eu pensei, com o Joe,
+se as pessoas pudessem experimentar
+o que eu tinha experimentado naquele primeiro final de semana,
+esta seria uma ideia que se espalharia pelo mundo.
+E eu realmente acreditei naquilo.
+Agora, eu não consegui que pessoas de fato tentassem,
+mas eu acreditei que seria um desafio de mercado
+e que poderíamos fazer elas tentarem.
+Porque havíamos descoberto algo.
+E uma das coisas que o Paul Graham disse é,
+"Quais insights vocês tem que ninguém mais tem?"
+Em outras palavras, o que é algo que você descobriu?
+Em geral, uma descoberta não ocorre no laboratório.
+Uma descoberta é algo que você hackeia
+para resolver um problema para você mesmo,
+e você acidentalmente descobre que é realmente legal,
+e se, simplesmente, outras pessoas soubessem daquilo.
+E meu insight único, ou descoberta,
+era ficar com outras pessoas nas suas casas
+era profundamente recompensante e economizava dinheiro.
+Aquilo seria incrível e outras pessoas iriam querer fazer aquilo.
+E era claramente não-intuitiva, não óbvia.
+O que é uma boa coisa.
+Porque quando você diz para as pessoas,
+elas dizem, "Isto nunca irá funcionar."
+Aquilo significa que as pessoas não irão lhe copiar por anos.
+(hhuahauhauh)
+- [Reid] Ah, aqui.
+- [Audiência] Sim, só para a sequência nisto,
+você falou de convicção profunda.
+Como você, você disse que vocês se distraíram
+com a coisa dos colegas de quarto que fizeram
+depois que vocês começaram.
+Assim, como que você voltaram para o Air...
+- [Brian] Realmente uma ótima pergunta,
+ótima pergunta!
+- [Reid] E repita a pergunta.
+- [Brian] Ah, desculpa.
+Assim, você diz que convicção é importante,
+mas você começou a coisa do Air Bed and Breakfast,
+então você parou e fez a coisa dos colegas de quarto
+e daí voltou.
+Como foi esta jornada?
+Você sabe, foi meio que engraçado.
+Eu creio que convicção vem com o tempo.
+Acontece na repetição
+de falar sobre o que você está pensando
+e trabalhando com as pessoas.
+Assim isto foi meio que o que aconteceu.
+Nós começamos este site assim eu tinha alguma convicção
+que aquilo iria funcionar.
+No final de semana que fizemos,
+Eu tive uma convicção que iria funcionar pelo país.
+As camas de ar para conferências.
+Era tipo uma geração na frente.
+Não eram tipo 3 gerações na frente.
+Eu não pensei em anos na frente,
+mas sempre pensei no próximo ano.
+E sempre podia ver o próximo passo.
+Eu não podia ver 3 passos para frente.
+Assim, eu acreditei no próximo passo.
+Então, naquele primeiro final de semana,
+eu acreditei que iria funcionar pelo país.
+Mas, Joe e eu convencemos nós mesmos a sair da ideia
+porque estávamos muito namorando a história do Facebook
+e todas aquelas outras empresas,
+nós pensamos “elas são enormes”.
+Eu consigo ver o que vem em seguida,
+mas não consigo imaginar pessoas
+do mundo todo fazendo isso.
+E eu não consigo vê-la se tornando uma empresa
+que milhões de pessoas usariam,
+e eu quero ter uma empresa que
+milhões de pessoas usem.
+E milhões de pessoas precisam de colegas de quarto,
+mas milhões de pessoas, quando viajam,
+não ficam em casas.
+E então era mais ou menos o que eu pensava.
+Então, não foi exatamente uma perda de convicção
+porque eu tinha um modelo mental errado
+de decidir o que eu deveria perseguir.
+Mas eu acreditava profundamente nessa ideia.
+Nós fizemos o site de colegas de quarto e foi como,
+“Ok, alguém fez isso,
+mas eu não sei se estou
+apaixonado por isso.”
+E eu voltei pra casa para o Natal
+e me peguei pensando sobre isso,
+e o curioso foi que,
+quanto mais eu falava sobre isso,
+mais empolgado eu ficava.
+E o quanto mais eu falava sobre isso,
+eu sou uma pessoa muito extrovertida,
+tão extrovertida que as pessoas
+meio que me compreendem
+através da conversa.
+E eu conversei sobre isso
+e a cada vez que eu falava sobre a ideia,
+eu continuava a acrescentar detalhes,
+e eu ainda nem a tinha construído.
+Mas falava como se tivesse.
+E por termos feito tudo isso
+já tínhamos feito um brainstorm.
+E a convicção acontece
+através da repetição,
+investigação e aprofundamento
+e explorando e pensando sobre a ideia.
+E ela foi construída assim.
+E depois a ideia foi se transformando
+cada vez mais em experiências reais
+de realizar a coisa,
+e quanto mais experiências reais você tem,
+mais você alimenta
+seu reservatório de convicção.
+E uma coisa sobre a qual as pessoas não
+falam sobre liderança é
+que líderes são pessoas que outras pessoas seguem.
+Eles não são, necessariamente,
+chefes.
+Um líder é alguém que é seguido por outras pessoas.
+E uma questão primordial sobre
+o porquê alguém segue você
+é a convicção.
+em outras palavras, um líder
+precisa ter convicção.
+E se eu penso “eu imagino que você
+vai pra casa desse jeito",
+provavelmente.
+Mas se eu disser “eu vou pra casa desse jeito”,
+"eu sei que é desse jeito."
+Outras pessoas provavelmente também irão desse jeito,
+porque você mostrou certeza.
+Agora, você precisa se esforçar para não estar errado,
+mas a convicção é incrivelmente
+importante para a liderança.
+E para mim, construir o
+resevatório de convicção
+aconteceu através de experiências de vida reais
+e por conversar a respeito
+e por conhecer a fundo o problema.
+- A propósito, o outro detalhe
+de várias dessas empresas é
+que elas construíram mercados.
+Então, não foi como “Bem,
+quantas pessoas estavam se hospedando
+em casas antes?"
+Muito poucas.
+Quantas pessoas estavam usando
+serviços de carros pretos antes?
+Muito poucas.
+Quantas pessoas e, como várias
+outras coisas,
+e o trabalho de construir mercados
+exige uma parte da convicçao
+que você precisa que ter.
+- Sim, apenas um detalhe disso
+é que foi isso que aconteceu.
+Nós caímos na armadilha do venture capital,
+na assim chamada
+armadilha, bem assim --
+- Essa é a estúpida armadilha do capital trap.
+- estúpida… desculpe.
+(risos)
+Ele é um venture capitalist.
+(risos)
+desculpe .
+A estúpida armadilha do venture capital.
+Chamam isso de venture capital idiota,
+porque não existe mercado
+para isso, e você está certo,
+como o Reed diz,
+quase todas as grandes empresas
+criaram seus mercados.
+E assim, muitas pessoas
+dizem que investem nos mercados.
+E acho que você deveria
+investir antes, e principalmente
+em produtos e fundadores.
+Você pode investir em mercados se você imaginar
+"enquanto durar nosso mercado
+de viagens e hospedagens,"
+Mas o nosso mercado nao era,
+na verdade, Sequoia Investimentos, que é
+notória por investir --
+não notória, mas famosa
+por investir em mercados.
+Eles tiveram muita dificuldade em avaliar nosso mercado
+mas, na verdade, o crédito deles é que
+descobriram que era um grande mercado.
+E, enquanto eles
+focaram nos detalhes certos,
+e eles pensaram,
+"Bem, são meio
+trilhões de dólares por ano
+"gastos em hospedagem
+todo ano, no curto prazo.
+"dois trilhões de dólares
+por ano gastos em viagens
+"e 40 bilhões gastos em aluguéis para temporada.
+"Então, baseados nisso, nós achamos
+que gostamos desses fundadores,
+"e nós gostamos do produto.
+"Nós achamos que existe um mercado aí."
+E então, você está apto a prever
+mercados emergentes, ao invés
+de mercados já existentes.
+- Última pergunta lá no fundo.
+- [espectador] O que é difícil
+para você hoje em dia?
+- Hum,
+- O que é difícil pra você...
+- Putz...
+hoje?
+- O problema é que essa é
+uma resposta muito longa.
+- É...
+(risos)
+Respondendo a essa pergunta,
+é o...
+- É, é, respondendo à pergunta
+está extremamente difícil agora.
+Eu acho que você me complicou
+nessa última pergunta.
+Deixa eu ver...
+Tá, vou te falar uma coisa.
+Então, eu acho que está no seu livro,
+você fala sobre a transição
+da cidade para o país ou da vila para a cidade.
+- Sim.
+- Que é uma das coisas
+que você tem que fazer.
+Então, eu passei por todas
+as diferentes fases.
+Nós estamos agora na fase em
+que a empresa está trabalhando,
+O “core business” está funcionando bem.
+O produto que tínhamos, a ideia que tínhamos,
+agora está escalando. Está indo bem,
+nós contratamos uma equipe executiva,
+eu tenho uma equipe executiva completa.
+Eles estão administrando o negócio.
+Eu até poderia me afastar
+por um ou dois meses,
+e a empresa continuaria indo bem.
+Basicamente, certo?
+Quer dizer, tem funções que
+serão prejudicadas,
+mas o produto principal continuará bem.
+A empresa, mais do que o produto
+precisa de administração diária,
+mas a empresa, o produto está bom.
+Então, há duas coisas.
+A primeira, provavelmente as
+duas maiores coisas em que eu estou focando,
+A primeira é escalar a
+cultura para um novo tamanho.
+Muito da cultura organizacional
+e algumas das coisas que institucionalizamos
+foi para uma empresa com 500 funcionários.
+Agora nós temos mais de 2 mil
+e eu quero ter certeza
+de que o ambiente continue
+como uma startup em rápido crescimento.
+Ela ainda é orientada ao produto.
+Todos ainda são guiados pela missão da empresa.
+E isso significa um monte
+de métodos e comportamentos
+O dia-a-dia mudou.
+O outro problema, entretanto,
+talvez o maior deles é
+E que a maioria das empresas que é realmente grande
+têm mais de um produto.
+A Apple tem o Mac, mas
+também tem o iPhone,
+o iPod, o iPad, o relógio
+e poucas empresas
+têm apenas um produto.
+Digo, vocês têm várias
+fontes de receita, certo?
+Vocês não têm só uma fonte de receita.
+Quase nenhuma empresa no
+mundo tem apenas um produto.
+Quer dizer, o Google talvez seja
+a mais notável exceção
+que não tem tantos produtos,
+e sim um único produto que
+gera a maior parte da receita.
+Então, esse é meu desafio agora.
+O produto-chave pode continuar a crescer,
+mas há oportunidades
+de lançar outros produtos.
+E parte de mim pensa,
+'Bem, eu sei como lançar um produto."
+Eu já lancei um.
+Mas como eu lanço um
+produto ou um negócio novo
+dentro de um negócio que
+já existe e já tem sucesso?
+É… eu pensei que fosse
+como na primeira vez.
+Acontece que, começar um negócio novo
+dentro de um já existente, que já tem sucesso
+é muito diferente do que começar um negócio do zero,
+porque você tem algumas
+situações que ajudam.
+Por exemplo, você pode pegar pessoas da propria empresa,
+você tem financiamento ilimitado,
+mas você também tem problemas
+que você jamais imaginou.
+Como algumas pessoas de dentro da empresa
+que tentam barrar o negócio.
+E eles não fazem isso de propósito,
+mas você tenta pegar as
+melhores pessoas para o time,
+e eles pensam "não, não podemos fazer isso"
+ou “por que nós estamos focando nisso,
+se nós temos que consertar aquilo”.
+Então essa é uma grande questão em
+que eu estou focando agora,
+é tentar criar um negócio novo
+dentro de uma empresa existente
+e você, basicamente,
+você está mudando de ser
+uma empresa de apenas um produto
+para uma empresa com dois produtos
+Essa é uma enorme mudança.
+E isso é algo que eu
+tenho pensado muito agora.
+E eu acredito que todas as empresas
+que pretendem prosperar têm que fazer.
+Porque se você for uma empresa de tecnologia,
+você não pode supor que sua invenção original,
+seu produto original é
+a coisa que você continuará vendendo
+daqui a muitos anos no futuro.
+- [Reid] Então vamos agradecer ao Brian por hoje.
+(aplausos)
+- Obrigado, pessoal. [Legendas por Fred Filho e Marcio S. Galli]
