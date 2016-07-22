@@ -1,2875 +1,634 @@
-WEBVTT
-Kind: captions
-Language: en
-- [John] Okay, good,
-so thanks, third week,
-so the first couple weeks, no surprise,
-a lot of people knew the material.
-We intentionally went
-and found three investors
-that we thought were
-important, and impressive,
-and we respect a lot,
-Ann and Michael and Sam,
-to give different perspectives on how they
-think about the work, how
-they think about startups,
-and I think a lot of
-the feedback we got was
-you can see a lot of
-themes that we're saying,
-some of the repetition
-and people wanted more
-and more specificity.
-So today you're going to
-get a ton of specificity.
-We're going to talk a lot about Mozilla,
-which is a story that I know really well,
-and I'll explain in great
-detail why it's important
-in this new phase, the OS2
-sort of 15-150 person stage.
-And I'd like this to be as
-interactive as possible,
-so you're not going to
-find a person who knows
-quite a lot much better than I do,
-and so lots of questions would be good.
-And then, so we'll do a little recap,
-we'll do a little into to OS2,
-we'll do a lot of Mozilla,
-and then Allen's going to have a lot
-of specifics around
-scaling and resourcing.
-And one of the things
-you're gonna find is that
-there's abstract comments
-that are actually abstract,
-there are specific comments
-that sound abstract,
-and then there's specific concepts
-that don't generalize that well.
-And so we're going to talk about a lot
-and the trick will be, you know,
-we're going to go into
-a lot of specificity,
-and generalizing out from
-that, that'll be the key.
-But I think you will
-find that, especially now
-as you move from investors to operators,
-things are going to start
-moving more and more quickly
-and more and more specifically.
-And then we'll prep for
-Thursday, that's it.
-So, let's make this as
-interactive as we can,
-so what themes did people feel
-like were very, very common
-across Sam, Ann, and Michael,
-in the last couple of weeks?
-- Move fast.
-- Move fast and specifically
-make decisions quickly, right?
-What else?
-- A relentless and realistic user focus.
-- User focus, right, so making sure
-that you build something
-people care about.
-- Fa-rfasting make sure you're managing
-your personal far-fast
-- Far-fast, was that a
-theme that was common?
-I don't remember
-Sam did, yeah, Michael
-maybe did, too, yep.
+WEBVTTKind: captionsLanguage: en- [John] Okay, good,so thanks, third week,so the first couple weeks, no surprise,a lot of people knew the material.
+We intentionally wentand found three investorsthat we thought wereimportant, and impressive,and we respect a lot,Ann and Michael and Sam,to give different perspectives on how theythink about the work, howthey think about startups,and I think a lot ofthe feedback we got wasyou can see a lot ofthemes that we're saying,some of the repetitionand people wanted moreand more specificity.
+So today you're going toget a ton of specificity.
+We're going to talk a lot about Mozilla,which is a story that I know really well,and I'll explain in greatdetail why it's importantin this new phase, the OS2sort of 15-150 person stage.
+And I'd like this to be asinteractive as possible,so you're not going tofind a person who knowsquite a lot much better than I do,and so lots of questions would be good.
+And then, so we'll do a little recap,we'll do a little into to OS2,we'll do a lot of Mozilla,and then Allen's going to have a lotof specifics aroundscaling and resourcing.
+And one of the thingsyou're gonna find is thatthere's abstract commentsthat are actually abstract,there are specific commentsthat sound abstract,and then there's specific conceptsthat don't generalize that well.
+And so we're going to talk about a lotand the trick will be, you know,we're going to go intoa lot of specificity,and generalizing out fromthat, that'll be the key.
+But I think you willfind that, especially nowas you move from investors to operators,things are going to startmoving more and more quicklyand more and more specifically.
+And then we'll prep forThursday, that's it.
+So, let's make this asinteractive as we can,so what themes did people feellike were very, very commonacross Sam, Ann, and Michael,in the last couple of weeks?- Move fast.
+- Move fast and specificallymake decisions quickly, right?What else?- A relentless and realistic user focus.
+- User focus, right, so making surethat you build somethingpeople care about.
+- Fa-rfasting make sure you're managingyour personal far-fast- Far-fast, was that atheme that was common?I don't rememberSam did, yeah, Michaelmaybe did, too, yep.
 So Far-fast, far quickly.
-Are there themes that were common?
-- Don't start a company unless
-it's bursting out of you.
-- Yeah don't start a company
-unless it's bursting outta ya.
-I think you each got a different flavor
-of that specific comment.
-Other things that were common?
-- Don't do it alone.
+Are there themes that were common?- Don't start a company unlessit's bursting out of you.
+- Yeah don't start a companyunless it's bursting outta ya.
+I think you each got a different flavorof that specific comment.
+Other things that were common?- Don't do it alone.
 Unless that's the deal, yeah.
 Unless you are alone, yeah.
 Yep, that's a good comment, yep.
-(laughter)
-- Forever alone.
+(laughter)- Forever alone.
 - The authenticity of the founding story.
-- Yeah, authenticity
-of the founding story,
-that's interesting.
-I guess that did come up,
-certainly with Michael,
-less so with Ann and Sam, right?
-Other things that were--
-- [Male student] Sam talked about it.
+- Yeah, authenticityof the founding story,that's interesting.
+I guess that did come up,certainly with Michael,less so with Ann and Sam, right?Other things that were--- [Male student] Sam talked about it.
 - Yeah? Okay, good.
-- Just a strong focus on
-product, product development,
-product market fit, and
-ignoring everything else.
+- Just a strong focus onproduct, product development,product market fit, andignoring everything else.
 - Yeah, what to ignore is a key.
-I think everybody who's gone
-through this journey realizes
-that you're tryin' to
-pile about pounds of work
-into about a three pound bag,
-and so figuring out which
-three pounds to take with you is key.
+I think everybody who's gonethrough this journey realizesthat you're tryin' topile about pounds of workinto about a three pound bag,and so figuring out whichthree pounds to take with you is key.
 So let's go to the board.
-So here's the ones that, oh, yeah,
-So what was most divergent
-across the three of them?
-Was there anything that was divergent?
-(audio muffled)
-Yeah, diversity and how
-much diversity matters,
-I think is a key.
-I think, actually, its a
-pretty controversial topic
-everywhere.
-I think people don't have a good sense
-of what the real benefits
-and costs of diversity are
-so early.
-What else was divergent?
-(audio muffled)
-Yeah, that's right, so
-Ann had a structured theme
-which was how do you build
-proprietary advantage,
-proprietary power, whereas Sam
-just wants you to build
-things that people love.
-Yeah, I think Sam has
-a much simpler frame,
-and it actually matches
-why commentator stream
-in a lot of ways, build
-things that people love,
-the rest of it works out.
-We'll see, there's lots
-of ways that that's true,
-and lots a ways that it's not so true.
-The other things that were divergent?
-- The early financing structure, some like
-(audio drowned out by
-instructor's laughter)
-- Yeah, so Sam invented Safe
-Notes which Michael hates,
-that's true.
-You guys really liked
-the financing discussion,
-that was surprising but I guess
-shouldn't be that
-surprising in retrospect.
-Financing is not that
-interesting, but we can talk about
-it a little bit more if you guys want to.
+So here's the ones that, oh, yeah,So what was most divergentacross the three of them?Was there anything that was divergent?(audio muffled)Yeah, diversity and howmuch diversity matters,I think is a key.
+I think, actually, its apretty controversial topiceverywhere.
+I think people don't have a good senseof what the real benefitsand costs of diversity areso early.
+What else was divergent?(audio muffled)Yeah, that's right, soAnn had a structured themewhich was how do you buildproprietary advantage,proprietary power, whereas Samjust wants you to buildthings that people love.
+Yeah, I think Sam hasa much simpler frame,and it actually matcheswhy commentator streamin a lot of ways, buildthings that people love,the rest of it works out.
+We'll see, there's lotsof ways that that's true,and lots a ways that it's not so true.
+The other things that were divergent?- The early financing structure, some like(audio drowned out byinstructor's laughter)- Yeah, so Sam invented SafeNotes which Michael hates,that's true.
+You guys really likedthe financing discussion,that was surprising but I guessshouldn't be thatsurprising in retrospect.
+Financing is not thatinteresting, but we can talk aboutit a little bit more if you guys want to.
 So, yeah, sure.
-(audio muffled)
-Oh, interesting, so Michael
-and Reid diverged a little bit
-on how to make decisions
-inside the company.
-When he said Michael,
-said let the markets win,
-Reid says
-(audio muffled)
-- Yeah, internal market.
+(audio muffled)Oh, interesting, so Michaeland Reid diverged a little biton how to make decisionsinside the company.
+When he said Michael,said let the markets win,Reid says(audio muffled)- Yeah, internal market.
 I wonder if Micheal really meant that.
-I mean, Michael really,
-really believes in markets.
+I mean, Michael really,really believes in markets.
 Really, really.
-And Reid like really
-believes in how smart he is
-as a single founder and people like him
-and it turns out it's pretty true.
-People like Reid are very good
-at making decisions very fast.
-So that's interesting,
-interesting difference.
-Other divergences?
-Alright, let's move forward then.
+And Reid like reallybelieves in how smart he isas a single founder and people like himand it turns out it's pretty true.
+People like Reid are very goodat making decisions very fast.
+So that's interesting,interesting difference.
+Other divergences?Alright, let's move forward then.
 - Sure. Oops.
 Alright, so let's ed.
-We talked about a bunch of
-things in the sort of OS1 phase
-which is this small phase.
+We talked about a bunch ofthings in the sort of OS1 phasewhich is this small phase.
 But things are about to move more quickly.
-Just to remind you where we are,
-we have five phases we were
-talking about during the quarter
-so we talked about the
-OS1 phase quite a bit.
-We're gonna do basically
-two weeks on each of these,
-and we're changing our focus right now
-to what makes OS2, organizational
-skill two, what it is.
-Those numbers, again, are just ballparks,
-they're just like ways in
-which you can sort of identify
-kind of roughly where
-somebody actually is.
-But I think one of the
-things which really changes
-what you're focusing on.
-So, when we talked about OS1,
-this is basically what
-we were talking about.
-So got to identify a
-non-obvious market opportunity
-where you have a unique
-advantage or approach.
-Right, so you remember when
-Ann went through her types
-of power in an organization?
-She talked about proprietary power.
-In a lot of ways, this unique
-advantage or unique market
-is a great example of proprietary power.
+Just to remind you where we are,we have five phases we weretalking about during the quarterso we talked about theOS1 phase quite a bit.
+We're gonna do basicallytwo weeks on each of these,and we're changing our focus right nowto what makes OS2, organizationalskill two, what it is.
+Those numbers, again, are just ballparks,they're just like ways inwhich you can sort of identifykind of roughly wheresomebody actually is.
+But I think one of thethings which really changeswhat you're focusing on.
+So, when we talked about OS1,this is basically whatwe were talking about.
+So got to identify anon-obvious market opportunitywhere you have a uniqueadvantage or approach.
+Right, so you remember whenAnn went through her typesof power in an organization?She talked about proprietary power.
+In a lot of ways, this uniqueadvantage or unique marketis a great example of proprietary power.
 And it's actually a big component.
-This is essentially proprietary power
-and the second one is product power,
-that ability to build custom
-fit between the product
-and the market.
-Just as an example, just to
-remind people sort of where
-we are, if you're talking
-about Linkedin and this,
-what we're talking about
-was we had a market,
-it was basically thought
-it was every professional,
-every professional would be doing a search
-on a regular basis.
-Our unique approach was
-to build a social network
-in order to build up a
-huge search base in order
-to allow people to do it,
-and our product market fit
-was with people who wanted to search.
-Again, we thought that was everybody,
-it turns out that it turned
-out to be recruiters for us.
-But that's an example
-of those various pieces.
-So now you've got this plan
-and you've got this notion of value.
-People have read The Lean Startup I assume
-Eric, when he talks about
-He talks about two concepts
-you need to test early
-in the process.
+This is essentially proprietary powerand the second one is product power,that ability to build customfit between the productand the market.
+Just as an example, just toremind people sort of wherewe are, if you're talkingabout Linkedin and this,what we're talking aboutwas we had a market,it was basically thoughtit was every professional,every professional would be doing a searchon a regular basis.
+Our unique approach wasto build a social networkin order to build up ahuge search base in orderto allow people to do it,and our product market fitwas with people who wanted to search.
+Again, we thought that was everybody,it turns out that it turnedout to be recruiters for us.
+But that's an exampleof those various pieces.
+So now you've got this planand you've got this notion of value.
+People have read The Lean Startup I assumeEric, when he talks aboutHe talks about two conceptsyou need to test earlyin the process.
 The first one is a value hypothesis.
-The value hypothesis is:
-can I actually provide value
-to people who are in my market?
-The second one is the growth hypothesis
-and the growth hypothesis is:
-okay, we've got a product
-market fit, we've got value,
-how are we actually gonna
-get to the next scale?
-So, this is really the message for OS2.
-The core concept is: I've got
-something which is working
-in the market, how do I effectively get it
-to a large market scale?
-So pretty much everything
-we're gonna be talking about
-when we talk about OS2 scale companies,
-is how you go from a great idea
-with good product market fit
-but in a limited space getting
-out to extremely broad growth
-and basically delivering
-that value to everybody.
-There are three parts of
-basically what you need to do.
-So the first one is you need
-to create a plan for growth,
-you need to execute and
-learn from it, rethink it,
-and build market share.
-So there's a lot of information
-about this, Eric talks about
-it in his book, we're gonna
-be talking about it today,
-specifically about how Mozilla grew.
-The second thing is
-you need to adjust your
-product market fit as you go along,
-'cause you're gonna learn things about it.
-One thing which is crazy
-about all this stuff
-is that everything you think
-you know about your plan
-and everything you think you know
-about your product market
-fit, is up for debate.
-So you're gonna learn that
-and the importance of being
-able to learn effectively
-from the situation
-and react to it quickly,
-is truly essential.
-The third thing you have to
-worry about is you have to worry
-about competition 'cause
-you're now in a position
-where you're actually
-probably have other start-ups
-who know who you are and
-know what you're working on
-and find the space your
-in actually interesting.
-The question is, how do you
-actually make sure you get the
-market share before they're
-able to get the market share?
-And I know this is a big
-component of what we're actually
-talking about today with Mozilla.
-The key component of this
-is being able to move
-really, really quickly.
-Okay, so this is the basic
-goal for OS2 and what you
-actually do achieve.
-How do you do it?
-Well you kinda have to become the tribe.
-You need to have more resources
-to be able to get things done,
-so it means a bigger team
-in order to learn and build effectively.
-It means new functions that
-you haven't had to have before
-because you need to interact
-with customers at a large scale
-whether you're not a
-price offer or consumer
-Go ahead.
-- This is on the previous
-slide, I'm just curious
-with the competition stuff,
-were there certain things
-that early competitors to
-Linkedin that you, in hindsight,
-realize that they'd been
-wrong? Specifically?
-- So we can talk about this
-So we had exactly the situation with--
-- [John] So the question was.
+The value hypothesis is:can I actually provide valueto people who are in my market?The second one is the growth hypothesisand the growth hypothesis is:okay, we've got a productmarket fit, we've got value,how are we actually gonnaget to the next scale?So, this is really the message for OS2.
+The core concept is: I've gotsomething which is workingin the market, how do I effectively get itto a large market scale?So pretty much everythingwe're gonna be talking aboutwhen we talk about OS2 scale companies,is how you go from a great ideawith good product market fitbut in a limited space gettingout to extremely broad growthand basically deliveringthat value to everybody.
+There are three parts ofbasically what you need to do.
+So the first one is you needto create a plan for growth,you need to execute andlearn from it, rethink it,and build market share.
+So there's a lot of informationabout this, Eric talks aboutit in his book, we're gonnabe talking about it today,specifically about how Mozilla grew.
+The second thing isyou need to adjust yourproduct market fit as you go along,'cause you're gonna learn things about it.
+One thing which is crazyabout all this stuffis that everything you thinkyou know about your planand everything you think you knowabout your product marketfit, is up for debate.
+So you're gonna learn thatand the importance of beingable to learn effectivelyfrom the situationand react to it quickly,is truly essential.
+The third thing you have toworry about is you have to worryabout competition 'causeyou're now in a positionwhere you're actuallyprobably have other start-upswho know who you are andknow what you're working onand find the space yourin actually interesting.
+The question is, how do youactually make sure you get themarket share before they'reable to get the market share?And I know this is a bigcomponent of what we're actuallytalking about today with Mozilla.
+The key component of thisis being able to movereally, really quickly.
+Okay, so this is the basicgoal for OS2 and what youactually do achieve.
+How do you do it?Well you kinda have to become the tribe.
+You need to have more resourcesto be able to get things done,so it means a bigger teamin order to learn and build effectively.
+It means new functions thatyou haven't had to have beforebecause you need to interactwith customers at a large scalewhether you're not aprice offer or consumerGo ahead.
+- This is on the previousslide, I'm just curiouswith the competition stuff,were there certain thingsthat early competitors toLinkedin that you, in hindsight,realize that they'd beenwrong? Specifically?- So we can talk about thisSo we had exactly the situation with--- [John] So the question was.
 - I'll repeat the question.
-Were there early competitors to Linkedin?
-Basically people who we saw or we think we
-And why'd they mess up?
-So yes, the answer is
-yes, there were a bunch.
-When we launched Linkedin
-within two or three months
-there were three other
-competitive products,
-all of which were heading
-for the same space,
-which entered the market during that time.
-(audio muffled)
-They were all Tier 1, they
-were all tiny little companies
-that were trying to
-build product market fit.
+Were there early competitors to Linkedin?Basically people who we saw or we think weAnd why'd they mess up?So yes, the answer isyes, there were a bunch.
+When we launched Linkedinwithin two or three monthsthere were three othercompetitive products,all of which were headingfor the same space,which entered the market during that time.
+(audio muffled)They were all Tier 1, theywere all tiny little companiesthat were trying tobuild product market fit.
 - [John] None of 'em scaled fast enough.
 - And none of 'em scaled fast enough.
 - [John] It's a race to scale.
-- It's a race to scale and the reason
-that it actually worked out
-for us and it didn't work out
-for them is because we
-took this very seriously.
-This idea that you have to grow
-in order to generate value.
-They moved very quickly
-to advanced features
-and they moved very quickly
-to how do I monetize this?
-Without actually locking in
-the market share necessary
-to make the thing successful.
-So they were trying to
-build features on top of
-and try to sell the product
-before they actually had
-effective value to sell.
-And that meant we got to
-continue to concentrate on growth
-which is how we were able
-to exit the OS2 phase
-and move one.
-They actually did different
-stuff a little bit,
-so two of them did that.
-One of them had an approach
-which simply didn't work
-and there was a fourth
-one which basically had
-actually two of them had
-approaches that didn't work.
-One of them thought the entire
-social graph lived inside
-the enterprise, it's called visible path.
-And basically, it's whole
-idea was mine people's e-mail
-to discover what those
-connections are and auto-generate
-your group social graph.
-The problem was that in order
-to do that, they had to get
-inside each company and
-inside each e-mail service
-to be able to actually make
-it happen, so it was too slow.
-The other one was called
-Spoke and Spoke was entirely
-focused on one vertical
-and not a diverse network.
+- It's a race to scale and the reasonthat it actually worked outfor us and it didn't work outfor them is because wetook this very seriously.
+This idea that you have to growin order to generate value.
+They moved very quicklyto advanced featuresand they moved very quicklyto how do I monetize this?Without actually locking inthe market share necessaryto make the thing successful.
+So they were trying tobuild features on top ofand try to sell the productbefore they actually hadeffective value to sell.
+And that meant we got tocontinue to concentrate on growthwhich is how we were ableto exit the OS2 phaseand move one.
+They actually did differentstuff a little bit,so two of them did that.
+One of them had an approachwhich simply didn't workand there was a fourthone which basically hadactually two of them hadapproaches that didn't work.
+One of them thought the entiresocial graph lived insidethe enterprise, it's called visible path.
+And basically, it's wholeidea was mine people's e-mailto discover what thoseconnections are and auto-generateyour group social graph.
+The problem was that in orderto do that, they had to getinside each company andinside each e-mail serviceto be able to actually makeit happen, so it was too slow.
+The other one was calledSpoke and Spoke was entirelyfocused on one verticaland not a diverse network.
 It was only for salespeople.
-So basically no one else
-wanted to be part of it.
-So they couldn't effectively
-grow, they had built something
-into their approach which
-prevented them from growing.
-- [John] But another piece
-I think, if you wanna talk
-about a lot here is that it's
-the little confusing figuring
-out who your competition is.
-- Do you wanna step down
-so they can see you?
-- Okay, so I remember in
-2007, I was with Reid,
-talking about his growth and
-he was really, really thinking
-about how to grow faster Linkedin
-because they clearly left
-Spoke and those guys behind at that point,
-but Facebook was what he
-was thinking about a lot.
-It was like why are we growing,
-I don't even remember, 2007.
-- In 2007 we had about
-three and a half million,
-four million.
-- So looking at Facebook, it
-was like Facebook's growth
-is much, much faster, do we need to get
-on our trajectory there?
-Or do we need to go to
-college and that kinda stuff
-and Facebook looked
-like a clear competitor,
-which in hindsight was not right.
-Facebook isn't really
-competitive, it's separate--
-- [Allen] It's quasi competitive.
+So basically no one elsewanted to be part of it.
+So they couldn't effectivelygrow, they had built somethinginto their approach whichprevented them from growing.
+- [John] But another pieceI think, if you wanna talkabout a lot here is that it'sthe little confusing figuringout who your competition is.
+- Do you wanna step downso they can see you?- Okay, so I remember in2007, I was with Reid,talking about his growth andhe was really, really thinkingabout how to grow faster Linkedinbecause they clearly leftSpoke and those guys behind at that point,but Facebook was what hewas thinking about a lot.
+It was like why are we growing,I don't even remember, 2007.
+- In 2007 we had aboutthree and a half million,four million.
+- So looking at Facebook, itwas like Facebook's growthis much, much faster, do we need to geton our trajectory there?Or do we need to go tocollege and that kinda stuffand Facebook lookedlike a clear competitor,which in hindsight was not right.
+Facebook isn't reallycompetitive, it's separate--- [Allen] It's quasi competitive.
 - [John] Right.
 - [Allen] Yep.
-- Along those same lines,
-I think we talk a lot
-about product market
-fit, like someone said
-build something users will
-love, but how do you address
-market choice being
-really more of a choice
-that you're making about
-who are your competitors?
-(audio distorts)
-- So the question is, you
-sometimes choose your market
-and you choose your
-competitors at some level,
-but the truth is you don't really do that
-so much as your customers do, but...
-- Well, this actually goes
-back to the very first idea
-up here, is this non-obvious
-market opportunity
-with unique approach is actually the bet
-that everybody makes at the beginning.
-You have a market you're
-actually trying to reach,
-you have a unique way to do it.
-The question is, is your way
-going to be more successful
-than this way over here?
-You are in fact choosing the
-competitors and basically,
-defining the competitive space
-when you pick your approach.
-For Linkedin it was build
-a social network in order
-to build a huge search base.
-Which was different than the so--
-(audio muffled)
-So, kinda depends, I'll
-tell ya what happened
-in Linkedin's case.
-- The question is the balance
-between what the founders
-think is the market and
-what users are telling them
-is the market.
-- Yeah, so the really
-challenging thing for Linkedin
-was that we actually had,
-truth be told, pretty weak
-product market fit in the early days.
-This is one of the reasons we didn't grow
-and when we get to the end
-we'll talk about growing
-through value which matters a huge amount.
-Facebook, any messaging
-platform you look at right now,
-they're all growing through value.
-The reason there are 700
-million people using WhatsApp
-is because people, to get their value,
-they attract their
-friends into the system.
-That didn't exist on Linkedin
-because the value was search.
-We started with an empty
-search base and the growth
-of Linkedin was to build
-the search base in order
-to get the product market fit.
-So in some ways, we didn't
-have a feedback loop
-which was telling us what
-the value was except saying,
-there's no one here who I wanna find.
-And so that's what we
-basically paid attention to
-is we trusted our original
-approach but all we could do
-is we just move forward and say
-we're gonna get the value someday.
-- So there's some people (audio muffled)
-- Yep.
+- Along those same lines,I think we talk a lotabout product marketfit, like someone saidbuild something users willlove, but how do you addressmarket choice beingreally more of a choicethat you're making aboutwho are your competitors?(audio distorts)- So the question is, yousometimes choose your marketand you choose yourcompetitors at some level,but the truth is you don't really do thatso much as your customers do, but...
+- Well, this actually goesback to the very first ideaup here, is this non-obviousmarket opportunitywith unique approach is actually the betthat everybody makes at the beginning.
+You have a market you'reactually trying to reach,you have a unique way to do it.
+The question is, is your waygoing to be more successfulthan this way over here?You are in fact choosing thecompetitors and basically,defining the competitive spacewhen you pick your approach.
+For Linkedin it was builda social network in orderto build a huge search base.
+Which was different than the so--(audio muffled)So, kinda depends, I'lltell ya what happenedin Linkedin's case.
+- The question is the balancebetween what the foundersthink is the market andwhat users are telling themis the market.
+- Yeah, so the reallychallenging thing for Linkedinwas that we actually had,truth be told, pretty weakproduct market fit in the early days.
+This is one of the reasons we didn't growand when we get to the endwe'll talk about growingthrough value which matters a huge amount.
+Facebook, any messagingplatform you look at right now,they're all growing through value.
+The reason there are 700million people using WhatsAppis because people, to get their value,they attract theirfriends into the system.
+That didn't exist on Linkedinbecause the value was search.
+We started with an emptysearch base and the growthof Linkedin was to buildthe search base in orderto get the product market fit.
+So in some ways, we didn'thave a feedback loopwhich was telling us whatthe value was except saying,there's no one here who I wanna find.
+And so that's what webasically paid attention tois we trusted our originalapproach but all we could dois we just move forward and saywe're gonna get the value someday.
+- So there's some people (audio muffled)- Yep.
 Yep.
-You know what, we had
-potential product market fit.
-Yeah because we had
-identified, for instance,
-recruiters are a great example.
-Recruiters absolutely loved
-the concept of the product
-but the problem is when
-they went and searched,
-the search base was too small.
-But the product market
-fit was actually there
-but only with this specific
-people who could envision
-what it would be like when
-we had a ton of people
-on the network.
-- So did you guys focus
-on new growth aspects?
-- Exactly.
-(audio muffled)
-Yes.
-So the question is in what
-cases does it make sense
-to focus on growth rather than
-focus on product market fit?
-I would really, I think that
-the Linkedin case was actually
-a fairly unique one,
-but I don't know, John,
-you can talk to, more examples--
-- If you get the product
-right, get the product right.
-Focusing on growth before
-you get the product right
-is a excellent way to
-just lay a ton of money.
-- Just keep pouring it in
-and people just don't use it
-and that problem got more
-and more and more acute
-as the number of start-ups has exploded.
-- And the only reason we
-did it is because we knew
-that we had to get the
-growth before we could get
-to product value.
-- And they found their
-super-users, so Linkedin found--
-- [Allen] And we'll talk
-about that in a little bit.
-- Yeah, so we'll wait, so hold this thing
-we'll come back to it.
-- So three things you need
-to do, becoming a tribe
-requires you to bring on new
-capabilities and new services
-which means expanding the group.
-Certain kinds of
-investments in technology.
+You know what, we hadpotential product market fit.
+Yeah because we hadidentified, for instance,recruiters are a great example.
+Recruiters absolutely lovedthe concept of the productbut the problem is whenthey went and searched,the search base was too small.
+But the product marketfit was actually therebut only with this specificpeople who could envisionwhat it would be like whenwe had a ton of peopleon the network.
+- So did you guys focuson new growth aspects?- Exactly.
+(audio muffled)Yes.
+So the question is in whatcases does it make senseto focus on growth rather thanfocus on product market fit?I would really, I think thatthe Linkedin case was actuallya fairly unique one,but I don't know, John,you can talk to, more examples--- If you get the productright, get the product right.
+Focusing on growth beforeyou get the product rightis a excellent way tojust lay a ton of money.
+- Just keep pouring it inand people just don't use itand that problem got moreand more and more acuteas the number of start-ups has exploded.
+- And the only reason wedid it is because we knewthat we had to get thegrowth before we could getto product value.
+- And they found theirsuper-users, so Linkedin found--- [Allen] And we'll talkabout that in a little bit.
+- Yeah, so we'll wait, so hold this thingwe'll come back to it.
+- So three things you needto do, becoming a triberequires you to bring on newcapabilities and new serviceswhich means expanding the group.
+Certain kinds ofinvestments in technology.
 Business operations.
-Basically, now that you've
-got between 10 and 50 people
-in the company, you
-need to have an office,
-you need to have keys and so people
-can get into the damn office.
-The reason this is important
-is that basically you're kinda
-setting up two teams,
-so you have team one,
-which is basically the team
-which is working on the scale
-and the growth.
-Then you've got team two,
-which is defending team one.
-Team two is there to
-make sure the founders
-and the engineers don't get
-distracted by having to deal
-with things like ordering
-food in on a regular basis.
-So we got two, that's what number three is
-and then the right financing
-and capital allocation
-because at some point you're gonna need
-to pay all these people a salary.
-Your financial needs are
-different in the world of OS2
-than they were in OS1.
+Basically, now that you'vegot between 10 and 50 peoplein the company, youneed to have an office,you need to have keys and so peoplecan get into the damn office.
+The reason this is importantis that basically you're kindasetting up two teams,so you have team one,which is basically the teamwhich is working on the scaleand the growth.
+Then you've got team two,which is defending team one.
+Team two is there tomake sure the foundersand the engineers don't getdistracted by having to dealwith things like orderingfood in on a regular basis.
+So we got two, that's what number three isand then the right financingand capital allocationbecause at some point you're gonna needto pay all these people a salary.
+Your financial needs aredifferent in the world of OS2than they were in OS1.
 So that, we should talk about Mozilla.
-- Okay, so we're gonna talk
-about Mozilla for a little while
-now so it's gonna be
-about 30 or 40 minutes.
+- Okay, so we're gonna talkabout Mozilla for a little whilenow so it's gonna beabout 30 or 40 minutes.
 So please ask questions all along the way.
-As I was going through this
-I went back to board decks
-and some other things
-I'm gonna share actual
-board decks with you,
-so we'll talk about some specifics.
-What I realized is the world
-is so different in 2015
-than in 2004 when Firefox
-launched, I need to explain
-it a little bit.
-So, we're just gonna talk about
-the period from 2005 to 2008
-there's other interesting
-stuff on both sides of that
-but this is the period we'll talk about.
+As I was going through thisI went back to board decksand some other thingsI'm gonna share actualboard decks with you,so we'll talk about some specifics.
+What I realized is the worldis so different in 2015than in 2004 when Firefoxlaunched, I need to explainit a little bit.
+So, we're just gonna talk aboutthe period from 2005 to 2008there's other interestingstuff on both sides of thatbut this is the period we'll talk about.
 So here's some context.
-So 2004, nobody's gonna
-remember this, instead of Max
-out there, actually most people
-actually didn't have laptops
-in class so much in 2004, but a few did,
-but they were all Windows
-and IE was something like
-95% market share.
-And this is not an exaggeration,
-95, 96% market share
-and that's what that looks like.
-So, not only did they have
-market share, they also had
-100% dominate distribution
-which is IE came bundled
-on your machine, so you got a
-machine, and you got a browser
-and there was no app store and
-there was no nothing really,
-and so if you wanted something
-else, you have to say.
-You have to make a decision,
-you have to say I don't want
-this thing, I want another
-thing that's like it
-and I'm gonna go find it to get it.
-Which sounds ridiculous in
-2015 but that's where it was.
-And so most people, Microsoft included,
-said, well, the browser's done.
-Microsoft killed Netscape,
-Microsoft killed AOL,
-they launched IE and in fact,
-Microsoft disbanded most
-of the IE team after this.
-They moved them on to
-something called Silverlight,
-which obviously was super important.
-(laughter)
-I make that joke a lot, so
-it's kind of a cheap shot,
-but whatever.
-I like Microsoft better now than I used to
-but they really, it's like they
-had the mission accomplished
-banner, it's like, okay, we won
-the web, let's move from IE6
-which we launched in
-2001 and then moved off
-and they really didn't
-launch IE7 until something
-like six years later.
+So 2004, nobody's gonnaremember this, instead of Maxout there, actually most peopleactually didn't have laptopsin class so much in 2004, but a few did,but they were all Windowsand IE was something like95% market share.
+And this is not an exaggeration,95, 96% market shareand that's what that looks like.
+So, not only did they havemarket share, they also had100% dominate distributionwhich is IE came bundledon your machine, so you got amachine, and you got a browserand there was no app store andthere was no nothing really,and so if you wanted somethingelse, you have to say.
+You have to make a decision,you have to say I don't wantthis thing, I want anotherthing that's like itand I'm gonna go find it to get it.
+Which sounds ridiculous in2015 but that's where it was.
+And so most people, Microsoft included,said, well, the browser's done.
+Microsoft killed Netscape,Microsoft killed AOL,they launched IE and in fact,Microsoft disbanded mostof the IE team after this.
+They moved them on tosomething called Silverlight,which obviously was super important.
+(laughter)I make that joke a lot, soit's kind of a cheap shot,but whatever.
+I like Microsoft better now than I used tobut they really, it's like theyhad the mission accomplishedbanner, it's like, okay, we wonthe web, let's move from IE6which we launched in2001 and then moved offand they really didn'tlaunch IE7 until somethinglike six years later.
 That's an amazing, amazing thing.
-So by the end of 2004,
-Mozilla had built Firefox 1.0
-and I guess I should mention
-some things about Mozilla.
+So by the end of 2004,Mozilla had built Firefox 1.0and I guess I should mentionsome things about Mozilla.
 So this was an unlikely thing to matter.
-Most people had decided
-Mozilla didn't care by 2004
-because Mozilla actually started
-in 1998 as part of Netscape
-and this is like a pretty prehistory.
-But a lot for me, all as I
-was putting this together,
-all seems exactly like yesterday.
+Most people had decidedMozilla didn't care by 2004because Mozilla actually startedin 1998 as part of Netscapeand this is like a pretty prehistory.
+But a lot for me, all as Iwas putting this together,all seems exactly like yesterday.
 I can see all these decision points.
-For all you it seems like
-prehistory from when you were kids
-or before you were born,
-maybe, naw, probably not
-before you were born, close.
-But so for Mozilla, it was
-this open-source project
-inside Netscape and they
-way the Mozilla started
-was a guy named Bob Lisbon who was running
-the Netscape project, he
-was thinking about how
-to compete with Microsoft,
-and this is a big,
-this is a really important lesson.
-He was up late, late one
-night, and he was worried
-that Netscape wasn't gonna
-keep pace with Microsoft,
-and Microsoft is hiring a
-ton of people and starting
-to spend more and more and
-more engineering resources
-and so software used to have
-this thing called Botbox
-and the Botbox would list
-the engineer's names on it
-who worked on it.
-And so one night, he went
-through the Microsoft products
-that he competed with from the Netscape GM
-and he started counting
-each of the people's names.
-And he had 200 people working
-on products at Netscape
-and he quit when he got
-to about 2,500 people
-he had counted at Microsoft.
-And so from him, he looks at
-it they have more than 10 times
-the people we have in 1998,
-there's no way for us to
-compete, symmetrically.
-And so we have to figure out
-how to do something different.
-And so from Bob, and this is
-well before my time in Mozilla,
-but from Bob what I learned
-is this idea, you have to
-compete asymmetrically
-in a market that exists.
+For all you it seems likeprehistory from when you were kidsor before you were born,maybe, naw, probably notbefore you were born, close.
+But so for Mozilla, it wasthis open-source projectinside Netscape and theyway the Mozilla startedwas a guy named Bob Lisbon who was runningthe Netscape project, hewas thinking about howto compete with Microsoft,and this is a big,this is a really important lesson.
+He was up late, late onenight, and he was worriedthat Netscape wasn't gonnakeep pace with Microsoft,and Microsoft is hiring aton of people and startingto spend more and more andmore engineering resourcesand so software used to havethis thing called Botboxand the Botbox would listthe engineer's names on itwho worked on it.
+And so one night, he wentthrough the Microsoft productsthat he competed with from the Netscape GMand he started countingeach of the people's names.
+And he had 200 people workingon products at Netscapeand he quit when he gotto about 2,500 peoplehe had counted at Microsoft.
+And so from him, he looks atit they have more than 10 timesthe people we have in 1998,there's no way for us tocompete, symmetrically.
+And so we have to figure outhow to do something different.
+And so from Bob, and this iswell before my time in Mozilla,but from Bob what I learnedis this idea, you have tocompete asymmetricallyin a market that exists.
 You cannot compete on the same field.
-And so like the war
-metaphor is you have to be
-more like the Americans,
-not the British, more GMI
-just be gorillas.
-Gorilla is GUER not
-GORI but both are good.
-So anyway, so that was Bob
-and they had started this
-open-source project and the
-open-source project of Mozilla
-they really wandered around the wilderness
-for a long, long time.
-They had this thing called
-the Mozilla Suite which
-was a browser and an HG
-monitor and an e-mail client
-because obviously you
-want all those things,
-everybody who's browsing
-the web obviously needs
-an HG e-mail editor.
+And so like the warmetaphor is you have to bemore like the Americans,not the British, more GMIjust be gorillas.
+Gorilla is GUER notGORI but both are good.
+So anyway, so that was Boband they had started thisopen-source project and theopen-source project of Mozillathey really wandered around the wildernessfor a long, long time.
+They had this thing calledthe Mozilla Suite whichwas a browser and an HGmonitor and an e-mail clientbecause obviously youwant all those things,everybody who's browsingthe web obviously needsan HG e-mail editor.
 That was the freak thing.
-I swear to God, this is
-what the world was like.
-You think I'm joking, but
-and your e-mail client
-was H-mail, whatever.
-So you'd pull forward and in 2003 and 2004
-there was a split in the
-Mozilla project and some people
-Blake Cross and some others.
-What their inside was is that maybe
-what people wanted was
-not an HG mail editor,
-maybe they just wanted a fast browser.
-And that's when Firefox was
-born and that was a very, very
-contentious debate.
-By the end of 2004,
-November 2004, they came out
-with Firefox 1.0 and it was
-kind of a lightning bolt.
+I swear to God, this iswhat the world was like.
+You think I'm joking, butand your e-mail clientwas H-mail, whatever.
+So you'd pull forward and in 2003 and 2004there was a split in theMozilla project and some peopleBlake Cross and some others.
+What their inside was is that maybewhat people wanted wasnot an HG mail editor,maybe they just wanted a fast browser.
+And that's when Firefox wasborn and that was a very, verycontentious debate.
+By the end of 2004,November 2004, they came outwith Firefox 1.0 and it waskind of a lightning bolt.
 There had been no new browsers really.
-This is the part where the opera
-guys will start to complain
-and I'll talk about that in a second.
-But really no new important
-browsers for a number of years.
-And this is what it was, it
-was fast, pop-up blocking,
-tab browsing, and innovative search.
-The feature that most people
-came for was pop-up blocking
-and anybody who's
-browsing the web in 2004,
-you'd browse for a few
-hours and you'd have 200,
-literally 200 little
-windows pop up with ads
-back before content blockers.
-The sustainable feature
-is that people really
-loved tab browsing and
-Mozilla was really the browser
-that popularized tab browsing.
-This is the part where the
-opera guys really scream 'cause
-they probably came up with
-it first, it's hard to tell.
+This is the part where the operaguys will start to complainand I'll talk about that in a second.
+But really no new importantbrowsers for a number of years.
+And this is what it was, itwas fast, pop-up blocking,tab browsing, and innovative search.
+The feature that most peoplecame for was pop-up blockingand anybody who'sbrowsing the web in 2004,you'd browse for a fewhours and you'd have 200,literally 200 littlewindows pop up with adsback before content blockers.
+The sustainable featureis that people reallyloved tab browsing andMozilla was really the browserthat popularized tab browsing.
+This is the part where theopera guys really scream 'causethey probably came up withit first, it's hard to tell.
 But the trigger was that IE was insecure.
-So as a consequence of IE
-not investing in their team,
-Internet Explorer Anonymous
-and their team Microsoft,
-they had security holes
-and so US security,
-a part, an arm of the
-government said you should
-not just use IE, you should
-have IE plus something.
-And so there was important
-product design happening
-but there was a hot trigger that happened
-that enabled it to succeed.
-So the key here though, is
-the product is important,
-but not enough.
-So competing asymmetrically
-is the other thing.
-So they launched in November
-of 2004 and naturally,
-they launched an ad.
-This is the craziest
-thing, and it's the story.
+So as a consequence of IEnot investing in their team,Internet Explorer Anonymousand their team Microsoft,they had security holesand so US security,a part, an arm of thegovernment said you shouldnot just use IE, you shouldhave IE plus something.
+And so there was importantproduct design happeningbut there was a hot trigger that happenedthat enabled it to succeed.
+So the key here though, isthe product is important,but not enough.
+So competing asymmetricallyis the other thing.
+So they launched in Novemberof 2004 and naturally,they launched an ad.
+This is the craziestthing, and it's the story.
 Mozilla said, well we're gonna launch.
-We don't have any money, but
-we have a lot of community.
-We have a lotta people
-who work on this with us.
-It's an open-source
-project, we have localizers
-in every country, so we're
-just gonna do a fundraise.
-And this is one of the
-funny things about history
-is that anytime you have
-a weird idea that works,
-like within a few months it
-becomes not a weird idea at all,
-it becomes the status quo.
-And so this was a Kickstarter
-campaign essentially,
-well before Kickstarter
-and so that doesn't seem
-like a shocking development.
+We don't have any money, butwe have a lot of community.
+We have a lotta peoplewho work on this with us.
+It's an open-sourceproject, we have localizersin every country, so we'rejust gonna do a fundraise.
+And this is one of thefunny things about historyis that anytime you havea weird idea that works,like within a few months itbecomes not a weird idea at all,it becomes the status quo.
+And so this was a Kickstartercampaign essentially,well before Kickstarterand so that doesn't seemlike a shocking development.
 This was a shocking development.
-So what Mozilla did is they
-ran a thing for 30 days
-and said if you send us
-$10, we'll put your name
-in the New York Times.
+So what Mozilla did is theyran a thing for 30 daysand said if you send us$10, we'll put your namein the New York Times.
 And so if you look at that...
 So that's what happened in New York Times.
-What they said is, we
-know people love Firefox,
-and it turns out they
-raised twice as much money
-as they needed, and so
-they had a second page,
-which was actually an ad
-you could actually read.
-But they shipped this in November
-and it got so much attention
-and a couple things happened.
-Number one, everybody who's name was in it
-went and bought a New
-York Times and showed
-it to their mom or their dad
-and said, look, look, look,
-my name's in the New York Times.
-And then the second thing that happened,
-is that we got a bunch of
-process stories written.
-And a process story is
-not about Firefox itself,
-but it's like, look what
-this crazy company is doing
-to get attention.
-So there were a lotta stories
-about us using this ad.
-And so there was just a
-big boom and it resulted
-in 10 million downloads
-in the first month.
-So the key for us was that,
-and this is before I got there,
-but the key was that
-Mozilla was the community.
+What they said is, weknow people love Firefox,and it turns out theyraised twice as much moneyas they needed, and sothey had a second page,which was actually an adyou could actually read.
+But they shipped this in Novemberand it got so much attentionand a couple things happened.
+Number one, everybody who's name was in itwent and bought a NewYork Times and showedit to their mom or their dadand said, look, look, look,my name's in the New York Times.
+And then the second thing that happened,is that we got a bunch ofprocess stories written.
+And a process story isnot about Firefox itself,but it's like, look whatthis crazy company is doingto get attention.
+So there were a lotta storiesabout us using this ad.
+And so there was just abig boom and it resultedin 10 million downloadsin the first month.
+So the key for us was that,and this is before I got there,but the key was thatMozilla was the community.
 It was the community.
 That's the asymmetric advantage.
-The way to take advantage
-of that, is let people see
-themselves in Mozilla and help them help.
-Give them tools so they can
-help, so they can proselytize,
-so they can evangelize, and
-what happened as a result,
-is that people felt
-ownership because they say,
-my $10, I sent it in,
-my name is in the paper,
-now I wanna go put Firefox
-on my library computers
-and my school computers
-and that's literally
-how it spread and became a
-little bit of a movement.
-And a lotta the language
-that early Mozilla used,
-and a lotta the techniques
-they used, were derived
-from a lotta the things
-that political campaigns do.
+The way to take advantageof that, is let people seethemselves in Mozilla and help them help.
+Give them tools so they canhelp, so they can proselytize,so they can evangelize, andwhat happened as a result,is that people feltownership because they say,my $10, I sent it in,my name is in the paper,now I wanna go put Firefoxon my library computersand my school computersand that's literallyhow it spread and became alittle bit of a movement.
+And a lotta the languagethat early Mozilla used,and a lotta the techniquesthey used, were derivedfrom a lotta the thingsthat political campaigns do.
 Grassroots campaigns.
-And again, this was off the core insight,
-which the community was
-everything for Mozilla.
-Yes, Chris?
-(audio muffled)
-Yeah, so Chris's question
-was, was doing stuff similair
-as political campaigns
-and grassroots campaigns
-by design? or was it accidental?
-They looked at the Howard Dean campaign
-which nobody's gonna
-exactly remember (laughter)
-But the Howard Dean campaign was special
-because it was one a the first
-campaigns that raised retail,
-raised money retail, raised
-money in 10, 50, 100 dollar
-increments and so they
-really understood how to
-They made a real connection
-until Howard Dean did this thing
-in a forum like this
-where he made funny noise
-and his campaign went
-like this after that.
+And again, this was off the core insight,which the community waseverything for Mozilla.
+Yes, Chris?(audio muffled)Yeah, so Chris's questionwas, was doing stuff similairas political campaignsand grassroots campaignsby design? or was it accidental?They looked at the Howard Dean campaignwhich nobody's gonnaexactly remember (laughter)But the Howard Dean campaign was specialbecause it was one a the firstcampaigns that raised retail,raised money retail, raisedmoney in 10, 50, 100 dollarincrements and so theyreally understood how toThey made a real connectionuntil Howard Dean did this thingin a forum like thiswhere he made funny noiseand his campaign wentlike this after that.
 Like that after this.
-But yeah, it was very
-intentional and then later,
-the Obama For America campaign in 2008
-took a lot of cues from
-both the growth of Facebook
-and the growth of Mozilla
-and that informed a lot
-of how I think technology spread now,
-which I think seems obvious
-which is it looks like political
-and social spread as
-much as anything else.
+But yeah, it was veryintentional and then later,the Obama For America campaign in 2008took a lot of cues fromboth the growth of Facebookand the growth of Mozillaand that informed a lotof how I think technology spread now,which I think seems obviouswhich is it looks like politicaland social spread asmuch as anything else.
 Sure.
 Yeah, well hang on a second.
-So the question was how and
-why did the initial community
-form to get to that point, I'll
-get to that in just a second
-so a key, let people see
-inside and this was successful.
-The launch worked, 10 million
-downloads in the first 30 days
-which 10 million was a
-big number even then.
-Growth is super strong, the
-financials are super strong
-because of another thing that happened
-which is the product.
-The Mozilla folks realized
-very early is that search
-is becoming a first-class
-way to access the web.
-It used to be just a
-URL bar where you typed
-the long URL and what they realized
-is that more and more people
-were typing just words
-into search.
-And this is early, this is a
-time before it was obviously
-Google was gonna win,
-it was Google and Yahoo
-were the two and I'll talk
-about it in just a second.
-And they built Google and Yahoo and search
-into the search box.
-So Mozilla was the first browser I think
-to have a search box in the top right.
-And worked a deal with
-Google to be able to pay for
-ads and clicks basically.
-And so as a result, the
-financials were strong,
-very, very clear product market fit
-and only 15 people in the organization.
-There was many, many more
-people outside the organization,
-'cause there'd been a long
-period of build-up where you
-had probably hundreds of people
-contributing source code,
-outside the organization,
-you had dozens of localizers,
-localizing into French and
-Italian and German and Polish,
-and then lots and lots
-of people took ownership
-by a campaign called Spread
-Firefox, which I'll show you
-which was if you wanna
-make this thing work,
-you all should help us spread it.
+So the question was how andwhy did the initial communityform to get to that point, I'llget to that in just a secondso a key, let people seeinside and this was successful.
+The launch worked, 10 milliondownloads in the first 30 dayswhich 10 million was abig number even then.
+Growth is super strong, thefinancials are super strongbecause of another thing that happenedwhich is the product.
+The Mozilla folks realizedvery early is that searchis becoming a first-classway to access the web.
+It used to be just aURL bar where you typedthe long URL and what they realizedis that more and more peoplewere typing just wordsinto search.
+And this is early, this is atime before it was obviouslyGoogle was gonna win,it was Google and Yahoowere the two and I'll talkabout it in just a second.
+And they built Google and Yahoo and searchinto the search box.
+So Mozilla was the first browser I thinkto have a search box in the top right.
+And worked a deal withGoogle to be able to pay forads and clicks basically.
+And so as a result, thefinancials were strong,very, very clear product market fitand only 15 people in the organization.
+There was many, many morepeople outside the organization,'cause there'd been a longperiod of build-up where youhad probably hundreds of peoplecontributing source code,outside the organization,you had dozens of localizers,localizing into French andItalian and German and Polish,and then lots and lotsof people took ownershipby a campaign called SpreadFirefox, which I'll show youwhich was if you wannamake this thing work,you all should help us spread it.
 Sure.
 Yeah.
 Yeah.
-Yeah, the question was,
-how do you convince,
-and security is kinda
-amorphous historic benefit
-and how do you convince
-users that they should care?
-The press did it for us.
-Wahl Mossburg did a review,
-that said Firefox 1.0
-is incredible and it happens
-to not be insecure like IE.
-And you get a lotta that stuff
-and so it's very, very hard
-to say.
+Yeah, the question was,how do you convince,and security is kindaamorphous historic benefitand how do you convinceusers that they should care?The press did it for us.
+Wahl Mossburg did a review,that said Firefox 1.0is incredible and it happensto not be insecure like IE.
+And you get a lotta that stuffand so it's very, very hardto say.
 For you to say well, we're super secure.
-Much, much easier for other
-people to talk about it.
-And one a the things about Mozilla
-You know, one of the commonalities
-in the first sessions
-was people said don't buy into the PR,
-PR, you know someone in PR?
-Mozilla was not like that,
-so like we felt community
-and messaging and PR, partly
-due to the guy who's CEO now,
-he's Chris Beard which is
-just strong communication,
-strong messaging and
-direct to the audience
-was always gonna be the way to do it.
-And so we had a lotta
-people telling it for us
-and so you said, well if you
-want Spread Firefox to win,
-tell your school principal,
-tell the IT guy at school
-that Firefox is more secure.
-Tell the library administrators
-it's more secure, and
-that really caught in a way
-that security doesn't usually.
+Much, much easier for otherpeople to talk about it.
+And one a the things about MozillaYou know, one of the commonalitiesin the first sessionswas people said don't buy into the PR,PR, you know someone in PR?Mozilla was not like that,so like we felt communityand messaging and PR, partlydue to the guy who's CEO now,he's Chris Beard which isjust strong communication,strong messaging anddirect to the audiencewas always gonna be the way to do it.
+And so we had a lottapeople telling it for usand so you said, well if youwant Spread Firefox to win,tell your school principal,tell the IT guy at schoolthat Firefox is more secure.
+Tell the library administratorsit's more secure, andthat really caught in a waythat security doesn't usually.
 That's right.
-So this is what I got there
-and I'll just tell a brief
-little story to illustrate
-what part of our product
-market fit feels like.
-So, I was actually looking
-for a different job
-so in 2005 I had left my
-start-up and I wanted to do VC
-and turns out being a VC
-is kind of fairly quirky
-job-seeking process.
+So this is what I got thereand I'll just tell a brieflittle story to illustratewhat part of our productmarket fit feels like.
+So, I was actually lookingfor a different jobso in 2005 I had left mystart-up and I wanted to do VCand turns out being a VCis kind of fairly quirkyjob-seeking process.
 Super, super quirky.
-And I went to Mozilla to
-help because I knew Mitchell
-from another board that I was on.
-And I went in to see them,
-maybe three months, four months
-after Firefox had launched
-because I was on another board
-with her and she always seemed very tired.
-I'm like, how's it going?
-And she's like, there's a lot
-going on, I'm really tired,
-I gotta go, bye.
-And so I just went to visit
-Mozilla and I went in, I had
-this amazing session where
-she said, here's all the stuff
-that's happening, here's
-all the help we need,
-how can you help us?
-And I'm like okay, let me think about it.
-So I went home 'cause I
-was unemployed at the time
-and so I did a PowerPoint
-and this seems ridiculous
-in retrospect, so I did a
-little PowerPoint, so I go,
-here's what I think you should
-do, I think you should think
-about this and this,
-here's a framework for you
-to think about it and I
-sent it back to Mitchell,
-who's the founder of
-Mozilla and then Chris Beard
-who's now the CEO and I
-heard nothing back from them.
-And one of the things is
-when you're unemployed
-like time goes super slowly,
-you're like, ah I wonder
-if they got my mail,
-maybe they don't like me,
-what's wrong with them?
-Is something wrong with me?
-Do they not like what I was doing?
-And so like, I just sent
-a PowerPoint deck to
-like an open-source project,
-that was probably wrong.
-So I went back, I had
-another session with them
-and it was an amazing
-session, we talked about
-all the things they could do
-and all the ways that they
-could go from there and like
-ah-ha, this time I went home,
-this time not a PowerPoint,
-so I wrote a long e-mail
-about all the things they
-should do and I sent it
-and two weeks, nothing.
-And I'm like, well, what the hell?
-Do they just not care?
-Are they schizophrenic?
-Do they like me in person and not like me?
-Like are they conflict-avoidant
-and don't want to tell me
-they don't like me?
-It was very weird, it
-was very weird I thought.
-And you know, being unemployed
-you're very self-conscious
-and you're not quite sure what's going on.
-And so I went back and I
-just started showing up.
-And I said, well, if they're
-not gonna answer my mail,
-there's something
-important happening here,
-so I'm just gonna start
-showing up and helping.
-And this is not, this is
-definitely not what I want,
-I don't wanna work for a
-non-profit, open-source,
-granola thingy, but I
-can help a little bit.
-So I started showing up and
-then Reid and I were talking
-about it a lot and to
-Reid's credit, he's like,
-you know what's happening?
-This is working, like this
-is a good thing to join.
-And he and I debated it for a
-little while and then I made
-probably the best career
-decision which is decided,
-well, I threw up my hands
-and I decided I would join.
-But I was still on the fence
-and I remember this again
-it was like 10 or 12 people
-and it shows how busy it was
-and how much the wheels
-were coming off the place.
-So Mitchell and Brendan, the co-founder
-of the immature Javascript and then Chris,
-the head of marketing and
-product, but now CEO in 2015.
-They were going to see Jerry
-Yang at Yahoo and so they said,
-well, why don't you come along?
-John the guy who's kind of a
-consultant just hanging around.
-And so little weird, right?
-So this is gonna be interesting
-meeting, just come with us.
-And so we go and we go
-for an hour long meeting
-and 45 minutes in, Jerry hadn't
-shown up yet and Jerry was
-like, I don't know, CTO
-or cheif strategy officer
-or something like that of Yahoo,
-he's a pretty important guy.
-And 45 minutes he didn't show
-up, he had his people there,
-we were making small talk
-but then he comes in at
-45 minutes and he started
-yelling at us almost immediately.
-And I kinda tuned out,
-it was a funny thing,
-so Jerry's a lovely guy
-and he's a good friend
-and we invest together and
-he built this nice building
-over here, and he's a
-really nice guy but he was
-really angry, really angry at us.
-And what he was angry about
-is that Google was built
-as the default of Firefox search and Yahoo
-was the second choice but
-what we knew about default
-is like, people don't change 'em.
-And so, Yahoo and Google
-were locked in a battle
-for who was gonna win search.
-Google was getting traction
-but Firefox accelerated
-Google's traction and that
-was making a real difference.
-But I remember while
-Jerry was yelling at us,
-just thinking it's like, man,
-if we can get a guy like Jerry
-like, very successful, so angry,
-we're probably doing
-something interesting.
-And so it's like while he's
-yelling at us, I was like, well,
-I probably should stop
-screwing around and just join
-and that's when I decided to join.
+And I went to Mozilla tohelp because I knew Mitchellfrom another board that I was on.
+And I went in to see them,maybe three months, four monthsafter Firefox had launchedbecause I was on another boardwith her and she always seemed very tired.
+I'm like, how's it going?And she's like, there's a lotgoing on, I'm really tired,I gotta go, bye.
+And so I just went to visitMozilla and I went in, I hadthis amazing session whereshe said, here's all the stuffthat's happening, here'sall the help we need,how can you help us?And I'm like okay, let me think about it.
+So I went home 'cause Iwas unemployed at the timeand so I did a PowerPointand this seems ridiculousin retrospect, so I did alittle PowerPoint, so I go,here's what I think you shoulddo, I think you should thinkabout this and this,here's a framework for youto think about it and Isent it back to Mitchell,who's the founder ofMozilla and then Chris Beardwho's now the CEO and Iheard nothing back from them.
+And one of the things iswhen you're unemployedlike time goes super slowly,you're like, ah I wonderif they got my mail,maybe they don't like me,what's wrong with them?Is something wrong with me?Do they not like what I was doing?And so like, I just senta PowerPoint deck tolike an open-source project,that was probably wrong.
+So I went back, I hadanother session with themand it was an amazingsession, we talked aboutall the things they could doand all the ways that theycould go from there and likeah-ha, this time I went home,this time not a PowerPoint,so I wrote a long e-mailabout all the things theyshould do and I sent itand two weeks, nothing.
+And I'm like, well, what the hell?Do they just not care?Are they schizophrenic?Do they like me in person and not like me?Like are they conflict-avoidantand don't want to tell methey don't like me?It was very weird, itwas very weird I thought.
+And you know, being unemployedyou're very self-consciousand you're not quite sure what's going on.
+And so I went back and Ijust started showing up.
+And I said, well, if they'renot gonna answer my mail,there's somethingimportant happening here,so I'm just gonna startshowing up and helping.
+And this is not, this isdefinitely not what I want,I don't wanna work for anon-profit, open-source,granola thingy, but Ican help a little bit.
+So I started showing up andthen Reid and I were talkingabout it a lot and toReid's credit, he's like,you know what's happening?This is working, like thisis a good thing to join.
+And he and I debated it for alittle while and then I madeprobably the best careerdecision which is decided,well, I threw up my handsand I decided I would join.
+But I was still on the fenceand I remember this againit was like 10 or 12 peopleand it shows how busy it wasand how much the wheelswere coming off the place.
+So Mitchell and Brendan, the co-founderof the immature Javascript and then Chris,the head of marketing andproduct, but now CEO in 2015.
+They were going to see JerryYang at Yahoo and so they said,well, why don't you come along?John the guy who's kind of aconsultant just hanging around.
+And so little weird, right?So this is gonna be interestingmeeting, just come with us.
+And so we go and we gofor an hour long meetingand 45 minutes in, Jerry hadn'tshown up yet and Jerry waslike, I don't know, CTOor cheif strategy officeror something like that of Yahoo,he's a pretty important guy.
+And 45 minutes he didn't showup, he had his people there,we were making small talkbut then he comes in at45 minutes and he startedyelling at us almost immediately.
+And I kinda tuned out,it was a funny thing,so Jerry's a lovely guyand he's a good friendand we invest together andhe built this nice buildingover here, and he's areally nice guy but he wasreally angry, really angry at us.
+And what he was angry aboutis that Google was builtas the default of Firefox search and Yahoowas the second choice butwhat we knew about defaultis like, people don't change 'em.
+And so, Yahoo and Googlewere locked in a battlefor who was gonna win search.
+Google was getting tractionbut Firefox acceleratedGoogle's traction and thatwas making a real difference.
+But I remember whileJerry was yelling at us,just thinking it's like, man,if we can get a guy like Jerrylike, very successful, so angry,we're probably doingsomething interesting.
+And so it's like while he'syelling at us, I was like, well,I probably should stopscrewing around and just joinand that's when I decided to join.
 And that's a totally true story.
-And so at the same time I
-joined, Reid joined the board
-and then we recruited a guy named Joey Edo
-who runs the media lab at MIT
-now, to join the board as well
-and we were off to the races.
+And so at the same time Ijoined, Reid joined the boardand then we recruited a guy named Joey Edowho runs the media lab at MITnow, to join the board as welland we were off to the races.
 So small organization, we started growing.
-So 2005, Mozilla had a few percent,
-it was a non-profit, nobody
-understood what to make of that.
-It was open-source for consumers,
-which again, was not common
-in the slightest in 2005
-and suddenly it was a big deal
-and people started noticing it.
-But people really didn't
-understand it much,
-but we were spreading because
-we had a global community
-that we empowered and we
-loved and we invested in,
-invested in, invested in.
-So, here's what it looks
-like, Spread Firefox,
-this is actually from about 2005.
-You can see hey, ha ha, we ran, we won,
-like we made no days left.
+So 2005, Mozilla had a few percent,it was a non-profit, nobodyunderstood what to make of that.
+It was open-source for consumers,which again, was not commonin the slightest in 2005and suddenly it was a big dealand people started noticing it.
+But people really didn'tunderstand it much,but we were spreading becausewe had a global communitythat we empowered and weloved and we invested in,invested in, invested in.
+So, here's what it lookslike, Spread Firefox,this is actually from about 2005.
+You can see hey, ha ha, we ran, we won,like we made no days left.
 We have 250,000 dollars, 10,000 names.
-You wanna be in Boston Globe?
-We're doing a story
-about Firefox supporters
-and we did this get Firefox
-button which showed up
-everywhere on the web pretty fast.
-This looks so jankey by 2015
-standards, but I'll tell you,
-the thing about communities
-is you want to look important enough
-that people should give
-a damn about whether
-you win or not, but you want
-to look fragile enough that
-people feel like if they don't
-help, you might not succeed.
-And so the analogy that
-I'll use is in 2008
-when the election was
-happening, I remember
-So I was CEO of Mozilla, I
-guess, yeah I was CEO of Mozilla
-and I went and did phone
-bank calls for Obama.
-I called a bunch of people
-in western Pennsylvania
-that were interesting, no
-offense, just they were
-interesting to talk to.
-But I went because I'm
-like, man I really want
-that guy to be our president
-and he might not win
-if I don't go make calls today.
-And that's a bizarre
-thing to think, right?
-But that's the essence of
-community and that's the essence
-of getting involved because
-if I felt like it was stronger
-and didn't need me, well I had
-plenty of other stuff to do.
-(audio muffled)
-Yeah, I'll talk about
-the community of Mozilla
-in a little bit, but it's
-everywhere, so they were
-open-source contributers,
-there were localizers
-in the different languages,
-there were people who were
-installers and doing customer
-support, it was everywhere,
-it really felt much like a
-political movement, so everything
-you can think of was really community.
-And this was still an
-organization that probably had 15
-people on the payroll.
-So here are some critical
-decisions that we made.
+You wanna be in Boston Globe?We're doing a storyabout Firefox supportersand we did this get Firefoxbutton which showed upeverywhere on the web pretty fast.
+This looks so jankey by 2015standards, but I'll tell you,the thing about communitiesis you want to look important enoughthat people should givea damn about whetheryou win or not, but you wantto look fragile enough thatpeople feel like if they don'thelp, you might not succeed.
+And so the analogy thatI'll use is in 2008when the election washappening, I rememberSo I was CEO of Mozilla, Iguess, yeah I was CEO of Mozillaand I went and did phonebank calls for Obama.
+I called a bunch of peoplein western Pennsylvaniathat were interesting, nooffense, just they wereinteresting to talk to.
+But I went because I'mlike, man I really wantthat guy to be our presidentand he might not winif I don't go make calls today.
+And that's a bizarrething to think, right?But that's the essence ofcommunity and that's the essenceof getting involved becauseif I felt like it was strongerand didn't need me, well I hadplenty of other stuff to do.
+(audio muffled)Yeah, I'll talk aboutthe community of Mozillain a little bit, but it'severywhere, so they wereopen-source contributers,there were localizersin the different languages,there were people who wereinstallers and doing customersupport, it was everywhere,it really felt much like apolitical movement, so everythingyou can think of was really community.
+And this was still anorganization that probably had 15people on the payroll.
+So here are some criticaldecisions that we made.
 And this is the crux of it.
-So we decided I was
-employing over 15 or so
-and Mitchell and I decided that hiring
-and getting great talent was key.
-So what that means is we had
-to figure out how to pay people
-which we had a pretty good
-relationship with Google,
-so that was working.
-And we decided to pay people
-pretty well, but we never
-wanted to win on salary.
-And so that's explicit because
-we were happy to lose people
-who wanted more salary.
-So if we had a conversation
-where people said, man,
-So in 2005 it was like us
-and Facebook was growing
-and Google was growing and
-if people came in and said,
-gosh, I'd really like to work
-for you, but Google's offering
-me 10,000 dollars more a
-year, the answer was always
-go to Google.
+So we decided I wasemploying over 15 or soand Mitchell and I decided that hiringand getting great talent was key.
+So what that means is we hadto figure out how to pay peoplewhich we had a pretty goodrelationship with Google,so that was working.
+And we decided to pay peoplepretty well, but we neverwanted to win on salary.
+And so that's explicit becausewe were happy to lose peoplewho wanted more salary.
+So if we had a conversationwhere people said, man,So in 2005 it was like usand Facebook was growingand Google was growing andif people came in and said,gosh, I'd really like to workfor you, but Google's offeringme 10,000 dollars more ayear, the answer was alwaysgo to Google.
 And we didn't care, it was fine.
-So this is a different
-environment, so 2015,
-I think the guidance you'll get mostly,
-is you shouldn't lose
-people over 10,000 dollars.
+So this is a differentenvironment, so 2015,I think the guidance you'll get mostly,is you shouldn't losepeople over 10,000 dollars.
 So it's not apples to apples advice.
-For us, what it was, was our
-North Star about whether people
-wanted to be there or not.
-And so if you wanted to be there for comp,
-then we didn't want them.
-If you wanted to be there
-because of the mission,
-around opening the web,
-and they were willing to be
-you know, comped well, but not perfectly,
-we were happy to have them.
-So that was part of it, the second thing
-Oh, and as a result, we
-brought on some people
-who are unbelievable, you
-know, the first person
-I went out and got is a
-guy named Mike Schroepfer
-who's the CTO of Facebook now.
-Dan Portillo who runs talent
-for us in Mozilla was our first
-recruiter, Bret Reckard
-who runs talent at Sequoia
-was our second recruiter.
-It's just such a list, like
-once you decide to go get talent
-and you decide to go
-get people who are wired
-a little funny and want
-mission over just comp,
-life got better.
-(audio muffled)
-Yeah, so the question is
-whether I would advise people
-to do that today.
-I think that you should
-figure out what you care about
-and what your North Star
-is on people and hiring
-and figure out what that
-test is and be true to it.
-There's start-ups that I'm
-involved with that we (chuckles)
-We pay way higher than I would
-really be comfortable with.
-On the other hand, I
-would be less comfortable
-if we lost the people
-they were tryin' to hire.
-There's a search company that
-I'm involved with for example,
-where we just pay over the top
-because that's how you
-get great search people.
-And so I think it's horses
-for courses I'll say a lot
-which is or different
-strokes for different folks,
-whatever you wanna say, but
-I think every start-up's
-a little bit different and
-the question is like which
-are your North Stars and
-it's good to write them down,
-it's good to understand.
+For us, what it was, was ourNorth Star about whether peoplewanted to be there or not.
+And so if you wanted to be there for comp,then we didn't want them.
+If you wanted to be therebecause of the mission,around opening the web,and they were willing to beyou know, comped well, but not perfectly,we were happy to have them.
+So that was part of it, the second thingOh, and as a result, webrought on some peoplewho are unbelievable, youknow, the first personI went out and got is aguy named Mike Schroepferwho's the CTO of Facebook now.
+Dan Portillo who runs talentfor us in Mozilla was our firstrecruiter, Bret Reckardwho runs talent at Sequoiawas our second recruiter.
+It's just such a list, likeonce you decide to go get talentand you decide to goget people who are wireda little funny and wantmission over just comp,life got better.
+(audio muffled)Yeah, so the question iswhether I would advise peopleto do that today.
+I think that you shouldfigure out what you care aboutand what your North Staris on people and hiringand figure out what thattest is and be true to it.
+There's start-ups that I'minvolved with that we (chuckles)We pay way higher than I wouldreally be comfortable with.
+On the other hand, Iwould be less comfortableif we lost the peoplethey were tryin' to hire.
+There's a search company thatI'm involved with for example,where we just pay over the topbecause that's how youget great search people.
+And so I think it's horsesfor courses I'll say a lotwhich is or differentstrokes for different folks,whatever you wanna say, butI think every start-up'sa little bit different andthe question is like whichare your North Stars andit's good to write them down,it's good to understand.
 Everybody understood this.
-So I never got a hiring
-manager or Peter saying
-should we go over the
-top on Facebook's offer?
-Should we go over the
-top on Google? Never.
-Other questions?
-Okay, the second thing is
-that we decided we were not
-gonna all be in local.
-And this was self-defense,
-it was also sort of true
-to our DNA.
-In an open-source project,
-in the best ones you have
-people all around the
-world who are contributing
-and we decided that
-rather than try to compete
-with other people in
-Silicone Valley for talent
-with Google and Yahoo,
-and Yahoo and Zynga and
-Microsoft and everybody else,
-we would just find the best
-people who were already contributing
-we'd hire them and we'd
-try to hire their friends.
-As a result, we had an office in
-There was something in New
-Zealand for example, in Auckland
-who was one of our best
-contributers and he's like,
-well, I think I'm contributing now a lot
-but I think I'm gonna
-have to ratchet it down
-so I can get this job and
-we were like, well, Robert,
-Rob, why don't you just come work for us?
-And he said well, I don't
-really wanna work on my own.
-And we're like, Rob,
-why don't we just start,
-like, do you have any friends?
-And he's like, I've got a ton of friends
-and they're all PhD's in computer science
-and we're like, Rob, why
-don't we start an office?
-And so as a result we have
-this office in New Zealand
-in Auckland and we have
-an office in Berlin,
-an office in Paris, an office
-in London, and one in Tokyo
-and our point of view was we were gonna
-Our hiring strategies we were
-gonna find the best people
-who were motivated not by
-money but by the community
-and by the mission.
-We were gonna figure out
-where they were in the world
-and how they wanted to live their lives
-and we were just gonna live that way.
-And so as a result we got
-this big, distributed company
-it wasn't a philosophy that I
-loved distributed companies,
-I don't, I mean there are
-other people who really do,
-like Matt Mullenweg from
-Automatic really loves
-distributed companies.
-I don't love them, I think they're
-a humongous pain in the ass.
-For us, it was how to take our challenge
-and turn it into an advantage.
-We ended up with a lotta
-people in a lotta places,
-I learned a lot about employment
-law which is super boring.
-And then always treat
-community as insiders
-so you know, we lots a times
-we would let people speak
-to the press on behalf of us
-who didn't work for Mozilla.
-They gave out business
-cards, a lotta this stuff
-and it's because we were
-trying to get as many people
-owning the product,
-owning success as possible
-'cause again, we needed
-it to be asymmetrically
-with Microsoft so the question
-was how do we compete?
-How do we get assets in
-a way that they can't do?
-And the funny thing is they
-just didn't even recognize it.
-Like for us, when Microsoft
-is this big software company
-and they see this weird
-like political movement
-full of people in Poland and Germany
-and they're like, what the hell is that?
-And it just didn't look
-at all what they thought
-a challenge would look like
-which meant that they didn't
-really pay attention until too late.
-But mostly like the community
-is what built Mozilla
-in the first place.
-It's why Mitchell and
-Brenden committed to being
-a non-profit because they
-wanted to say to the community
-we'll never take advantage
-of you, we'll always put
-our money back in.
+So I never got a hiringmanager or Peter sayingshould we go over thetop on Facebook's offer?Should we go over thetop on Google? Never.
+Other questions?Okay, the second thing isthat we decided we were notgonna all be in local.
+And this was self-defense,it was also sort of trueto our DNA.
+In an open-source project,in the best ones you havepeople all around theworld who are contributingand we decided thatrather than try to competewith other people inSilicone Valley for talentwith Google and Yahoo,and Yahoo and Zynga andMicrosoft and everybody else,we would just find the bestpeople who were already contributingwe'd hire them and we'dtry to hire their friends.
+As a result, we had an office inThere was something in NewZealand for example, in Aucklandwho was one of our bestcontributers and he's like,well, I think I'm contributing now a lotbut I think I'm gonnahave to ratchet it downso I can get this job andwe were like, well, Robert,Rob, why don't you just come work for us?And he said well, I don'treally wanna work on my own.
+And we're like, Rob,why don't we just start,like, do you have any friends?And he's like, I've got a ton of friendsand they're all PhD's in computer scienceand we're like, Rob, whydon't we start an office?And so as a result we havethis office in New Zealandin Auckland and we havean office in Berlin,an office in Paris, an officein London, and one in Tokyoand our point of view was we were gonnaOur hiring strategies we weregonna find the best peoplewho were motivated not bymoney but by the communityand by the mission.
+We were gonna figure outwhere they were in the worldand how they wanted to live their livesand we were just gonna live that way.
+And so as a result we gotthis big, distributed companyit wasn't a philosophy that Iloved distributed companies,I don't, I mean there areother people who really do,like Matt Mullenweg fromAutomatic really lovesdistributed companies.
+I don't love them, I think they'rea humongous pain in the ass.
+For us, it was how to take our challengeand turn it into an advantage.
+We ended up with a lottapeople in a lotta places,I learned a lot about employmentlaw which is super boring.
+And then always treatcommunity as insidersso you know, we lots a timeswe would let people speakto the press on behalf of uswho didn't work for Mozilla.
+They gave out businesscards, a lotta this stuffand it's because we weretrying to get as many peopleowning the product,owning success as possible'cause again, we neededit to be asymmetricallywith Microsoft so the questionwas how do we compete?How do we get assets ina way that they can't do?And the funny thing is theyjust didn't even recognize it.
+Like for us, when Microsoftis this big software companyand they see this weirdlike political movementfull of people in Poland and Germanyand they're like, what the hell is that?And it just didn't lookat all what they thoughta challenge would look likewhich meant that they didn'treally pay attention until too late.
+But mostly like the communityis what built Mozillain the first place.
+It's why Mitchell andBrenden committed to beinga non-profit because theywanted to say to the communitywe'll never take advantageof you, we'll always putour money back in.
 Sure.
 Yeah.
-Wow, what makes you think
-it didn't get chaotic?
-So I've got a different
-presentation wrote.
-The community was so
-diverse, how did you keep it
-from getting chaotic?
-And I'll tell you, it was
-motherfucking chaotic.
+Wow, what makes you thinkit didn't get chaotic?So I've got a differentpresentation wrote.
+The community was sodiverse, how did you keep itfrom getting chaotic?And I'll tell you, it wasmotherfucking chaotic.
 There's no way to put this like gently.
-To most humans that have
-ever worked in companies,
-walking into Mozilla they're like,
-what the hell is happening?
-Because so many people are going
-in so many different
-directions and we can talk
-about that for hours and hours and hours,
-but again, what you do is
-you figure out what's the DNA
-of the place and what's our
-superpower and you figure out
-how to feed that.
-And language turned out was okay,
-like everybody had to speak English,
-everybody was living on Bugzilla
-which is Mozilla's not
-amazing bug tracking system.
+To most humans that haveever worked in companies,walking into Mozilla they're like,what the hell is happening?Because so many people are goingin so many differentdirections and we can talkabout that for hours and hours and hours,but again, what you do isyou figure out what's the DNAof the place and what's oursuperpower and you figure outhow to feed that.
+And language turned out was okay,like everybody had to speak English,everybody was living on Bugzillawhich is Mozilla's notamazing bug tracking system.
 But it was one of the first of it's kind.
-And then we just, we had
-a lotta beers together
-and we flew people in
-to the same place a lot.
-One of the things over time
-is that I had a travel policy
-which was any time anybody
-wanted to get a group together,
-they could and whatever
-city they wanted to do it.
-And you could do it in
-Toronto or Australia
-or Sydney or Tokyo or
-wherever and my promise
-is that I would yell if people
-were spending too much money
-and I just never, they
-never spent too much money
-otherwise very responsible.
-But I said, look, if you need
-to spend time with your group,
-do it, don't ask anybody, just do it.
+And then we just, we hada lotta beers togetherand we flew people into the same place a lot.
+One of the things over timeis that I had a travel policywhich was any time anybodywanted to get a group together,they could and whatevercity they wanted to do it.
+And you could do it inToronto or Australiaor Sydney or Tokyo orwherever and my promiseis that I would yell if peoplewere spending too much moneyand I just never, theynever spent too much moneyotherwise very responsible.
+But I said, look, if you needto spend time with your group,do it, don't ask anybody, just do it.
 And so we just did a lot like that.
-Yeah, this a theme,
-ignore everything else.
-Like, every six months people said to me,
-man, Boeing would totally
-adopt Firefox if we just built
-these horrible features into it.
-And then six months later,
-it would be Fidelity
-it would be the same and It'd be amazing.
-And our center of gravity was
-we needed to build software
-that humans give a damn
-about, and if we do that,
-the rest of it will take care of itself.
-And the enterprise will adopt
-in spite of us not having
-these things.
+Yeah, this a theme,ignore everything else.
+Like, every six months people said to me,man, Boeing would totallyadopt Firefox if we just builtthese horrible features into it.
+And then six months later,it would be Fidelityit would be the same and It'd be amazing.
+And our center of gravity waswe needed to build softwarethat humans give a damnabout, and if we do that,the rest of it will take care of itself.
+And the enterprise will adoptin spite of us not havingthese things.
 And that turned out to be true.
-It also let me see what
-was happening with DropBox
-early and that's why I
-got involved with DropBox
-'cause we were seeing the
-same kind of behavior.
+It also let me see whatwas happening with DropBoxearly and that's why Igot involved with DropBox'cause we were seeing thesame kind of behavior.
 And then our mission.
-Our mission was not pure
-market share, it was
-how do you make the
-web more participatory?
-Okay? Questions? Good.
-Alright, so and the pier
-we're talking about,
-I got there the middle of
-2005, when about 15 people.
-Move up to the middle of 2008
-which is about 150 people
-and then, you know, we
-got bigger over time
-then we got a little fatter.
-So, move ahead another
-year from 2005 to 2006
-market share's a little
-more than 10%, we had
-about 75 million MAU's
-and 25 million DAU's
-in a product that is not viral in any way.
-There was no app store, there
-was no like SendAFriend,
-SMSing there was none of that
-and so this was all
-organic, all political.
-The organization had doubled
-to an amazing 30 people
-and I remember Mitchell
-saying, well, when I got in,
-Mitchell said, well, glad to have John,
-I'm not sure how many
-people we really need here.
-And then we got to 30 and
-he's like maybe we'll get
-to 40 people, but I can never
-adjust getting to 100 people.
-And it's one of those things
-where you just see growth
-and you see it happening and
-you're trying to figure it out
-and things just work very,
-very, very well on the internet
-when they work and you
-start to find things.
-But here's the key, so
-with product market fit,
-your issues change, everybody
-notices you in a different way
-So this is what it looked like now.
-So this is better, it's not
-great and this I told you Opera
-would grasp us and stuff.
-So Safari was only on
-the Mac and IE was 83%
-which still seemed okay to
-Microsoft, they hadn't really
-put a group that kind of thing.
-So with product market
-fit, relationships change.
-So this is some actual BoD
-Deck excerpts from 2006.
-So and the board at that time was myself,
-and I wasn't the CEO yet, Mitchell Baker,
-Brenden Eich, who invented
-Javascript, Reid Hoffman
-and Ellen Siminoff, who runs
-a company called Schmoop now.
-And I remember we were
-talking and it's like,
-well should we get an EA for Mitchell?
-Like to help her scale?
-Should we get a EA for John?
-We're all strapped and
-so project managers,
-we really needed a VP of
-operations maybe somebody,
-a lawyer who knew some stuff and like this
-is the actual stuff, this
-was actually how we started
-the board meetings, like, we probably need
-some more people, what do you think?
-And this is what it feels like
-to be in uncharted territory.
-We were like, well, what's a good goal?
-So we were at 12, 13% now, is 20% good?
-Like, I don't know.
+Our mission was not puremarket share, it washow do you make theweb more participatory?Okay? Questions? Good.
+Alright, so and the pierwe're talking about,I got there the middle of2005, when about 15 people.
+Move up to the middle of 2008which is about 150 peopleand then, you know, wegot bigger over timethen we got a little fatter.
+So, move ahead anotheryear from 2005 to 2006market share's a littlemore than 10%, we hadabout 75 million MAU'sand 25 million DAU'sin a product that is not viral in any way.
+There was no app store, therewas no like SendAFriend,SMSing there was none of thatand so this was allorganic, all political.
+The organization had doubledto an amazing 30 peopleand I remember Mitchellsaying, well, when I got in,Mitchell said, well, glad to have John,I'm not sure how manypeople we really need here.
+And then we got to 30 andhe's like maybe we'll getto 40 people, but I can neveradjust getting to 100 people.
+And it's one of those thingswhere you just see growthand you see it happening andyou're trying to figure it outand things just work very,very, very well on the internetwhen they work and youstart to find things.
+But here's the key, sowith product market fit,your issues change, everybodynotices you in a different waySo this is what it looked like now.
+So this is better, it's notgreat and this I told you Operawould grasp us and stuff.
+So Safari was only onthe Mac and IE was 83%which still seemed okay toMicrosoft, they hadn't reallyput a group that kind of thing.
+So with product marketfit, relationships change.
+So this is some actual BoDDeck excerpts from 2006.
+So and the board at that time was myself,and I wasn't the CEO yet, Mitchell Baker,Brenden Eich, who inventedJavascript, Reid Hoffmanand Ellen Siminoff, who runsa company called Schmoop now.
+And I remember we weretalking and it's like,well should we get an EA for Mitchell?Like to help her scale?Should we get a EA for John?We're all strapped andso project managers,we really needed a VP ofoperations maybe somebody,a lawyer who knew some stuff and like thisis the actual stuff, thiswas actually how we startedthe board meetings, like, we probably needsome more people, what do you think?And this is what it feels liketo be in uncharted territory.
+We were like, well, what's a good goal?So we were at 12, 13% now, is 20% good?Like, I don't know.
 And is 20% achievable? I don't know.
-Here's what we said six
-months ago, let's recheck it
-and one of the things that
-Allen was talking about
-is being iterative.
-The reason why you set goals,
-is to learn to get better
-at setting goals and learn
-to get better at leading you.
-And so a lot of times,
-when you'll set goals,
-your first set of goals will be terrible.
-It's sort of like when you
-go to the gym the first time,
-you're trying to exercise
-and your muscles don't all fire together.
-And so you're trying to teach
-yourself in your organization
-how to make limits and
-live up to them over time.
-And so you get better at
-setting goals every time, too.
-And one of my rules is you never, ever say
-in your goal period,
-whatever your goal was,
-you are black and white about
-whether you hit it or not.
-If you hit 98% of your
-goal, you missed it.
-Now, and then you could
-interpret it over time
-but you had to be very, very
-clear about what the goal
-was when you started, what
-modifications you made
-to the goal and whether you hit it or not.
+Here's what we said sixmonths ago, let's recheck itand one of the things thatAllen was talking aboutis being iterative.
+The reason why you set goals,is to learn to get betterat setting goals and learnto get better at leading you.
+And so a lot of times,when you'll set goals,your first set of goals will be terrible.
+It's sort of like when yougo to the gym the first time,you're trying to exerciseand your muscles don't all fire together.
+And so you're trying to teachyourself in your organizationhow to make limits andlive up to them over time.
+And so you get better atsetting goals every time, too.
+And one of my rules is you never, ever sayin your goal period,whatever your goal was,you are black and white aboutwhether you hit it or not.
+If you hit 98% of yourgoal, you missed it.
+Now, and then you couldinterpret it over timebut you had to be very, veryclear about what the goalwas when you started, whatmodifications you madeto the goal and whether you hit it or not.
 You there, sure.
-(audio muffled)
-Yeah, so the question
-is, how do you explain,
-how do you motivate the team?
-How do you help them understand goals?
-How do you explain to
-them what's happening?
-And my ideal.
-And how to help them feel like
-when they miss their goal.
+(audio muffled)Yeah, so the questionis, how do you explain,how do you motivate the team?How do you help them understand goals?How do you explain tothem what's happening?And my ideal.
+And how to help them feel likewhen they miss their goal.
 We over time, you get better at this.
-For me, it was repetition
-and talking and just being
-very, very open.
-So, we had weeklies every week on Monday
-we all had lunch together
-and I got up and talked
-every Monday for years.
-Every quarter we would talk about goals
-and what we hit and what we didn't hit.
-It turned out, we ended up,
-it's funny, and other companies
-are like this, too.
-If we hit 71% of our goals give
-or take that was about right
-that was a pretty good quarter.
-If we hit 66% of our goals,
-it was kinda a shitty quarter.
-And so it's a funny, funny zone,
-but I've talked to other
-people who've said that, too.
-Like you want enough
-goals that are stretched
-that you're trying for more.
-I actually didn't like,
-I remember our IT group,
-they hit 100% of their goals every time,
-and I'm like you guys
-have to stop doing this.
+For me, it was repetitionand talking and just beingvery, very open.
+So, we had weeklies every week on Mondaywe all had lunch togetherand I got up and talkedevery Monday for years.
+Every quarter we would talk about goalsand what we hit and what we didn't hit.
+It turned out, we ended up,it's funny, and other companiesare like this, too.
+If we hit 71% of our goals giveor take that was about rightthat was a pretty good quarter.
+If we hit 66% of our goals,it was kinda a shitty quarter.
+And so it's a funny, funny zone,but I've talked to otherpeople who've said that, too.
+Like you want enoughgoals that are stretchedthat you're trying for more.
+I actually didn't like,I remember our IT group,they hit 100% of their goals every time,and I'm like you guyshave to stop doing this.
 It means you're not shooting for enough.
 So you're not stretching enough.
-So for us we just talked it out
-a lot, we talked a lot about
-I was very open with BoD
-decks, I was very open about
-what we talked about with
-Reid and Ellen about.
+So for us we just talked it outa lot, we talked a lot aboutI was very open with BoDdecks, I was very open aboutwhat we talked about withReid and Ellen about.
 And I'd say, here's what we're doing.
-And the other thing that
-became very clear at the time
-was that market share is a
-lagging indicator of success,
-so on the Internet, market
-share can keep going up
-even when your fundamentals are not great.
-And so the metaphor I use is we're trying
-to teach ourself how to look
-around corners a little bit
-and be predictive of issues
-coming down the pike.
-Okay?
-Right, so we're trying to figure that out
-Oh and I was honest about goals.
-I'm like, look, nobody's
-ever done this before,
-there's never been an open-source,
-20 person organization
-that's attacked Microsoft.
-Seems like it's goin' okay,
-here's where we could probably
-do a little better.
-(audio muffled)
-No, when you get to this stage,
-you're starting to manage
-through pretty good
-managers and so I was COO,
-but I had two or three or
-four excellent, excellent VPs
-so Mike Schroepfer,
-you're never gonna find
-a better VP of engineering,
-Chris Beard, you're never
-gonna find a better VP of marketing
-and you know Justin Fitzhugh
-who's running IT and OPs.
-As a management team, you wanna be good,
-as sub-teams you wanna be good
-and you wanna be open and transparent
-so you start to do a lot of
-things in the organization
-to encourage people to be
-self-aware and aspirational
-and honest.
-And you know, it helped
-that we were winning.
-Like we were really trying to do something
-nobody had ever done before.
+And the other thing thatbecame very clear at the timewas that market share is alagging indicator of success,so on the Internet, marketshare can keep going upeven when your fundamentals are not great.
+And so the metaphor I use is we're tryingto teach ourself how to lookaround corners a little bitand be predictive of issuescoming down the pike.
+Okay?Right, so we're trying to figure that outOh and I was honest about goals.
+I'm like, look, nobody'sever done this before,there's never been an open-source,20 person organizationthat's attacked Microsoft.
+Seems like it's goin' okay,here's where we could probablydo a little better.
+(audio muffled)No, when you get to this stage,you're starting to managethrough pretty goodmanagers and so I was COO,but I had two or three orfour excellent, excellent VPsso Mike Schroepfer,you're never gonna finda better VP of engineering,Chris Beard, you're nevergonna find a better VP of marketingand you know Justin Fitzhughwho's running IT and OPs.
+As a management team, you wanna be good,as sub-teams you wanna be goodand you wanna be open and transparentso you start to do a lot ofthings in the organizationto encourage people to beself-aware and aspirationaland honest.
+And you know, it helpedthat we were winning.
+Like we were really trying to do somethingnobody had ever done before.
 Okay, sure.
-(audio muffled)
-Why can we monetize an
-open-source project?
-There was, it was a project called KHTML
-which became Webkit that
-Apple was investing in.
+(audio muffled)Why can we monetize anopen-source project?There was, it was a project called KHTMLwhich became Webkit thatApple was investing in.
 So we'll talk about that in a second.
-The fact that there was
-another open-source browser
-doesn't really have an impact
-on whether we were able
-to make money or not.
-We got users, we had
-tens of millions of users
-who used the product, they
-searched in the product,
-they clicked on ads.
-And so if that happens, the
-economic engine all runs.
-You expected what anybody else does, okay?
-Well we're probably
-like 30 or 40 now, yeah.
+The fact that there wasanother open-source browserdoesn't really have an impacton whether we were ableto make money or not.
+We got users, we hadtens of millions of userswho used the product, theysearched in the product,they clicked on ads.
+And so if that happens, theeconomic engine all runs.
+You expected what anybody else does, okay?Well we're probablylike 30 or 40 now, yeah.
 They didn't so, they brought me in.
-So Andrew said it's weird
-they brought a COO in,
-and they didn't, they just
-brought me 'cause I was
-hangin' around, as I mentioned.
+So Andrew said it's weirdthey brought a COO in,and they didn't, they justbrought me 'cause I washangin' around, as I mentioned.
 I was hangin' around that I could help.
-We just got along and so I came
-in with a title it was goofy
-I had just come off being a
-founder of my own company,
-and my title was vice president
-of business operations and
-no, vice president of business
-development operations
-which, you know, who
-knows what that means?
-'Cause it doesn't mean anything.
-And so nobody really knew
-what to make of that.
-i just started showing up,
-I think a lot of start-ups
-is just showing up and doing
-the work that needs to get done
-whether it's movin' desks or orderin' food
-or makin' business
-deals or whatever it is.
-So I just started showin' up and we stared
-building a company.
-(audio muffled)
-(laughter)
-So did I literally just show
-up and sit down at a desk?
-Yeah, so I mean, kinda.
-I said, hey Mitchell,
-is it okay if I come by?
-It was okay, sure.
-Mission in hiring? Why I went there?
-'Cause the web sucked.
-The web sucked in 2004 and
-they were gonna fix it.
-All my developer friends
-started using Firefox
-that's about when something called
-the predecessor for
-that's when HTML mail came out,
-so right before G-mail there was only--
-- [Male student] Hotpost.
-- Hotpost. Hotpost came
-out by Ethan Diamond.
+We just got along and so I camein with a title it was goofyI had just come off being afounder of my own company,and my title was vice presidentof business operations andno, vice president of businessdevelopment operationswhich, you know, whoknows what that means?'Cause it doesn't mean anything.
+And so nobody really knewwhat to make of that.
+i just started showing up,I think a lot of start-upsis just showing up and doingthe work that needs to get donewhether it's movin' desks or orderin' foodor makin' businessdeals or whatever it is.
+So I just started showin' up and we staredbuilding a company.
+(audio muffled)(laughter)So did I literally just showup and sit down at a desk?Yeah, so I mean, kinda.
+I said, hey Mitchell,is it okay if I come by?It was okay, sure.
+Mission in hiring? Why I went there?'Cause the web sucked.
+The web sucked in 2004 andthey were gonna fix it.
+All my developer friendsstarted using Firefoxthat's about when something calledthe predecessor forthat's when HTML mail came out,so right before G-mail there was only--- [Male student] Hotpost.
+- Hotpost. Hotpost cameout by Ethan Diamond.
 Stanford guy, I think.
-And you could see it, you
-could see that the web was dead
-and dying and this feels
-ridiculous to everybody
-but it was just dead.
+And you could see it, youcould see that the web was deadand dying and this feelsridiculous to everybodybut it was just dead.
 IE was really terrible.
-And my ideas, I couldn't
-stop thinking about it.
-And so I couldn't stop
-thinking about the web
-and the impact and my
-skills kinda mashed with
-what the holes in the
-organization were at the time
-and so I went.
-Some more interesting
-stuff, so let's go forward.
-So 13% market share, give or take,
-varies a bunch, but world-wide.
-About 25 million users, we
-weren't sure whether growth
-has slowed or not and like
-part of the thing is we didn't
-have any data systems that were working
-and so one of the first things
-we did is we hired a guy
-named Ken Kovach who worked
-for the Freakonomics guy
-and we started building data
-systems so we could tell
-what the hell was going on.
-It turns out it hadn't slowed,
-but we didn't know that.
-So we put it in the BoD
-Deck, we were just tryin'
-to figure it out.
-And then it was clear that Firefox 1.0
-that had been out 18 months
-before was diminishing IE7
-and Safari on Windows was kinda going ooh
-which that was a big deal!
-Apple releasing a browser on
-Windows seemed like a big deal.
+And my ideas, I couldn'tstop thinking about it.
+And so I couldn't stopthinking about the weband the impact and myskills kinda mashed withwhat the holes in theorganization were at the timeand so I went.
+Some more interestingstuff, so let's go forward.
+So 13% market share, give or take,varies a bunch, but world-wide.
+About 25 million users, weweren't sure whether growthhas slowed or not and likepart of the thing is we didn'thave any data systems that were workingand so one of the first thingswe did is we hired a guynamed Ken Kovach who workedfor the Freakonomics guyand we started building datasystems so we could tellwhat the hell was going on.
+It turns out it hadn't slowed,but we didn't know that.
+So we put it in the BoDDeck, we were just tryin'to figure it out.
+And then it was clear that Firefox 1.0that had been out 18 monthsbefore was diminishing IE7and Safari on Windows was kinda going oohwhich that was a big deal!Apple releasing a browser onWindows seemed like a big deal.
 And then maybe iTunes.
-Like I mentioned about not
-knowing your competitors,
-it's really hard to see so this
-is actual BoD stuff, right?
-And they were trying to figure out
-where do we find more users?
-And so what happens is you get bigger,
-your numbers get bigger and
-bigger, you try to figure out
-where the hell can we find more users?
-And like it becomes less
-interest and like once you have
-100 million users, it's like,
-oh, i can only get a
-million users that way?
-That doesn't seem very interesting.
-And this becomes an
-innovators dilemma problem.
-But the real thing is
-that I wanna talk about
-is that when you find product market fit,
-people who were previously
-clearly your friends
-you become frenemies kinda sorta
-and so it becomes more complicated.
+Like I mentioned about notknowing your competitors,it's really hard to see so thisis actual BoD stuff, right?And they were trying to figure outwhere do we find more users?And so what happens is you get bigger,your numbers get bigger andbigger, you try to figure outwhere the hell can we find more users?And like it becomes lessinterest and like once you have100 million users, it's like,oh, i can only get amillion users that way?That doesn't seem very interesting.
+And this becomes aninnovators dilemma problem.
+But the real thing isthat I wanna talk aboutis that when you find product market fit,people who were previouslyclearly your friendsyou become frenemies kinda sortaand so it becomes more complicated.
 To use Facebook terminology.
-So for us, Google was
-starting to think about this,
-as we were starting to gain market share
-and Google was a huge
-ally, Sergey and Larry
-made Firefox possible economically.
+So for us, Google wasstarting to think about this,as we were starting to gain market shareand Google was a hugeally, Sergey and Larrymade Firefox possible economically.
 Eric was very supportive.
-But they were tryin' to think
-What they were realizing
-in 2005 is that the browser
-dis-intermediated them
-between their customer.
-The browser was in the
-way and whoever controlled
-the last touch point to a user, wins.
+But they were tryin' to thinkWhat they were realizingin 2005 is that the browserdis-intermediated thembetween their customer.
+The browser was in theway and whoever controlledthe last touch point to a user, wins.
 So they were nervous about this.
-And so they felt like it was
-critical to their destiny
-but critical but not in their
-own hands, they didn't like
-that we were kind of independent
-and didn't really care
-what they thought.
-It was a challenging
-part of the relationship.
-And they were not sure
-what was gonna happen
-when IE7 came out.
-We knew Webkit/Safari
-on Windows was coming,
-we were wondering what was happening
-and for them, anything more
-than IE and one other browser
-that was gonna fracture the market.
-So they started thinking
-about it more and more.
-So they started doing scenario planning
-and we were kinda piecing this together.
-But for them, like if IE
-has 80% and Firefox has 20%,
-well that's okay, but not great.
-If Apple has 20%, that
-seems bad for Google,
-even in 2005.
-If it's a split, then the web dies again
-because there's too much spread.
-And then they were hoping
-that we would start to use
-something called Webkit
-which was Apple's version
-of open-source technology
-and we were using, I think,
-called Gecko rendering engine.
+And so they felt like it wascritical to their destinybut critical but not in theirown hands, they didn't likethat we were kind of independentand didn't really carewhat they thought.
+It was a challengingpart of the relationship.
+And they were not surewhat was gonna happenwhen IE7 came out.
+We knew Webkit/Safarion Windows was coming,we were wondering what was happeningand for them, anything morethan IE and one other browserthat was gonna fracture the market.
+So they started thinkingabout it more and more.
+So they started doing scenario planningand we were kinda piecing this together.
+But for them, like if IEhas 80% and Firefox has 20%,well that's okay, but not great.
+If Apple has 20%, thatseems bad for Google,even in 2005.
+If it's a split, then the web dies againbecause there's too much spread.
+And then they were hopingthat we would start to usesomething called Webkitwhich was Apple's versionof open-source technologyand we were using, I think,called Gecko rendering engine.
 And so it just got complicated.
-So this is worrisome and
-we more or less decided
-to stay the course and not
-So we decided to keep our
-own technology, not move
-to the flavor of the
-day because our mission
-was to have a diverse heterogeneous web.
-We decided to invest in more
-and more and more liquizations
-and I mean we decided, we
-need to not be pigeon-holed
-as just a product, we need
-to keep being a movement
-and keep being a community.
-So those were like the
-three clear, crisp decisions
-that came outta that.
+So this is worrisome andwe more or less decidedto stay the course and notSo we decided to keep ourown technology, not moveto the flavor of theday because our missionwas to have a diverse heterogeneous web.
+We decided to invest in moreand more and more liquizationsand I mean we decided, weneed to not be pigeon-holedas just a product, we needto keep being a movementand keep being a community.
+So those were like thethree clear, crisp decisionsthat came outta that.
 And that manifested itself this way.
-What happens is you get
-bigger and your organizational
-complexity goes way up
-and so I remember we had
-this meeting in 2007 and I
-said, look, two years ago,
-we were 15 people, we
-got 15 million users,
-we had some money, we were
-workin' on Firefox 1, you know?
-And then look at us now
-and like big ore charts,
-and ore charts are awful
-and mostly necessary
-but we just started
-getting really complicated
-and hard to figure out.
-So this was the preface
-for the reorg that I did.
-But then I said, look oh here's
-where we were two years ago
-and here's where we are now.
-And just to give people a
-sense of why it was feeling
-so dislocating and why
-people were feeling alienated
-and why people were feeling
-a little bit disconnected
-from mission.
-And so a lot of what the
-job of the chief is during
-this growth period is to
-help people feel connected
-to the company and connected to mission.
-And so this is another way we think about
-as many people as work, we
-talk about one developer
-Somebody asked about the
-community and where the community
-came from.
-One developer, maybe 90
-people on the whole team,
-you know we had hundreds
-of people contributing
-the source code, the open source code.
-This is before we had a
-thousand contributers,
-we had 10,000 people who
-are downloading the offer
-every night.
-And this was also new, like
-most people weren't shipping
-software so literally we
-would have interns come in,
-they would write code,
-it would get checked in,
-and like 10,000 people would
-be using it the next day.
+What happens is you getbigger and your organizationalcomplexity goes way upand so I remember we hadthis meeting in 2007 and Isaid, look, two years ago,we were 15 people, wegot 15 million users,we had some money, we wereworkin' on Firefox 1, you know?And then look at us nowand like big ore charts,and ore charts are awfuland mostly necessarybut we just startedgetting really complicatedand hard to figure out.
+So this was the prefacefor the reorg that I did.
+But then I said, look oh here'swhere we were two years agoand here's where we are now.
+And just to give people asense of why it was feelingso dislocating and whypeople were feeling alienatedand why people were feelinga little bit disconnectedfrom mission.
+And so a lot of what thejob of the chief is duringthis growth period is tohelp people feel connectedto the company and connected to mission.
+And so this is another way we think aboutas many people as work, wetalk about one developerSomebody asked about thecommunity and where the communitycame from.
+One developer, maybe 90people on the whole team,you know we had hundredsof people contributingthe source code, the open source code.
+This is before we had athousand contributers,we had 10,000 people whoare downloading the offerevery night.
+And this was also new, likemost people weren't shippingsoftware so literally wewould have interns come in,they would write code,it would get checked in,and like 10,000 people wouldbe using it the next day.
 Which is a little terrifying.
-When I'm coding, but everything
-had millions and millions
-and millions of monthly users.
-So that's how we thought about
-it and then, like I said,
-things that seem big,
-aren't and I wrote this
-blog post, Steve gave
-a Keynote, what i said.
-This is the state of
-browsing now, this seems like
-this is bad so we're gonna
-make it more like that.
-(laughter)
-By launching Safari on Windows.
-And I'm like, whoa!
-This is before everybody
-watched Keynotes, Steve notes,
-but like I was watching it
-and did he just say that?
-And this is my favorite,
-one of my favorite things.
-Anyway, so I used to work at Apple,
-I love Apple, I buy many
-of all their things,
-but they've never been
-very good at the web
-and they certainly were
-not good at the web
-or understanding the web
-then and they thought Firefox
-was kinda like dirty,
-weird, commie, goofy thing.
+When I'm coding, but everythinghad millions and millionsand millions of monthly users.
+So that's how we thought aboutit and then, like I said,things that seem big,aren't and I wrote thisblog post, Steve gavea Keynote, what i said.
+This is the state ofbrowsing now, this seems likethis is bad so we're gonnamake it more like that.
+(laughter)By launching Safari on Windows.
+And I'm like, whoa!This is before everybodywatched Keynotes, Steve notes,but like I was watching itand did he just say that?And this is my favorite,one of my favorite things.
+Anyway, so I used to work at Apple,I love Apple, I buy manyof all their things,but they've never beenvery good at the weband they certainly werenot good at the webor understanding the webthen and they thought Firefoxwas kinda like dirty,weird, commie, goofy thing.
 I'm not kidding.
-And so I wrote a thing
-about them and Firefox
-and it got me on Facey
-Jobs, just very exciting.
-Anyway, this turned out to
-be wrong, 'cause who wants
-Safari on Windows?
-And so we launched
-Firefox 3 and what we did
-is we went back to our roots
-and we said, we're gonna do a
-Guinness record for the most
-downloads in a 24 hour period.
+And so I wrote a thingabout them and Firefoxand it got me on FaceyJobs, just very exciting.
+Anyway, this turned out tobe wrong, 'cause who wantsSafari on Windows?And so we launchedFirefox 3 and what we didis we went back to our rootsand we said, we're gonna do aGuinness record for the mostdownloads in a 24 hour period.
 But the pitch was be part of the movement.
-Come in and be part of
-it, this is you, again,
-we went back to how do
-you see yourself in this?
-How do you get your friends to do it?
-And so we had people
-sign up it said I pledge
-to download Firefox,
-there's Shrep, right there.
-And then we had Firefox
-counters, this was like the first
-three or four days where
-we got 20 million downloads
-which is a big number then.
-And then this is the map which
-actually got us in trouble
-because there are countries
-like Iran and Syria on there,
-like you can see Iran is huge downloader
-which turned out to
-maybe have been illegal
-so we talked to the
-government for a little while
-about it.
+Come in and be part ofit, this is you, again,we went back to how doyou see yourself in this?How do you get your friends to do it?And so we had peoplesign up it said I pledgeto download Firefox,there's Shrep, right there.
+And then we had Firefoxcounters, this was like the firstthree or four days wherewe got 20 million downloadswhich is a big number then.
+And then this is the map whichactually got us in troublebecause there are countrieslike Iran and Syria on there,like you can see Iran is huge downloaderwhich turned out tomaybe have been illegalso we talked to thegovernment for a little whileabout it.
 Anyway, so and then this is the key.
 So we launched in 70 languages for IE7.
 IE7 launched in five.
-Microsoft, giant corporation,
-launched in five,
-we launched in 70 because we had a huge,
-activated volunteer
-community that wanted to.
+Microsoft, giant corporation,launched in five,we launched in 70 because we had a huge,activated volunteercommunity that wanted to.
 We launched in Mongolian day of.
-And so this is what happened,
-the piece of the web
-was so much bigger in the
-2000's than it had been
-in the 90's that IE came and dominated it
-and Firefox was so much bigger.
-Like we all thought of
-Netscape as like this founding,
-like shot from heaven
-and this amazing start
-but Mozilla, Firefox
-had so many more users
-by the time we got to scale,
-than Netscape ever had,
-and that's mostly because
-the market got bigger.
+And so this is what happened,the piece of the webwas so much bigger in the2000's than it had beenin the 90's that IE came and dominated itand Firefox was so much bigger.
+Like we all thought ofNetscape as like this founding,like shot from heavenand this amazing startbut Mozilla, Firefoxhad so many more usersby the time we got to scale,than Netscape ever had,and that's mostly becausethe market got bigger.
 So like don't take it the wrong way.
-We'll see if Mark keeps re-Tweeting
-Chris's court notes after this.
+We'll see if Mark keeps re-TweetingChris's court notes after this.
 But then the gray is the rise of Chrome.
-So it worked and we
-doubled down on community
-and many, many ways community
-is what sustained us.
-And so the last thing I'll say about this
-is there were some things on the horizon.
-So in 2008, we're 150 people,
-I had just been named the CEO
-give or take, and so the
-things we knew were coming,
-we knew Chrome was coming,
-we knew that Google had
-it decided in the interim
-that they had to take control
-of their own fate.
-And to their credit, they did
-it in a very transparent way
-with us and a very collaborative way.
+So it worked and wedoubled down on communityand many, many ways communityis what sustained us.
+And so the last thing I'll say about thisis there were some things on the horizon.
+So in 2008, we're 150 people,I had just been named the CEOgive or take, and so thethings we knew were coming,we knew Chrome was coming,we knew that Google hadit decided in the interimthat they had to take controlof their own fate.
+And to their credit, they didit in a very transparent waywith us and a very collaborative way.
 So there were no surprises.
-It's a little scary to compete
-with Google, but it was
-a good, collaborative thing.
-And then Farmville, I swear
-to God, and I told Mark Pinkus
-this the other day.
-In Firefox we made one mistake
-on our technology investment
-which was we had an
-extension mechanism would
-If you run an extension, it
-could do anything under the code
-in Firefox which meant that a
-lotta people wrote extensions
-that were bad and would cause
-Firefox to eat a lotta memory
-it would leak memory.
-And we couldn't test them
-because we didn't have them.
-And so in our tests,
-Firefox was performing well
-and not leaking memory, but
-in many, many, many user
-environments it was performing badly.
-And so we had this problem,
-it was a user problem
-that we couldn't see and
-a lot of it was flash.
-And then flash's interactions
-with extensions really
-screwed us up and Farmville went from zero
-to 70 million users in a year.
-It was a Zynga game that
-Mark made and it really,
-highlighted what a crashy
-browser Firefox was.
-And so this cultural movement
-that went up like this
-really shot Firefox and it
-really caused us issues.
-But that was still on the
-horizon, but mostly mobile
-and mobile is the real
-exostensial issue that Mozilla
-is struggling with, even today.
-So that's what I said about
-Mozilla and then we've got
-about 15, 10, 15 minutes
-more with Allen's stuff.
-Any questions about Mozilla
-before we move over?
-Why is mobile not
-working for Mozilla? Now?
-I don't wanna talk too much
-about it what I would say
-is that things happen, black swans happen
-because of particular context,
-particular points in time
-and Microsoft neglect and
-the PC platform being open,
-enabled this thing to
-happen that Mozilla was just
-very, very, very well poised to jump into
-and then they caught hold of
-the tiger's tail a little bit
-and then they used everything they could
-to get people like me and
-Shrep and other people in
-and like start building
-this movement and so,
-I don't know, I feel very
-fortunate that they had been
-wandering around for years and years
-to build this foundation that
-we could do something with.
+It's a little scary to competewith Google, but it wasa good, collaborative thing.
+And then Farmville, I swearto God, and I told Mark Pinkusthis the other day.
+In Firefox we made one mistakeon our technology investmentwhich was we had anextension mechanism wouldIf you run an extension, itcould do anything under the codein Firefox which meant that alotta people wrote extensionsthat were bad and would causeFirefox to eat a lotta memoryit would leak memory.
+And we couldn't test thembecause we didn't have them.
+And so in our tests,Firefox was performing welland not leaking memory, butin many, many, many userenvironments it was performing badly.
+And so we had this problem,it was a user problemthat we couldn't see anda lot of it was flash.
+And then flash's interactionswith extensions reallyscrewed us up and Farmville went from zeroto 70 million users in a year.
+It was a Zynga game thatMark made and it really,highlighted what a crashybrowser Firefox was.
+And so this cultural movementthat went up like thisreally shot Firefox and itreally caused us issues.
+But that was still on thehorizon, but mostly mobileand mobile is the realexostensial issue that Mozillais struggling with, even today.
+So that's what I said aboutMozilla and then we've gotabout 15, 10, 15 minutesmore with Allen's stuff.
+Any questions about Mozillabefore we move over?Why is mobile notworking for Mozilla? Now?I don't wanna talk too muchabout it what I would sayis that things happen, black swans happenbecause of particular context,particular points in timeand Microsoft neglect andthe PC platform being open,enabled this thing tohappen that Mozilla was justvery, very, very well poised to jump intoand then they caught hold ofthe tiger's tail a little bitand then they used everything they couldto get people like me andShrep and other people inand like start buildingthis movement and so,I don't know, I feel veryfortunate that they had beenwandering around for years and yearsto build this foundation thatwe could do something with.
 So anyway, sure.
-(audio muffled)
-Yeah, the question is,
-looking back it's easy
-to connect the dots, looking
-at the time we're at most
-surprising things.
-I think you saw 'em in the
-slides, like we didn't know
-whether we were winning
-or not, we didn't know
-how to make sure that people
-ran projects and the wheels
-always felt like they
-were coming off the place.
-And so I don't know what
-the surprising things were.
-I think the surprising things
-were just that I could step
-off the plane anywhere in the world
-and there would be people
-who wanted to come talk to me
-Like the first time I went to Tokyo,
-this contributer rode the
-train six hours each way
-just to have dinner with me
-and the dude didn't speak
-English, right? (laughter)
-He really, really cared
-and a lotta Mozilla,
-a lot of his identity was
-tied up in Mozilla and Firefox
-and freedom of expression
-and changing the world
-and there are not a
-lotta things like that.
+(audio muffled)Yeah, the question is,looking back it's easyto connect the dots, lookingat the time we're at mostsurprising things.
+I think you saw 'em in theslides, like we didn't knowwhether we were winningor not, we didn't knowhow to make sure that peopleran projects and the wheelsalways felt like theywere coming off the place.
+And so I don't know whatthe surprising things were.
+I think the surprising thingswere just that I could stepoff the plane anywhere in the worldand there would be peoplewho wanted to come talk to meLike the first time I went to Tokyo,this contributer rode thetrain six hours each wayjust to have dinner with meand the dude didn't speakEnglish, right? (laughter)He really, really caredand a lotta Mozilla,a lot of his identity wastied up in Mozilla and Firefoxand freedom of expressionand changing the worldand there are not alotta things like that.
 And so, yeah, I don't know.
-That was always surprising
-and I feel very humble
-even now thinking about that.
-- [Male student] How much do
-you think being a non-profit
-pointed you towards success
-as opposed to you (audio muffled)
-- I don't know.
-So the question is: how do
-you feel about non-profits?
-Like maybe it's 'cause you're successful
-'cause you're a non-profit
-and I have a really hard time
-with this question because
-Mitchell and Chris and I
-are one of the only groups
-in the world ever to get
-450 million users of anything.
-And people say, oh, sure,
-but you're a non-profit,
-of course you did that.
-And so I have a hard time
-answering this question
-because it sure didn't
-help, like unbalanced
-like it would've been
-easier to be a company.
-But we only could've done done
-what we did the way we did it
-so I don't know how to
-answer that question
-other than there were
-good days and bad days.
-Okay, you ready?
-- [Allen] Yeah.
+That was always surprisingand I feel very humbleeven now thinking about that.
+- [Male student] How much doyou think being a non-profitpointed you towards successas opposed to you (audio muffled)- I don't know.
+So the question is: how doyou feel about non-profits?Like maybe it's 'cause you're successful'cause you're a non-profitand I have a really hard timewith this question becauseMitchell and Chris and Iare one of the only groupsin the world ever to get450 million users of anything.
+And people say, oh, sure,but you're a non-profit,of course you did that.
+And so I have a hard timeanswering this questionbecause it sure didn'thelp, like unbalancedlike it would've beeneasier to be a company.
+But we only could've done donewhat we did the way we did itso I don't know how toanswer that questionother than there weregood days and bad days.
+Okay, you ready?- [Allen] Yeah.
 - [John] Good.
-- So what was Mozilla's, I mean
-not a total focus on growth
-but still they grew really effectively.
+- So what was Mozilla's, I meannot a total focus on growthbut still they grew really effectively.
 So we were talking earlier about scaling.
-So what is Mozilla's hypothesis?
-What's their growth hypothesis?
-So it was a really good browser.
+So what is Mozilla's hypothesis?What's their growth hypothesis?So it was a really good browser.
 - Nothing scales on its own.
 - But nothing scales on its own, so.
-Sorry?
-The community, so
-basically there's this bat
-and you jump in here and correct
-me if I'm takin' this wrong
-but there's a bat basically,
-that the community
-will actually be a primary carrier?
-- If we built great things
-for communities to spread it,
-that they would spread it because
-it made their lives better
-because basically it's spread
-by customer support people
-so you said I'm supporting
-my mom and my dad,
-I want them both on
-Firefox, I can support them,
-I can't support IE.
+Sorry?The community, sobasically there's this batand you jump in here and correctme if I'm takin' this wrongbut there's a bat basically,that the communitywill actually be a primary carrier?- If we built great thingsfor communities to spread it,that they would spread it becauseit made their lives betterbecause basically it's spreadby customer support peopleso you said I'm supportingmy mom and my dad,I want them both onFirefox, I can support them,I can't support IE.
 It's that played out a hundred times.
-- Right, so then basically
-we've got a kind of built-in
-word of mouth thing so this is
-what we're trying to achieve
-but talking a little bit about
-growth through value here.
-So we were talking about
-this a little bit earlier
-about how you grow effectively
-if in fact your idea
-is you wanna make sure the people feel
-like they're supporting each
-other and bring each other
-onto the platform in
-order to provide security,
-in order to provide the
-ability to do tech support,
-in order to support something
-that they actually care about.
-Those are reasons we're able
-to come pick up the thing
-and use it.
-Obviously you guys didn't do
-virality, you specifically
-called that out as
-something you didn't do,
-but obviously during
-this time we had products
-which were already
-growing in the viral thing
-where basically the product
-itself was spreading itself.
-So just really briefly on
-this, unfortunately because
-we're short on time, I
-wanna make sure we cover
-some of the specific lessons
-we can take away from Mozilla.
-If you've got that product
-market fit we talked about
-this earlier, if you've
-got a product market fit,
-you may not have it with
-all the users you actually
-care about.
-The question is can you leverage users
-where you have the product market fit?
-In order to be able to drive stuff.
-So one possibility is if
-you've got a strong community,
-who cares a lot about it,
-can they do their spreading for you?
-This, to the point of
-Linkedin's initial audiences,
-was exactly the thing that we discovered.
-We basically discovered
-there's a set of people
-who really, really, really,
-really, really, really cared
-about networking.
-They loved to meet new people,
-they loved to add connections
-and so forth and they were primary drivers
-of our early growth.
-They were a place where
-we had product market fit
-literally from day one.
-So sometimes you gotta
-figure out a way to leverage
-that particular group of audiences.
-If you've got a place where
-you've got a bunch of people
-who did not find it valuable
-or just find it a nice product,
-they're not gonna grow
-your product for you.
-Okay, so the question is:
-how do you take advantage
-of people who find they
-want it or they need it?
-A lotta people wanted Mozilla,
-they wanted that browser.
-A lotta people like
-recruiters needed Linkedin.
-Those people, can they be your drivers?
-And these are your options
-basically you can improve
-a product fit for your nice
-groups, this is Linkedins
-primary resource for growing stuff
-because we had a lotta people
-found Linkedin nice and we
-became probably best in the world
-at driving viral growth because we had to.
-Because we wanted to
-optimize the experience
-for these folks.
-We wanted somebody who just found Linkedin
-and nice to have, we wanted
-to make sure we converted
-that into as much growth as possible.
-But if you can take full advantage
-of those want/need groups
-or you can basically
-optimize your nice growth
-you can do a lot.
-You guys also used a bunch
-of different mechanisms
-for getting out.
-You mentioned PR, so PR is
-actually a fantastic opportunity
-to grow, to build awareness.
-Taking out a newspaper ad is about as
-direct of growth and awareness approach
-as you can possibly take.
-Incentives, now we have
-Facebook, Linkedin,
-other mechanisms which by you
-can actually spread something.
-There's a little bit of a
-different story on the enterprise,
-and hopefully we'll get an
-opportunity to talk to folks
-about this as we go along.
-The enterprise is a different value,
-you're actually not trying to grow broadly
-along a large number of people,
-what you're trying to do
-is you're trying to grow
-among decision-makers.
-So things you need to do
-there, are quite different
-I listed out some of them here, primarily
-around Beta customers.
-And around building awareness
-basically through the things
-that Beta customers
-actually pay attention to.
-So let me give you an example,
-At Linkedin we have a recruiter product,
-it's actually represents
-a very large component
-of Linkedin's revenue.
-How do you get to the place
-where people are actually
-adopting that at scale?
-Well the growth hypothesis
-here is pretty straightforward,
-it's basically try it out, if
-you find real value from it
-then basically somebody
-within the company will try
-to buy essentially for their entire group.
-But you gotta get in front
-of that set of people.
-The first set of customers
-who actually see it
-you have to be able to get
-to those people in some way.
-So the growth hypothesis
-is basically run a beta,
-then use those Beta as light,
-what we call lighthouse customers,
-people who will basically go out and speak
-on your behalf by how valuable
-the thing actually is.
-And then take advantage
-of these places where
-decision makers are currently looking.
+- Right, so then basicallywe've got a kind of built-inword of mouth thing so this iswhat we're trying to achievebut talking a little bit aboutgrowth through value here.
+So we were talking aboutthis a little bit earlierabout how you grow effectivelyif in fact your ideais you wanna make sure the people feellike they're supporting eachother and bring each otheronto the platform inorder to provide security,in order to provide theability to do tech support,in order to support somethingthat they actually care about.
+Those are reasons we're ableto come pick up the thingand use it.
+Obviously you guys didn't dovirality, you specificallycalled that out assomething you didn't do,but obviously duringthis time we had productswhich were alreadygrowing in the viral thingwhere basically the productitself was spreading itself.
+So just really briefly onthis, unfortunately becausewe're short on time, Iwanna make sure we coversome of the specific lessonswe can take away from Mozilla.
+If you've got that productmarket fit we talked aboutthis earlier, if you'vegot a product market fit,you may not have it withall the users you actuallycare about.
+The question is can you leverage userswhere you have the product market fit?In order to be able to drive stuff.
+So one possibility is ifyou've got a strong community,who cares a lot about it,can they do their spreading for you?This, to the point ofLinkedin's initial audiences,was exactly the thing that we discovered.
+We basically discoveredthere's a set of peoplewho really, really, really,really, really, really caredabout networking.
+They loved to meet new people,they loved to add connectionsand so forth and they were primary driversof our early growth.
+They were a place wherewe had product market fitliterally from day one.
+So sometimes you gottafigure out a way to leveragethat particular group of audiences.
+If you've got a place whereyou've got a bunch of peoplewho did not find it valuableor just find it a nice product,they're not gonna growyour product for you.
+Okay, so the question is:how do you take advantageof people who find theywant it or they need it?A lotta people wanted Mozilla,they wanted that browser.
+A lotta people likerecruiters needed Linkedin.
+Those people, can they be your drivers?And these are your optionsbasically you can improvea product fit for your nicegroups, this is Linkedinsprimary resource for growing stuffbecause we had a lotta peoplefound Linkedin nice and webecame probably best in the worldat driving viral growth because we had to.
+Because we wanted tooptimize the experiencefor these folks.
+We wanted somebody who just found Linkedinand nice to have, we wantedto make sure we convertedthat into as much growth as possible.
+But if you can take full advantageof those want/need groupsor you can basicallyoptimize your nice growthyou can do a lot.
+You guys also used a bunchof different mechanismsfor getting out.
+You mentioned PR, so PR isactually a fantastic opportunityto grow, to build awareness.
+Taking out a newspaper ad is about asdirect of growth and awareness approachas you can possibly take.
+Incentives, now we haveFacebook, Linkedin,other mechanisms which by youcan actually spread something.
+There's a little bit of adifferent story on the enterprise,and hopefully we'll get anopportunity to talk to folksabout this as we go along.
+The enterprise is a different value,you're actually not trying to grow broadlyalong a large number of people,what you're trying to dois you're trying to growamong decision-makers.
+So things you need to dothere, are quite differentI listed out some of them here, primarilyaround Beta customers.
+And around building awarenessbasically through the thingsthat Beta customersactually pay attention to.
+So let me give you an example,At Linkedin we have a recruiter product,it's actually representsa very large componentof Linkedin's revenue.
+How do you get to the placewhere people are actuallyadopting that at scale?Well the growth hypothesishere is pretty straightforward,it's basically try it out, ifyou find real value from itthen basically somebodywithin the company will tryto buy essentially for their entire group.
+But you gotta get in frontof that set of people.
+The first set of customerswho actually see ityou have to be able to getto those people in some way.
+So the growth hypothesisis basically run a beta,then use those Beta as light,what we call lighthouse customers,people who will basically go out and speakon your behalf by how valuablethe thing actually is.
+And then take advantageof these places wheredecision makers are currently looking.
 Marketer, your gardener, all that stuff.
-And consumer bottoms-up
-we can talk about that
-at some point.
+And consumer bottoms-upwe can talk about thatat some point.
 Resourcing.
-So what did Mozilla have to
-do in terms of resourcing
-their growth?
-John talked about it quite a bit.
-About adding Shrep and a few other folks
-and what were the other kind of components
-of actually making Mozilla successful?
-In terms of adding the
-people you actually need?
-Talk about that in a second.
+So what did Mozilla have todo in terms of resourcingtheir growth?John talked about it quite a bit.
+About adding Shrep and a few other folksand what were the other kind of componentsof actually making Mozilla successful?In terms of adding thepeople you actually need?Talk about that in a second.
 Yeah.
 - [Male student] They're very distributed.
-- So very distributed, so the
-idea is you can get lots of
-because you go where
-the talent actually is.
-What else?
-So go ahead.
-They were mission oriented
-so they attracted the right
-kind of people but they also
-found themselves go ahead.
-- [John] You guys talk about
-us being vague, so we had a
-very, very specific kind of metrics
-and one was: are we
-for each marginal hire,
-do we get more community leverage
-or less community leverage?
-So for each hire, is it an internal hire,
-or is it in a community-leveraged hire?
-Should we get more community
-members on the outside
-or fewer?
-And so we talked about that a lot.
-Which is, if we were to hire an admin,
-we had to understand
-where we were gonna make
-that up in community.
-And so as a result, a lotta
-jobs are about community
-even admins.
-- Yep, and I think it's a
-great point, so if you break
-your hiring and your resource
-down into these two groups,
-like hiring people who
-can directly drive scaling
-then picking people who
-would basically be able
-to extend the community
-and be able to take on more resources
-is a key component of doing that.
-But you also had to pull in a
-few people who were basically
-about scaling people internally.
-Which is basically about
-protecting that group of people.
-I'm not gonna go through
-the rest of these things
-just in time 'cause we do
-want talk about next week.
-- [John] We'll share the other slides,
-wanna show what the headlines are?
-- Yeah, so development
-technology learning systems.
-And then just basically
-a pattern of recruiting.
-OS2 is basically very first
-time when you actually have
-to put recruiting functions in place
-because you need to be able
-to build outside your network.
-- Yeah, a lotta this stuff comes from
-is related to the book that
-Reid and Chris are writing
-and so which we'll share
-out in the DropBox.
+- So very distributed, so theidea is you can get lots ofbecause you go wherethe talent actually is.
+What else?So go ahead.
+They were mission orientedso they attracted the rightkind of people but they alsofound themselves go ahead.
+- [John] You guys talk aboutus being vague, so we had avery, very specific kind of metricsand one was: are wefor each marginal hire,do we get more community leverageor less community leverage?So for each hire, is it an internal hire,or is it in a community-leveraged hire?Should we get more communitymembers on the outsideor fewer?And so we talked about that a lot.
+Which is, if we were to hire an admin,we had to understandwhere we were gonna makethat up in community.
+And so as a result, a lottajobs are about communityeven admins.
+- Yep, and I think it's agreat point, so if you breakyour hiring and your resourcedown into these two groups,like hiring people whocan directly drive scalingthen picking people whowould basically be ableto extend the communityand be able to take on more resourcesis a key component of doing that.
+But you also had to pull in afew people who were basicallyabout scaling people internally.
+Which is basically aboutprotecting that group of people.
+I'm not gonna go throughthe rest of these thingsjust in time 'cause we dowant talk about next week.
+- [John] We'll share the other slides,wanna show what the headlines are?- Yeah, so developmenttechnology learning systems.
+And then just basicallya pattern of recruiting.
+OS2 is basically very firsttime when you actually haveto put recruiting functions in placebecause you need to be ableto build outside your network.
+- Yeah, a lotta this stuff comes fromis related to the book thatReid and Chris are writingand so which we'll shareout in the DropBox.
 So we'll share out a draft of that.
-Please keep it to yourselves,
-don't spread it around.
-It's very, very early copy
-but you'll get a sense
-of this framework from the book.
-- [Allen] Alright, so what's next?
-- So the next two weeks,
-we're talking about OS2.
-So on Thursday, a very
-special person's coming
-named Jennifer Pahlka who
-started to thing about
-code for America and you'll see a bunch of
-It's another non-profit,
-it's the only non-profit
-of the course other than Mozilla.
-I'm on her board, Tim
-O'Reilly's on her board
-I'm leaving to have dinner
-with them right now.
-And it's about how you start movements
-and how you get projection of outcomes
-that's bigger than just the people inside.
-So they're about maybe
-60 or 70 people now,
-she's going through this phase.
-And after that Mariam Naficy from Minted,
-which is much, much bigger
-than you would think,
-And then Hashim Marocha who's
-working on a new project
-that is super secret, we'll
-see what he says about it.
-And then he formerly ran
-part of the You Tube.
-I think he will probably
-talk mostly about people
-and recruiting and how
-you build a really robust
-culture.
-Oh, I had a slide about
-That's what Jen looks like, yeah.
-She was also Deputy CTO for
-the White House recently
-so she's a killer.
-So three minutes left,
-any questions or comments?
-(audio muffled)
-- So the question is like after
-we got to the early adopters
-how did Linkedin continue to grow?
-So the idea is that because
-viral spread is built in
-to Linkedin, basically everybody who comes
-in who wants to find value
-of it ends up bringing
-additional folks in.
-A lot of those people are well outside
-the early adopting class,
-so for the longest time,
-we basically had
-At the very beginning we
-had people join in cold
-and then inviting their networks
-then we had everybody inviting each other.
-And then as we actually
-distributed our value more,
-now we have more cold
-people coming and joining
-'cause they're coming for
-a very specific value.
-So in the early days,
-it was I want a network,
-then it was, oh this is pretty
-cool, I can use it to recruit
-awesome, I wanna do that
-or I wanna get a job.
-Then the third part was
-I'm beginning to find this
-on Google, I'm beginning to
-hear about it in the press,
-I'm actually getting a job
-through it, so I'm gonna sign up
-cold to do it.
-(audio muffled)
-The only part we plan
-on from the beginning
-was the viral spread which
-came from that early group.
-The part we didn't plan on was the amazing
-product market fit with
-that set of early adopters.
-Which was a surprise, a good one, too
-and a necessary one.
+Please keep it to yourselves,don't spread it around.
+It's very, very early copybut you'll get a senseof this framework from the book.
+- [Allen] Alright, so what's next?- So the next two weeks,we're talking about OS2.
+So on Thursday, a veryspecial person's comingnamed Jennifer Pahlka whostarted to thing aboutcode for America and you'll see a bunch ofIt's another non-profit,it's the only non-profitof the course other than Mozilla.
+I'm on her board, TimO'Reilly's on her boardI'm leaving to have dinnerwith them right now.
+And it's about how you start movementsand how you get projection of outcomesthat's bigger than just the people inside.
+So they're about maybe60 or 70 people now,she's going through this phase.
+And after that Mariam Naficy from Minted,which is much, much biggerthan you would think,And then Hashim Marocha who'sworking on a new projectthat is super secret, we'llsee what he says about it.
+And then he formerly ranpart of the You Tube.
+I think he will probablytalk mostly about peopleand recruiting and howyou build a really robustculture.
+Oh, I had a slide aboutThat's what Jen looks like, yeah.
+She was also Deputy CTO forthe White House recentlyso she's a killer.
+So three minutes left,any questions or comments?(audio muffled)- So the question is like afterwe got to the early adoptershow did Linkedin continue to grow?So the idea is that becauseviral spread is built into Linkedin, basically everybody who comesin who wants to find valueof it ends up bringingadditional folks in.
+A lot of those people are well outsidethe early adopting class,so for the longest time,we basically hadAt the very beginning wehad people join in coldand then inviting their networksthen we had everybody inviting each other.
+And then as we actuallydistributed our value more,now we have more coldpeople coming and joining'cause they're coming fora very specific value.
+So in the early days,it was I want a network,then it was, oh this is prettycool, I can use it to recruitawesome, I wanna do thator I wanna get a job.
+Then the third part wasI'm beginning to find thison Google, I'm beginning tohear about it in the press,I'm actually getting a jobthrough it, so I'm gonna sign upcold to do it.
+(audio muffled)The only part we planon from the beginningwas the viral spread whichcame from that early group.
+The part we didn't plan on was the amazingproduct market fit withthat set of early adopters.
+Which was a surprise, a good one, tooand a necessary one.
 Yeah.
-So what'd we see from the nice users?
-So we had a very specific
-theory around the nice users.
-Which is that even if they were
-joining and inviting today,
-actually being a Linkedin
-user was a low-impact sport.
-Basically what you would
-do is you'd be on Linkedin
-you'd use it very, very
-regularly, you would respond
-to things when people came to you.
-So basically, there was
-very little risk in being
-part of Linkedin but
-then the value started
-coming to you down the line
-and every time you received
-value from the system,
-you woke up and became
-part of the active network.
+So what'd we see from the nice users?So we had a very specifictheory around the nice users.
+Which is that even if they werejoining and inviting today,actually being a Linkedinuser was a low-impact sport.
+Basically what you woulddo is you'd be on Linkedinyou'd use it very, veryregularly, you would respondto things when people came to you.
+So basically, there wasvery little risk in beingpart of Linkedin butthen the value startedcoming to you down the lineand every time you receivedvalue from the system,you woke up and becamepart of the active network.
 - Plus the e-mails.
 - Thus the e-mails.
-(laughter)
-- Alright, we should finish up.
+(laughter)- Alright, we should finish up.
 - Yeah, we should finish up.
-I'll be around for a few minutes
-to answer further questions
-- Alright thanks for class,
-we'll see ya Thursday.
+I'll be around for a few minutesto answer further questions- Alright thanks for class,we'll see ya Thursday.

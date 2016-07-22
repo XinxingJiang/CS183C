@@ -1,2259 +1,408 @@
-WEBVTT
-Kind: captions
-Language: en
-- What I'd love to do
-today is have you guys give
-a CS183C welcome to
-Elizabeth Holmes of Theranos.
-(applause)
-We're gonna be exploring
-the concept of blitz-scaling.
-What's great about having Elizabeth here
-is because she is a
-health care entrepreneur,
-as well as a technology entrepreneur,
-it opens up a whole bunch of
-different lines of discussion,
-but before we sort of
-get into all the details,
-maybe you can just tell us
-a little bit about what Theranos does,
-more specifically how
-does it create value?
-How do you monetize it
-because it's very different from
-a lot of the companies we've seen.
-- Theranos is about the belief that
-access to actionable health information
-can make early detection and prevention
-a reality in health care.
-So we spent a long time thinking about
-what does access mean,
-and how do you make this information
-that is so inaccessible to people
-something that becomes
-part of their daily life.
-That started for us with figuring out
-how to build a lot of back-end technology
-to totally change the way that
-lab tests which are the primary driver
-for 80% of the clinical decisions
-in health care are accesible,
-and trying to figure out how do you take
-these services that are
-incredibly inaccessible,
-and incredibly expensive,
-and make them available
-to people for $2.99.
-We have developed an ecosystem
-in which we can make low cost,
-high quality tests accessible.
-We've built out a retail framework that
-allows people to get access to information
-in ways they haven't before,
-and we focused on making
-the testing experience wonderful
-which includes changing the way that
-consumers engage with health information,
-and making samples smaller.
-- One of the things I think
-is very famous about Theranos
-is that you started Theranos
-while you were here at Stanford.
-In fact, it was based in
-a basement, I believe.
-Can you talk a little
-about those early days,
-and what you were really focused on
-back when you first started out?
-- I was focused on a dream
-which was that what I've gone through
-in my own family, and losing people
-that I love could be changed,
-and that it doesn't make any sense that
-we have this paradigm in health care today
-which is that we determine someone is sick
-because they're already symptomatic.
-You look the word diagnose
-up in the dictionary,
-and it says: "To determine the presence
-"of disease from symptoms,"
-but by definition that means
-you're already sick.
-I was thinking
-could I build something to change that.
-I was doing research here
-in a number of areas,
-and trying to figure
-out is there a product
-that we could create
-that would change that paradigm.
-- So the idea would be instead of me
-waiting to go to a doctor,
-and ordering tests, and
-everything like that
-I might just say: "Every
-quarter it's cheap enough.
-"I'll just go to Walgreens, and go ahead,
-"and run a whole set of diagnostics."
-- And that you would begin to understand
-that information the same way
-you understand your credit card data.
-Right now you know more about
-your credit card than
-you do about your body,
-and yet the data that's associated with
-your biochemical information
-is so powerful and so
-useful in the context
-of changing your daily life.
+WEBVTTKind: captionsLanguage: en- What I'd love to dotoday is have you guys givea CS183C welcome toElizabeth Holmes of Theranos.
+(applause)We're gonna be exploringthe concept of blitz-scaling.
+What's great about having Elizabeth hereis because she is ahealth care entrepreneur,as well as a technology entrepreneur,it opens up a whole bunch ofdifferent lines of discussion,but before we sort ofget into all the details,maybe you can just tell usa little bit about what Theranos does,more specifically howdoes it create value?How do you monetize itbecause it's very different froma lot of the companies we've seen.
+- Theranos is about the belief thataccess to actionable health informationcan make early detection and preventiona reality in health care.
+So we spent a long time thinking aboutwhat does access mean,and how do you make this informationthat is so inaccessible to peoplesomething that becomespart of their daily life.
+That started for us with figuring outhow to build a lot of back-end technologyto totally change the way thatlab tests which are the primary driverfor 80% of the clinical decisionsin health care are accesible,and trying to figure out how do you takethese services that areincredibly inaccessible,and incredibly expensive,and make them availableto people for $2.99.
+We have developed an ecosystemin which we can make low cost,high quality tests accessible.
+We've built out a retail framework thatallows people to get access to informationin ways they haven't before,and we focused on makingthe testing experience wonderfulwhich includes changing the way thatconsumers engage with health information,and making samples smaller.
+- One of the things I thinkis very famous about Theranosis that you started Theranoswhile you were here at Stanford.
+In fact, it was based ina basement, I believe.
+Can you talk a littleabout those early days,and what you were really focused onback when you first started out?- I was focused on a dreamwhich was that what I've gone throughin my own family, and losing peoplethat I love could be changed,and that it doesn't make any sense thatwe have this paradigm in health care todaywhich is that we determine someone is sickbecause they're already symptomatic.
+You look the word diagnoseup in the dictionary,and it says: "To determine the presence"of disease from symptoms,"but by definition that meansyou're already sick.
+I was thinkingcould I build something to change that.
+I was doing research herein a number of areas,and trying to figureout is there a productthat we could createthat would change that paradigm.
+- So the idea would be instead of mewaiting to go to a doctor,and ordering tests, andeverything like thatI might just say: "Everyquarter it's cheap enough.
+"I'll just go to Walgreens, and go ahead,"and run a whole set of diagnostics."- And that you would begin to understandthat information the same wayyou understand your credit card data.
+Right now you know more aboutyour credit card thanyou do about your body,and yet the data that's associated withyour biochemical informationis so powerful and souseful in the contextof changing your daily life.
 - I noticed that Chris has a question.
 Chris always has got a lot of questions.
-- [Voiceover] I was just
-curious if you could
-like expand more on
-things like when you were
-at Stanford, like, basically,
-what you were doing,
-and then how it ended up
-coming out as a company?
-- Sure, I was studying chemical,
-and electrical engineering.
-This was before sort of
-the whole BioX evolved,
-and I was doing research in
-the chemical engineering department around
-the handling of very, very
-small volumes of fluid,
-and sensor type systems,
-and was really interested
-in the confluence
-of technology in health care,
-and was really interested
-in the concept that
-the way we do testing right now
-doesn't make any sense.
-I had gone to Singapore to work
-in their Genome Institute.
+- [Voiceover] I was justcurious if you couldlike expand more onthings like when you wereat Stanford, like, basically,what you were doing,and then how it ended upcoming out as a company?- Sure, I was studying chemical,and electrical engineering.
+This was before sort ofthe whole BioX evolved,and I was doing research inthe chemical engineering department aroundthe handling of very, verysmall volumes of fluid,and sensor type systems,and was really interestedin the confluenceof technology in health care,and was really interestedin the concept thatthe way we do testing right nowdoesn't make any sense.
+I had gone to Singapore to workin their Genome Institute.
 This was at the time of the SARS outbreak.
-The types of equipment and technology
-that they were using to measure
-effectively what's called
-protein microarrays
-where you're looking at this
-protein detection system
-for tyring to figure out whether
-someone is sick with something
-just really fundamentally from
-an architecture standpoint hadn't changed
-since like the 1960's in terms of
-the way these systems are developed.
-So I was thinking about the fact that
-there were different ways
-that you could do this.
-You could apply technology
-toward solving these problems,
-and got so obsessed with it
-that I was spending all of my time on it.
-I think I had, I don't know,
-like 26 units per quarter kind of thing.
-- [Voiceover] What year were you?
-- I started as a freshman,
-and then ended up right before
-my sophomore year
-filing my first patents
-around these concepts
-for the types of systems
-that we were developing,
-and by sort of the end
-of the first quarter
-of my sophomore year
-this was all I was doing.
+The types of equipment and technologythat they were using to measureeffectively what's calledprotein microarrayswhere you're looking at thisprotein detection systemfor tyring to figure out whethersomeone is sick with somethingjust really fundamentally froman architecture standpoint hadn't changedsince like the 1960's in terms ofthe way these systems are developed.
+So I was thinking about the fact thatthere were different waysthat you could do this.
+You could apply technologytoward solving these problems,and got so obsessed with itthat I was spending all of my time on it.
+I think I had, I don't know,like 26 units per quarter kind of thing.
+- [Voiceover] What year were you?- I started as a freshman,and then ended up right beforemy sophomore yearfiling my first patentsaround these conceptsfor the types of systemsthat we were developing,and by sort of the endof the first quarterof my sophomore yearthis was all I was doing.
 Stanford makes it really easy.
-You can just go on "leave," and come back
-any time you want.
-I figured all this training,
-and all this studying
-this was what I wanted to do,
-and this was what I felt
-like I was born to do,
-and so I went to go
-spend all my time on it.
-- Now I think that one of the things that
-comes out of your stories
-you actually went to
-your parents, and said:
-"Hey, instead of all of this money that
-"you've saved up to send me to Stanford
-"how about if you let me use it
-"to start my company,"
-which I think is pretty amazing.
-Can you talk about how you made
-the decision to do that,
-and how on earth you persuaded them
-to go along with it?
-- I think we all ask
-ourselves this question about
-what is our calling,
-what is it that we love,
-what is it that we really want
-to do with our life.
-I had thought a lot about that,
-and grew up in a family that
-was very involved in public service,
-and I got to a point in time where
-I was really thinking about
-if I were going to build a product,
-if I was going to create something
-what would make the biggest difference
-in people's lives,
-and at an emotional level
-I couldn't think of anything
-that could be more meaningful than
-changing what we all go through
-when we say goodbye
-to people we love too soon
-because we didn't find out
-in time to change that.
-When I sort of latched onto that
-to me the purpose of going to Stanford
-was to figure out how to get the skillsets
-to be able to go do that,
-and when I felt like I had the ability
-to sort of dive in that was it,
-so it wasn't much of a discussion.
-It was kind of this is
-what I'm going to do now.
-- And your parents just said:
-"All right, Elizabeth, sounds good."
-- They were wonderful, yeah.
-The could have made that very difficult,
-but they didn't,
-and I'm incredibly grateful for that
-because the money that I used
-to start the company
-would have allowed them to retire.
-- One of the things
-that's interesting about
-the process of starting the company,
-and you mentioned you were
-doing research on SARS,
-and I think that Theranos
-originally started off
-doing some very different
-than what it's doing today,
-and so you morphed and
-pivoted along the way.
-Can you talk about how you eventually
-figured out and settled on
-this particular product strategy?
-- The vision was always the same.
-My first patents were around
-sort of elements of some of the exact same
-technology that we use today,
-but just in a different form.
-I knew that
-we wanted to do something very big
-in the context of setting out to change
-the way lab testing is done more broadly,
-and this is a complicated problem.
-You mentioned it's obviously
-a highly regulated space,
-but it's also a problem where if
-you develop an assay or chemistry
-to measure one thing like a glucose test,
-or a cholesterol test
-that does not mean that that
-methodology lends itself to being able
-to measure anything else,
-and there's such a huge parameter set
-in terms of all of these things that
-you have to develop
-that this was a very long-term mission.
-We set out basically knowing that
-we were gonna need to have
-a very long time horizon,
-and we began to build the business
-in such a way in which
-we could effectively grow
-the company and realize the mission
-as we executed on different
-products and services along the way,
-so we started, sort of, with the subset of
-in our case serving as a lab,
-and certain tests and technologies
-that we could provide,
-and we had sort of initial
-implementations of the technology
-that don't have the same
-sort of capabilities
-that we have now with what we've built,
-and then as we were able
-to begin generating revenue,
-and starting to build
-the company around them
-just kept on expanding until we reached
-the point where we were ready
-to begin offering, effectively,
-a full service laboratory
-capability to people.
-- You know, this class we talk about
-the concept of blitz-scaling,
-and one of the things that comes up
-is that oftentimes you
-go along for a while
-maybe at a smaller scale
-until you feel like you've got
-that product market fit,
-or you feel like you've figured out
-how you want to go to market,
-and then you begin to scale up.
-Where does Theranos stand today
-in terms of scale?
-The number of employees.
-I know you have a lot of lab space
-here in the Bay area.
-Talk a little bit about
-the scale it is at today.
+You can just go on "leave," and come backany time you want.
+I figured all this training,and all this studyingthis was what I wanted to do,and this was what I feltlike I was born to do,and so I went to gospend all my time on it.
+- Now I think that one of the things thatcomes out of your storiesyou actually went toyour parents, and said:"Hey, instead of all of this money that"you've saved up to send me to Stanford"how about if you let me use it"to start my company,"which I think is pretty amazing.
+Can you talk about how you madethe decision to do that,and how on earth you persuaded themto go along with it?- I think we all askourselves this question aboutwhat is our calling,what is it that we love,what is it that we really wantto do with our life.
+I had thought a lot about that,and grew up in a family thatwas very involved in public service,and I got to a point in time whereI was really thinking aboutif I were going to build a product,if I was going to create somethingwhat would make the biggest differencein people's lives,and at an emotional levelI couldn't think of anythingthat could be more meaningful thanchanging what we all go throughwhen we say goodbyeto people we love too soonbecause we didn't find outin time to change that.
+When I sort of latched onto thatto me the purpose of going to Stanfordwas to figure out how to get the skillsetsto be able to go do that,and when I felt like I had the abilityto sort of dive in that was it,so it wasn't much of a discussion.
+It was kind of this iswhat I'm going to do now.
+- And your parents just said:"All right, Elizabeth, sounds good."- They were wonderful, yeah.
+The could have made that very difficult,but they didn't,and I'm incredibly grateful for thatbecause the money that I usedto start the companywould have allowed them to retire.
+- One of the thingsthat's interesting aboutthe process of starting the company,and you mentioned you weredoing research on SARS,and I think that Theranosoriginally started offdoing some very differentthan what it's doing today,and so you morphed andpivoted along the way.
+Can you talk about how you eventuallyfigured out and settled onthis particular product strategy?- The vision was always the same.
+My first patents were aroundsort of elements of some of the exact sametechnology that we use today,but just in a different form.
+I knew thatwe wanted to do something very bigin the context of setting out to changethe way lab testing is done more broadly,and this is a complicated problem.
+You mentioned it's obviouslya highly regulated space,but it's also a problem where ifyou develop an assay or chemistryto measure one thing like a glucose test,or a cholesterol testthat does not mean that thatmethodology lends itself to being ableto measure anything else,and there's such a huge parameter setin terms of all of these things thatyou have to developthat this was a very long-term mission.
+We set out basically knowing thatwe were gonna need to havea very long time horizon,and we began to build the businessin such a way in whichwe could effectively growthe company and realize the missionas we executed on differentproducts and services along the way,so we started, sort of, with the subset ofin our case serving as a lab,and certain tests and technologiesthat we could provide,and we had sort of initialimplementations of the technologythat don't have the samesort of capabilitiesthat we have now with what we've built,and then as we were ableto begin generating revenue,and starting to buildthe company around themjust kept on expanding until we reachedthe point where we were readyto begin offering, effectively,a full service laboratorycapability to people.
+- You know, this class we talk aboutthe concept of blitz-scaling,and one of the things that comes upis that oftentimes yougo along for a whilemaybe at a smaller scaleuntil you feel like you've gotthat product market fit,or you feel like you've figured outhow you want to go to market,and then you begin to scale up.
+Where does Theranos stand todayin terms of scale?The number of employees.
+I know you have a lot of lab spacehere in the Bay area.
+Talk a little bit aboutthe scale it is at today.
 - We're about 1,000 people.
-We started our work
-serving pharmaceutical companies
-as the lab for new drugs
-in the context of being able to
-better and faster measure whether
-a drug is working in a clinical trial.
-We've now built this capability
-around serving individuals,
-and their physicians at retail,
-and have spent the last year and a half
-building out a model for that in Arizona,
-and done a lot of work to showcase
-how we can shift the paradigm
-in the context of access
-to health information,
-and now we're at a point where
-we're beginning to replicate that,
-and starting to build
-out here in California,
-and in Pennsylvania.
-- Now the Arizona thing
-was very interesting
-because I think read somewhere that
-you actually helped them write their laws,
-or rewrite their laws.
-That's actually a very big thing
-for a company to do.
-Talk about the regulatory strategy,
-and working with the government.
-- This is a very, very regulated space,
-and very, very regulated business,
-and it really means you build
-a different type of company
-because the stakes are so high,
-and the decision-making process
-is so long-term.
-The FDA approvals that we've worked on
-they take about a couple
-of years per approval.
-For us the government interactions,
-and the regulatory are in many spaces.
-There's part of regulating the efficacy,
-and safety of testing,
-and there's a different part of it
-which is this bill that
-we had the privilege
-of being involved in drafting,
-and implementing in Arizona around
-how do you enfranchise individuals
-to be able to play a role in health care?
-Our belief is that the only way to
-really change our health care system
-is to empower people to play a role,
-but this is a space in which people
-are told effectively you're not
-intelligent enough to be able to handle
-your own information.
-I can go buy a weapon and kill myself,
-but I can't order a lab test
-because that's considered too dangerous
-for me to know if I'm pregnant,
-and we just could not disagree
-more strongly with that,
-so what we did in Arizona was
-write the first bill in the country
-that makes people allowed to go in,
-and spend their own money on a lab test,
-and to be able to engage
-with their health information,
-and that really changes a lot of things
-because the minute that an individual
-has visibility into price
-the market begins to function
-in the context of individuals being able
-to demand lower cost,
-higher quality options,
-and this is a space where there is
-no visibility into pricing.
-So breaking through an infrastructure
-that just has not changed
-for so many years,
-and it's not a coincidence
-that there aren't
-many companies in health care technology
-that have broken through
-because this is a space that
-doesn't want to change.
-- Now to break through, specifically,
-how did you guys do that?
-For example, Theranos
-helped write this bill.
-Did you have a policy group
-that your brought in?
-Did you bring in people
-who are experienced at working
-with regulators, and lawmakers?
-How did you sort of instantitate that?
-What was the people strategy there?
-- We have over time.
+We started our workserving pharmaceutical companiesas the lab for new drugsin the context of being able tobetter and faster measure whethera drug is working in a clinical trial.
+We've now built this capabilityaround serving individuals,and their physicians at retail,and have spent the last year and a halfbuilding out a model for that in Arizona,and done a lot of work to showcasehow we can shift the paradigmin the context of accessto health information,and now we're at a point wherewe're beginning to replicate that,and starting to buildout here in California,and in Pennsylvania.
+- Now the Arizona thingwas very interestingbecause I think read somewhere thatyou actually helped them write their laws,or rewrite their laws.
+That's actually a very big thingfor a company to do.
+Talk about the regulatory strategy,and working with the government.
+- This is a very, very regulated space,and very, very regulated business,and it really means you builda different type of companybecause the stakes are so high,and the decision-making processis so long-term.
+The FDA approvals that we've worked onthey take about a coupleof years per approval.
+For us the government interactions,and the regulatory are in many spaces.
+There's part of regulating the efficacy,and safety of testing,and there's a different part of itwhich is this bill thatwe had the privilegeof being involved in drafting,and implementing in Arizona aroundhow do you enfranchise individualsto be able to play a role in health care?Our belief is that the only way toreally change our health care systemis to empower people to play a role,but this is a space in which peopleare told effectively you're notintelligent enough to be able to handleyour own information.
+I can go buy a weapon and kill myself,but I can't order a lab testbecause that's considered too dangerousfor me to know if I'm pregnant,and we just could not disagreemore strongly with that,so what we did in Arizona waswrite the first bill in the countrythat makes people allowed to go in,and spend their own money on a lab test,and to be able to engagewith their health information,and that really changes a lot of thingsbecause the minute that an individualhas visibility into pricethe market begins to functionin the context of individuals being ableto demand lower cost,higher quality options,and this is a space where there isno visibility into pricing.
+So breaking through an infrastructurethat just has not changedfor so many years,and it's not a coincidencethat there aren'tmany companies in health care technologythat have broken throughbecause this is a space thatdoesn't want to change.
+- Now to break through, specifically,how did you guys do that?For example, Theranoshelped write this bill.
+Did you have a policy groupthat your brought in?Did you bring in peoplewho are experienced at workingwith regulators, and lawmakers?How did you sort of instantitate that?What was the people strategy there?- We have over time.
 I was in Arizona.
-I met with every person in the house,
-Arizona State House,
-and Arizona State Senate Committees
-that oversee the passage of this bill.
-It's a very human thing
-because a lot of it is about
-well if this law takes effect
-what are you gonna do with it,
-and what change is gonna
-happen in our state,
-and what does that mean.
+I met with every person in the house,Arizona State House,and Arizona State Senate Committeesthat oversee the passage of this bill.
+It's a very human thingbecause a lot of it is aboutwell if this law takes effectwhat are you gonna do with it,and what change is gonnahappen in our state,and what does that mean.
 There's no shortcuts there.
-- You've now achieved a
-pretty significant scale
-1,000 employees what we like to call
-in sort of blitz-scaling OS4,
-or the city level of scale.
-One of the things about this
-is you probably had to set up processes,
-and tools in order to operate the company,
-so what kinds of processes and tools
-do you use to operate now that
-you're at this scale,
-and which ones do you wish
-you'd set up earlier?
-- I think about it in terms of people,
-and we're a very flat organization.
-I mean, if we've learned anything
-it's that we're only as good as
-the worst people on our team,
-and that everything that we've done
-is only because we've got
-the right people on our team,
-so the ability to recruit,
-and empower people,
-and build people from within
-to win in terms of executing
-on these different areas
-really is fundamental to
-that type of ecosystem,
-and then there's a huge part
-of building the culture,
-and in our case a culture
-that embraces failure,
-and a team of people who want to do
-the really hard things that are
-going to challenge a lot of people,
-and threaten a lot of people in this space
-because that change is
-needed in the world.
-- In terms of the people, for example,
-you probably have
-different kinds of people.
-You have people who are doing
-engineering around the nanotainers.
-You have people who have
-a medical background.
-You have people who have
-a business background.
-What's kind of the
-breakdown of that group,
-and how do you recruit those differently?
-- They're very different.
+- You've now achieved apretty significant scale1,000 employees what we like to callin sort of blitz-scaling OS4,or the city level of scale.
+One of the things about thisis you probably had to set up processes,and tools in order to operate the company,so what kinds of processes and toolsdo you use to operate now thatyou're at this scale,and which ones do you wishyou'd set up earlier?- I think about it in terms of people,and we're a very flat organization.
+I mean, if we've learned anythingit's that we're only as good asthe worst people on our team,and that everything that we've doneis only because we've gotthe right people on our team,so the ability to recruit,and empower people,and build people from withinto win in terms of executingon these different areasreally is fundamental tothat type of ecosystem,and then there's a huge partof building the culture,and in our case a culturethat embraces failure,and a team of people who want to dothe really hard things that aregoing to challenge a lot of people,and threaten a lot of people in this spacebecause that change isneeded in the world.
+- In terms of the people, for example,you probably havedifferent kinds of people.
+You have people who are doingengineering around the nanotainers.
+You have people who havea medical background.
+You have people who havea business background.
+What's kind of thebreakdown of that group,and how do you recruit those differently?- They're very different.
 I think it's pretty evenly split.
-We have as many software developers
-as we have people working on
-mechanical engineering,
-as we have people working in
-other areas within the company.
-I think the art is in getting those teams
-to speak the same language,
-and work together,
-and that's something that
-I think over the 12 years now that
-we've been doing this has really become
-a core competitive asset
-because just the mindset,
-and the work culture
-is so different in terms of people
-coming from a lot of these
-different types of companies.
+We have as many software developersas we have people working onmechanical engineering,as we have people working inother areas within the company.
+I think the art is in getting those teamsto speak the same language,and work together,and that's something thatI think over the 12 years now thatwe've been doing this has really becomea core competitive assetbecause just the mindset,and the work cultureis so different in terms of peoplecoming from a lot of thesedifferent types of companies.
 - We have a quick question.
 Sounds like a follow-up.
-- [Voiceover] I've got a question about
-the early days of Theranos,
-how did you go from leaving Stanford
-with your patents
-to building a company,
-like how did you surround
-yourself with the right people,
-and how did you build the team?
-- There's a great Martin Luther King quote
-that I love, and it says:
-"Just take the first
-step in faith," it says:
-"You don't have to see
-the whole staircase.
-"Just take the first step."
-And all of these things
-they start in baby steps.
-I mean you don't start out saying
-okay, I'm gonna go hire 100 people,
-and raise $50 million,
-and start making millions
-of dollars in revenue.
-For me the first part was
-well, what are we building,
-and what is this product,
-what is this system,
-how do we design it.
+- [Voiceover] I've got a question aboutthe early days of Theranos,how did you go from leaving Stanfordwith your patentsto building a company,like how did you surroundyourself with the right people,and how did you build the team?- There's a great Martin Luther King quotethat I love, and it says:"Just take the firststep in faith," it says:"You don't have to seethe whole staircase.
+"Just take the first step."And all of these thingsthey start in baby steps.
+I mean you don't start out sayingokay, I'm gonna go hire 100 people,and raise $50 million,and start making millionsof dollars in revenue.
+For me the first part waswell, what are we building,and what is this product,what is this system,how do we design it.
 The beginning of it was very technical.
-It was about invention,
-and it was about reduction to practice,
-and then it was about
-is there someone who could work with me.
-I had the opportunity to hire
-the person I was working for
-in the PhD program at Stanford,
-and he came, and ...
-- Look at your professors
-in a very different way.
-- Exactly, it's an asset,
-and so then there was two of us,
-and we were thinking about
-how do we build this.
-As we started getting into sort of
-the reduction to practice mode then it was
-like can we get access to a lab space,
-how do we do that,
-where do we go.
-We started to look at
-okay, could we raise some money,
-and we started talking to people about
-how would you get access
-to capital for what we do.
+It was about invention,and it was about reduction to practice,and then it was aboutis there someone who could work with me.
+I had the opportunity to hirethe person I was working forin the PhD program at Stanford,and he came, and ...
+- Look at your professorsin a very different way.
+- Exactly, it's an asset,and so then there was two of us,and we were thinking abouthow do we build this.
+As we started getting into sort ofthe reduction to practice mode then it waslike can we get access to a lab space,how do we do that,where do we go.
+We started to look atokay, could we raise some money,and we started talking to people abouthow would you get accessto capital for what we do.
 This is highly capital intensive.
 You can't just be in a basement.
-You actually need fume hoods,
-and these types of things
-to be able to do this.
+You actually need fume hoods,and these types of thingsto be able to do this.
 It's one step in front of the other.
-I mean just each step along the way,
-but I think it starts with
-a really, really clear understanding on
-why are you doing it.
-I mean if you're gonna start a company
-why do you want to start a company.
-What is this mission,
-and is it a mission that
-you want to fight for
-when it gets really, really hard
-because every single step along the way
-I've always thought when you're failing,
-and when bad stuff happens
-it's a sign that if you're doing what
-you really, really love
-you're on to something
-because you're being tested.
-- One of the other interesting things
-about speaking of people, I think,
-your brother works for you at Theranos.
-How do you balance personal,
-professional relationships.
+I mean just each step along the way,but I think it starts witha really, really clear understanding onwhy are you doing it.
+I mean if you're gonna start a companywhy do you want to start a company.
+What is this mission,and is it a mission thatyou want to fight forwhen it gets really, really hardbecause every single step along the wayI've always thought when you're failing,and when bad stuff happensit's a sign that if you're doing whatyou really, really loveyou're on to somethingbecause you're being tested.
+- One of the other interesting thingsabout speaking of people, I think,your brother works for you at Theranos.
+How do you balance personal,professional relationships.
 This is an interesting dynamic.
-- When he came in 2003,
-when it was me,
-and the PhD student at Stanford,
-and built our website
-which was very useful,
-and then he went back,
-and went to school, went to Duke,
-and then worked in DC
-building a government practice
-for a consulting group,
-and when he had the experience
-in terms of management,
-and had the development of his skillsets
-we convinced him to move back in.
-I think anytime that you have
-people you're close to in business
-whether it's family,
-or whether it's people
-you were really close friends with
-those people really have to work
-even harder than everybody else
-in order to make that work
-because it has to be about business,
-and it has to be about business first,
-and that means it's
-about the company first,
-and that means that they're held to about
-four times the standard as everybody else
-because it has to be that they're there
-because of the
-contributions they can make.
+- When he came in 2003,when it was me,and the PhD student at Stanford,and built our websitewhich was very useful,and then he went back,and went to school, went to Duke,and then worked in DCbuilding a government practicefor a consulting group,and when he had the experiencein terms of management,and had the development of his skillsetswe convinced him to move back in.
+I think anytime that you havepeople you're close to in businesswhether it's family,or whether it's peopleyou were really close friends withthose people really have to workeven harder than everybody elsein order to make that workbecause it has to be about business,and it has to be about business first,and that means it'sabout the company first,and that means that they're held to aboutfour times the standard as everybody elsebecause it has to be that they're therebecause of thecontributions they can make.
 - There was a question over there.
-- [Voiceover] How did you think about
-product market fit?
-I mean, it seems like you were standing
-in front of this sort of 10 year plan
-realizing I need a ton of money,
-and we got to do this
-for a really long time.
-You don't really given that it's such
-a regulated space,
-you don't really have the opportunity
-to test small bits and bops along the way.
-What did you do it?
-- In terms of how we started
-building the business?
-- Just to repeat the question.
-How do you do product market fit
-when you can't just throw out a test
-onto the Internet?
-How do you actually get the feedback,
-and figure out how to redirect things?
-- We knew that ultimately we wanted
-to be doing what we're doing right now,
-but you can't do what
-we're doing right now
-without having developed
-hundreds of chemistries,
-and all this kind of stuff,
-so we started working for pharma companies
-who said: "We want you
-to measure one thing,
-"and we want you to do a program where
-"because you can do this less expensively,
-"because you can do it faster,
-"because you can do it with less blood,
-"you will allow us to get data faster
-"on understanding the efficacy,
-"or safety of our drug."
-And so we did that,
-and then we had one test,
-and we kept doing it in the context of
-building out this framework along the way.
-So same technology, same vision,
-but the ability to apply it
-toward a different market,
-a different application as we built
-what we're working to build.
-- Now there's been a
-lot of press attention
-for Theranos recently, as you know.
+- [Voiceover] How did you think aboutproduct market fit?I mean, it seems like you were standingin front of this sort of 10 year planrealizing I need a ton of money,and we got to do thisfor a really long time.
+You don't really given that it's sucha regulated space,you don't really have the opportunityto test small bits and bops along the way.
+What did you do it?- In terms of how we startedbuilding the business?- Just to repeat the question.
+How do you do product market fitwhen you can't just throw out a testonto the Internet?How do you actually get the feedback,and figure out how to redirect things?- We knew that ultimately we wantedto be doing what we're doing right now,but you can't do whatwe're doing right nowwithout having developedhundreds of chemistries,and all this kind of stuff,so we started working for pharma companieswho said: "We want youto measure one thing,"and we want you to do a program where"because you can do this less expensively,"because you can do it faster,"because you can do it with less blood,"you will allow us to get data faster"on understanding the efficacy,"or safety of our drug."And so we did that,and then we had one test,and we kept doing it in the context ofbuilding out this framework along the way.
+So same technology, same vision,but the ability to apply ittoward a different market,a different application as we builtwhat we're working to build.
+- Now there's been alot of press attentionfor Theranos recently, as you know.
 - I've heard about it.
 - I've heard about it.
-We won't talk about how you respond to
-the public and PR.
-I'm more interested in how you keep
-your employees up to date.
-You have 1,000 employees now,
-and they're reading the papers as well.
-How do you keep them up to date?
-How do you maintain
-those lines of communication?
-- I got to tell you the
-most humbling experience
-that I have had in my life
-is seeing the way that our employees
-have reacted to this
-because they are so motivated
-to go prove these guys wrong.
-Our whole company,
-and our whole culture
-has really changed around this
-because it can be such an incredibly
-unifying experience when you know
-that you're fighting
-to change, in our case,
-a space that is so entrenched,
-and so resistant to change,
-and people are threatening you.
-Our space and our culture
-is open space, it's open floor plans.
-We have three meals a day
-with everybody in the same cafeteria,
-so it's very integrated.
-The process that we've taken
-to this is we get together,
-and right now it's on Fridays,
-and we just talk about it,
-and talk about people's ideas.
-Our team members have really great ideas
-on things that we can put out there
-to prove that this stuff is false,
-and answer people's questions,
-and keep the communication open
-because it's one team.
-We tried so hard to hire people
-who are here for this mission
-not because they have great resumes,
-or great grades, or anything,
-but because they know what this means,
-and, therefore, when people
-try to threaten you,
-and we knew going into this space
-that this would happen at some point
-once we sort of started to make an impact,
-and when you're doing it
-because of the mission it just makes you
-want to fight that much harder.
-- There are two Chris's,
-so let's go with the second Chris first
-because the first Chris
-already asked a question.
-- [Voiceover] Just to dig in
-if you have, like, 10 or 20 people
-it's really easy to get around
-over lunch and ask questions,
-but you have 1,000 I'm
-assuming it's harder
-to get everybody in the same room.
-How do you facilitate that?
-Is it more email questions?
-How do you deal with more people?
-- So how do you manage to do
-communications for a company
-of 1,000 people when you can't just
-all gather in a single room?
-- We get everybody who is in
-our headquarters building
-in our cafeteria,
-and we get everybody else on the phone.
-And that's it, and we talk,
-and it's open book.
-If people want to ask
-questions about anything
-they can ask questions
-about anything they want.
-It's wonderful to let
-people share their emotions,
-or their ideas, or their comments
-about some of this stuff,
-and it's a very unifying experience.
-As a company we generally would do
-all hands meetings like this
-when there is something
-specific to talk about
-like we got FDA approval,
-and so there's a big discussion,
-or celebration about it,
-but this has created an opportunity
-for us to just get together,
-and that's a pretty special thing.
-- [Voiceover] When you have been hiring
-executives are there any specific things
-you do to kind of pull that out,
-or is it more just you're trying to get
-a gut feel of the person,
-and what they care about?
-- Well all of the above, I mean,
-I would be curious what these guys say.
-My experience no matter how good you are
-at management you're gonna make mistakes
-when you're hiring people.
-You're meeting this person
-for not that much time,
-and they're coming in
-as part of your family,
-and you have to make a judgment call.
-What I spend time on now
-is really understanding why Theranos.
-Why do you want to be here?
-Why this company?
-Why not another company?
-How are you making your decision about
-where you're gonna go?
-If the root answer to that is
-not really that this is their mission
-for us right now in this stage
-where you're building something
-where you've got a lot of big companies
-who would like you to disappear
-as fast as possible,
-and are gonna make it really hard.
-They're not gonna be able to do it
-in this kind of environment
-because it takes fighters.
-We try to sense that,
-and then, of course, there's the resume,
-and where have you worked before,
-where did you go to school,
-and what were your grades,
-and all this kind of stuff,
-but if they're not doing this
-because they want to fight for this,
-I mean, so many people in our company
-have had family members who have cancer,
-or have lost people that they love,
-or have autistic kids who go through
-having their blood drawn everyday,
-and they know what this means,
-and we look for that
-because you work differently
-when you're trying to
-solve a problem for that.
+We won't talk about how you respond tothe public and PR.
+I'm more interested in how you keepyour employees up to date.
+You have 1,000 employees now,and they're reading the papers as well.
+How do you keep them up to date?How do you maintainthose lines of communication?- I got to tell you themost humbling experiencethat I have had in my lifeis seeing the way that our employeeshave reacted to thisbecause they are so motivatedto go prove these guys wrong.
+Our whole company,and our whole culturehas really changed around thisbecause it can be such an incrediblyunifying experience when you knowthat you're fightingto change, in our case,a space that is so entrenched,and so resistant to change,and people are threatening you.
+Our space and our cultureis open space, it's open floor plans.
+We have three meals a daywith everybody in the same cafeteria,so it's very integrated.
+The process that we've takento this is we get together,and right now it's on Fridays,and we just talk about it,and talk about people's ideas.
+Our team members have really great ideason things that we can put out thereto prove that this stuff is false,and answer people's questions,and keep the communication openbecause it's one team.
+We tried so hard to hire peoplewho are here for this missionnot because they have great resumes,or great grades, or anything,but because they know what this means,and, therefore, when peopletry to threaten you,and we knew going into this spacethat this would happen at some pointonce we sort of started to make an impact,and when you're doing itbecause of the mission it just makes youwant to fight that much harder.
+- There are two Chris's,so let's go with the second Chris firstbecause the first Chrisalready asked a question.
+- [Voiceover] Just to dig inif you have, like, 10 or 20 peopleit's really easy to get aroundover lunch and ask questions,but you have 1,000 I'massuming it's harderto get everybody in the same room.
+How do you facilitate that?Is it more email questions?How do you deal with more people?- So how do you manage to docommunications for a companyof 1,000 people when you can't justall gather in a single room?- We get everybody who is inour headquarters buildingin our cafeteria,and we get everybody else on the phone.
+And that's it, and we talk,and it's open book.
+If people want to askquestions about anythingthey can ask questionsabout anything they want.
+It's wonderful to letpeople share their emotions,or their ideas, or their commentsabout some of this stuff,and it's a very unifying experience.
+As a company we generally would doall hands meetings like thiswhen there is somethingspecific to talk aboutlike we got FDA approval,and so there's a big discussion,or celebration about it,but this has created an opportunityfor us to just get together,and that's a pretty special thing.
+- [Voiceover] When you have been hiringexecutives are there any specific thingsyou do to kind of pull that out,or is it more just you're trying to geta gut feel of the person,and what they care about?- Well all of the above, I mean,I would be curious what these guys say.
+My experience no matter how good you areat management you're gonna make mistakeswhen you're hiring people.
+You're meeting this personfor not that much time,and they're coming inas part of your family,and you have to make a judgment call.
+What I spend time on nowis really understanding why Theranos.
+Why do you want to be here?Why this company?Why not another company?How are you making your decision aboutwhere you're gonna go?If the root answer to that isnot really that this is their missionfor us right now in this stagewhere you're building somethingwhere you've got a lot of big companieswho would like you to disappearas fast as possible,and are gonna make it really hard.
+They're not gonna be able to do itin this kind of environmentbecause it takes fighters.
+We try to sense that,and then, of course, there's the resume,and where have you worked before,where did you go to school,and what were your grades,and all this kind of stuff,but if they're not doing thisbecause they want to fight for this,I mean, so many people in our companyhave had family members who have cancer,or have lost people that they love,or have autistic kids who go throughhaving their blood drawn everyday,and they know what this means,and we look for thatbecause you work differentlywhen you're trying tosolve a problem for that.
 - There's a question back there.
-- [Voiceover] You are
-synonymous with Theranos
-in a very public way which is not normal.
-- I've been trying to
-figure out what that means.
-- [Voiceover] It's a really good thing
-in a lot of cases,
-but it must be personally tough when
-the spotlights on you,
-and there's negative press, et cetera.
-In hindsight are you happy about how
-public of a figure you are,
-and if yes or no, why?
-- So the question is as the founder,
-CEO of the company
-you are unusually identified with it.
-Of course, the company has been
-in the news a lot recently.
-How do you think about
-the up sides, and down sides,
-the pressure that comes with it,
-and what you think about
-the decision that was made to feature you?
-- I started this work in 2003.
-The first time we ever engaged with
-a press publication was
-in the end of 2013.
-We were totally in self-mode for 10 years,
-which was wonderful.
-The reason that we did it
-is because our work,
-and what we're fighting for
-is changing
-our health care system
-in such a way in which early detection
-becomes a reality,
-but if you spend a lot of time
-in places like rural Arizona,
-or in low income communities
-where people can't afford access
-to good health care
-they don't know that they have a right
-to their own health information,
-and they don't know how to use it.
-Part of what we need to do
-to realize this dream
-is educate people on the fact that
-you can do this,
-and you can engage with this information,
-and it can be accessible,
-and you should demand it.
-Part of my work and my role
-in the context of the press
-that I've done over the course
-of the last year and a half
-has been changing state laws,
-and advocating for changes
-at a federal level.
-It's so central to our mission
-if that's what that is about.
-If people put you on a magazine cover,
-or say horrible things about you
-that stuff doesn't matter, it's not real.
-What's real is every single day
-are there more and more people
-who are getting access
-to health information
-that they wouldn't get access to
-where it not for something
-that you've built.
-For us, I mean, part of
-this whole media thing
-as we spoke with national
-media publications
-a huge part of it was around our work
-around advocating for
-changes in state laws,
-our work around trying to reduce
-Medicare reimbursement rates
-which has been a very threatening thing
-to others in the industry.
-Our work around lobbying
-for FDA regulation
-which has also been a
-very controversial thing
-to people in the industry.
-In Arizona what we focus on is educating
-the people that we serve around
-the way that we do our tests.
-The ability to do tests
-on smaller samples,
-what technologies we use, why, all that.
-We didn't realize until two weeks ago
-that that was national news,
-but it is, and that's fine.
-We through the work that we've done,
-and the data that we have,
-and the technologies that we've built
-will get that truth and
-those facts out there,
-but the media for us is a vehicle
-for being able to communicate with people
-around what it is that we're fighting for,
-and that's it.
-- One of the interesting
-things about getting
-a company that scales
-you have different tools that you can use,
-and some of the tools
-we like to talk about
-are also boards of
-directors, and investors.
+- [Voiceover] You aresynonymous with Theranosin a very public way which is not normal.
+- I've been trying tofigure out what that means.
+- [Voiceover] It's a really good thingin a lot of cases,but it must be personally tough whenthe spotlights on you,and there's negative press, et cetera.
+In hindsight are you happy about howpublic of a figure you are,and if yes or no, why?- So the question is as the founder,CEO of the companyyou are unusually identified with it.
+Of course, the company has beenin the news a lot recently.
+How do you think aboutthe up sides, and down sides,the pressure that comes with it,and what you think aboutthe decision that was made to feature you?- I started this work in 2003.
+The first time we ever engaged witha press publication wasin the end of 2013.
+We were totally in self-mode for 10 years,which was wonderful.
+The reason that we did itis because our work,and what we're fighting foris changingour health care systemin such a way in which early detectionbecomes a reality,but if you spend a lot of timein places like rural Arizona,or in low income communitieswhere people can't afford accessto good health carethey don't know that they have a rightto their own health information,and they don't know how to use it.
+Part of what we need to doto realize this dreamis educate people on the fact thatyou can do this,and you can engage with this information,and it can be accessible,and you should demand it.
+Part of my work and my rolein the context of the pressthat I've done over the courseof the last year and a halfhas been changing state laws,and advocating for changesat a federal level.
+It's so central to our missionif that's what that is about.
+If people put you on a magazine cover,or say horrible things about youthat stuff doesn't matter, it's not real.
+What's real is every single dayare there more and more peoplewho are getting accessto health informationthat they wouldn't get access towhere it not for somethingthat you've built.
+For us, I mean, part ofthis whole media thingas we spoke with nationalmedia publicationsa huge part of it was around our workaround advocating forchanges in state laws,our work around trying to reduceMedicare reimbursement rateswhich has been a very threatening thingto others in the industry.
+Our work around lobbyingfor FDA regulationwhich has also been avery controversial thingto people in the industry.
+In Arizona what we focus on is educatingthe people that we serve aroundthe way that we do our tests.
+The ability to do testson smaller samples,what technologies we use, why, all that.
+We didn't realize until two weeks agothat that was national news,but it is, and that's fine.
+We through the work that we've done,and the data that we have,and the technologies that we've builtwill get that truth andthose facts out there,but the media for us is a vehiclefor being able to communicate with peoplearound what it is that we're fighting for,and that's it.
+- One of the interestingthings about gettinga company that scalesyou have different tools that you can use,and some of the toolswe like to talk aboutare also boards ofdirectors, and investors.
 You've had a somewhat unusual board.
-There are more people
-with diplomatic experience,
-Dr. Kissinger, and so on and so forth,
-that would be typical of
-a Silicon Valley board.
-Obviously, you didn't just sort of say
-well they're the guys who applied,
-so we took them.
+There are more peoplewith diplomatic experience,Dr. Kissinger, and so on and so forth,that would be typical ofa Silicon Valley board.
+Obviously, you didn't just sort of saywell they're the guys who applied,so we took them.
 There's an intentional strategy here.
-Can you talk about that strategy,
-and how that board helps you.
-- Sure, I mean, I've been
-incredibly privileged
-to be able to learn from,
-and spend time with just
-incredibly brilliant strategists.
-People talk about our company
-inside of Theranos
-as a double bottom line company.
-We're a for-profit business,
-but we make decisions based on
-realizing this mission.
-The reason that I work the way that I do,
-and the reason that I want to do this
-for the rest of my life
-is because we want to see
-a change in the world that
-the technologies that we build
-are a tool for realizing,
-so these people understand what it means
-to realize changes in policy,
-to realize effective strategies
-when you're going into a space
-where a lot of people would like
-to get rid of you as fast as possible,
-and we've benefited from that
-in a wonderful way.
-I've changed our board many times
-as I've built the company,
-and it will continue to evolve as we grow,
-but we've been really lucky
-to be able to learn from
-some of the smartest people.
-- So if I were to
-paraphrase it sounds like
-what you're saying is it's not just about
-the technology development.
+Can you talk about that strategy,and how that board helps you.
+- Sure, I mean, I've beenincredibly privilegedto be able to learn from,and spend time with justincredibly brilliant strategists.
+People talk about our companyinside of Theranosas a double bottom line company.
+We're a for-profit business,but we make decisions based onrealizing this mission.
+The reason that I work the way that I do,and the reason that I want to do thisfor the rest of my lifeis because we want to seea change in the world thatthe technologies that we buildare a tool for realizing,so these people understand what it meansto realize changes in policy,to realize effective strategieswhen you're going into a spacewhere a lot of people would liketo get rid of you as fast as possible,and we've benefited from thatin a wonderful way.
+I've changed our board many timesas I've built the company,and it will continue to evolve as we grow,but we've been really luckyto be able to learn fromsome of the smartest people.
+- So if I were toparaphrase it sounds likewhat you're saying is it's not just aboutthe technology development.
 It's not the typical venture capitalists.
 There's a lot of policy involved.
-There's a lot of as you put it the fight
-that's happened,
-and what you try to do is bring in people
-who have experience with things that
-are outside Silicon Valley
-because you feel like that's where
-the decision is going to be made.
-- For us in health care
-it's a very complicated space,
-and as I was saying earlier
-as I have thought a lot about it
-I really believe there is a reason
-that it hasn't changed for like 60 years.
-It's not just about making a box,
-or making a test.
-It's about how do you change the system,
-and we spend a lot of
-time thinking about that.
+There's a lot of as you put it the fightthat's happened,and what you try to do is bring in peoplewho have experience with things thatare outside Silicon Valleybecause you feel like that's wherethe decision is going to be made.
+- For us in health careit's a very complicated space,and as I was saying earlieras I have thought a lot about itI really believe there is a reasonthat it hasn't changed for like 60 years.
+It's not just about making a box,or making a test.
+It's about how do you change the system,and we spend a lot oftime thinking about that.
 - Over there.
-- [Voiceover] When you
-were doing everything
-in Arizona was there any, I guess,
-offset, or was there any resistance,
-to you specifically there?
-Was there any lobbyist or company
-that was specifically within
-the Arizona legislation system?
-- So when you went to Arizona
-did you meet with resistance?
-Was there anybody there that was
-fighting against what you were doing?
-- We passed this legislation
-in every committee
-in the house, in the senate,
-and the governor signed it.
-It was completely bipartisan,
-which is awesome in Arizona,
-and it was almost unanimous except for
-I think it was one person who didn't vote
-because they didn't like the sponsor,
-or something like that,
-but there was only one
-set of organizations
-that lobbied against it,
-and that was the
-traditional lab companies.
+- [Voiceover] When youwere doing everythingin Arizona was there any, I guess,offset, or was there any resistance,to you specifically there?Was there any lobbyist or companythat was specifically withinthe Arizona legislation system?- So when you went to Arizonadid you meet with resistance?Was there anybody there that wasfighting against what you were doing?- We passed this legislationin every committeein the house, in the senate,and the governor signed it.
+It was completely bipartisan,which is awesome in Arizona,and it was almost unanimous except forI think it was one person who didn't votebecause they didn't like the sponsor,or something like that,but there was only oneset of organizationsthat lobbied against it,and that was thetraditional lab companies.
 - Another question, yes.
-- [Voiceover] Okay, so
-it seems like Theranos
-sort of straddles the high speed
-tech startup space,
-but also, like, the biotech space
-how you think about like
-how you operate in terms of
-the two different worlds?
-- So given that you're straddling
-biotech and high tech,
-two different cadences generally apply
-how do you manage that tension?
-- I think first and foremost
-we think about this in the context of
-the people that we serve.
-Every single day we have people
-coming to our laboratories.
-I think about it in the
-context all the time
-of my own family,
-and my mom coming in,
-and doing her tests with us.
-As a culture, as a company
-when we think about our policies,
-when we think about our systems,
-when we think about the decisions
-that we make around quality
-are we doing the right thing
-to make sure that every single time
-someone comes to us
-we are serving them in
-the highest quality way,
-and in the most wonderful way.
-To try to shift this paradigm right now
-lab testing is not something
-that people think about as being fun,
-and it can be,
-and that's part of what we're proving
-through what we do.
-We think about sort of
-the life science paradigm,
-and the technology paradigm
-in the context of the individual we serve,
-and the decisions that we make,
-and the systems that we put in place
-are to insure the integrity of what we do
-which means that as a company
-we operate very, very differently
-than a traditional technology company.
-We've gone out and done something
-that is very controversial
-which is we've proactively and voluntarily
-submitted ourselves to FDA regulation.
-Well that means you run
-the company totally differently
-because you have to have systems in place,
-and quality systems in place,
-and good manufacturing practices in place
-that are very, very different
-than if you weren't FDA regulated,
-but that's the right thing to do
-because we're trying to build a space
-in which individuals have access
-to their own health information,
-and it's the way to insure that
-the data is the highest quality.
+- [Voiceover] Okay, soit seems like Theranossort of straddles the high speedtech startup space,but also, like, the biotech spacehow you think about likehow you operate in terms ofthe two different worlds?- So given that you're straddlingbiotech and high tech,two different cadences generally applyhow do you manage that tension?- I think first and foremostwe think about this in the context ofthe people that we serve.
+Every single day we have peoplecoming to our laboratories.
+I think about it in thecontext all the timeof my own family,and my mom coming in,and doing her tests with us.
+As a culture, as a companywhen we think about our policies,when we think about our systems,when we think about the decisionsthat we make around qualityare we doing the right thingto make sure that every single timesomeone comes to uswe are serving them inthe highest quality way,and in the most wonderful way.
+To try to shift this paradigm right nowlab testing is not somethingthat people think about as being fun,and it can be,and that's part of what we're provingthrough what we do.
+We think about sort ofthe life science paradigm,and the technology paradigmin the context of the individual we serve,and the decisions that we make,and the systems that we put in placeare to insure the integrity of what we dowhich means that as a companywe operate very, very differentlythan a traditional technology company.
+We've gone out and done somethingthat is very controversialwhich is we've proactively and voluntarilysubmitted ourselves to FDA regulation.
+Well that means you runthe company totally differentlybecause you have to have systems in place,and quality systems in place,and good manufacturing practices in placethat are very, very differentthan if you weren't FDA regulated,but that's the right thing to dobecause we're trying to build a spacein which individuals have accessto their own health information,and it's the way to insure thatthe data is the highest quality.
 - Yes.
-(mumbled question from audience)
-- So the question is what is the value
-of formal training, medical training,
-MBA's, that sort of thing
-considering you left Stanford
-in your sophomore year to do this,
-and have managed to come this far?
-- I think it depends
-on what you want to do.
-I mean some of the most amazing stories
-in history are about people
-who didn't have formal training
-in a specific area,
-or weren't recognized as sort of
-the "elite" people in an area.
-The creation of the polio vaccine
-is an amazing story like that
-where the guy who figured it out
-was not sort of the one
-who would have been expected
-in the "respected" medical
-community to do that,
-but the whole point about
-innovation and invention is
-it's the people who think differently.
-So for me when I started it was about
-what do I want to do,
-and it really, really for
-me goes back to mission
-because I know that this is a problem
-that I want to spend my life
-trying to solve, period,
-and, therefore, if
-people are gonna tell me
-that I'm not good enough,
-or I'm not smart enough,
-or I'm not trained enough,
-or I'm doing it wrong
-they can tell me that
-as much as they want,
-and I don't really care
-because this is what I want to do,
-and when you care that much
-about what it is that you're fighting for.
-I mean, people can try to beat
-the crap out of you,
-but you just keep on getting back up.
+(mumbled question from audience)- So the question is what is the valueof formal training, medical training,MBA's, that sort of thingconsidering you left Stanfordin your sophomore year to do this,and have managed to come this far?- I think it dependson what you want to do.
+I mean some of the most amazing storiesin history are about peoplewho didn't have formal trainingin a specific area,or weren't recognized as sort ofthe "elite" people in an area.
+The creation of the polio vaccineis an amazing story like thatwhere the guy who figured it outwas not sort of the onewho would have been expectedin the "respected" medicalcommunity to do that,but the whole point aboutinnovation and invention isit's the people who think differently.
+So for me when I started it was aboutwhat do I want to do,and it really, really forme goes back to missionbecause I know that this is a problemthat I want to spend my lifetrying to solve, period,and, therefore, ifpeople are gonna tell methat I'm not good enough,or I'm not smart enough,or I'm not trained enough,or I'm doing it wrongthey can tell me thatas much as they want,and I don't really carebecause this is what I want to do,and when you care that muchabout what it is that you're fighting for.
+I mean, people can try to beatthe crap out of you,but you just keep on getting back up.
 That was my personal mindset.
-As we think about building the company
-if we're hiring someone to be
-a medical director,
-or hiring someone to be a staff physician
-we want to go find the
-best medical doctor,
-or the best staff physician
-because that's their role in the company,
-but if we meet someone
-who's an undergrad,
-or has no training in any of these things
-who wants to grow with this company
-for the long term
-do we think that person
-has to go get a graduate degree
-to be able to do this?
-Absolutely not.
+As we think about building the companyif we're hiring someone to bea medical director,or hiring someone to be a staff physicianwe want to go find thebest medical doctor,or the best staff physicianbecause that's their role in the company,but if we meet someonewho's an undergrad,or has no training in any of these thingswho wants to grow with this companyfor the long termdo we think that personhas to go get a graduate degreeto be able to do this?Absolutely not.
 - Go with that side.
-(mumbled question from audience)
-- How did you deal with being
-a 19-year-old founder CEO
-in an industry where most people
-are much older and have more degrees?
-- You don't focus on it.
+(mumbled question from audience)- How did you deal with beinga 19-year-old founder CEOin an industry where most peopleare much older and have more degrees?- You don't focus on it.
 You don't pay attention to it.
-It's kind of similar to
-being a woman in engineering, and in math,
-and in building a company like this,
-and in this space.
-I've always told myself that
-you just don't pay attention to that
-because what matters is your actions,
-and what you do, what you create,
-what you build, and you focus on that.
-I found that if we can keep our head down,
-and focus on what it is
-that we're actually creating,
-and the integrity of that, ultimately,
-over time everything else washes away,
-but I did learn, I think it was like,
-the first seven years of the company
-I wasn't technically allowed
-to rent a car by Enterprise.
-Now I guess we don't have
-that problem anymore.
+It's kind of similar tobeing a woman in engineering, and in math,and in building a company like this,and in this space.
+I've always told myself thatyou just don't pay attention to thatbecause what matters is your actions,and what you do, what you create,what you build, and you focus on that.
+I found that if we can keep our head down,and focus on what it isthat we're actually creating,and the integrity of that, ultimately,over time everything else washes away,but I did learn, I think it was like,the first seven years of the companyI wasn't technically allowedto rent a car by Enterprise.
+Now I guess we don't havethat problem anymore.
 - Exactly, thank you Uber.
 Yes, over there.
-(mumbled question from audience)
-- So the question is
-patents versus trade secret,
-and keeping some of the secret sauce
-hidden away from public view.
-Talk about your thoughts on that,
-because I think you have a lot of both.
+(mumbled question from audience)- So the question ispatents versus trade secret,and keeping some of the secret saucehidden away from public view.
+Talk about your thoughts on that,because I think you have a lot of both.
 - Yeah, we do.
-We've been very aggressive in building
-our patent portfolio.
-It's something that's
-really important to us,
-and we've done just a huge amount of that
-over the course of the last 12 years,
-and it's something we take
-really, really seriously.
+We've been very aggressive in buildingour patent portfolio.
+It's something that'sreally important to us,and we've done just a huge amount of thatover the course of the last 12 years,and it's something we takereally, really seriously.
 You asked the question about confidence.
-I think the question is
-who do we care about
-having confidence in this.
-And the people who we've cared about
-having confidence in this
-are the physicians and the individuals,
-the people that we serve.
-Right now in the world of
-clinical laboratory testing
-Theranos is in one city
-in the whole world,
-and we've focused on really briefing
-the physician community there,
-and the people that we serve
-so that they can understand
-our test methods, our data,
-do comparisons between using us,
-and using a traditional lab,
-and get hands-on experience
-understanding how we work,
-and that's been very successful for us,
-and that's led us to this point.
-We knew at some point that
-because we're doing things differently,
-because we're trying
-to lower Medicare rate,
-because we're lobbying for FDA regulation,
-because we're opening up this market
-to individuals that this
-might be disruptive.
-We're at a point now where
-to demonstrate the integrity
-of what we've done,
-and the technology that we've built,
-and the data that we have
-we're gonna put it in the public domain
-because we have a core value
-which is that we really resonate
-with this concept of better transparency,
-and lab testing.
-We thought that the way to do that
-was to be the first and only lab
-would the confidence to go into FDA,
-and file all of our tests with them
-which no other lab has done before,
-and we thought that if FDA came out
-with these decision summaries
-that that would really make a point
-about the integrity of what we do,
-but there's no reason that
-we can't additionally put that in
-to the public domain, and so we will.
-We're at a point now where this is so
-high visibility for so many people
-that it's the best way to respond to it
-because I can go around everywhere,
-and be like that's false,
-that never happened,
-but data speaks for itself.
-- A couple of other questions
-I want to make sure and hit,
-and then we'll return
-to the students again.
-Another tool are investors,
-and you have a couple
-of notable investors.
-I think Larry Ellison may very well be
-one of your largest investors.
-Can you talk about how you
-picked your investors and how you felt
-they could help you scale,
-and help you grow the company?
-- I think this is such a huge question
-because it really can
-make or break the company,
-ultimately, in terms of the influence on
-how you build it,
-and the decisions that you make,
-and in our case when you're working
-to build something long term
-we looked for people
-who really understood
-what it means to build
-a great long term business,
-and who really wanted to be part of
-building a business for the long term,
-and who believed that we could realize
-the greatest impact in
-terms of our products
-as well as the greatest returns
-in terms of investment
-by executing on a long term plan,
-and that is different from
-sometimes you get the
-how fast can you realize
-the 10x return, or
-what's your exit strategy
-type of conversation,
-and that was just not
-the right conversation
-for us in the context of
-how we built the company.
+I think the question iswho do we care abouthaving confidence in this.
+And the people who we've cared abouthaving confidence in thisare the physicians and the individuals,the people that we serve.
+Right now in the world ofclinical laboratory testingTheranos is in one cityin the whole world,and we've focused on really briefingthe physician community there,and the people that we serveso that they can understandour test methods, our data,do comparisons between using us,and using a traditional lab,and get hands-on experienceunderstanding how we work,and that's been very successful for us,and that's led us to this point.
+We knew at some point thatbecause we're doing things differently,because we're tryingto lower Medicare rate,because we're lobbying for FDA regulation,because we're opening up this marketto individuals that thismight be disruptive.
+We're at a point now whereto demonstrate the integrityof what we've done,and the technology that we've built,and the data that we havewe're gonna put it in the public domainbecause we have a core valuewhich is that we really resonatewith this concept of better transparency,and lab testing.
+We thought that the way to do thatwas to be the first and only labwould the confidence to go into FDA,and file all of our tests with themwhich no other lab has done before,and we thought that if FDA came outwith these decision summariesthat that would really make a pointabout the integrity of what we do,but there's no reason thatwe can't additionally put that into the public domain, and so we will.
+We're at a point now where this is sohigh visibility for so many peoplethat it's the best way to respond to itbecause I can go around everywhere,and be like that's false,that never happened,but data speaks for itself.
+- A couple of other questionsI want to make sure and hit,and then we'll returnto the students again.
+Another tool are investors,and you have a coupleof notable investors.
+I think Larry Ellison may very well beone of your largest investors.
+Can you talk about how youpicked your investors and how you feltthey could help you scale,and help you grow the company?- I think this is such a huge questionbecause it really canmake or break the company,ultimately, in terms of the influence onhow you build it,and the decisions that you make,and in our case when you're workingto build something long termwe looked for peoplewho really understoodwhat it means to builda great long term business,and who really wanted to be part ofbuilding a business for the long term,and who believed that we could realizethe greatest impact interms of our productsas well as the greatest returnsin terms of investmentby executing on a long term plan,and that is different fromsometimes you get thehow fast can you realizethe 10x return, orwhat's your exit strategytype of conversation,and that was just notthe right conversationfor us in the context ofhow we built the company.
 - One of the other things that I've heard.
-I've watched a couple of your interviews,
-and one of the other
-things you've talked about
-is how you really hope,
-and I think it comes through when you're
-talking about Theranos,
-and the people, and the culture,
-you want this to be a place where people
-can go to have a career,
-and where people are promoted from within,
-and we've had other guests
-who've talked about this.
-Mariam Naficy of Minted talked about how
-many of her best people are folks
-that she's promoted from within.
-Talk about some of the people
-you've grown from within,
-and talk about also the times
-when you decided, you know what,
-I should go outside and
-bring in this expertise.
-- Absolutely, we will build from within,
-and we will promote from within
-anywhere we can,
-and it's something that
-we believe in so strongly
-because it shapes our culture,
-and we like to have people in roles
-in which they can do the jobs
-of their direct reports,
-and we find that
-if the people who embody our values
-are the ones in leadership positions
-then when we're growing at the rate
-that we're growing
-where the majority of people are new
-at any given point in time
-we can maintain our culture.
-That's something that
-I'm incredibly focused on in the context
-of how we scale the company.
-By definition sometimes you just can't
-grow people fast enough,
-and so you have to supplement
-with outside talent,
-and we've worked really
-hard to try to do that
-in such a way in which
-we get to know people
-as well as we can before we bring them in
-so that we can try to have
-as high a success rate as possible
-in the context of how we
-build out the executive base.
-- Is that relatively even between
-the different types of folks
-like the medical staff
-versus the engineering staff
-versus the software development staff,
-and business staff, or
-are there particular areas
-where it's more useful to go outside,
-or better to stay inside?
-- That's a great question.
-I think in every area
-anywhere that we have
-the opportunity to promote
-from within we will,
-but when we're scaling an organization,
-I mean, for example
-you decide you're gonna
-expand to a new state
-you really have no choice,
-and so you're putting a
-new ecosystem in place,
-but we're incredibly proud of
-we've had people who've done
-just an incredible job in Arizona,
-and we've now relocated them,
-and they're starting to take on
-new roles in other areas.
+I've watched a couple of your interviews,and one of the otherthings you've talked aboutis how you really hope,and I think it comes through when you'retalking about Theranos,and the people, and the culture,you want this to be a place where peoplecan go to have a career,and where people are promoted from within,and we've had other guestswho've talked about this.
+Mariam Naficy of Minted talked about howmany of her best people are folksthat she's promoted from within.
+Talk about some of the peopleyou've grown from within,and talk about also the timeswhen you decided, you know what,I should go outside andbring in this expertise.
+- Absolutely, we will build from within,and we will promote from withinanywhere we can,and it's something thatwe believe in so stronglybecause it shapes our culture,and we like to have people in rolesin which they can do the jobsof their direct reports,and we find thatif the people who embody our valuesare the ones in leadership positionsthen when we're growing at the ratethat we're growingwhere the majority of people are newat any given point in timewe can maintain our culture.
+That's something thatI'm incredibly focused on in the contextof how we scale the company.
+By definition sometimes you just can'tgrow people fast enough,and so you have to supplementwith outside talent,and we've worked reallyhard to try to do thatin such a way in whichwe get to know peopleas well as we can before we bring them inso that we can try to haveas high a success rate as possiblein the context of how webuild out the executive base.
+- Is that relatively even betweenthe different types of folkslike the medical staffversus the engineering staffversus the software development staff,and business staff, orare there particular areaswhere it's more useful to go outside,or better to stay inside?- That's a great question.
+I think in every areaanywhere that we havethe opportunity to promotefrom within we will,but when we're scaling an organization,I mean, for exampleyou decide you're gonnaexpand to a new stateyou really have no choice,and so you're putting anew ecosystem in place,but we're incredibly proud ofwe've had people who've donejust an incredible job in Arizona,and we've now relocated them,and they're starting to take onnew roles in other areas.
 - You also are very famous.
-Like many people in Silicon Valley
-you work very hard.
+Like many people in Silicon Valleyyou work very hard.
 You don't take vacations.
 You work at least six days a week.
-How do you end up allocating your time?
-So, for example, maybe
-the past couple of weeks
-have been abnormal,
-but how do you typically
-break up your time,
-and think about well this time I'm gonna
-spend with my team.
+How do you end up allocating your time?So, for example, maybethe past couple of weekshave been abnormal,but how do you typicallybreak up your time,and think about well this time I'm gonnaspend with my team.
 This time I'm gonna spend thinking myself.
 This time I'm gonna talk with customers.
-What's the division?
-- Part of the way I've always seen my role
-is that your job is to
-solve the toughest problems,
-so you're spending time in the areas
-that are most critical path,
-and that are most critical to realizing
-sort of the next step along the way
-in the context of the mission,
-so that's generally where
-I spend most of my time,
-but my passions,
-and as I work to build this organization,
-or to be able to focus as much
-as I can on the product,
-and on sort of the creative aspects
-of communication in the company,
-and how we do that,
-and how we connect with people
-around this mission.
-- In terms of the time, though,
-for example, is it primarily spent with
-internal communications,
-or external communications?
-What are some of those breakdowns?
-- It depends on what the priority is.
-When the priority was
-get this bill passed in Arizona
-I was in Arizona doing that 24/7.
-Otherwise, I mean, where I can
-I like to not travel as much
-as humanly possible now,
-and be embedded in the company,
-and the best is when I get to spend time
-with our teams there,
-but at different steps along the way
-whether we're working on an FDA approval,
-or we're working on introducing
-a next generation technology
-I'll generally focus on whatever
-that critical program, or project is,
-and then go really deep.
-- Way in the back, the back people,
-and then I'm coming
-back over to your side.
-- [Voiceover] You had a question about
-product market earlier.
-It was about, I think, one of the things
-that you've done that's totally unique
-is have this like huge
-systemic perspective
-about changing the world,
-and, also, like,
-literally have the patents
-of the product to do it.
-Can you talk about balancing like
-product innovation with systems innovation
-like changing the world
-while changing products.
+What's the division?- Part of the way I've always seen my roleis that your job is tosolve the toughest problems,so you're spending time in the areasthat are most critical path,and that are most critical to realizingsort of the next step along the wayin the context of the mission,so that's generally whereI spend most of my time,but my passions,and as I work to build this organization,or to be able to focus as muchas I can on the product,and on sort of the creative aspectsof communication in the company,and how we do that,and how we connect with peoplearound this mission.
+- In terms of the time, though,for example, is it primarily spent withinternal communications,or external communications?What are some of those breakdowns?- It depends on what the priority is.
+When the priority wasget this bill passed in ArizonaI was in Arizona doing that 24/7.
+Otherwise, I mean, where I canI like to not travel as muchas humanly possible now,and be embedded in the company,and the best is when I get to spend timewith our teams there,but at different steps along the waywhether we're working on an FDA approval,or we're working on introducinga next generation technologyI'll generally focus on whateverthat critical program, or project is,and then go really deep.
+- Way in the back, the back people,and then I'm comingback over to your side.
+- [Voiceover] You had a question aboutproduct market earlier.
+It was about, I think, one of the thingsthat you've done that's totally uniqueis have this like hugesystemic perspectiveabout changing the world,and, also, like,literally have the patentsof the product to do it.
+Can you talk about balancing likeproduct innovation with systems innovationlike changing the worldwhile changing products.
 - Interesting question.
-So how do you balance
-system level innovation
-with product level innovation
-changing the world with
-specific products in businesses?
-- I've always believed
-that business is a tool,
-and a vehicle for making
-a change in the world,
-so we've chosen to do
-this through business
-because we see it as the tool
-for realizing a change,
-and that means it's a
-company, it's a business,
-so, therefore, we need to apply
-the way we develop technology,
-the way we build products
-to realize that vision
-and that systemic change
-in such as way in which we know
-we're continuing to build the business,
-and we've tried wherever we could to grow
-from cash from operations
-so that we're never dependent on
-external capital and
-these types of things.
-We've taken elements of the technology,
-or sort of sub-components of it,
-and said, okay, let's build this,
-let's apply it in such
-a way in which we can
-contribute toward building the company,
-and then we can work toward these goals,
-and each of these actions that we take
-are little steps that
-ultimately will add up to,
-and contribute to, and we hope ignite
-a movement toward realizing
-some of these changes in the system
-that we want to fight for.
-- The patient gentleman
-back there in the glasses.
-- [Voiceover] So I'm not sure if this is
-secret information,
-but I'm very curious to know
-how Theranos technology is different,
-like what sort of innovations
-have happened on the back end
-to make the lab testing cheaper, I guess.
-- So given what you can actually
-reveal to the public
-because this will be
-broadcast to the world.
+So how do you balancesystem level innovationwith product level innovationchanging the world withspecific products in businesses?- I've always believedthat business is a tool,and a vehicle for makinga change in the world,so we've chosen to dothis through businessbecause we see it as the toolfor realizing a change,and that means it's acompany, it's a business,so, therefore, we need to applythe way we develop technology,the way we build productsto realize that visionand that systemic changein such as way in which we knowwe're continuing to build the business,and we've tried wherever we could to growfrom cash from operationsso that we're never dependent onexternal capital andthese types of things.
+We've taken elements of the technology,or sort of sub-components of it,and said, okay, let's build this,let's apply it in sucha way in which we cancontribute toward building the company,and then we can work toward these goals,and each of these actions that we takeare little steps thatultimately will add up to,and contribute to, and we hope ignitea movement toward realizingsome of these changes in the systemthat we want to fight for.
+- The patient gentlemanback there in the glasses.
+- [Voiceover] So I'm not sure if this issecret information,but I'm very curious to knowhow Theranos technology is different,like what sort of innovationshave happened on the back endto make the lab testing cheaper, I guess.
+- So given what you can actuallyreveal to the publicbecause this will bebroadcast to the world.
 Again, I'm just emphasizing that.
 - I appreciate that.
 - Just reminding you.
-Talk about what has really differentiated
-Theranos' technology.
-What has enabled you to just dramatically
-lower the costs?
-- We've really looked at
-the end-to-end spectrum
-of the way that testing is done,
-and a huge part of it for us is in
-working to change the way that
-the actual tests are run,
-so we've developed new devices.
+Talk about what has really differentiatedTheranos' technology.
+What has enabled you to just dramaticallylower the costs?- We've really looked atthe end-to-end spectrumof the way that testing is done,and a huge part of it for us is inworking to change the way thatthe actual tests are run,so we've developed new devices.
 We've developed new chemistries.
 We developed new consumables.
-We've done new software that changes
-the way that the actual assay,
-the actual hardware
-processes these samples,
-and automates it and allows it to be
-way lower cost through the application
-of that technology,
-so this summer when we got
-our first FDA approval
-that was on our proprietary device,
-and our proprietary software,
-and our proprietary consumables,
-and the first of our tests that
-allow this testing to be
-done on a new platform.
-- [Voiceover] What are consumables?
-- What are consumables,
-just because not everyone
-is in health care.
-- It's what you put the chemistries into
-to be able to process a test,
-physical things.
+We've done new software that changesthe way that the actual assay,the actual hardwareprocesses these samples,and automates it and allows it to beway lower cost through the applicationof that technology,so this summer when we gotour first FDA approvalthat was on our proprietary device,and our proprietary software,and our proprietary consumables,and the first of our tests thatallow this testing to bedone on a new platform.
+- [Voiceover] What are consumables?- What are consumables,just because not everyoneis in health care.
+- It's what you put the chemistries intoto be able to process a test,physical things.
 - Over there.
-- [Voiceover] Yeah, so
-in the biotech space
-there are many barriers of entry
-like research, regulations, and capital.
-How do you see this change in the future?
-- So there are barriers
-to entry in biotech.
-How do you see this
-changing in the future?
-Are the barriers decreasing, increasing,
-or staying the same?
-- This is a space in which
-time and regulation
-in the context of product development
-are really important
-because the stakes are so high.
-When I did this work in Arizona around
-changing the law to say that
-it's a basic human right for people
-to be able to order their
-own health information
-what happened with that is that
-these companies started popping up saying
-come to our website,
-and enter your credit card,
-and we'll tell you if
-you have breast cancer.
-I have a big problem with that
-because we fought so
-hard around this dream,
-and this vision that individuals can begin
-to engage with their
-own health information,
-and we need to make sure that
-if we're gonna fight for that,
-and we're gonna give people those rights
-that you're right when you
-tell them these things,
-so that's why I started lobbying
-for FDA regulation
-because at the end of the day
-if we're gonna democratize this space,
-and we're gonna empower people
-with this information,
-you better run a clinical study that
-demonstrates that you're actually doing
-what you're saying you're gonna do,
-and if you haven't than
-it's highly questionable
-as to why you're making those claims,
-and it's also highly
-questionable as to why
-you have a problem with FDA regulation
-because the FDA regulation is saying
-go run that study and demonstrate that
-you can actually do what you're saying
-you're gonna do.
-To go into this space
-you've got to have a long term goal,
-and you've got to have
-a lot of discipline,
-and patience because it's really hard,
-and it's also a changing space.
+- [Voiceover] Yeah, soin the biotech spacethere are many barriers of entrylike research, regulations, and capital.
+How do you see this change in the future?- So there are barriersto entry in biotech.
+How do you see thischanging in the future?Are the barriers decreasing, increasing,or staying the same?- This is a space in whichtime and regulationin the context of product developmentare really importantbecause the stakes are so high.
+When I did this work in Arizona aroundchanging the law to say thatit's a basic human right for peopleto be able to order theirown health informationwhat happened with that is thatthese companies started popping up sayingcome to our website,and enter your credit card,and we'll tell you ifyou have breast cancer.
+I have a big problem with thatbecause we fought sohard around this dream,and this vision that individuals can beginto engage with theirown health information,and we need to make sure thatif we're gonna fight for that,and we're gonna give people those rightsthat you're right when youtell them these things,so that's why I started lobbyingfor FDA regulationbecause at the end of the dayif we're gonna democratize this space,and we're gonna empower peoplewith this information,you better run a clinical study thatdemonstrates that you're actually doingwhat you're saying you're gonna do,and if you haven't thanit's highly questionableas to why you're making those claims,and it's also highlyquestionable as to whyyou have a problem with FDA regulationbecause the FDA regulation is sayinggo run that study and demonstrate thatyou can actually do what you're sayingyou're gonna do.
+To go into this spaceyou've got to have a long term goal,and you've got to havea lot of discipline,and patience because it's really hard,and it's also a changing space.
 The regulations are changing.
-So you effectively, I mean,
-going back to the previous question
-have to be building something
-while you're working toward each of these
-sort of longer term applications.
-- I did want to ask a
-couple more questions,
-and then we're gonna go straight to
-the student questions,
-and alternate between the people who
-were thoughtful and
-submitted them in advance,
-as well as the people in the room.
-Not that I'm biased,
-but one of the interesting things
-I found fascinating about your biography
-is that you actually grew up,
-and spent much of your time in China,
-and you actually started
-your first business,
-I think, when you were in China.
-Talk a little bit about how that has
-impacted your view of the world,
-and to what extent that has gone into
-your current entrepreneurship.
-- I grew up learning Mandarin,
-and then had the chance
-to spend time in China,
-and studied at Beijing University
-which was amazing.
+So you effectively, I mean,going back to the previous questionhave to be building somethingwhile you're working toward each of thesesort of longer term applications.
+- I did want to ask acouple more questions,and then we're gonna go straight tothe student questions,and alternate between the people whowere thoughtful andsubmitted them in advance,as well as the people in the room.
+Not that I'm biased,but one of the interesting thingsI found fascinating about your biographyis that you actually grew up,and spent much of your time in China,and you actually startedyour first business,I think, when you were in China.
+Talk a little bit about how that hasimpacted your view of the world,and to what extent that has gone intoyour current entrepreneurship.
+- I grew up learning Mandarin,and then had the chanceto spend time in China,and studied at Beijing Universitywhich was amazing.
 I loved being there.
-I thought it was just a phenomenal time,
-and the intensity, and passion
-of the students there.
-It's an incredibly intense environment,
-and a very stimulating environment,
-and the context is sort of
-the drive for excellence.
-I think one of the things I'm grateful for
-in the way that I grew up
-is that I moved a lot,
-and when that happens
-nothing is really normal,
-so you're not looking at
-specific community,
-or specific way of living,
-or a specific group of people
-as someone you necessarily identify with,
-and that has been a great thing
-because I've been able to identify with
-what I create and what
-I feel my calling is.
-I went over there pretty young,
-and by myself, and it
-was sort of one of those
-jump feet first into the water,
-and figure it out kind of thing,
-and that shapes you.
-- One of the questions
-from your background.
-This is from Maxine
-Cunningham from the class.
-"Who is the first person
-"that believed in you?
-"Why did they believe you?
-"What did you do to
-convince them of that?"
-- It was probably my parents.
+I thought it was just a phenomenal time,and the intensity, and passionof the students there.
+It's an incredibly intense environment,and a very stimulating environment,and the context is sort ofthe drive for excellence.
+I think one of the things I'm grateful forin the way that I grew upis that I moved a lot,and when that happensnothing is really normal,so you're not looking atspecific community,or specific way of living,or a specific group of peopleas someone you necessarily identify with,and that has been a great thingbecause I've been able to identify withwhat I create and whatI feel my calling is.
+I went over there pretty young,and by myself, and itwas sort of one of thosejump feet first into the water,and figure it out kind of thing,and that shapes you.
+- One of the questionsfrom your background.
+This is from MaxineCunningham from the class.
+"Who is the first person"that believed in you?"Why did they believe you?"What did you do toconvince them of that?"- It was probably my parents.
 I think it's also yourself.
-You make a decision that
-you're gonna do something that
-you really, really believe in,
-and then it doesn't really matter
-who else believes in you
-because you're gonna go fight for it
-because it's what you want to do.
+You make a decision thatyou're gonna do something thatyou really, really believe in,and then it doesn't really matterwho else believes in youbecause you're gonna go fight for itbecause it's what you want to do.
 - This side, all the way over, why not.
-- [Voiceover] I was wondering with
-the aspect of, like, breakthrough products
-I think Theranos has been distinctly
-churning out products that
-are very different from the medical space.
-I was wondering what creative,
-or scientific processes have you put in
-to consistently think radically,
-and create your products that are 10 times
-better in a space that hasn't been?
-- Interesting question.
-So what have you done,
-what processes or tools
-have you put in place
-to develop breakthrough
-sort of 10x products
-to do things very differently
-than the way things have happened before?
-- I think we've asked different questions.
+- [Voiceover] I was wondering withthe aspect of, like, breakthrough productsI think Theranos has been distinctlychurning out products thatare very different from the medical space.
+I was wondering what creative,or scientific processes have you put into consistently think radically,and create your products that are 10 timesbetter in a space that hasn't been?- Interesting question.
+So what have you done,what processes or toolshave you put in placeto develop breakthroughsort of 10x productsto do things very differentlythan the way things have happened before?- I think we've asked different questions.
 We're trained to solve different problems.
-When people say we're in the lab business,
-or we're in the finger stick business.
+When people say we're in the lab business,or we're in the finger stick business.
 We're not in the finger stick business.
-We're in the can we make early detection
-a reality business,
-and everything that we do is around
-how do you build systems,
-how do you build products,
-how do you create access
-so that person by person people begin
-to engage with their health information
-in such a way in which
-they're not asking themselves the question
-what if I had known sooner,
-and that's a totally different way
-of approaching this.
-It's not I want to be a better lab,
-or I want to make finger stick tests.
-It's how do we change that,
-and then everything that
-we do comes from that.
-- Jeffrey Klapp from the
-class asked the question:
-"So why did you decide to launch Theranos
-"in Silicon Valley?"
-Obviously, you were a student
-at Stanford at the time,
-but there are plenty of other places
-that are more experienced in terms of
-the FDA, or the medical industry,
-or what have you.
-Why Silicon Valley?
-- I'm highly biased.
-I think that this is one of
-the most amazing places in the world,
-and I think that people here are
-people who all come
-because they want to do
-something meaningful,
-and they want to make a difference,
-and they come from all over the world.
-One of the things that we
-love the most about our company
-is I look around the room in a meeting,
-and there's people from India,
-and Pakistan, and China,
-and Egypt, and Brazil,
-sitting in the same room on the same team,
-and the same product,
-they all came to Silicon Valley
-because they want to
-build something great.
-It's with those type of people
-that you figure out how to solve
-really tough problems.
+We're in the can we make early detectiona reality business,and everything that we do is aroundhow do you build systems,how do you build products,how do you create accessso that person by person people beginto engage with their health informationin such a way in whichthey're not asking themselves the questionwhat if I had known sooner,and that's a totally different wayof approaching this.
+It's not I want to be a better lab,or I want to make finger stick tests.
+It's how do we change that,and then everything thatwe do comes from that.
+- Jeffrey Klapp from theclass asked the question:"So why did you decide to launch Theranos"in Silicon Valley?"Obviously, you were a studentat Stanford at the time,but there are plenty of other placesthat are more experienced in terms ofthe FDA, or the medical industry,or what have you.
+Why Silicon Valley?- I'm highly biased.
+I think that this is one ofthe most amazing places in the world,and I think that people here arepeople who all comebecause they want to dosomething meaningful,and they want to make a difference,and they come from all over the world.
+One of the things that welove the most about our companyis I look around the room in a meeting,and there's people from India,and Pakistan, and China,and Egypt, and Brazil,sitting in the same room on the same team,and the same product,they all came to Silicon Valleybecause they want tobuild something great.
+It's with those type of peoplethat you figure out how to solvereally tough problems.
 - Just as an experiment.
-Those of you who were
-not born in the Bay area
-raise your hands.
+Those of you who werenot born in the Bay arearaise your hands.
 - Right.
 - There you go.
 - So, yeah.
-- There you go, all
-right, other questions.
+- There you go, allright, other questions.
 I think I did that side.
-Which side I don't even
-know at this point.
+Which side I don't evenknow at this point.
 This side, okay, back there.
 Yes, the gentleman in the glasses.
-- [Voiceover] You or me?
-I didn't want to say
-the gentleman with the short haircut,
-but there you go.
-- [Voiceover] Yeah, that
-would be pattern baldness.
+- [Voiceover] You or me?I didn't want to saythe gentleman with the short haircut,but there you go.
+- [Voiceover] Yeah, thatwould be pattern baldness.
 Let's jump ahead 10 years.
-My background is in products
-in home monitoring.
-I think it was very smart
-to do the Walgreen thing
-because it clearly made it nice,
-and the retail space is gonna take off.
-What about the home?
-What about the next big thing?
-Screw LabCorp, and Quest, and those guys.
-What about actually getting into the home?
-- Forward looking question.
-Are you thinking about getting into
-the home market?
-Oh, you think, what do you think?
-- What do I think about it.
+My background is in productsin home monitoring.
+I think it was very smartto do the Walgreen thingbecause it clearly made it nice,and the retail space is gonna take off.
+What about the home?What about the next big thing?Screw LabCorp, and Quest, and those guys.
+What about actually getting into the home?- Forward looking question.
+Are you thinking about getting intothe home market?Oh, you think, what do you think?- What do I think about it.
 I think it's really interesting.
-All of our belief systems are around
-get information to the individual,
-empower the individual
-at the time and place where it matters,
-and I think there is
-an incredible future there.
-It's one of the reasons that I think
-it's so important to try to
-break down these barriers.
-The state law thing is important
-just because it says
-"You have a right to your information."
-Well what happens when you have a right?
-All of a sudden you
-become interested in it,
-and all of a sudden you're interested
-in products and services that
-you could use to get
-access to this information.
+All of our belief systems are aroundget information to the individual,empower the individualat the time and place where it matters,and I think there isan incredible future there.
+It's one of the reasons that I thinkit's so important to try tobreak down these barriers.
+The state law thing is importantjust because it says"You have a right to your information."Well what happens when you have a right?All of a sudden youbecome interested in it,and all of a sudden you're interestedin products and services thatyou could use to getaccess to this information.
 I think it's a whole frontier.
 - Question from the audience here.
-Vijay Gill, MD, asks:
-"Back in the early days ... "
-That's what he's listed as,
-on his (mumbles)
-"Back in the early days before all this
-"publicity started coming out
-"how did you manage to reach out,
-"and engage with regulators,
-"despite the fact nobody knew
-"who you guys were?"
-What did you do to actually reach out
-for them to get on their radar,
-and engage with them?
-- We showed up.
+Vijay Gill, MD, asks:"Back in the early days ... "That's what he's listed as,on his (mumbles)"Back in the early days before all this"publicity started coming out"how did you manage to reach out,"and engage with regulators,"despite the fact nobody knew"who you guys were?"What did you do to actually reach outfor them to get on their radar,and engage with them?- We showed up.
 We've proactively done this for some time.
-We've tried to figure out what
-the right thing to do is in the context of
-how to build this company,
-and what the right system is,
-and we've tried to look
-for really good advisers,
-and really good people
-in the regulatory space
-to say okay, no one's ever said that
-they're gonna build a new lab,
-and go make hundreds of tests,
-and take them all through the FDA process.
-Normally what happens is people say
-I'm gonna take a product through the FDA.
-It's not I'm gonna take
-300 things to the FDA.
-So how do you do that?
-How do you create a model for it?
-We spent a lot of time on that.
+We've tried to figure out whatthe right thing to do is in the context ofhow to build this company,and what the right system is,and we've tried to lookfor really good advisers,and really good peoplein the regulatory spaceto say okay, no one's ever said thatthey're gonna build a new lab,and go make hundreds of tests,and take them all through the FDA process.
+Normally what happens is people sayI'm gonna take a product through the FDA.
+It's not I'm gonna take300 things to the FDA.
+So how do you do that?How do you create a model for it?We spent a lot of time on that.
 - Over on this side, yes, back there.
-- [Voiceover] So why blood testing?
-There's many different ways to
-disrupt health care, especially
-in terms of proactive diagnostics.
-In the early formative years
-did you give any thoughts (mumbles)
-- So why blood testing, in particular,
-and did you look at any other types of
-clinical avenues?
-- Yes, we have, and blood testing
-is really important because
-the blood testing data
-is really important,
-and the way
-that you get access to it
-which is this traditional venipuncture
-in locations that are pretty horrible,
-and really expensive,
-and you don't know how much
-you're agreeing to pay
-when you go in to do a test
-is such a huge barrier
-in people actually getting access
-to their own health information.
-When you look at our country
-40 to 60% of people actually don't go
-get a lab test done
-when they're given a requisition
-by their physician to get it done.
-The way our system is set up
-those tests are generally only ordered
-if you're already
-symptomatic for something.
-If you go in to your doctor and you say:
-"Hey, my family has a
-history of heart disease.
+- [Voiceover] So why blood testing?There's many different ways todisrupt health care, especiallyin terms of proactive diagnostics.
+In the early formative yearsdid you give any thoughts (mumbles)- So why blood testing, in particular,and did you look at any other types ofclinical avenues?- Yes, we have, and blood testingis really important becausethe blood testing datais really important,and the waythat you get access to itwhich is this traditional venipuncturein locations that are pretty horrible,and really expensive,and you don't know how muchyou're agreeing to paywhen you go in to do a testis such a huge barrierin people actually getting accessto their own health information.
+When you look at our country40 to 60% of people actually don't goget a lab test donewhen they're given a requisitionby their physician to get it done.
+The way our system is set upthose tests are generally only orderedif you're alreadysymptomatic for something.
+If you go in to your doctor and you say:"Hey, my family has ahistory of heart disease.
 "I just want to see how I'm doing.
-"I'm worried about it."
-The doctor will say:
-"Well, you're not symptomatic.
-"That's not a "medically" necessary test,
-"therefore, insurance won't pay for it,
-"therefore, you're gonna pay
-"$3,000 out of pocket,"
-so people don't do it until they're sick,
-and this is a way to begin to get access
-to this information
-before you're really sick
-so that people can do something about it.
+"I'm worried about it."The doctor will say:"Well, you're not symptomatic.
+"That's not a "medically" necessary test,"therefore, insurance won't pay for it,"therefore, you're gonna pay"$3,000 out of pocket,"so people don't do it until they're sick,and this is a way to begin to get accessto this informationbefore you're really sickso that people can do something about it.
 - Back over to this side.
 Way in the back there.
-I like to give people
-in the back a chance.
-- [Voiceover] Thank you, so, obviously
-one of the reasons for health care
-is to come get testing, get the diagnosis.
-What else do you think
-the biotech industry needs to do?
-That's just such a whole novel approach.
-Instead of curing a disease
-build the infrastructure
-to cure all diseases.
-What other kinds of infrastructure
-needs to be disrupted in the Bay?
-- So what else needs to be disrupted
-in the Biotech industry?
-- I think one of the coolest things
-that's going on right now is the way that
-people are rethinking therapeutics.
-So this whole concept, for example,
-in cancer that you can design therapeutics
-to target your own immune system
-to go fight a cancer
-where it's totally different from
-the traditional days of chemo
-where you were thinking about
-okay, I'm gonna give you a poison,
-and, hopefully, that poison is gonna kill
-as much stuff as possible,
-and it will get the bad stuff too,
-but this concept that you can actually
-activate your own immune system
-to go fight something, I mean,
-it's a total game change,
-and it's incredibly promising
-because there's this hope that
-it's possible that that will work across
-a large series of different mutations
-of a cancer, for example,
-so I think that is a mind shift
-in terms of the way that people
-start thinking about therapy
-that's a new frontier in and of itself.
+I like to give peoplein the back a chance.
+- [Voiceover] Thank you, so, obviouslyone of the reasons for health careis to come get testing, get the diagnosis.
+What else do you thinkthe biotech industry needs to do?That's just such a whole novel approach.
+Instead of curing a diseasebuild the infrastructureto cure all diseases.
+What other kinds of infrastructureneeds to be disrupted in the Bay?- So what else needs to be disruptedin the Biotech industry?- I think one of the coolest thingsthat's going on right now is the way thatpeople are rethinking therapeutics.
+So this whole concept, for example,in cancer that you can design therapeuticsto target your own immune systemto go fight a cancerwhere it's totally different fromthe traditional days of chemowhere you were thinking aboutokay, I'm gonna give you a poison,and, hopefully, that poison is gonna killas much stuff as possible,and it will get the bad stuff too,but this concept that you can actuallyactivate your own immune systemto go fight something, I mean,it's a total game change,and it's incredibly promisingbecause there's this hope thatit's possible that that will work acrossa large series of different mutationsof a cancer, for example,so I think that is a mind shiftin terms of the way that peoplestart thinking about therapythat's a new frontier in and of itself.
 - Question from the computer audience.
 Elena Meslova.
-"How do you think about big pharma,
-"big pharmaceutical companies?"
-Obviously, you've done work for them
-in terms of clinical testing and what-not,
-are they ultimately customers,
-partners, competitors, inquirers?
-How do you think about them?
-- They were our customer
-for quite some time
-as we built out our framework.
-I think they play an
-incredibly important role
-in the health system,
-and I think the more that we see
-these movements toward these
-whole new areas of thinking about
-how therapies can be developed,
-and applied I think they play
-an incredibly important role
-in changing how we
-think about health care.
+"How do you think about big pharma,"big pharmaceutical companies?"Obviously, you've done work for themin terms of clinical testing and what-not,are they ultimately customers,partners, competitors, inquirers?How do you think about them?- They were our customerfor quite some timeas we built out our framework.
+I think they play anincredibly important rolein the health system,and I think the more that we seethese movements toward thesewhole new areas of thinking abouthow therapies can be developed,and applied I think they playan incredibly important rolein changing how wethink about health care.
 - Chris.
 - [Voiceover] I just have two questions.
 The first one is ...
-- Two?
-- [Voiceover] Over the
-last 12 months, say,
-on an average day what
-percentage of your time
-would you say you spend in meetings,
-and then other than meetings,
-what else do you do?
-- So what percentage of your time
-do you typically spend in meetings,
-and what is the stuff that you do
-when you're not in meetings?
-So as we know, CEO's
-are in meetings a lot.
-- I spend a pretty small
-percentage of my time
-in like formally scheduled meetings.
-- [Voiceover] Is that including, like,
-all kinds of meetings?
-- All kinds of meetings?
-Then it's a lot of time
-because it's getting people
-coming into my office,
-going to their office, talking to them,
-just real time solving problems,
-but one of our core values as a culture
-is real time communication,
-so if we need to talk about something
-we get people into my office right now,
-and we talk about it,
-and then we can go solve the problem,
-and then we go talk about the next one.
-The rest of the time is spent
-focusing on executing,
-or on solving problems.
-- [Voiceover] Then the other thing was
-what was the business you did in China?
-- What was the business ...
+- Two?- [Voiceover] Over thelast 12 months, say,on an average day whatpercentage of your timewould you say you spend in meetings,and then other than meetings,what else do you do?- So what percentage of your timedo you typically spend in meetings,and what is the stuff that you dowhen you're not in meetings?So as we know, CEO'sare in meetings a lot.
+- I spend a pretty smallpercentage of my timein like formally scheduled meetings.
+- [Voiceover] Is that including, like,all kinds of meetings?- All kinds of meetings?Then it's a lot of timebecause it's getting peoplecoming into my office,going to their office, talking to them,just real time solving problems,but one of our core values as a cultureis real time communication,so if we need to talk about somethingwe get people into my office right now,and we talk about it,and then we can go solve the problem,and then we go talk about the next one.
+The rest of the time is spentfocusing on executing,or on solving problems.
+- [Voiceover] Then the other thing waswhat was the business you did in China?- What was the business ...
 So I mentioned that.
-I should have specified it,
-but what was the business
-that you did in China?
-- This was in my C++ days,
-and I was looking at the fact that
-universities in China didn't have access
-to the same type of compilers that schools
-in the U.S. had access to at that time,
-so I was distributing
-compilers, basically,
-to universities in China.
-- Never forget this is a
-computer science course.
-- [Voiceover] Did it make a lot of money?
-- No.
+I should have specified it,but what was the businessthat you did in China?- This was in my C++ days,and I was looking at the fact thatuniversities in China didn't have accessto the same type of compilers that schoolsin the U.S. had access to at that time,so I was distributingcompilers, basically,to universities in China.
+- Never forget this is acomputer science course.
+- [Voiceover] Did it make a lot of money?- No.
 - Okay, yes.
 - But I learned something.
-- [Voiceover] I'm wondering what results
-have you seen from your mission statement
-in particular, I admire how easy
-you've made it for us to remember it,
-making health information
-accessible to people.
-You've also made some of your values
-very clear already,
-and I don't know if that's something
-that is just like internalized
-that you did a lot for your employees,
-for example, like, how has that
-affected your business?
-- So how has really having a clear mission
-affected your business?
-How has it affected your employees,
-partners, et cetera?
-- I think that's a great question.
-I think being really clear on the mission
-it's your ultimate statement
-of what you're trying to do,
-and why you're doing it.
-I think one of
-the most powerful things that I've learned
-is that if you set the right values
-the values become the vehicle
-through which you make decisions.
-When you're dealing with the decision
-that you don't know the answer to
-reflecting on what those values are,
-and why you believe in them
-ultimately becomes the tool
-for knowing what the right answer is.
-- And one of the ways
-to draw the connection
-back to prior in this course
-I think Eric Schmidt came in and said
-the reason you have values is so that
-when the decisions are made
-without you in the room
-they're the same decisions that we made
-as if you were in the room.
+- [Voiceover] I'm wondering what resultshave you seen from your mission statementin particular, I admire how easyyou've made it for us to remember it,making health informationaccessible to people.
+You've also made some of your valuesvery clear already,and I don't know if that's somethingthat is just like internalizedthat you did a lot for your employees,for example, like, how has thataffected your business?- So how has really having a clear missionaffected your business?How has it affected your employees,partners, et cetera?- I think that's a great question.
+I think being really clear on the missionit's your ultimate statementof what you're trying to do,and why you're doing it.
+I think one ofthe most powerful things that I've learnedis that if you set the right valuesthe values become the vehiclethrough which you make decisions.
+When you're dealing with the decisionthat you don't know the answer toreflecting on what those values are,and why you believe in themultimately becomes the toolfor knowing what the right answer is.
+- And one of the waysto draw the connectionback to prior in this courseI think Eric Schmidt came in and saidthe reason you have values is so thatwhen the decisions are madewithout you in the roomthey're the same decisions that we madeas if you were in the room.
 - Absolutely, absolutely.
-- All right, my goodness, so many choices,
-but most of you have gone already.
+- All right, my goodness, so many choices,but most of you have gone already.
 You haven't gone yet.
-- [Voiceover] You have
-a very strong passion
-to start to solve a particular problem,
-and I'm wondering what
-types of recommendations would you give
-to people who still want to solve
-the world problems,
-but might not feel as
-emotionally passionate?
-- What advice do you give to someone
-who has not got that calling,
-that they want to do something,
-but they haven't got that one idea
-like you focused in on?
-- I think you spend a lot of time
-thinking about what you
-really, really, really love doing.
-It's like the experiment that you just
-keep on going back to the lab
-over and over and over again
-because you have to figure
-out how to solve it.
-I have friends who are in art,
-and they're just obsessed with
-figuring out how to paint
-a certain type of portrait
-because they love it.
-If they didn't have to work for a job
-that's what they would be doing,
-and when you find that thing that
-if you didn't have to work,
-it wasn't about money
-that is what you would want to be
-spending your time on
-you have that passion to look at it,
-and figure out how to
-do things differently
-because you love it,
-or how to do things better
-because you love it.
-The thing that's so important about it
-is that because all
-these things are so hard,
-I mean, people are gonna challenge you,
-they're gonna fight you,
-they're gonna try to destroy you.
+- [Voiceover] You havea very strong passionto start to solve a particular problem,and I'm wondering whattypes of recommendations would you giveto people who still want to solvethe world problems,but might not feel asemotionally passionate?- What advice do you give to someonewho has not got that calling,that they want to do something,but they haven't got that one idealike you focused in on?- I think you spend a lot of timethinking about what youreally, really, really love doing.
+It's like the experiment that you justkeep on going back to the labover and over and over againbecause you have to figureout how to solve it.
+I have friends who are in art,and they're just obsessed withfiguring out how to painta certain type of portraitbecause they love it.
+If they didn't have to work for a jobthat's what they would be doing,and when you find that thing thatif you didn't have to work,it wasn't about moneythat is what you would want to bespending your time onyou have that passion to look at it,and figure out how todo things differentlybecause you love it,or how to do things betterbecause you love it.
+The thing that's so important about itis that because allthese things are so hard,I mean, people are gonna challenge you,they're gonna fight you,they're gonna try to destroy you.
 They're gonna do all this stuff.
-When you love it so much
-you want to keep fighting for it,
-otherwise, you'd be like
-I don't have to put up with this,
-I'm gonna do something else.
-It's that thing that you love,
-and I think every person
-finds it ultimately.
-I know for me I thought about it so much
-in the context of building this company
-because I asked myself the question.
-Okay, if I were fired,
-or I couldn't be CEO,
-or we failed
-what would I go do,
-and this is what I would go do
-because this is what I want to do,
-and I would do it as
-many times as I have to
-until I figured out how to get it to work.
-That's different for every person
-which makes the opportunity to find that
-distinction, or that unique
-difference in how you could do something,
-or do something better.
+When you love it so muchyou want to keep fighting for it,otherwise, you'd be likeI don't have to put up with this,I'm gonna do something else.
+It's that thing that you love,and I think every personfinds it ultimately.
+I know for me I thought about it so muchin the context of building this companybecause I asked myself the question.
+Okay, if I were fired,or I couldn't be CEO,or we failedwhat would I go do,and this is what I would go dobecause this is what I want to do,and I would do it asmany times as I have tountil I figured out how to get it to work.
+That's different for every personwhich makes the opportunity to find thatdistinction, or that uniquedifference in how you could do something,or do something better.
 - Back there.
-(mumbled question from audience)
-- How do you manage the internal identity,
-and the external brand
-to be able to cover
-what you're doing today,
-but also your broader vision
-for where you want it to go?
-- I think they all have to be the same.
-I mean your internal identity
-better be your external brand,
-otherwise, you're confused.
-For me it's always been about
-we have this dream.
+(mumbled question from audience)- How do you manage the internal identity,and the external brandto be able to coverwhat you're doing today,but also your broader visionfor where you want it to go?- I think they all have to be the same.
+I mean your internal identitybetter be your external brand,otherwise, you're confused.
+For me it's always been aboutwe have this dream.
 We want to do these really big things.
-They're gonna take a
-really long time to do,
-but today in Arizona how many people
-were able to get lab tests that
-would never have been
-able to afford it before
-where it not for the products we built,
-and if I can drive home at night,
-and I know that even one person
-was able to get access to a test
-they would never have been able
-to get access to before
-because of something we did
-we've realized that mission
-because person by person
-we make that change in the world.
+They're gonna take areally long time to do,but today in Arizona how many peoplewere able to get lab tests thatwould never have beenable to afford it beforewhere it not for the products we built,and if I can drive home at night,and I know that even one personwas able to get access to a testthey would never have been ableto get access to beforebecause of something we didwe've realized that missionbecause person by personwe make that change in the world.
 - My goodness, so many people.
 One last question over there on the end.
-- [Voiceover] How do
-you plan to scale global
-in the aspects of legal?
-For instance, I'm coming from Brazil,
-and we have a lot of
-differences on the regulations.
+- [Voiceover] How doyou plan to scale globalin the aspects of legal?For instance, I'm coming from Brazil,and we have a lot ofdifferences on the regulations.
 - Excellent question.
-How do you scale globally
-when you're in such a regulated industry?
-- It's a great question,
-and as you said it's completely different
-every place you go.
-I think a lot of it comes down to people,
-and understanding the people
-who really know how to operate
-in a certain area,
-and who have the relationships
-to be able to do that effectively.
-We're trying to be highly focused in
-working to build something great
-in an area, or a city, or a state,
-and then repeating it one by one,
-and we're very clear that
-our success or failure there
-is completely dependent on how
-good the people are that are running it,
-and how well they
-understand those ecosystems.
-- One of the questions
-we traditionally ask
-in CS183C, and I'll end with it,
-and then we'll let folks who want to
-come up and ask questions, ask questions.
-What would you do if you could
-pick up the phone,
-and call your 19-year-old self
-what would you tell her to do differently,
-if anything, if you had that power?
-- I would just do it even more intensely,
-and harder, and faster.
-I mean, if you fail, fail fast,
-fail hard, and just keep going.
-- What did you do that
-you weren't intense enough?
-I'm having a hard time picturing this.
-- I learned, I wasn't like this
-when I was at Stanford.
-I tried to build myself, and train myself
-to work like this
-because I knew this is
-what it was gonna take,
-but you go into it, and you're thinking
-can I do this, is this gonna work,
-and all of those doubts that go into
-trying to figure out if you could
-actually be successful at something.
-I really believe it's true that
-if you can imagine it, you can achieve it,
-and every time you do it
-you get that confidence,
-but the first time you don't know.
+How do you scale globallywhen you're in such a regulated industry?- It's a great question,and as you said it's completely differentevery place you go.
+I think a lot of it comes down to people,and understanding the peoplewho really know how to operatein a certain area,and who have the relationshipsto be able to do that effectively.
+We're trying to be highly focused inworking to build something greatin an area, or a city, or a state,and then repeating it one by one,and we're very clear thatour success or failure thereis completely dependent on howgood the people are that are running it,and how well theyunderstand those ecosystems.
+- One of the questionswe traditionally askin CS183C, and I'll end with it,and then we'll let folks who want tocome up and ask questions, ask questions.
+What would you do if you couldpick up the phone,and call your 19-year-old selfwhat would you tell her to do differently,if anything, if you had that power?- I would just do it even more intensely,and harder, and faster.
+I mean, if you fail, fail fast,fail hard, and just keep going.
+- What did you do thatyou weren't intense enough?I'm having a hard time picturing this.
+- I learned, I wasn't like thiswhen I was at Stanford.
+I tried to build myself, and train myselfto work like thisbecause I knew this iswhat it was gonna take,but you go into it, and you're thinkingcan I do this, is this gonna work,and all of those doubts that go intotrying to figure out if you couldactually be successful at something.
+I really believe it's true thatif you can imagine it, you can achieve it,and every time you do ityou get that confidence,but the first time you don't know.
 - So the faith.
 - Yeah.
-- Elizabeth, thank you so much
-for coming in today.
+- Elizabeth, thank you so muchfor coming in today.
 I really appreciate it.
 - Thank you.
-(applause)

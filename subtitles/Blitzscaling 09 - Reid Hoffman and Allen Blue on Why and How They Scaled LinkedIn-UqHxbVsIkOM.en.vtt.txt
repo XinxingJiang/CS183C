@@ -1,3151 +1,672 @@
-WEBVTT
-Kind: captions
-Language: en
-- So we're gonna start the same way we did
-with the last lecture, I'm
-gonna move in the center,
-and basically we wanted
-to sort of reflect on,
-this is our schedule for today,
-so we're gonna do the same
-thing we did last time.
-Start with a recap and themes from OS2
-and then we're gonna move into OS3.
-Talk about some specific areas of OS3
-and then talk a little
-bit about what's coming up
-on Thursday.
-We're gonna start, though, by talking
-about what we did at the beginning of OS2,
-which was what did we hear
-from the three speakers
-who came in and the three
-practitioners who came in
-and what are common themes that
-we actually heard from them?
-Just reflect on that as a bit as a group.
-Anybody got common themes
-we heard from those folks?
-- [Voiceover] Control communication
-as the company scales.
-- So you have to control communication
-as the company scales up.
-Communication is a different problem
-as the company gets larger.
-What else?
-Yeah.
-- [Voiceover] Hiring
-is absolutely critical
-when scaling your business.
-- Yeah, yeah, hiring is
-absolutely critical scale
-in the business.
+WEBVTTKind: captionsLanguage: en- So we're gonna start the same way we didwith the last lecture, I'mgonna move in the center,and basically we wantedto sort of reflect on,this is our schedule for today,so we're gonna do the samething we did last time.
+Start with a recap and themes from OS2and then we're gonna move into OS3.
+Talk about some specific areas of OS3and then talk a littlebit about what's coming upon Thursday.
+We're gonna start, though, by talkingabout what we did at the beginning of OS2,which was what did we hearfrom the three speakerswho came in and the threepractitioners who came inand what are common themes thatwe actually heard from them?Just reflect on that as a bit as a group.
+Anybody got common themeswe heard from those folks?- [Voiceover] Control communicationas the company scales.
+- So you have to control communicationas the company scales up.
+Communication is a different problemas the company gets larger.
+What else?Yeah.
+- [Voiceover] Hiringis absolutely criticalwhen scaling your business.
+- Yeah, yeah, hiring isabsolutely critical scalein the business.
 - [Voiceover] Metrics.
 - Metrics, say a bit more.
-- [Voiceover] If you don't
-have them, you're screwed.
-- (laughs) If you don't have
-metrics, you're screwed.
-True and everybody talked about metrics
-and how important they were.
-It's interesting, there's a set of things
-which had to do with measuring wind
-and measuring your progress forward.
-Metrics still tend, in the OS2 level,
-to be a fairly lightweight process,
-where you're not having
-to put a lot of hardware
-behind it yet.
-And actually you begin to
-see that, really, in OS3.
-What else?
-- [Voiceover] Maintaining a
-small group sense of leadership
-and growing equal from
-within your (mumbles).
-- Yeah, so maintaining a small group
-and growing leaders from
-within if you possibly can.
-One of the things that's just
-gonna be really interesting is
-at the OS2 range, when
-you're still a small group
-of people who basically,
-sort of a band of friends
-or brother or sisters, you
-basically have the ability
-to stay close as a group
-and to grow from within,
-but when you're actually
-in a hyper growth phase
-and you're moving especially to OS3,
-the requirements for executive leadership
-can be quite onerous and very unexpected
-for the group of people
-who are highly affiliated
-and ready to work in startups.
+- [Voiceover] If you don'thave them, you're screwed.
+- (laughs) If you don't havemetrics, you're screwed.
+True and everybody talked about metricsand how important they were.
+It's interesting, there's a set of thingswhich had to do with measuring windand measuring your progress forward.
+Metrics still tend, in the OS2 level,to be a fairly lightweight process,where you're not havingto put a lot of hardwarebehind it yet.
+And actually you begin tosee that, really, in OS3.
+What else?- [Voiceover] Maintaining asmall group sense of leadershipand growing equal fromwithin your (mumbles).
+- Yeah, so maintaining a small groupand growing leaders fromwithin if you possibly can.
+One of the things that's justgonna be really interesting isat the OS2 range, whenyou're still a small groupof people who basically,sort of a band of friendsor brother or sisters, youbasically have the abilityto stay close as a groupand to grow from within,but when you're actuallyin a hyper growth phaseand you're moving especially to OS3,the requirements for executive leadershipcan be quite onerous and very unexpectedfor the group of peoplewho are highly affiliatedand ready to work in startups.
 So we'll talk about that a bit today.
-Anybody else?
-Any other things you
-thought that stood out
-from that group of people?
-Like things which they disagreed on
-or even disagreed with the
-first three speakers on?
-- [Voiceover] I thought
-Eric's hiring practices
-were pretty counterintuitive
-to the rest of the valleys.
-- Hm, so Eric's hiring
-practice is counterintuitive.
+Anybody else?Any other things youthought that stood outfrom that group of people?Like things which they disagreed onor even disagreed with thefirst three speakers on?- [Voiceover] I thoughtEric's hiring practiceswere pretty counterintuitiveto the rest of the valleys.
+- Hm, so Eric's hiringpractice is counterintuitive.
 Say a bit more.
-- [Voiceover] That they
-only take top people
-from top colleges and disregard the rest.
+- [Voiceover] That theyonly take top peoplefrom top colleges and disregard the rest.
 - (laughs) Right.
 Agreed.
-Yeah, seriously, I mean Google
-definitely has a reputation
-if you want to comment on that,
-'cause it is different than
-the usual hiring process.
-Not that that isn't a great
-direction for hiring folks.
-- Well, the key thing when you're thinking
-about establishing a culture
-and actually having a distinct,
-it's actually, in fact, not all A players
-will fit in the same culture,
-so you're actually
-trying to find something
-where even prospective A
-players won't fit within it.
-So one of the things that was particular
-to the Google culture is they said,
-okay, what we are about
-is this elite university,
-generally speaking, tech education
-and that's what we are.
-That's part of what the
-centerpiece of it is.
-So it helped them preserve their culture
-as they were getting
-larger, but it also means
-that you have a particular,
-it's not like any time
-we can find an A player
-whatsoever we hire them.
-It's actually fit within a culture
-and most cultures have some,
-not necessarily exactly
-like an elite degree, but
-they have some version
-of this is who we are and
-sometimes you run across
-an A player that you go,
-"Oh, you're an A player,
-"but doesn't fit the culture."
-And in preserving culture
-as part of what's important
-is you begin to get to
-questions of communication,
-questions of leaderships,
-questions of making
-a more decentralized set of decisions.
-If you don't have a unified
-culture, you start breaking.
-And that's why a unified
-culture's important,
-and that's part of the reason
-why it's counterintuitive,
-but it is one of the ways to establish
-a kind of firm culture early
-and that was one of the reasons,
-well, I don't know if
-they did it explicitly
-for that reason, but that
-was one of the benefits
-they got out of it.
-- [Voiceover] I was gonna
-say, are you gonna talk about
-what LinkedIn's version of that was
-or should I ask that now?
-- [Allen] Yeah, we are
-gonna talk about it.
-- Yeah, that's in a few--
-- We're sorry, we will talk about
-what LinkedIn's version of
-it is just for the recording.
-Okay, so I'm gonna hand
-things over to Reid
-to talk about OS3.
+Yeah, seriously, I mean Googledefinitely has a reputationif you want to comment on that,'cause it is different thanthe usual hiring process.
+Not that that isn't a greatdirection for hiring folks.
+- Well, the key thing when you're thinkingabout establishing a cultureand actually having a distinct,it's actually, in fact, not all A playerswill fit in the same culture,so you're actuallytrying to find somethingwhere even prospective Aplayers won't fit within it.
+So one of the things that was particularto the Google culture is they said,okay, what we are aboutis this elite university,generally speaking, tech educationand that's what we are.
+That's part of what thecenterpiece of it is.
+So it helped them preserve their cultureas they were gettinglarger, but it also meansthat you have a particular,it's not like any timewe can find an A playerwhatsoever we hire them.
+It's actually fit within a cultureand most cultures have some,not necessarily exactlylike an elite degree, butthey have some versionof this is who we are andsometimes you run acrossan A player that you go,"Oh, you're an A player,"but doesn't fit the culture."And in preserving cultureas part of what's importantis you begin to get toquestions of communication,questions of leaderships,questions of makinga more decentralized set of decisions.
+If you don't have a unifiedculture, you start breaking.
+And that's why a unifiedculture's important,and that's part of the reasonwhy it's counterintuitive,but it is one of the ways to establisha kind of firm culture earlyand that was one of the reasons,well, I don't know ifthey did it explicitlyfor that reason, but thatwas one of the benefitsthey got out of it.
+- [Voiceover] I was gonnasay, are you gonna talk aboutwhat LinkedIn's version of that wasor should I ask that now?- [Allen] Yeah, we aregonna talk about it.
+- Yeah, that's in a few--- We're sorry, we will talk aboutwhat LinkedIn's version ofit is just for the recording.
+Okay, so I'm gonna handthings over to Reidto talk about OS3.
 - Okay, great.
 Let's see here.
 Right.
-So, the first two weeks are
-essentially the startup class.
-What we've done the last,
-four weeks actually, sorry,
-first two sections are like,
-how do you have an idea,
-how do you think about it,
-how do you validate it,
-what are some of the
-considerations for that.
-Part of the reason why
-we, like, for example,
-when we open with our guest lectures
-on these topics are people who see a lot
-of early-stage things
-in order what to see.
-And when you get to OS2 and
-you get to, essentially,
-the tribe, you might be
-moving the scaling quickly,
-but a lot of what you tend to be doing
-is essentially
-figuring it out,
-making sure you have product-market fit,
-sometimes you know already.
-And it's really when you get to OS3,
-e.g., hundreds of employees
-and roughly speaking, if you
-wanted to be technical about it
-in terms of the way a lot
-of Silicon Valley people
-look at this, it's kind of 150.
-So when you say, is there
-an exact numerical bound,
-there really isn't.
+So, the first two weeks areessentially the startup class.
+What we've done the last,four weeks actually, sorry,first two sections are like,how do you have an idea,how do you think about it,how do you validate it,what are some of theconsiderations for that.
+Part of the reason whywe, like, for example,when we open with our guest lectureson these topics are people who see a lotof early-stage thingsin order what to see.
+And when you get to OS2 andyou get to, essentially,the tribe, you might bemoving the scaling quickly,but a lot of what you tend to be doingis essentiallyfiguring it out,making sure you have product-market fit,sometimes you know already.
+And it's really when you get to OS3,e.g., hundreds of employeesand roughly speaking, if youwanted to be technical about itin terms of the way a lotof Silicon Valley peoplelook at this, it's kind of 150.
+So when you say, is therean exact numerical bound,there really isn't.
 It's a kind of tenor of an organization.
-It's how it's working, but
-you'd say it's about 150
-when you shift from 10s to 100s
-and that's what we're calling the village.
-And that's actually in
-fact when you start getting
-to the really substantive shift
-and this is, to our very first class,
-this is the call out and what happens is
-when you begin moving from
-the tribe to the village,
-you're beginning to say okay,
-'cause there's this thing
-called Dunbar's number,
-you can look it up,
-it's on Wikipedia, but roughly speaking,
-it's up to about 150
-people all know each other.
-You have perfect hyper cube,
-everybody knows everybody else.
-When you move past that, it
-gets actually very difficult
-to do that and so coordination
-becomes more challenging
-and you move past it,
-not because you want to,
-but because you need to.
-And usually you're beginning
-to get into some real traction,
-whether it's on consumer
-or business scale.
-You may or may not yet have
-that kind of revenue stream,
-but you're beginning to see
-what your revenue stream is.
+It's how it's working, butyou'd say it's about 150when you shift from 10s to 100sand that's what we're calling the village.
+And that's actually infact when you start gettingto the really substantive shiftand this is, to our very first class,this is the call out and what happens iswhen you begin moving fromthe tribe to the village,you're beginning to say okay,'cause there's this thingcalled Dunbar's number,you can look it up,it's on Wikipedia, but roughly speaking,it's up to about 150people all know each other.
+You have perfect hyper cube,everybody knows everybody else.
+When you move past that, itgets actually very difficultto do that and so coordinationbecomes more challengingand you move past it,not because you want to,but because you need to.
+And usually you're beginningto get into some real traction,whether it's on consumeror business scale.
+You may or may not yet havethat kind of revenue stream,but you're beginning to seewhat your revenue stream is.
 It's not a formula across it.
-And that begins to get
-you into the question of
-when you're scaling from tribe to village,
-are you scaling from tribe
-to village in essentially
-kind of one of three ways.
-One way is, look, we just naturally need
-to get a little larger, we
-don't know how much larger
-we're gonna need to do,
-we're gonna scale up some,
-we're gonna solidify the organization,
-and we're gonna make that organization
-essentially a
-quasi-indefinite organization,
-which is we're gonna run with it
-for a while and we're gonna see.
-That's the least scaling, that's the least
-of what we're talking about
-in terms of blitzscaling.
-The second one is, look, we're
-gonna be scaling, call it,
-and that's probably, by the way,
-you're scaling 20%, 25% organization, etc.
-We're gonna be really scaling
-and we're gonna be doing,
-somewhere between a 15 and
-100% organizational growth.
-All right, 100% being double,
-but we also know that the likelihood
-is we're gonna continue past it,
-that we're just gonna keep doubling.
+And that begins to getyou into the question ofwhen you're scaling from tribe to village,are you scaling from tribeto village in essentiallykind of one of three ways.
+One way is, look, we just naturally needto get a little larger, wedon't know how much largerwe're gonna need to do,we're gonna scale up some,we're gonna solidify the organization,and we're gonna make that organizationessentially aquasi-indefinite organization,which is we're gonna run with itfor a while and we're gonna see.
+That's the least scaling, that's the leastof what we're talking aboutin terms of blitzscaling.
+The second one is, look, we'regonna be scaling, call it,and that's probably, by the way,you're scaling 20%, 25% organization, etc.
+We're gonna be really scalingand we're gonna be doing,somewhere between a 15 and100% organizational growth.
+All right, 100% being double,but we also know that the likelihoodis we're gonna continue past it,that we're just gonna keep doubling.
 We're gonna maybe go to tripling.
-We're gonna add in on a regular basis
-and so when you're building
-out your organization,
-you're not building out an organization
-that you say, okay, this is stable,
-'cause you realize when you double again,
-you're gonna change your
-organization structure,
-you're gonna change how you communicate,
-you're gonna change what
-your leadership looks like,
-you're gonna change
-how much multithreading
-you're doing in the organization.
-You're gonna make all of these changes,
-which are really key.
-Now, you're not doing it at
-kind of a totally hyperspeed,
-but you're doing it at a thorough speed
-by which you're keeping
-your organization flexible
-as opposed to hardening
-it the way you would do
-in the first instance.
-And then the third choice
-is, oh my gosh, right?
-And by the way, not all the
-companies have to do this,
-but, oh my gosh, I have
-to more than double.
+We're gonna add in on a regular basisand so when you're buildingout your organization,you're not building out an organizationthat you say, okay, this is stable,'cause you realize when you double again,you're gonna change yourorganization structure,you're gonna change how you communicate,you're gonna change whatyour leadership looks like,you're gonna changehow much multithreadingyou're doing in the organization.
+You're gonna make all of these changes,which are really key.
+Now, you're not doing it atkind of a totally hyperspeed,but you're doing it at a thorough speedby which you're keepingyour organization flexibleas opposed to hardeningit the way you would doin the first instance.
+And then the third choiceis, oh my gosh, right?And by the way, not all thecompanies have to do this,but, oh my gosh, I haveto more than double.
 I have to triple, I have to quadruple.
-That was the kind of thing
-that Eric was talking about
-last Thursday, which was the,
-look, doubling's pretty easy,
-(laughs) right?
-Quadrupling is super hard.
-And this is where you fundamentally
-start making that choice.
-The earlier places, very, very rarely
-are you actually in
-fact facing that choice.
-Like, in PayPal, when we were doing it,
-we essentially got to about 80 people
-and we realized we had to do it,
-so we actually realized the tribe,
-but that was because it was like,
-you very rarely have a
-circumstance where you're getting
-this compounding number
-of transactions everyday
-and it's compounding
-on an exponential curve
-and then you know you just need to go.
-Usually you've started figuring it out,
-now you're pushing for scale.
-And so, to recap, part of
-the problem you're trying
-to solve, oh, this is the
-family versus the household,
-but yeah (laughs).
-We're calling it family versus household,
-we were wrestling with the term.
-You're trying to say,
-okay, do I have something
-that's a unique idea?
-And do I assemble a few people,
-do I try to make it happen?
-I may raise a little bit of money,
-but I'm trying to figure that out.
-When you get to the tribe,
-you're trying to say,
-okay, do I have enough sense
-of the product-market fit
-that I can actually put on the juice
-that I should really double down,
-that I should try to occupy that market.
-You may be doing a lot of
-pivoting in this circumstance,
-maybe doing pivoting later too,
-depending on how it plays out,
-but you're really, generally speaking,
-trying to figure out product-market fit.
-And then when you get to the village,
-what you're trying to do is say, okay,
-now that I have a sense of
-what this can be globally,
-how do I scale it up?
-And there will be a couple
-of different questions,
-like one question will
-be your market size,
-one question will be,
-do I grow into something
-that's worth taking a big shot at it?
-Second question will be capital
-because you can't actually,
-in fact, scale fast
-without some real access to capital
-and that real access to
-capital can be, for example,
-in Google's case, can be revenue, right?
-That's a great place to be,
-where you're essentially
-printing so much money,
-that you're like, oh,
-we got as much capital
-to do whatever we wanna do.
-It's, by the way, a hard
-problem too, but it's ideal.
-But what you see a lot
-of modern variants of,
-you know, you see Uber
-doing, Airbnb doing,
-Dropbox doing, a bunch of other folks,
-you see them raising a bunch of money
-because if the story works,
-if they've got enough
-of the early positioning
-of the team in place,
-they've demonstrated
-the product-market fit,
-they can demonstrate a growth curve,
-then actually, in fact, raising
-money and using that capital
-to scale in the thing
-fast is one of the things
-that most typically happens here
-in Silicon Valley and China.
-And this is the place where you,
-almost certainly making that
-decision in order to go.
-That's part of the reason
-why the village is so key
-and so you have to say, okay, we got here.
+That was the kind of thingthat Eric was talking aboutlast Thursday, which was the,look, doubling's pretty easy,(laughs) right?Quadrupling is super hard.
+And this is where you fundamentallystart making that choice.
+The earlier places, very, very rarelyare you actually infact facing that choice.
+Like, in PayPal, when we were doing it,we essentially got to about 80 peopleand we realized we had to do it,so we actually realized the tribe,but that was because it was like,you very rarely have acircumstance where you're gettingthis compounding numberof transactions everydayand it's compoundingon an exponential curveand then you know you just need to go.
+Usually you've started figuring it out,now you're pushing for scale.
+And so, to recap, part ofthe problem you're tryingto solve, oh, this is thefamily versus the household,but yeah (laughs).
+We're calling it family versus household,we were wrestling with the term.
+You're trying to say,okay, do I have somethingthat's a unique idea?And do I assemble a few people,do I try to make it happen?I may raise a little bit of money,but I'm trying to figure that out.
+When you get to the tribe,you're trying to say,okay, do I have enough senseof the product-market fitthat I can actually put on the juicethat I should really double down,that I should try to occupy that market.
+You may be doing a lot ofpivoting in this circumstance,maybe doing pivoting later too,depending on how it plays out,but you're really, generally speaking,trying to figure out product-market fit.
+And then when you get to the village,what you're trying to do is say, okay,now that I have a sense ofwhat this can be globally,how do I scale it up?And there will be a coupleof different questions,like one question willbe your market size,one question will be,do I grow into somethingthat's worth taking a big shot at it?Second question will be capitalbecause you can't actually,in fact, scale fastwithout some real access to capitaland that real access tocapital can be, for example,in Google's case, can be revenue, right?That's a great place to be,where you're essentiallyprinting so much money,that you're like, oh,we got as much capitalto do whatever we wanna do.
+It's, by the way, a hardproblem too, but it's ideal.
+But what you see a lotof modern variants of,you know, you see Uberdoing, Airbnb doing,Dropbox doing, a bunch of other folks,you see them raising a bunch of moneybecause if the story works,if they've got enoughof the early positioningof the team in place,they've demonstratedthe product-market fit,they can demonstrate a growth curve,then actually, in fact, raisingmoney and using that capitalto scale in the thingfast is one of the thingsthat most typically happens herein Silicon Valley and China.
+And this is the place where you,almost certainly making thatdecision in order to go.
+That's part of the reasonwhy the village is so keyand so you have to say, okay, we got here.
 We're gonna scale more.
-Frequently in the very valuable
-cases we have to do it fast.
-Now, part of the decisioning
-on doing it fast is,
-what does the global
-competition look like?
-That's pretty central.
-And so, for example, when you look
-at some of the differences,
-part of the reason
-that Miriam was actually, in fact,
-kind of not trying to
-hyperscale what she was doing,
-but taking it in a very
-considered way was because
-her competition was old school
-market stationers, right?
-No one in the new realm
-was actually, in fact,
-threatening to encroach her,
-so she could develop out.
-LinkedIn has a very similar
-story in the early stage,
-which we went through a little bit before,
-but we're gonna go through
-the village stage of it now.
-And then the question
-is, usually for scale
-it's a competitive
-thing, so it's relative,
-it's can you scale faster,
-can you scale quickly with it?
-And so, these are the kinds of things
-that get to the question of,
-should I, in fact, attach
-a rocket engine and go?
-So, you've got a rough
-sense, and by the way,
-each of these things is
-actually more of a judgment.
-It doesn't mean you have to say,
-okay, I have 100% checked
-off each of these,
-because you might go,
-look, I'm 50% confident
-on the first one, I'm 60% confident
-on the organization setup
-in order to be able to go.
-I haven't run the process so I don't know,
-but you may still, because
-of competitive circumstances
-or because of a market opportunity
-or because you think,
-look, once people begin
-to realize an opportunity that's of size,
-everyone starts pivoting to it.
-So, part of the very first
-lecture's concept was figure out
-something that's kind
-of contrarian and right.
-Usually you can do the contrarian
-thing in the family stage
-because a lot of other people
-are staying away from it
-because it's not obvious to them.
-There's some reason, for
-example, in the LinkedIn case,
-like, how do you get to critical mass?
-How do you get millions
-of people into a service,
-when the whole value is
-the number of people there?
-So the first person of value,
-second person of value,
-so they're like, that's not
-even an area worth looking at.
-Once you begin to get
-to the village stage,
-you begin to proven out revenue, you begin
-to proven out some of your thesis.
-Now everyone else can see
-more of the same thing
-and it becomes less
-contrarian 'cause they go,
-oh, I'm beginning to look at this,
-and beginning to look at this, I'm going,
-oh, that could be valuable.
-And once you see that as clearly
-they're also seeing it
-in some version too.
-And so even though you may
-not have the competitor
-standing right here, rushing,
-jostling you for the prize,
-you actually end up on a clock anyway.
-And so that's part of the
-reason why you tend to go to,
-okay, what's the right scale to go to?
-Can be driven by competition,
-but it can also be driven
-by the fact that now everyone's seeing
-this value proposition
-and you need to do it.
-Other reasons you might do it are you need
-to get to critical mass in order
-to make your particular
-value proposition work.
-There's a stack of things that lead
-to the decision to scale but
-this is kind of the checklist
-for what you would be doing.
-- Can you say a little
-bit about how LinkedIn
-made that choice in 2008?
-- So, let's see, 'cause yes,
-'cause we're only doing
-the 2008 post story today.
-So roughly speaking, remember,
-we launched the site May 5th, 2003.
+Frequently in the very valuablecases we have to do it fast.
+Now, part of the decisioningon doing it fast is,what does the globalcompetition look like?That's pretty central.
+And so, for example, when you lookat some of the differences,part of the reasonthat Miriam was actually, in fact,kind of not trying tohyperscale what she was doing,but taking it in a veryconsidered way was becauseher competition was old schoolmarket stationers, right?No one in the new realmwas actually, in fact,threatening to encroach her,so she could develop out.
+LinkedIn has a very similarstory in the early stage,which we went through a little bit before,but we're gonna go throughthe village stage of it now.
+And then the questionis, usually for scaleit's a competitivething, so it's relative,it's can you scale faster,can you scale quickly with it?And so, these are the kinds of thingsthat get to the question of,should I, in fact, attacha rocket engine and go?So, you've got a roughsense, and by the way,each of these things isactually more of a judgment.
+It doesn't mean you have to say,okay, I have 100% checkedoff each of these,because you might go,look, I'm 50% confidenton the first one, I'm 60% confidenton the organization setupin order to be able to go.
+I haven't run the process so I don't know,but you may still, becauseof competitive circumstancesor because of a market opportunityor because you think,look, once people beginto realize an opportunity that's of size,everyone starts pivoting to it.
+So, part of the very firstlecture's concept was figure outsomething that's kindof contrarian and right.
+Usually you can do the contrarianthing in the family stagebecause a lot of other peopleare staying away from itbecause it's not obvious to them.
+There's some reason, forexample, in the LinkedIn case,like, how do you get to critical mass?How do you get millionsof people into a service,when the whole value isthe number of people there?So the first person of value,second person of value,so they're like, that's noteven an area worth looking at.
+Once you begin to getto the village stage,you begin to proven out revenue, you beginto proven out some of your thesis.
+Now everyone else can seemore of the same thingand it becomes lesscontrarian 'cause they go,oh, I'm beginning to look at this,and beginning to look at this, I'm going,oh, that could be valuable.
+And once you see that as clearlythey're also seeing itin some version too.
+And so even though you maynot have the competitorstanding right here, rushing,jostling you for the prize,you actually end up on a clock anyway.
+And so that's part of thereason why you tend to go to,okay, what's the right scale to go to?Can be driven by competition,but it can also be drivenby the fact that now everyone's seeingthis value propositionand you need to do it.
+Other reasons you might do it are you needto get to critical mass in orderto make your particularvalue proposition work.
+There's a stack of things that leadto the decision to scale butthis is kind of the checklistfor what you would be doing.
+- Can you say a littlebit about how LinkedInmade that choice in 2008?- So, let's see, 'cause yes,'cause we're only doingthe 2008 post story today.
+So roughly speaking, remember,we launched the site May 5th, 2003.
 So this is five years in.
-Part of what we said at
-the initial launch of it
-is that we said, look, let's keep,
-very much actually like what
-Miriam was talking about,
-let's keep things trim, all right?
-Let's spend only enough
-cash, let's be very selective
-about hiring, let's raise money,
-when we do a financing
-process, let's leave
-at least nine months ramp
-to doing a financing process
-because we want to
-essentially figure that out.
-Then, basically here, we went, all right,
-we've identified the fact that now
-a bunch of markers say,
-okay, we understand some
-of the core value
-propositions at LinkedIn.
-So, for example, before 2008,
-it was still pretty difficult
-to articulate ourselves to
-journalists about what we were
-and so, for example, in 2003,
-nobody here probably
-knows what Friendster is.
-So, there was a site called Friendster,
-you can just replace Facebook.
-The only way that I could
-get in the press in 2003
-was we're Facebook, but for business.
-And they're like, okay, well,
-we understand what Facebook
-is so we'll allow something.
+Part of what we said atthe initial launch of itis that we said, look, let's keep,very much actually like whatMiriam was talking about,let's keep things trim, all right?Let's spend only enoughcash, let's be very selectiveabout hiring, let's raise money,when we do a financingprocess, let's leaveat least nine months rampto doing a financing processbecause we want toessentially figure that out.
+Then, basically here, we went, all right,we've identified the fact that nowa bunch of markers say,okay, we understand someof the core valuepropositions at LinkedIn.
+So, for example, before 2008,it was still pretty difficultto articulate ourselves tojournalists about what we wereand so, for example, in 2003,nobody here probablyknows what Friendster is.
+So, there was a site called Friendster,you can just replace Facebook.
+The only way that I couldget in the press in 2003was we're Facebook, but for business.
+And they're like, okay, well,we understand what Facebookis so we'll allow something.
 And Friendster was the term at the time.
 MySpace, maybe, probably that's gone too.
-And so we got here and your
-average user began going,
-oh, actually in fact,
-I know I could use this
-for looking for a job,
-I know I could use this
-to find other people,
-I know that I'm staying
-up to date with people, I
-know that having a public
-professional profile,
-could be valuable to me
-in terms of someone finding me.
-And that was on the kind
-of member value side
-and then on the business side,
-we had begun to prove out
-kind of what were the
-things that corporations,
-in particular, wanted
-to spend real money on.
-What were the features that we had to have
-in the enterprise
-software, 'cause we started
-as a consumer company and
-we're a little bit hybrid now,
-primarily consumer,
-but enterprise as well,
-and so you have to figure out
-a whole bunch of unique things
-in enterprise side like, okay,
-how does the account management work?
-How does a team function of it?
-How does a corporation engage with it?
-And all of that stuff we'd
-begun to get enough of
-since we had product-market fit there too.
-And that was part of
-the decision of, okay,
-now it's actually time to go fast
-to essentially move into
-the market opportunity.
-We want to get the consumer growth up
-and we also want to get
-the revenue growth up
-and that was essentially the backdrop.
-That's what you're gesturing at, right?
-- Yeah, I think.
-Yeah, so, I mean, I
-will pick up from there
-because I really, I distinctly remember
-that we had conversations in 2007, in 2008
-with Dan Nye, who was CEO at the time.
-And we, actually, one
-of the biggest topics
-of conversation is like,
-when do we actually,
-we didn't put it in these terms,
-but when do we blitzscale?
-Because he was being very conservative
-about the way that we
-actually went forward.
-So, there were four things
-on the previous slide:
-articulate the core business,
-identify critical steps,
-hypergrow an organization
-and then finance.
-All these things applied
-in LinkedIn's case.
-So what we wanted to do, is we wanted
-to sort of talk through a little bit
-about the changes that
-occurred at LinkedIn
-as an example of watching these
-four things in action, okay?
-So, first one, talking about
-articulating the business case.
-So, as Reid said,
-we had begun to see the growth,
-so we basically had proved
-out that growth hypothesis.
-We had begun to see the value,
-especially among recruiters,
-so we'd seen the value hypothesis
-and it was already out there.
-So, basically we were at
-a place, we were like,
-okay, so now we need to create
-a self-sustaining business,
-which is actually going
-to not only grow the value
-for both those things
-and continue our growth,
-to generate revenue and then
-build competitive advantages
-for us over time, and then finally
-grow strategic assets for the future.
-So I'm gonna take you
-through the presentation
-that Jeff Weiner gave.
+And so we got here and youraverage user began going,oh, actually in fact,I know I could use thisfor looking for a job,I know I could use thisto find other people,I know that I'm stayingup to date with people, Iknow that having a publicprofessional profile,could be valuable to mein terms of someone finding me.
+And that was on the kindof member value sideand then on the business side,we had begun to prove outkind of what were thethings that corporations,in particular, wantedto spend real money on.
+What were the features that we had to havein the enterprisesoftware, 'cause we startedas a consumer company andwe're a little bit hybrid now,primarily consumer,but enterprise as well,and so you have to figure outa whole bunch of unique thingsin enterprise side like, okay,how does the account management work?How does a team function of it?How does a corporation engage with it?And all of that stuff we'dbegun to get enough ofsince we had product-market fit there too.
+And that was part ofthe decision of, okay,now it's actually time to go fastto essentially move intothe market opportunity.
+We want to get the consumer growth upand we also want to getthe revenue growth upand that was essentially the backdrop.
+That's what you're gesturing at, right?- Yeah, I think.
+Yeah, so, I mean, Iwill pick up from therebecause I really, I distinctly rememberthat we had conversations in 2007, in 2008with Dan Nye, who was CEO at the time.
+And we, actually, oneof the biggest topicsof conversation is like,when do we actually,we didn't put it in these terms,but when do we blitzscale?Because he was being very conservativeabout the way that weactually went forward.
+So, there were four thingson the previous slide:articulate the core business,identify critical steps,hypergrow an organizationand then finance.
+All these things appliedin LinkedIn's case.
+So what we wanted to do, is we wantedto sort of talk through a little bitabout the changes thatoccurred at LinkedInas an example of watching thesefour things in action, okay?So, first one, talking aboutarticulating the business case.
+So, as Reid said,we had begun to see the growth,so we basically had provedout that growth hypothesis.
+We had begun to see the value,especially among recruiters,so we'd seen the value hypothesisand it was already out there.
+So, basically we were ata place, we were like,okay, so now we need to createa self-sustaining business,which is actually goingto not only grow the valuefor both those thingsand continue our growth,to generate revenue and thenbuild competitive advantagesfor us over time, and then finallygrow strategic assets for the future.
+So I'm gonna take youthrough the presentationthat Jeff Weiner gave.
 In 2010, at our All-Hands.
-So, 2010, we're right about
-halfway through this stage,
-the village stage.
-And basically, he presented in February
-the product plan or business plan overview
-onto the whole company.
-So, I'm gonna try to give
-a view of a couple things
-I want to point out about
-this as I go through it.
-Jeff had joined the company
-at the beginning of 2009.
-Reid's gonna talk a little bit about
-how we picked a new CEO
-and why it's so important
-when you're making this transition
-to have the right CEO in place.
-Jeff, one of the things
-that he wanted to bring
-to the table was the foundation
-for growing very quickly.
-That meant that he needed to
-communicate very differently
-with the company and the
-people in the company.
-So what you're gonna see here is something
-which is a far better,
-sharper articulation
-of what this business looks
-like than we ever had to do
-in the OS1 or OS2 stages.
-You never need to be this
-clear when you've only got
-25 people in a room working together,
-but you never need to say
-anything to that group of people.
-But when you have, and
-when the speech was given
-there were 480 people in the company.
-When you have 480 people,
-you need to talk differently.
-This is actually the very
-beginning of a set of all hands
-which are still going on
-every two weeks at LinkedIn
-even as we approach 10,000 employees.
-So, I'm not gonna do a
-Jeff Weiner imitation.
-I almost brought the video,
-but it was too difficult
-to sort of bring it in.
-For him, articulation,
-this begins with a mission,
-in other words, a
-measurable way of saying,
-this is what the company's
-actually trying to achieve.
-This is still the same mission
-that we work with today,
-six years on.
-So, connect the world's professionals
-and make them more
-productive and successful.
-It's important to have this
-because this is actually
-the touchstone, which becomes
-part of daily decision making
-among the people within the company.
-When you get 400, 1,000,
-2,000, 10,000 people
-in a company, the key bid is,
-do we have a common language
-which we can actually use to
-be able to make decisions,
-to make sure that we're on the same page?
-If you actually achieve that,
-you're gonna achieve this,
-which is the vision for the company,
-which is creating economic,
-well, it's really interesting,
-so one tiny note, Jeff actually realized
-these words were wrong
-during the presentation
-and he stopped the presentation,
-he unloaded the PowerPoint,
-he changed the words in front of everybody
-because the proper term is
-create economic opportunity
-for every professional in the world.
-If we're able to achieve the mission,
-this is what we're gonna
-do, this is our true north
-as a company.
-Again, a really interesting
-rhetorical tactic,
-to be able to make sure
-that the whole company's
-both facing the same direction.
+So, 2010, we're right abouthalfway through this stage,the village stage.
+And basically, he presented in Februarythe product plan or business plan overviewonto the whole company.
+So, I'm gonna try to givea view of a couple thingsI want to point out aboutthis as I go through it.
+Jeff had joined the companyat the beginning of 2009.
+Reid's gonna talk a little bit abouthow we picked a new CEOand why it's so importantwhen you're making this transitionto have the right CEO in place.
+Jeff, one of the thingsthat he wanted to bringto the table was the foundationfor growing very quickly.
+That meant that he needed tocommunicate very differentlywith the company and thepeople in the company.
+So what you're gonna see here is somethingwhich is a far better,sharper articulationof what this business lookslike than we ever had to doin the OS1 or OS2 stages.
+You never need to be thisclear when you've only got25 people in a room working together,but you never need to sayanything to that group of people.
+But when you have, andwhen the speech was giventhere were 480 people in the company.
+When you have 480 people,you need to talk differently.
+This is actually the verybeginning of a set of all handswhich are still going onevery two weeks at LinkedIneven as we approach 10,000 employees.
+So, I'm not gonna do aJeff Weiner imitation.
+I almost brought the video,but it was too difficultto sort of bring it in.
+For him, articulation,this begins with a mission,in other words, ameasurable way of saying,this is what the company'sactually trying to achieve.
+This is still the same missionthat we work with today,six years on.
+So, connect the world's professionalsand make them moreproductive and successful.
+It's important to have thisbecause this is actuallythe touchstone, which becomespart of daily decision makingamong the people within the company.
+When you get 400, 1,000,2,000, 10,000 peoplein a company, the key bid is,do we have a common languagewhich we can actually use tobe able to make decisions,to make sure that we're on the same page?If you actually achieve that,you're gonna achieve this,which is the vision for the company,which is creating economic,well, it's really interesting,so one tiny note, Jeff actually realizedthese words were wrongduring the presentationand he stopped the presentation,he unloaded the PowerPoint,he changed the words in front of everybodybecause the proper term iscreate economic opportunityfor every professional in the world.
+If we're able to achieve the mission,this is what we're gonnado, this is our true northas a company.
+Again, a really interestingrhetorical tactic,to be able to make surethat the whole company'sboth facing the same direction.
 Then we talk about the strategy.
-- Actually, one thing, like
-when you begin to think
-about the communication, so
-you've begun to move past
-an organization of 100
-people, 50 people, etc.
-There are now a whole,
-like, if you're a founder
-of a company or an executive,
-there's a whole bunch of
-conversations that are going on
-that you're not part of.
-How do you have those
-conversations largely resolve
-in the right area, where
-everyone's coherent
-and coordinated across it?
-Part of the reason you have
-to articulate this stuff
-is because then they go, okay,
-this is what we're doing,
-so even though we're not talking
-to that other group right now
-and we're not gonna interrupt
-the work they're doing 'cause,
-oh, by the way, if you interrupt
-so they cross communicate,
-then no work gets done, (laughs) right?
-So you go, okay I'm not gonna do that,
-but I understand that we're both actually
-heading towards the same true north
-and I imagine what they're
-doing given that's a true north
-this is what they're doing
-and I can crosscheck it
-and this is what we're gonna do here.
-And that's the reason why
-this kind of thing is so important.
-- Yeah and there's a whole set of skills
-which an executive brings in,
-executive who has familiarity
-with running a big organization,
-which took me forever to learn,
-primarily by observing Jeff,
-because basically he made
-these words, the ones
-we've seen on these slides
-and some in the future
-slides, literally a part
-of how he managed every day
-with every person who
-he actually spoke to.
-We actually repeated this entire section
-of the presentation at every All-Hands
-for a year after this started.
-So, connect talent with
-opportunity at massive scale.
+- Actually, one thing, likewhen you begin to thinkabout the communication, soyou've begun to move pastan organization of 100people, 50 people, etc.
+There are now a whole,like, if you're a founderof a company or an executive,there's a whole bunch ofconversations that are going onthat you're not part of.
+How do you have thoseconversations largely resolvein the right area, whereeveryone's coherentand coordinated across it?Part of the reason you haveto articulate this stuffis because then they go, okay,this is what we're doing,so even though we're not talkingto that other group right nowand we're not gonna interruptthe work they're doing 'cause,oh, by the way, if you interruptso they cross communicate,then no work gets done, (laughs) right?So you go, okay I'm not gonna do that,but I understand that we're both actuallyheading towards the same true northand I imagine what they'redoing given that's a true norththis is what they're doingand I can crosscheck itand this is what we're gonna do here.
+And that's the reason whythis kind of thing is so important.
+- Yeah and there's a whole set of skillswhich an executive brings in,executive who has familiaritywith running a big organization,which took me forever to learn,primarily by observing Jeff,because basically he madethese words, the oneswe've seen on these slidesand some in the futureslides, literally a partof how he managed every daywith every person whohe actually spoke to.
+We actually repeated this entire sectionof the presentation at every All-Handsfor a year after this started.
+So, connect talent withopportunity at massive scale.
 This is the key strategy.
-So here was the understanding
-about our core business
-for LinkedIn.
-The core business was gonna
-be, we've got growth of people.
-We've got product-market
-fit with the recruiters.
-Basically, we're gonna
-build out a large-scale
-and growing business for hiring,
-we're basically hiring individuals.
-You have a large pool
-of passive candidates,
-rather than active candidates
-and we're gonna do so primarily
-by driving a sales force,
-so enterprise sales rather
-than by driving walk-up sales
-or basically people who are coming up
-and buying on the website.
+So here was the understandingabout our core businessfor LinkedIn.
+The core business was gonnabe, we've got growth of people.
+We've got product-marketfit with the recruiters.
+Basically, we're gonnabuild out a large-scaleand growing business for hiring,we're basically hiring individuals.
+You have a large poolof passive candidates,rather than active candidatesand we're gonna do so primarilyby driving a sales force,so enterprise sales ratherthan by driving walk-up salesor basically people who are coming upand buying on the website.
 That was basically the structure.
 There were two additional pieces.
-One, continue to experiment and drive
-towards greater engagement.
-The greater the engagement
-across the network,
-the happier we were all gonna be
-and that comes out here.
-And the second thing is
-there were a set of secondary
-monetization strategies,
-which went in place.
+One, continue to experiment and drivetowards greater engagement.
+The greater the engagementacross the network,the happier we were all gonna beand that comes out here.
+And the second thing isthere were a set of secondarymonetization strategies,which went in place.
 But this was the basic idea.
-Connect talent with
-opportunity at massive scale.
-We don't really talk about
-this any time so much now
-because we've moved past it.
-Our competitive advantages,
-these are the moats,
-as Warren Buffet says.
-These are the moats that basically
-he's asking the company to broaden.
-So, first of all, focus on business,
-rather than focusing on the personal.
-Continuing to grow to critical mass,
-remember we saw those pictures
-with people holding numbers?
-Well, we had 60 million people by the time
-he actually gave this presentation.
-Build network density,
-people among it.
-Make sure we concentrate on data,
-specifically on profile completeness.
+Connect talent withopportunity at massive scale.
+We don't really talk aboutthis any time so much nowbecause we've moved past it.
+Our competitive advantages,these are the moats,as Warren Buffet says.
+These are the moats that basicallyhe's asking the company to broaden.
+So, first of all, focus on business,rather than focusing on the personal.
+Continuing to grow to critical mass,remember we saw those pictureswith people holding numbers?Well, we had 60 million people by the timehe actually gave this presentation.
+Build network density,people among it.
+Make sure we concentrate on data,specifically on profile completeness.
 Primarily strategic objectives.
-Continue to focus, double down
-all the time on collecting,
-on basically having
-information on professionals
-in order to drive our recruiting business.
-Second, drive engagement through
-being a source of insights.
-And this was gonna be
-our business opportunity.
-He drew through this
-bullseye on every whiteboard
-in the entire building.
+Continue to focus, double downall the time on collecting,on basically havinginformation on professionalsin order to drive our recruiting business.
+Second, drive engagement throughbeing a source of insights.
+And this was gonna beour business opportunity.
+He drew through thisbullseye on every whiteboardin the entire building.
 I know it's a little hard to read.
-These are actually
-screengrabs from a video.
-So, hiring solutions was
-the center of the bullseye.
+These are actuallyscreengrabs from a video.
+So, hiring solutions wasthe center of the bullseye.
 So, we had a very specific focus.
-We had lots of businesses
-we could get into,
-but we had a specific focus
-we had to get right first
-and that was gonna be hiring solutions.
-Then surrounded by a set of
-marketing solutions products,
-which is the outside three rings.
-And that all sort of boiled down
-to a set of operating priorities,
-which sort of starting from the top
-is build a word-class team,
-scale software and hardware,
-focus on products, monetize,
-and then basically expand globally.
-So, what Jeff was essentially doing here
-is he was articulating
-what the overall vision
-that our core business was gonna be
-and establishing a layer of culture
-and a way that we're gonna work
-together from that point on.
+We had lots of businesseswe could get into,but we had a specific focuswe had to get right firstand that was gonna be hiring solutions.
+Then surrounded by a set ofmarketing solutions products,which is the outside three rings.
+And that all sort of boiled downto a set of operating priorities,which sort of starting from the topis build a word-class team,scale software and hardware,focus on products, monetize,and then basically expand globally.
+So, what Jeff was essentially doing hereis he was articulatingwhat the overall visionthat our core business was gonna beand establishing a layer of cultureand a way that we're gonna worktogether from that point on.
 Yeah, please.
-- [Voiceover] When you
-guys saw this presentation,
-what are things that were
-surprising in the sense that
-you guys did not think about it
-when you were starting
-(mumbles), but Jeff did.
-- So, easily, so the question was,
-what are the things which
-were most surprising
-when Jeff came in and did this.
-So, one thing which was
-surprising was the clarity
-and sharpness with which he
-expressed all this stuff.
-We had attempted to do that before,
-but it was usually experimental.
-Jeff made it absolutely rock solid
-to the point where this
-literally is the communication
-used internally, used externally,
-and pretty much, if you talk to reporters,
-they've all heard this
-because it's such a clear
-and easily repeatable message.
-Second was focused on culture
-because this is effectively a
-mechanism for driving culture
-because we're going to expand.
-Reid's gonna touch on this a little bit
-in terms of creating a culture around,
-LinkedIn's culture, it came up
-when we were comparing it with Google's.
-Google's culture may be
-about highly intellectual,
-college or university.
-LinkedIn's culture is a
-change-the-world culture,
-which is about creating
-economic opportunity.
-And so, in some ways, aligning behind this
-as well as our cultures and
-values, as we'll come to later,
-is exactly the way that
-he wanted to be able
-to create the culture
-which would be transmitted
-from generation to
-generation of employees.
-- The key thing, and this
-is the difference of scale,
-the way that I had been
-articulating things before,
-which is, by the way, an
-accurate, strategic descriptor
-of some of the stuff that LinkedIn does,
-is network is a platform.
-Your identity, the people you
-connect to, real identity,
-is a platform for a number
-of different applications
-that help individuals and
-organizations navigate the world,
-by how they find each other,
-how they match with each other,
-how they communicate with
-each other, you know,
-how they essentially form connections too.
-That was the, essentially,
-previous structure
-by which most strategy was articulated.
-One of Jeff's insights is he said, look,
-that works for you, development team,
-and you geeks very well,
-for articulating that.
-I'm gonna try to build a
-company of thousands of people.
-I need to have something that actually,
-yes, we're still doing
-that, we're still treating
-a network as a platform and
-an application structure
-as kind of what we're doing,
-but this is a way to rationalize
-all of the different work
-and have people understand it.
-And that's part of the
-reason it was a shift.
-And part of the whole thesis
-for understanding this is
-that actually, in fact,
-there are ways to fail
-at being a 450-person company that are
-I just don't understand how to scale.
-And so when you look
-at the current giants,
-they're not just there 'cause,
-oh, I got the right app
-and had the right product-market fit
-and now I just hang onto
-it and kind of just do
-what any smart person does.
-There's a bunch of art in how
-you build these companies.
-And one of the things that
-both Allen and I learned
-from this was to say,
-okay, what's a culture
-that defines parallel action
-across a large number of people
-and what's a way of articulating the plan
-that most people know how to
-coordinate with each other?
-- Go ahead.
-- [Voiceover] Which of
-these things would be
-inappropriate in OS2?
-Why would this slide be premature
-if we were still in OS2?
-- So which, if any of these
-things would be inappropriate
-in OS1 or two?
-- Let's look through them.
-So, here world-class team
-means something slightly different.
-Like actually, and part of what
-he is actually talking about
-is a shift in culture from
-what we were doing before,
-which is we'd hire very smart people,
-but part of what he's trying to do is say,
-okay, look, we're gonna actually,
-in fact, operationalize.
-For example, now, when we're hiring people
-we onboard them through this
-way and we've created a video
-that essentially integrates them.
-We're actually moving from, essentially,
-executives who are managers of managers
-to executives who are managing managers
-who are managing managers
-as kind of a way that we're doing it.
-And so all of what's code
-in build a world-class team
-is adopting those practices.
-He wasn't like, oh,
-previously you were gonna
-go to the local Safeway and
-just recruit anybody in.
-That was your previous organization,
-that's not this is a contrast to,
-this is we have to focus
-on those scale mechanisms
-in terms of what we're doing,
-in terms of how the
-operational process works.
+- [Voiceover] When youguys saw this presentation,what are things that weresurprising in the sense thatyou guys did not think about itwhen you were starting(mumbles), but Jeff did.
+- So, easily, so the question was,what are the things whichwere most surprisingwhen Jeff came in and did this.
+So, one thing which wassurprising was the clarityand sharpness with which heexpressed all this stuff.
+We had attempted to do that before,but it was usually experimental.
+Jeff made it absolutely rock solidto the point where thisliterally is the communicationused internally, used externally,and pretty much, if you talk to reporters,they've all heard thisbecause it's such a clearand easily repeatable message.
+Second was focused on culturebecause this is effectively amechanism for driving culturebecause we're going to expand.
+Reid's gonna touch on this a little bitin terms of creating a culture around,LinkedIn's culture, it came upwhen we were comparing it with Google's.
+Google's culture may beabout highly intellectual,college or university.
+LinkedIn's culture is achange-the-world culture,which is about creatingeconomic opportunity.
+And so, in some ways, aligning behind thisas well as our cultures andvalues, as we'll come to later,is exactly the way thathe wanted to be ableto create the culturewhich would be transmittedfrom generation togeneration of employees.
+- The key thing, and thisis the difference of scale,the way that I had beenarticulating things before,which is, by the way, anaccurate, strategic descriptorof some of the stuff that LinkedIn does,is network is a platform.
+Your identity, the people youconnect to, real identity,is a platform for a numberof different applicationsthat help individuals andorganizations navigate the world,by how they find each other,how they match with each other,how they communicate witheach other, you know,how they essentially form connections too.
+That was the, essentially,previous structureby which most strategy was articulated.
+One of Jeff's insights is he said, look,that works for you, development team,and you geeks very well,for articulating that.
+I'm gonna try to build acompany of thousands of people.
+I need to have something that actually,yes, we're still doingthat, we're still treatinga network as a platform andan application structureas kind of what we're doing,but this is a way to rationalizeall of the different workand have people understand it.
+And that's part of thereason it was a shift.
+And part of the whole thesisfor understanding this isthat actually, in fact,there are ways to failat being a 450-person company that areI just don't understand how to scale.
+And so when you lookat the current giants,they're not just there 'cause,oh, I got the right appand had the right product-market fitand now I just hang ontoit and kind of just dowhat any smart person does.
+There's a bunch of art in howyou build these companies.
+And one of the things thatboth Allen and I learnedfrom this was to say,okay, what's a culturethat defines parallel actionacross a large number of peopleand what's a way of articulating the planthat most people know how tocoordinate with each other?- Go ahead.
+- [Voiceover] Which ofthese things would beinappropriate in OS2?Why would this slide be prematureif we were still in OS2?- So which, if any of thesethings would be inappropriatein OS1 or two?- Let's look through them.
+So, here world-class teammeans something slightly different.
+Like actually, and part of whathe is actually talking aboutis a shift in culture fromwhat we were doing before,which is we'd hire very smart people,but part of what he's trying to do is say,okay, look, we're gonna actually,in fact, operationalize.
+For example, now, when we're hiring peoplewe onboard them through thisway and we've created a videothat essentially integrates them.
+We're actually moving from, essentially,executives who are managers of managersto executives who are managing managerswho are managing managersas kind of a way that we're doing it.
+And so all of what's codein build a world-class teamis adopting those practices.
+He wasn't like, oh,previously you were gonnago to the local Safeway andjust recruit anybody in.
+That was your previous organization,that's not this is a contrast to,this is we have to focuson those scale mechanismsin terms of what we're doing,in terms of how theoperational process works.
 And know people to do that.
-- And it also gets down
-to individual employees
-who you hire.
-There's a set of employees
-who are extremely good
-in very small environments and startups
-and those people tend to be generalists,
-they tend to be people who
-love the startup environment.
-They tend to be people
-who want to experiment
-and work all night, take huge risk.
-And then there's a set of
-people who basically work
-much better in an environment
-which looks like a big company.
-So part of building a world-class team
-means hiring the right
-set of people for scale,
-whether you're an executive or not.
-I don't know if you
-wanted to say something
-about generalists, specialists
-in the transition here.
-- Well, and this again
-wasn't on Jeff's mind,
-nor perhaps this theme was not on my mind
-until I started constructing
-what this kind of playbook looks like
-and why this is actually,
-and to some degree,
-the visible secret of Silicon Valley,
-but you hire generalists
-the whole way along
-this kind of scale up, but
-what you're doing with them
-and why you hire the generalists
-and what the generalists does is different
-because you're getting
-a lot more specialists
-that do different things,
-including, for example,
-specialists who are managers
-or specialists who are executives.
-And so, here, part of the thing is a lot
-of what you're key
-pivotal leadership roles
-may be occupied by generalists,
-either they're gonna
-have to be specialists
-and then start doing
-that role as a specialist
-or they're gonna have
-to move to other roles.
-Because part of what
-generalists allow you to do
-is be flexible, attack a new
-problem, figure something out.
-We had a number of them
-organization, we still do,
-but when you're saying, okay,
-what we're really actually
-trying to do is take this
-organization and now grow it
-by 300% and have it
-operationalized on a certain set
-of metrics and dashboards
-all while improving
-its operational efficiency
-while doing that.
-That tends to be people who
-are very expert at that game
-versus the people who
-are kind of going, well,
-maybe we should do it this way
-or maybe we should try that
-or maybe we should try this and, you know,
-that kind of thing, which
-tends to be more generalist.
+- And it also gets downto individual employeeswho you hire.
+There's a set of employeeswho are extremely goodin very small environments and startupsand those people tend to be generalists,they tend to be people wholove the startup environment.
+They tend to be peoplewho want to experimentand work all night, take huge risk.
+And then there's a set ofpeople who basically workmuch better in an environmentwhich looks like a big company.
+So part of building a world-class teammeans hiring the rightset of people for scale,whether you're an executive or not.
+I don't know if youwanted to say somethingabout generalists, specialistsin the transition here.
+- Well, and this againwasn't on Jeff's mind,nor perhaps this theme was not on my minduntil I started constructingwhat this kind of playbook looks likeand why this is actually,and to some degree,the visible secret of Silicon Valley,but you hire generaliststhe whole way alongthis kind of scale up, butwhat you're doing with themand why you hire the generalistsand what the generalists does is differentbecause you're gettinga lot more specialiststhat do different things,including, for example,specialists who are managersor specialists who are executives.
+And so, here, part of the thing is a lotof what you're keypivotal leadership rolesmay be occupied by generalists,either they're gonnahave to be specialistsand then start doingthat role as a specialistor they're gonna haveto move to other roles.
+Because part of whatgeneralists allow you to dois be flexible, attack a newproblem, figure something out.
+We had a number of themorganization, we still do,but when you're saying, okay,what we're really actuallytrying to do is take thisorganization and now grow itby 300% and have itoperationalized on a certain setof metrics and dashboardsall while improvingits operational efficiencywhile doing that.
+That tends to be people whoare very expert at that gameversus the people whoare kind of going, well,maybe we should do it this wayor maybe we should try thator maybe we should try this and, you know,that kind of thing, whichtends to be more generalist.
 And so that's the (mumbles).
-Although that wasn't, that's
-a truth about scaling,
-that's not necessarily what
-Jeff was saying on this bullet.
-- On the second one, I mean,
-for scaling hardware and software,
-one of the things in the OS1 and OS2 phase
-is that generally speaking,
-what you're optimizing for
-with your technology is
-you're optimizing for agility.
-So, basically, you want to be
-able to create an environment
-where you can experiment
-with the nature of things,
-learn effectively, go try something else,
-just abandon previous
-failures and so forth.
-When you actually get to
-this stage, you need to shift
-because what you need to do is 10x or 100x
-the technology infrastructure
-that you've actually got.
-You need to get to the
-place where you can support
-a massive, scaling thing.
-So the attitude towards the software
-you build is quite different.
+Although that wasn't, that'sa truth about scaling,that's not necessarily whatJeff was saying on this bullet.
+- On the second one, I mean,for scaling hardware and software,one of the things in the OS1 and OS2 phaseis that generally speaking,what you're optimizing forwith your technology isyou're optimizing for agility.
+So, basically, you want to beable to create an environmentwhere you can experimentwith the nature of things,learn effectively, go try something else,just abandon previousfailures and so forth.
+When you actually get tothis stage, you need to shiftbecause what you need to do is 10x or 100xthe technology infrastructurethat you've actually got.
+You need to get to theplace where you can supporta massive, scaling thing.
+So the attitude towards the softwareyou build is quite different.
 - Yup.
-'Cause we were trying to essentially say,
-let's figure out what are the core set
-that is in network is a platform,
-so we were building a lot
-of what we called .2, .3 features.
-We're trying this, we're trying
-that, that sort of thing.
-Here was to say, okay, look,
-we're gonna focus on the things
-that are currently working
-and we're gonna scale
-those, versus doing that
-in terms of a prioritization.
-It's not to say we don't
-still do some of those,
-but this was the kind of prioritization.
-And that was also part
-of what got to the third,
-sorry?
-- [Allen] He had a question.
+'Cause we were trying to essentially say,let's figure out what are the core setthat is in network is a platform,so we were building a lotof what we called .2, .3 features.
+We're trying this, we're tryingthat, that sort of thing.
+Here was to say, okay, look,we're gonna focus on the thingsthat are currently workingand we're gonna scalethose, versus doing thatin terms of a prioritization.
+It's not to say we don'tstill do some of those,but this was the kind of prioritization.
+And that was also partof what got to the third,sorry?- [Allen] He had a question.
 - [Reid] Oh.
 - [Allen] Just tell him one second.
 Please finish your thought.
 - [Reid] Oh, okay.
-- [Reid] The third bullet, which is, okay,
-what we're looking for is
-a small number of products
-that we're really going to
-change the scale characteristic
-as opposed, 'cause we
-believe we already have
-the product-market fit for the key thing
-that we're gonna scale up on
-because while network is platform
-was the general strategy,
-hiring is only one application,
-but we're gonna use that
-to drive all of the scale.
-- And that's our initial core business
-that we're starting from
-because the strength in that business
-allows us to build all the others.
-A question?
-- [Voiceover] So going back
-- [Voiceover] to the
-generalists, specialists divide,
-how do you both determine
-if someone's a true generalist
-or just a bad specialist?
-(Reid and Allen laugh)
-And how do you know then,
-if the generalist can become a specialist
-before they fail or succeed?
-- So the question is how do you figure out
-true, high quality
-generalists and how do you
-distinguish between
-generalists and specialists?
-So, high quality is a
-judgment art on both,
-'cause sometimes, by the way,
-the high quality specialists
-are also hard to figure out,
-'cause sometimes they're specialists
-in something other than you,
-'cause by the way, when
-you're doing the family side,
-basically everyone's generalist.
-So, first is, a good
-generalist is somebody
-that tackles a new problem,
-has a relatively good risk triage,
-knows how to sort it out, is
-comfortable doing something
-that's fairly different than
-the thing they've done before
-as they're doing it, so, for
-example, a generalist engineer
-who might be good at servers,
-'cause okay fine I'll try
-the iOS frontend and so forth
-even though I haven't really done that,
-I'm really a specialist
-in the other thing,
-just as kind of an engineering
-parallel or CS parallel.
-And then a good generalist usually has
-a very high analytic clock speed,
-an ability to learn stuff very quickly,
-and an ability to recognize fairly fast
-when they're not on the
-right track, so they correct.
-It's not that there's no foot faults,
-they're gonna go, okay, right, over here.
-And if they don't have
-those characteristics,
-they don't tend to be a good generalist.
-They may be a good specialist,
-but they don't tend to
-be a good generalist.
-Specialists, you then tend
-to evaluate more the way
-that when, for example,
-you're thinking about hiring,
-about like, okay, what's
-the specific kind of work
-that you've done like this before?
-What have you learned in that?
-What is expert on it?
-How do you reproduce it?
-What is the way that that's applied here,
-whether that's management,
-server operations,
-product management, sales, etc.
-So like, for example,
-let's take a sales example,
-if I'm hiring a sales generalist,
-I'm kind of looking
-for, okay, what happens
-if I throw you in this circumstance?
-Like you have this kind of
-weird client, what do you do?
-You know, kind of like
-different circumstances.
-When I'm hiring a sales
-specialist, I'm going,
-okay, what's the way that
-you define a territory,
-how do you manage a sales pipeline,
-what's the way you know your
-sales pipeline's actually working,
-and a set of things that come
-to the I've done this before
-and I know these metrics very well.
-- [Voiceover] Do you
-internally classify people
-as specialists or generalists
-and do you interview differently
-for those different roles?
-- I definitely interview
-differently and generally speaking,
-yes, sometimes it's a little murky.
-So it's not 100%, but generally speaking,
-I'm either looking for
-someone who goes, no, no,
-the job is doing this role,
-really killing those role,
-yes you may grow to other things,
-but this specific thing,
-which is actually, in fact,
-something that you
-could've learned before,
-or no, actually, in fact, we're
-trying to figure this out,
-not many people know this.
-Like, are you capable of
-solving, and by the way,
-sometimes you still have
-to have the toolset.
-Like, for example, let's
-say a generalist engineer
-versus just a generalist.
-You still have a toolset that allows you
-to free roam within that area.
+- [Reid] The third bullet, which is, okay,what we're looking for isa small number of productsthat we're really going tochange the scale characteristicas opposed, 'cause webelieve we already havethe product-market fit for the key thingthat we're gonna scale up onbecause while network is platformwas the general strategy,hiring is only one application,but we're gonna use thatto drive all of the scale.
+- And that's our initial core businessthat we're starting frombecause the strength in that businessallows us to build all the others.
+A question?- [Voiceover] So going back- [Voiceover] to thegeneralists, specialists divide,how do you both determineif someone's a true generalistor just a bad specialist?(Reid and Allen laugh)And how do you know then,if the generalist can become a specialistbefore they fail or succeed?- So the question is how do you figure outtrue, high qualitygeneralists and how do youdistinguish betweengeneralists and specialists?So, high quality is ajudgment art on both,'cause sometimes, by the way,the high quality specialistsare also hard to figure out,'cause sometimes they're specialistsin something other than you,'cause by the way, whenyou're doing the family side,basically everyone's generalist.
+So, first is, a goodgeneralist is somebodythat tackles a new problem,has a relatively good risk triage,knows how to sort it out, iscomfortable doing somethingthat's fairly different thanthe thing they've done beforeas they're doing it, so, forexample, a generalist engineerwho might be good at servers,'cause okay fine I'll trythe iOS frontend and so fortheven though I haven't really done that,I'm really a specialistin the other thing,just as kind of an engineeringparallel or CS parallel.
+And then a good generalist usually hasa very high analytic clock speed,an ability to learn stuff very quickly,and an ability to recognize fairly fastwhen they're not on theright track, so they correct.
+It's not that there's no foot faults,they're gonna go, okay, right, over here.
+And if they don't havethose characteristics,they don't tend to be a good generalist.
+They may be a good specialist,but they don't tend tobe a good generalist.
+Specialists, you then tendto evaluate more the waythat when, for example,you're thinking about hiring,about like, okay, what'sthe specific kind of workthat you've done like this before?What have you learned in that?What is expert on it?How do you reproduce it?What is the way that that's applied here,whether that's management,server operations,product management, sales, etc.
+So like, for example,let's take a sales example,if I'm hiring a sales generalist,I'm kind of lookingfor, okay, what happensif I throw you in this circumstance?Like you have this kind ofweird client, what do you do?You know, kind of likedifferent circumstances.
+When I'm hiring a salesspecialist, I'm going,okay, what's the way thatyou define a territory,how do you manage a sales pipeline,what's the way you know yoursales pipeline's actually working,and a set of things that cometo the I've done this beforeand I know these metrics very well.
+- [Voiceover] Do youinternally classify peopleas specialists or generalistsand do you interview differentlyfor those different roles?- I definitely interviewdifferently and generally speaking,yes, sometimes it's a little murky.
+So it's not 100%, but generally speaking,I'm either looking forsomeone who goes, no, no,the job is doing this role,really killing those role,yes you may grow to other things,but this specific thing,which is actually, in fact,something that youcould've learned before,or no, actually, in fact, we'retrying to figure this out,not many people know this.
+Like, are you capable ofsolving, and by the way,sometimes you still haveto have the toolset.
+Like, for example, let'ssay a generalist engineerversus just a generalist.
+You still have a toolset that allows youto free roam within that area.
 There's a...
-- [Voiceover] Throughout
-your time at Linked,
-did you make any bad hiring decisions
-and if you did, what
-did you learn by that?
-- Lots (laughs).
-- Did we make any
-- [Both] bad hiring decisions.
+- [Voiceover] Throughoutyour time at Linked,did you make any bad hiring decisionsand if you did, whatdid you learn by that?- Lots (laughs).
+- Did we make any- [Both] bad hiring decisions.
 - Yeah, we hired this guy Reid.
-(class laughs)
-So, you have a couple of different choices
-when you're scaling, in terms of hiring.
-So one is you can go, we're
-gonna hire relatively easily,
-but then we also have to fire fast.
-So that's one way you
-actually do an organization.
-The other one is, you have
-to hire much more carefully
-and you still always
-tend to fire too slowly.
-You tend to be, you should fire faster,
-but you're kind of more careful on that.
-Most of the organizations that I
-tend to participate in,
-tend to do the second
-versus the first because
-you're trying to build also
-a community and a team and
-if you're churning people out
-or it kind of feels like
-the ax falls pretty fast,
-it's very hard to have
-that kind of teamwork fall.
-There are high performance
-organizations that do
-do the first pattern, though.
-- The only thing I would add is that
-one thing you have to take into account
-is that movement from stage to stage.
-So when you hire somebody
-for a specific stage,
-you know you're moving
-on to the next stage
-and the next stage and
-you know the requirements
-for what that person can do
-is gonna change over time.
-So the person you bring in for OS1 and OS2
-might not be able to make
-the transition to OS3.
+(class laughs)So, you have a couple of different choiceswhen you're scaling, in terms of hiring.
+So one is you can go, we'regonna hire relatively easily,but then we also have to fire fast.
+So that's one way youactually do an organization.
+The other one is, you haveto hire much more carefullyand you still alwaystend to fire too slowly.
+You tend to be, you should fire faster,but you're kind of more careful on that.
+Most of the organizations that Itend to participate in,tend to do the secondversus the first becauseyou're trying to build alsoa community and a team andif you're churning people outor it kind of feels likethe ax falls pretty fast,it's very hard to havethat kind of teamwork fall.
+There are high performanceorganizations that dodo the first pattern, though.
+- The only thing I would add is thatone thing you have to take into accountis that movement from stage to stage.
+So when you hire somebodyfor a specific stage,you know you're movingon to the next stageand the next stage andyou know the requirementsfor what that person can dois gonna change over time.
+So the person you bring in for OS1 and OS2might not be able to makethe transition to OS3.
 That doesn't stop you from hiring them.
-You still have to try to
-hire the best person you can
-to get to the stage you're in right now
-and then hope you can grow
-them in the next time around.
-- And part of the whole
-point of what we're hoping
-you guys in the world
-is learning from this is
-when you hire someone,
-for example at a tribe,
-and you go, look, I don't
-know if they're gonna get
-to the village level, right?
-You've started thinking
-about what that question is
-because you're starting to gather data
-even when you're at the tribe level
-because part of the question
-is, you may have a person
-you really wanna keep who
-is no longer going to be
-the head of that function when you get
-to the tribe level or when
-you get to the city level.
-They're not gonna be there anymore
-and so, your only hope of keeping them
-is you start that conversation early.
-If you walk up to that person and say,
-look, I really know you think of yourself
-as the head of engineering, but really,
-(Allen laughs)
-meet Sue, meet Bob,
-they're the new head of engineering.
+You still have to try tohire the best person you canto get to the stage you're in right nowand then hope you can growthem in the next time around.
+- And part of the wholepoint of what we're hopingyou guys in the worldis learning from this iswhen you hire someone,for example at a tribe,and you go, look, I don'tknow if they're gonna getto the village level, right?You've started thinkingabout what that question isbecause you're starting to gather dataeven when you're at the tribe levelbecause part of the questionis, you may have a personyou really wanna keep whois no longer going to bethe head of that function when you getto the tribe level or whenyou get to the city level.
+They're not gonna be there anymoreand so, your only hope of keeping themis you start that conversation early.
+If you walk up to that person and say,look, I really know you think of yourselfas the head of engineering, but really,(Allen laughs)meet Sue, meet Bob,they're the new head of engineering.
 They're lost (laughs).
-They're not gonna stay
-in the organization.
-And so part of being able
-to have the lens ahead,
-and by the way I will also get back
-to the bad hire question,
-but when you get to the lens ahead
-and you're thinking,
-I know this is coming,
-is this person likely
-to be able to get it?
-It's almost like an investment thesis.
-And if they're getting it then
-you're giving them coaching
-and you're trying to get them there,
-but then sometimes you're doing is saying,
-look, I'm trying to preserve
-them in the organization,
-I'm trying to get a path
-that makes them feel like
-their own personal mission is being done,
-but they understand why I'm gonna go hire
-a new head of engineering and that
-that will be a collaborative effort.
-And understanding going into that means
-that there's very good
-people at, you know,
-say the tribe of going to the village
-that you're then trying to preserve.
+They're not gonna stayin the organization.
+And so part of being ableto have the lens ahead,and by the way I will also get backto the bad hire question,but when you get to the lens aheadand you're thinking,I know this is coming,is this person likelyto be able to get it?It's almost like an investment thesis.
+And if they're getting it thenyou're giving them coachingand you're trying to get them there,but then sometimes you're doing is saying,look, I'm trying to preservethem in the organization,I'm trying to get a paththat makes them feel liketheir own personal mission is being done,but they understand why I'm gonna go hirea new head of engineering and thatthat will be a collaborative effort.
+And understanding going into that meansthat there's very goodpeople at, you know,say the tribe of going to the villagethat you're then trying to preserve.
 You will not preserve 100% of them.
-Some people will go, my whole
-identity is I'm the head of X
-and you're taking that away from me
-and that's not gonna work.
-And by the way, again,
-when you're thinking
-about this lens in advance, you go,
-oh, that's where their identity really is
-and when I get there, I'm
-either gonna have someone
-who's not gonna work and I'm
-gonna put them in temporarily
-for that 'cause it's not gonna work,
-or I gotta be planning
-on trading them out.
-And that's part of how you're
-thinking about growing the org
-and that's part of the
-reason this is real work
-and not just kind of like, oh, well, look,
-we hired another 100 people.
-- For those of you who
-are working on hiring
-for startups, though, founders
-are a different class here
-because founders always
-associate their success
-with the success of a company
-and not with their
-success of a given role.
-So, basically, founders tend to be willing
-to make changes later
-on in order to be able
-to continue to contribute over time.
-That is not necessarily true
-of people you would hire
-at the tribe stage or beyond.
-- The short answer on the
-quickening of the cycle
-on the bad hire decision is, the heuristic
-that I frequently use now is
-now that you get more data,
-would you actually, in fact,
-from today hire them again?
-Now that you've worked
-with them and so on?
-And if you don't actually
-really answer that question yes,
-start figuring out a
-graceful parting of ways.
-And that's the kind of
-trick is like, no, no,
-it's just like stocks.
-Like, okay, no, no, a
-hold is a buy! (laughs)
-What I buy now, right?
-And that's kind of a proxy for
-all of the different things
-that go into is it a good
-hire, is it a bad hire,
-is the chemistry good,
-do they understand this,
-do they have the right risk tolerances,
-do they understand
-sometimes you just kind of,
-and by the way, this is true for everyone
-in the organization,
-including me, you know,
-at these stages sometimes
-you just shut up and row.
-(laughs) Right?
-You go like, okay, we
-need to get through this
-and understanding that.
-And there's all kinds of
-things that lead to that.
+Some people will go, my wholeidentity is I'm the head of Xand you're taking that away from meand that's not gonna work.
+And by the way, again,when you're thinkingabout this lens in advance, you go,oh, that's where their identity really isand when I get there, I'meither gonna have someonewho's not gonna work and I'mgonna put them in temporarilyfor that 'cause it's not gonna work,or I gotta be planningon trading them out.
+And that's part of how you'rethinking about growing the organd that's part of thereason this is real workand not just kind of like, oh, well, look,we hired another 100 people.
+- For those of you whoare working on hiringfor startups, though, foundersare a different class herebecause founders alwaysassociate their successwith the success of a companyand not with theirsuccess of a given role.
+So, basically, founders tend to be willingto make changes lateron in order to be ableto continue to contribute over time.
+That is not necessarily trueof people you would hireat the tribe stage or beyond.
+- The short answer on thequickening of the cycleon the bad hire decision is, the heuristicthat I frequently use now isnow that you get more data,would you actually, in fact,from today hire them again?Now that you've workedwith them and so on?And if you don't actuallyreally answer that question yes,start figuring out agraceful parting of ways.
+And that's the kind oftrick is like, no, no,it's just like stocks.
+Like, okay, no, no, ahold is a buy! (laughs)What I buy now, right?And that's kind of a proxy forall of the different thingsthat go into is it a goodhire, is it a bad hire,is the chemistry good,do they understand this,do they have the right risk tolerances,do they understandsometimes you just kind of,and by the way, this is true for everyonein the organization,including me, you know,at these stages sometimesyou just shut up and row.
+(laughs) Right?You go like, okay, weneed to get through thisand understanding that.
+And there's all kinds ofthings that lead to that.
 There was a question also, yes.
-- [Voiceover] So, 60
-million users at this point
-seems like a lot, so why did
-LinkedIn not have to scale,
-before or why did it
-not scale before that?
-- Well, so one of the key
-things was before we knew,
-'cause remember you have
-to scale in capital,
-before we knew that we would
-be able to massively grow
-the revenue line in consonant with it,
-we were always trying to
-grow the overall user base
-and we're using techniques for that,
-but until we knew that we
-could actually, essentially,
-get a strong revenue capture,
-reinvest that revenue
-in the general consumer
-internet, and that would happen,
-then part of the risk you make,
-so, for example, one of the reasons,
-like I wrestled a lot
-with the term blitzscale
-and the reason was is
-that there's some good
-and interesting intellectual parallels
-to the term blitzkrieg.
-People look at blitzkrieg
-and they go, World War II,
-Nazis bad, (laughs) right?
-You kind of go, okay.
+- [Voiceover] So, 60million users at this pointseems like a lot, so why didLinkedIn not have to scale,before or why did itnot scale before that?- Well, so one of the keythings was before we knew,'cause remember you haveto scale in capital,before we knew that we wouldbe able to massively growthe revenue line in consonant with it,we were always trying togrow the overall user baseand we're using techniques for that,but until we knew that wecould actually, essentially,get a strong revenue capture,reinvest that revenuein the general consumerinternet, and that would happen,then part of the risk you make,so, for example, one of the reasons,like I wrestled a lotwith the term blitzscaleand the reason was isthat there's some goodand interesting intellectual parallelsto the term blitzkrieg.
+People look at blitzkriegand they go, World War II,Nazis bad, (laughs) right?You kind of go, okay.
 Not ideal in terms of of the term.
-But actually, in fact,
-there's some real parallels
-and one of the parallels,
-one of the key innovations
-that was made in blitzkrieg
-was that prior to blitzkrieg,
-all war was done through a supply chain.
-So, it was, you only extended your front
-as far as your supply chain could do it.
-So you had a maximum speed
-you could advance your front.
-What the essential
-innovation in blitzkrieg was
-was, eh, heck with the supply chain.
+But actually, in fact,there's some real parallelsand one of the parallels,one of the key innovationsthat was made in blitzkriegwas that prior to blitzkrieg,all war was done through a supply chain.
+So, it was, you only extended your frontas far as your supply chain could do it.
+So you had a maximum speedyou could advance your front.
+What the essentialinnovation in blitzkrieg waswas, eh, heck with the supply chain.
 What you can carry, go fast.
-What blitzkrieg ultimately meant is
-once you got to the halfway point
-to your intended battle, at that point,
-you cross that, you win or lose big.
-If you lose, you lose terribly
-'cause you have no supply,
-you have no backup,
-you run out of ammunition,
-you don't have food,
-you just gonna collapse
-when you get there.
-So the halfway point, you've kind of made
-this point of I'm gambling,
-or in the parallel
-that I frequently use for startups,
-I'm jumping off the cliff
-and assembling an airplane
-on my way down.
-And similarly, when you're
-beginning to do the scale,
-you're like, okay, now I'm gonna really
-crank up my burn rate.
-I'm gonna hire a whole bunch of people,
-I'm gonna really make a go with this.
+What blitzkrieg ultimately meant isonce you got to the halfway pointto your intended battle, at that point,you cross that, you win or lose big.
+If you lose, you lose terribly'cause you have no supply,you have no backup,you run out of ammunition,you don't have food,you just gonna collapsewhen you get there.
+So the halfway point, you've kind of madethis point of I'm gambling,or in the parallelthat I frequently use for startups,I'm jumping off the cliffand assembling an airplaneon my way down.
+And similarly, when you'rebeginning to do the scale,you're like, okay, now I'm gonna reallycrank up my burn rate.
+I'm gonna hire a whole bunch of people,I'm gonna really make a go with this.
 And if you're wrong, it's pretty painful.
 It may be death.
-If it's not death, it's a massive
-retrenchment loss of opportunity.
-And so it was like, okay, let's make sure
-that actually, in fact,
-we have a capital engine
-through the revenue that
-actually can do the scale up.
-And that's essentially
-what we were looking for.
+If it's not death, it's a massiveretrenchment loss of opportunity.
+And so it was like, okay, let's make surethat actually, in fact,we have a capital enginethrough the revenue thatactually can do the scale up.
+And that's essentiallywhat we were looking for.
 - So last question and then we'll move on.
-- [Voiceover] So, it's interesting
-that you talk about Jeff
-(mumbles), you never mention Sheryl.
-Do you have a thesis
-on whether bringing in
-that outside leader is a critical element
-correlated with companies
-that make this leap?
-Or whether the old team
-can adapt on their own?
-- So--
-- You wanna repeat the question?
-- Oh, yes, thank you.
-So, the basic question is,
-look, we're talking about Jeff Weiner,
-who we brought in at the village stage,
-we're talking about
-Sheryl Sandberg, who helped with Facebook
-and also was brought
-in by Eric into Google.
-And what's the thesis about
-growing the team versus external?
-So, roughly speaking,
-I think that your true north
-always in these things is some combination
-of external and internal.
-And if you try to apply too much of a rule
-one way or the other, you break.
-So, if you say it's all internal,
-you tend to only drink your own Kool-Aid,
-unless the people had a
-lot of experience themself
-with directly scaling before,
-which, by the way, is a
-relatively rare experience
-because the number that go
-from here all the way up
-is actually, in fact, relatively few.
-Plus, you may not keep modernizing,
-you may not be figuring out
-what does the current market look like,
-what does the current
-talent market look like,
-what does the current
-go-to-market strategy look like?
-And that new blood is actually
-very helpful for that.
-So, people who go all internal
-and no external have a problem.
-The people who go all external
-tend to lose a lot of people
-who are like, well,
-what we've been thinking
-intensive at this problem,
-you know, 100 hours a week,
-we're emotionally committed to it,
-we'll basically roll
-around in coals for this
-in order to make this work.
-And so if you lose them,
-and so the whole art
-is how do you figure out where it is
-between those two pillars, right?
-And some of it comes down to founders
-in the key team recognizing
-what their key strengths
-and weaknesses are and what they can do
-and what they need to have.
-And part of the reason why
-you have external folks
-like board members and
-investors is to help
-be that kind of dialog, critique.
-Saying, look, maybe you
-should think about this,
-this is why and so forth.
-And so for example, when
-you're founding a company,
-the question you don't want to ask is,
-oh, am I doing all right?
-You wanna say, can I be doing better?
-Am I hitting it?
-What do I need to be doing better?
-Because you wanna have an
-accurate judgment of this
-because if you don't have an
-accurate judgment of this,
-you're likely to fail.
+- [Voiceover] So, it's interestingthat you talk about Jeff(mumbles), you never mention Sheryl.
+Do you have a thesison whether bringing inthat outside leader is a critical elementcorrelated with companiesthat make this leap?Or whether the old teamcan adapt on their own?- So--- You wanna repeat the question?- Oh, yes, thank you.
+So, the basic question is,look, we're talking about Jeff Weiner,who we brought in at the village stage,we're talking aboutSheryl Sandberg, who helped with Facebookand also was broughtin by Eric into Google.
+And what's the thesis aboutgrowing the team versus external?So, roughly speaking,I think that your true northalways in these things is some combinationof external and internal.
+And if you try to apply too much of a ruleone way or the other, you break.
+So, if you say it's all internal,you tend to only drink your own Kool-Aid,unless the people had alot of experience themselfwith directly scaling before,which, by the way, is arelatively rare experiencebecause the number that gofrom here all the way upis actually, in fact, relatively few.
+Plus, you may not keep modernizing,you may not be figuring outwhat does the current market look like,what does the currenttalent market look like,what does the currentgo-to-market strategy look like?And that new blood is actuallyvery helpful for that.
+So, people who go all internaland no external have a problem.
+The people who go all externaltend to lose a lot of peoplewho are like, well,what we've been thinkingintensive at this problem,you know, 100 hours a week,we're emotionally committed to it,we'll basically rollaround in coals for thisin order to make this work.
+And so if you lose them,and so the whole artis how do you figure out where it isbetween those two pillars, right?And some of it comes down to foundersin the key team recognizingwhat their key strengthsand weaknesses are and what they can doand what they need to have.
+And part of the reason whyyou have external folkslike board members andinvestors is to helpbe that kind of dialog, critique.
+Saying, look, maybe youshould think about this,this is why and so forth.
+And so for example, whenyou're founding a company,the question you don't want to ask is,oh, am I doing all right?You wanna say, can I be doing better?Am I hitting it?What do I need to be doing better?Because you wanna have anaccurate judgment of thisbecause if you don't have anaccurate judgment of this,you're likely to fail.
 You'd rather hire somebody and succeed.
-And actually, in fact,
-that was one of the things
-that was both super impressive.
-And watching from, you
-know, 'cause Peter Thiel,
-Mark Pincus and I all kind of invested
-in the very first round of Facebook,
-watching Zuckerberg grow because he was
-trading out execs as he was going.
+And actually, in fact,that was one of the thingsthat was both super impressive.
+And watching from, youknow, 'cause Peter Thiel,Mark Pincus and I all kind of investedin the very first round of Facebook,watching Zuckerberg grow because he wastrading out execs as he was going.
 He was going, oh, that's good.
 Oh, that's better, okay, let's type here.
-Like, for example, you
-saw him kind of going,
-oh, this whole organization's fine.
-Then he hired Sheryl,
-saw how Sheryl's running
-an organization, and then turned around
-and improved his own organization.
-So, it can be a catalyst between them,
-but it usually is pretty important
-to have both function and how it works.
-And then there's, just on the specific
-kind of founder, CEO
-question, there's an essay
-that's on LinkedIn and also
-my blog, reidhoffman.org
-for that specific question.
-- And as a transition, the
-only thing I would add here
-is that the reason we want through like,
-here's the core business,
-we're trying to articulate it
-is because the next section is
-about what is the actual plan
-that we're actually gonna
-follow in order to do it.
-And the key part for all of this stuff
-is you gotta have the
-people who are gonna be able
-to execute that plan.
-And they're gonna
-execute it as executives.
-Basically, that's the most
-important consideration
-on a per-person basis.
-So, I'm gonna move forward on this--
-- Just very quickly, just a second.
-We were experimenting with
-a lot of different things
-'cause remember we're staying agile,
-so this was focused on a few
-and that was part of the scale up
-and that was why it was different
-to that earlier question.
-And then this was, we
-are massively focusing
-on going international and
-most kind of blitzscale stuff
-is you go global.
-There's very little blitzscaling stuff
-that isn't going global.
-The primary exceptions
-to that are within China.
-- Yeah, and neither of
-these played a big role
-in the first two stages for LinkedIn.
-So, I'm gonna go to the next section,
-which is about critical components.
-So, if you've got a plan,
-which is basically about,
-like we had for Jeff,
-that Jeff went through,
-what do you actually
-need in order to do it?
-And almost always there's a
-set of critical components,
-which you actually have to focus on.
+Like, for example, yousaw him kind of going,oh, this whole organization's fine.
+Then he hired Sheryl,saw how Sheryl's runningan organization, and then turned aroundand improved his own organization.
+So, it can be a catalyst between them,but it usually is pretty importantto have both function and how it works.
+And then there's, just on the specifickind of founder, CEOquestion, there's an essaythat's on LinkedIn and alsomy blog, reidhoffman.orgfor that specific question.
+- And as a transition, theonly thing I would add hereis that the reason we want through like,here's the core business,we're trying to articulate itis because the next section isabout what is the actual planthat we're actually gonnafollow in order to do it.
+And the key part for all of this stuffis you gotta have thepeople who are gonna be ableto execute that plan.
+And they're gonnaexecute it as executives.
+Basically, that's the mostimportant considerationon a per-person basis.
+So, I'm gonna move forward on this--- Just very quickly, just a second.
+We were experimenting witha lot of different things'cause remember we're staying agile,so this was focused on a fewand that was part of the scale upand that was why it was differentto that earlier question.
+And then this was, weare massively focusingon going international andmost kind of blitzscale stuffis you go global.
+There's very little blitzscaling stuffthat isn't going global.
+The primary exceptionsto that are within China.
+- Yeah, and neither ofthese played a big rolein the first two stages for LinkedIn.
+So, I'm gonna go to the next section,which is about critical components.
+So, if you've got a plan,which is basically about,like we had for Jeff,that Jeff went through,what do you actuallyneed in order to do it?And almost always there's aset of critical components,which you actually have to focus on.
 You don't have to focus on everything.
 So as always, you're growing.
-We've only got 480 people at
-the time we're doing this.
-You can't do everything perfectly,
-so the question is what are like two
-or three things you have to get right?
-And for us, those two or
-three things were product,
-go-to-market and engineering.
-So, I'm gonna go through
-these really briefly.
-One thing I wanna note
-about this is that each
-of these three plans was presented
-by a brand-new executive at LinkedIn.
-So, all of those people were people
-who were basically hired
-in at the OS3 level.
+We've only got 480 people atthe time we're doing this.
+You can't do everything perfectly,so the question is what are like twoor three things you have to get right?And for us, those two orthree things were product,go-to-market and engineering.
+So, I'm gonna go throughthese really briefly.
+One thing I wanna noteabout this is that eachof these three plans was presentedby a brand-new executive at LinkedIn.
+So, all of those people were peoplewho were basically hiredin at the OS3 level.
 So the first one is our product plan.
-I'm not gonna go through the
-details on this, obviously.
-We don't have time, but
-this kind of organization,
-where we see technical
-foundation, viral growth,
-professional identity ecosystem
-insights and monetization.
-This kind of organization was something
-we had never seen before at LinkedIn.
-We'd never taken this analytic approach
-to doing anything.
-And, sorry, you were gonna say something?
-- I was literally gonna add
-to that earlier question.
-We knew a bunch of this stuff,
-but we'd never construct
-a document like it
-'cause we weren't trying
-to figure out how to get
-500 people and growing to all
-be executing on the same plan.
-- And also, this is the very first time
-in the company's history
-where we had to execute
-on multiple threads simultaneously.
-When you're a smaller
-company, generally speaking,
-you're gonna do one thing really well
-and then everything else you
-sort of do as you need to do.
-Now you actually need
-to be able to execute
-on three or four things
-at scale all at once,
-which is why you need to be
-able to sum it up like this.
-This broke down into a
-set of product features.
-We separate things into
-core, strategic, and venture.
-I'm not gonna go and get
-into the details here
-but the idea was we want
-to identify the things
-which were part of solving
-our core business problem.
-All this other stuff was
-stuff which we thought
-was building for the future.
-This stuff was about
-building for the present,
-about making our core business operate.
-The product plan basically
-focused on member growth,
-on professional identity, on search,
-and obviously an important component
-of making recruiters successful,
-on knowledge sharing,
-which is one of those
-sort of future-facing things.
-And then our three businesses,
-so hiring solutions was the key one,
-that was the center of our bullseye.
-Marketing solutions and
-our monetization platform,
-which was basically payments and a bunch
-of other things that we wouldn't have
-to have thought about before.
+I'm not gonna go through thedetails on this, obviously.
+We don't have time, butthis kind of organization,where we see technicalfoundation, viral growth,professional identity ecosysteminsights and monetization.
+This kind of organization was somethingwe had never seen before at LinkedIn.
+We'd never taken this analytic approachto doing anything.
+And, sorry, you were gonna say something?- I was literally gonna addto that earlier question.
+We knew a bunch of this stuff,but we'd never constructa document like it'cause we weren't tryingto figure out how to get500 people and growing to allbe executing on the same plan.
+- And also, this is the very first timein the company's historywhere we had to executeon multiple threads simultaneously.
+When you're a smallercompany, generally speaking,you're gonna do one thing really welland then everything else yousort of do as you need to do.
+Now you actually needto be able to executeon three or four thingsat scale all at once,which is why you need to beable to sum it up like this.
+This broke down into aset of product features.
+We separate things intocore, strategic, and venture.
+I'm not gonna go and getinto the details herebut the idea was we wantto identify the thingswhich were part of solvingour core business problem.
+All this other stuff wasstuff which we thoughtwas building for the future.
+This stuff was aboutbuilding for the present,about making our core business operate.
+The product plan basicallyfocused on member growth,on professional identity, on search,and obviously an important componentof making recruiters successful,on knowledge sharing,which is one of thosesort of future-facing things.
+And then our three businesses,so hiring solutions was the key one,that was the center of our bullseye.
+Marketing solutions andour monetization platform,which was basically payments and a bunchof other things that we wouldn't haveto have thought about before.
 So, that's on the product side.
-In terms of the go-to-market,
-we're just gonna talk about sales.
+In terms of the go-to-market,we're just gonna talk about sales.
 You can see the way we're broken up.
-The blue bars here are
-basically the places
-where our field sales team was
-responsible for driving revenue.
-And the others were
-non-field sales related, so--
-- One other thing to think
-about is I think about
-kind of how to understand this growing.
-You're beginning to run
-organizations like this.
-These are all documents that were taken
-from how we would communicate internally,
-how we'd talk to each other,
-how we'd formulate the same plan.
-You're beginning to actually
-crystallize the business within
-graphs, dashboards, other kinds of things
-as a way of doing it.
-And that's something
-that's not as critical
-when you're at the OS2 and tribal level.
-- And it's important
-for a couple of reasons.
-So, first of all, it's
-important because it allows you
-to project what the business
-is actually gonna look like,
-which is something you actually need
-when you get to this place,
-'cause you need to know you're tracking
-toward a particular target.
-You need to be able do the
-financing appropriately
-and a bunch of other things.
-But the second thing is it becomes part
-of the way the company is
-managed on a regular basis.
-This was the very first
-time, right about this time,
-when we started producing
-daily dashboards,
-which basically, and
-Jeff still looks at them
-every morning at 5:30, where basically
-he would run the company
-based on a set of dashboards,
-which he would receive in email
-and literally look on his iPhone in bed
-the minute he woke up to sort of find out
-where the company actually was.
-There was a brand new discipline,
-which had not existed
-in the system before.
+The blue bars here arebasically the placeswhere our field sales team wasresponsible for driving revenue.
+And the others werenon-field sales related, so--- One other thing to thinkabout is I think aboutkind of how to understand this growing.
+You're beginning to runorganizations like this.
+These are all documents that were takenfrom how we would communicate internally,how we'd talk to each other,how we'd formulate the same plan.
+You're beginning to actuallycrystallize the business withingraphs, dashboards, other kinds of thingsas a way of doing it.
+And that's somethingthat's not as criticalwhen you're at the OS2 and tribal level.
+- And it's importantfor a couple of reasons.
+So, first of all, it'simportant because it allows youto project what the businessis actually gonna look like,which is something you actually needwhen you get to this place,'cause you need to know you're trackingtoward a particular target.
+You need to be able do thefinancing appropriatelyand a bunch of other things.
+But the second thing is it becomes partof the way the company ismanaged on a regular basis.
+This was the very firsttime, right about this time,when we started producingdaily dashboards,which basically, andJeff still looks at themevery morning at 5:30, where basicallyhe would run the companybased on a set of dashboards,which he would receive in emailand literally look on his iPhone in bedthe minute he woke up to sort of find outwhere the company actually was.
+There was a brand new discipline,which had not existedin the system before.
 - I certainly wasn't doing that.
 - I...
-(Reid laughs)
-So, again, not a gigantic
-amount of detail,
-but the key piece was breaking things up,
-how do we understand our global,
-how do we understand our markets,
-how do we understand our global approach,
-how do we understand our
-geographical approach?
-Product mix, how do we build a field force
-to basically go out and sell effectively?
-What about brand leadership?
-A whole bunch of questions
-which are the kinds of questions
-you would expect from a
-seasoned sales leader,
-but not from a generalist
-who was basically
-trying to make it happen.
+(Reid laughs)So, again, not a giganticamount of detail,but the key piece was breaking things up,how do we understand our global,how do we understand our markets,how do we understand our global approach,how do we understand ourgeographical approach?Product mix, how do we build a field forceto basically go out and sell effectively?What about brand leadership?A whole bunch of questionswhich are the kinds of questionsyou would expect from aseasoned sales leader,but not from a generalistwho was basicallytrying to make it happen.
 On our way to a billion dollars.
 And finally, engineering.
 So engineering was the third major area.
-We actually brought in a
-guy called David Henke,
-you'll see a photograph of
-him later if we get there.
+We actually brought in aguy called David Henke,you'll see a photograph ofhim later if we get there.
 Basically, building out our technology.
 His goal was 10x.
-LinkedIn has a bunch
-of really hard problems
-and we've got a bunch
-of productivity issues
-that we need to deal with.
-The question for us is basically
-how do we attack these
-things in an organized way
-and get to the place
-where we have 10x scale
-on top of where we are right now?
-- For example, on all
-the productivity stuff,
-part of what happens when you get in here
-is you begin to actually focus
-on developer productivity,
-you're building your own tool stack.
-You're leveraging other things as well,
-but you're beginning to figure out
-how does that cycle begin to work.
-And this is usually where you're doing it,
-whereas before you're
-just building the thing
-that demonstrates, do I have
-a shot at product-market fit?
-- Yup, so the first thing
-was like building up time
-and then we'd have this
-selection of things,
-you can see tools in productivity,
-distributed computing,
-security, disaster recovery,
-a whole bunch of things
-that you never think
-about in the early days,
-but when you actually have
-a business built on top--
-- Or you think about thinly.
-- Or you think about very
-thinly at the very beginning,
-which you didn't think about in depth,
-but now you actually have to.
-This was actually the
-largest transformation
-which had to occur at LinkedIn
-because basically we had to
-take, not only are we growing
-very, very quickly in this
-space, in terms of engineers,
-but also we needed to change
-basically the entire stack
-on which they were working,
-simultaneously with continuing
-to develop product and
-scaling simultaneously.
-So it was three things
-they had to do in parallel.
-- [Reid] And all scale companies do that,
-that's not just LinkedIn.
+LinkedIn has a bunchof really hard problemsand we've got a bunchof productivity issuesthat we need to deal with.
+The question for us is basicallyhow do we attack thesethings in an organized wayand get to the placewhere we have 10x scaleon top of where we are right now?- For example, on allthe productivity stuff,part of what happens when you get in hereis you begin to actually focuson developer productivity,you're building your own tool stack.
+You're leveraging other things as well,but you're beginning to figure outhow does that cycle begin to work.
+And this is usually where you're doing it,whereas before you'rejust building the thingthat demonstrates, do I havea shot at product-market fit?- Yup, so the first thingwas like building up timeand then we'd have thisselection of things,you can see tools in productivity,distributed computing,security, disaster recovery,a whole bunch of thingsthat you never thinkabout in the early days,but when you actually havea business built on top--- Or you think about thinly.
+- Or you think about verythinly at the very beginning,which you didn't think about in depth,but now you actually have to.
+This was actually thelargest transformationwhich had to occur at LinkedInbecause basically we had totake, not only are we growingvery, very quickly in thisspace, in terms of engineers,but also we needed to changebasically the entire stackon which they were working,simultaneously with continuingto develop product andscaling simultaneously.
+So it was three thingsthey had to do in parallel.
+- [Reid] And all scale companies do that,that's not just LinkedIn.
 - Yes.
-This was a quote from our
-original head of engineering,
-Jean Luc, who had moved
-over to a new role,
-which we can cover later.
+This was a quote from ouroriginal head of engineering,Jean Luc, who had movedover to a new role,which we can cover later.
 Go ahead.
-- [Voiceover] About how many
-engineers were at this point?
-- I don't know, I had the number
-in here, the exact number.
+- [Voiceover] About how manyengineers were at this point?- I don't know, I had the numberin here, the exact number.
 At this point it's about, just under 200.
-Sorry, that was how many
-engineers were there
-at the company.
-- [Voiceover] So in the process of
-growing the new team,
-transitioning the stack
-and building the product,
-in the process of going to market
-more aggressively to scale,
-these two process going on
-simultaneously, but independently
-Did you make sure you
-weren't selling something
-(mumbles) or is that not a problem?
-- Well--
-- [Voiceover] Better
-to be selling something
-ready than (mumbles)?
-- So with all these things
-going on simultaneously,
-how do you make sure you're
-not selling something
-that you don't actually have ready?
-The short answer to the question is
-the whole reason that
-we brought in a process
-where we could concentrate
-simply on three things
-that have tight integration
-between those three executives,
-so just to make sure we
-didn't lose coherence
-between those three things.
-We had a very specific pecking order
-between the three of them.
-Product said is what we're building,
-technology said this is what
-we're actually able to do,
-and sales sold only the things
-that were actually produced.
-But it was a very clear understanding
-of what the cascade
-actually was through them,
-which actually made that system function.
+Sorry, that was how manyengineers were thereat the company.
+- [Voiceover] So in the process ofgrowing the new team,transitioning the stackand building the product,in the process of going to marketmore aggressively to scale,these two process going onsimultaneously, but independentlyDid you make sure youweren't selling something(mumbles) or is that not a problem?- Well--- [Voiceover] Betterto be selling somethingready than (mumbles)?- So with all these thingsgoing on simultaneously,how do you make sure you'renot selling somethingthat you don't actually have ready?The short answer to the question isthe whole reason thatwe brought in a processwhere we could concentratesimply on three thingsthat have tight integrationbetween those three executives,so just to make sure wedidn't lose coherencebetween those three things.
+We had a very specific pecking orderbetween the three of them.
+Product said is what we're building,technology said this is whatwe're actually able to do,and sales sold only the thingsthat were actually produced.
+But it was a very clear understandingof what the cascadeactually was through them,which actually made that system function.
 Okay.
-So I'm gonna turn it over to
-you to talk about organization.
+So I'm gonna turn it over toyou to talk about organization.
 - Yup.
-You know, when you begin
-to say okay, village,
-OS3 has been where you really begin
-to identify the scale challenges.
-This is one of the central
-places where you go,
-okay, do you have the right CEO?
-Are you the right CEO?
-Do you have the right CEO?
-Because you're not just thinking now,
-you're thinking what happens
-when it's 1,000 people,
-2,000 people, 3,000 people.
-Because the mistake people frequently make
-in organization stuff is
-they say, okay, let's wait
-until it's all broken, then try to fix it.
+You know, when you beginto say okay, village,OS3 has been where you really beginto identify the scale challenges.
+This is one of the centralplaces where you go,okay, do you have the right CEO?Are you the right CEO?Do you have the right CEO?Because you're not just thinking now,you're thinking what happenswhen it's 1,000 people,2,000 people, 3,000 people.
+Because the mistake people frequently makein organization stuff isthey say, okay, let's waituntil it's all broken, then try to fix it.
 That's much harder.
-(Allen giggles)
-Part of what you're
-trying to do is anticipate
-where it's going and figure it out
-and then make the adjustments
-while you're going,
-whether or not this individual
-who works well at tribe,
-are they gonna work out in village,
-what's a role that's
-gonna work out in village?
-CEO is obviously central to that
-because a CEO is gonna direct,
-this is how the whole
-thing works at scale.
-And it's one of the
-places where most often
-you either have to come up
-extremely steep learning curve
-'cause you really, really want to
-and this is the thing
-you wanna do as a founder
-or it's the beginning of the time saying,
-okay, do I do it by getting a CEO?
-Do I do it by getting a COO?
-You know, do I learn some of it?
-What are those kinds of things?
-Those are kind of the key things.
-And then you begin to
-look at kind of what are
-essentially, the key executives.
-Now, part of when you're
-looking at this stuff
-is you don't try to
-solve all the problems.
-You don't go, I have a perfect org chart,
-I got six boxes, I
-gotta fix all the boxes.
-Every single time you have a list,
-whether it's problems or
-other kinds of things,
-you should force rank them and you go,
-okay, what are the ones that
-I absolutely have to do?
-Let me get those done and let me try
-to do the other ones
-too, but let me do that.
-And then what happens if I
-only get to two of the six?
-What am I gonna plan on doing?
-Now, part of the role of generalist
-and people who have been
-around the organization
-a certain amount of time,
-is that sometimes they can fill in
-on some of that stuff and that was,
-like, for example, one of the
-things that I had been doing,
-you know, for, what was it?
-Two years, was I head of product?
-Something like that?
-- [Allen] Mm hmm.
-- [Reid] Anyway, something
-along those lines.
-And then you kind of look at,
-okay, are we capable as an
-organization of doing it?
-Here is actually frequently
-where you may have hired your
-first HR person at tribe,
-may or may not, but now
-you've got an HR function
-you've actually got to get to grow
-and it has to work well
-and has to be partner
-with all the different
-functions in a good way.
-You have to actually, in fact,
-now start thinking about,
-okay, it's not just we all know it,
-but we actually have to have
-some documentation of it.
-We have to have some understanding of how,
-so people aren't surprised
-by the people's work
-and it doesn't trip them up.
-And then you have to be thinking
-about what does this mean
-for the early organization
-in terms your doing?
-And how do you essentially use dashboards
-and metrics as a way of doing it?
-And so, one of the things that I had done
-is I had hired, 'cause I knew pretty early
-that I'm good at product and
-business strategy things,
-but didn't actually wanna grow
-a large organization and be the CEO.
+(Allen giggles)Part of what you'retrying to do is anticipatewhere it's going and figure it outand then make the adjustmentswhile you're going,whether or not this individualwho works well at tribe,are they gonna work out in village,what's a role that'sgonna work out in village?CEO is obviously central to thatbecause a CEO is gonna direct,this is how the wholething works at scale.
+And it's one of theplaces where most oftenyou either have to come upextremely steep learning curve'cause you really, really want toand this is the thingyou wanna do as a founderor it's the beginning of the time saying,okay, do I do it by getting a CEO?Do I do it by getting a COO?You know, do I learn some of it?What are those kinds of things?Those are kind of the key things.
+And then you begin tolook at kind of what areessentially, the key executives.
+Now, part of when you'relooking at this stuffis you don't try tosolve all the problems.
+You don't go, I have a perfect org chart,I got six boxes, Igotta fix all the boxes.
+Every single time you have a list,whether it's problems orother kinds of things,you should force rank them and you go,okay, what are the ones thatI absolutely have to do?Let me get those done and let me tryto do the other onestoo, but let me do that.
+And then what happens if Ionly get to two of the six?What am I gonna plan on doing?Now, part of the role of generalistand people who have beenaround the organizationa certain amount of time,is that sometimes they can fill inon some of that stuff and that was,like, for example, one of thethings that I had been doing,you know, for, what was it?Two years, was I head of product?Something like that?- [Allen] Mm hmm.
+- [Reid] Anyway, somethingalong those lines.
+And then you kind of look at,okay, are we capable as anorganization of doing it?Here is actually frequentlywhere you may have hired yourfirst HR person at tribe,may or may not, but nowyou've got an HR functionyou've actually got to get to growand it has to work welland has to be partnerwith all the differentfunctions in a good way.
+You have to actually, in fact,now start thinking about,okay, it's not just we all know it,but we actually have to havesome documentation of it.
+We have to have some understanding of how,so people aren't surprisedby the people's workand it doesn't trip them up.
+And then you have to be thinkingabout what does this meanfor the early organizationin terms your doing?And how do you essentially use dashboardsand metrics as a way of doing it?And so, one of the things that I had doneis I had hired, 'cause I knew pretty earlythat I'm good at product andbusiness strategy things,but didn't actually wanna growa large organization and be the CEO.
 I'd hired a guy named Dan Nye.
 Dan did a spectacular job.
-He basically said, okay, got there at 65,
-let's start actually, in
-fact, putting more structure
-around this versus just trying to solve,
-only the product-market
-fit problem had grown it.
-But then one of the things,
-when Dan and I were
-talking about, we realized
-one of the things that was
-really core to the strategy
-of a scaling, large organization
-was to say, you have to have an affinity
-with the exact problem.
-The CEO has to essentially embody
-this problem's product-market fit.
-And so, Dan was kind of a
-classic excellence leader,
-a class enterprise person and so forth,
-yet we're a consumer site first.
-And so when we were
-talking about that we said,
-okay, what we'll do is we will
-actually have me step back
-in the CEO, it's like look, but I've got
-all these organizational
-kind of things where,
-organization process does
-not work spectacularly well
-under my direction because
-I'm always getting attracted
-to whatever the new
-most important fire is.
-Allen has been burned on
-this a number of times.
-(laughs) Right?
-And so we'll bring in Jeff to help me.
-That then very quickly moved to,
-oh, Jeff should be the right CEO
-and then we put Jeff in as CEO.
-And this is kind of a way of understanding
-kind of how quickly you had to be working
-on a number of different
-problems to keep a organization
-with high cultural morale and coherent
-in terms of doing this.
-And this one in particular
-shows these are all the people
-who essentially, all the red was in all
-these different functions
-for recruiting were the new people.
-- And just to be clear,
-this was joined in 2010.
+He basically said, okay, got there at 65,let's start actually, infact, putting more structurearound this versus just trying to solve,only the product-marketfit problem had grown it.
+But then one of the things,when Dan and I weretalking about, we realizedone of the things that wasreally core to the strategyof a scaling, large organizationwas to say, you have to have an affinitywith the exact problem.
+The CEO has to essentially embodythis problem's product-market fit.
+And so, Dan was kind of aclassic excellence leader,a class enterprise person and so forth,yet we're a consumer site first.
+And so when we weretalking about that we said,okay, what we'll do is we willactually have me step backin the CEO, it's like look, but I've gotall these organizationalkind of things where,organization process doesnot work spectacularly wellunder my direction becauseI'm always getting attractedto whatever the newmost important fire is.
+Allen has been burned onthis a number of times.
+(laughs) Right?And so we'll bring in Jeff to help me.
+That then very quickly moved to,oh, Jeff should be the right CEOand then we put Jeff in as CEO.
+And this is kind of a way of understandingkind of how quickly you had to be workingon a number of differentproblems to keep a organizationwith high cultural morale and coherentin terms of doing this.
+And this one in particularshows these are all the peoplewho essentially, all the red was in allthese different functionsfor recruiting were the new people.
+- And just to be clear,this was joined in 2010.
 This presentation is from May of 2010.
 - Yeah.
-- So this is the first
-half of the year hires
-within the recruiting team.
-- Yup, and so, that's
-because the question is
-as you're scaling this team,
-it's actually nontrivial to be
-getting the right people in,
-keeping the right culture,
-keeping the right communications,
-and there's a whole bunch
-of work that goes into that.
-And so these are kind
-of some of the topics
-that we were essentially, this is, again,
-pulled from internal slides
-that we were like, okay, here's
-the thing that we need to do
-in order to be able to work well together.
-And this is kind of what
-the hiring ramp looked like.
-And I guess that's when we really started
-our real big intern program too,
-as I now think about it.
+- So this is the firsthalf of the year hireswithin the recruiting team.
+- Yup, and so, that'sbecause the question isas you're scaling this team,it's actually nontrivial to begetting the right people in,keeping the right culture,keeping the right communications,and there's a whole bunchof work that goes into that.
+And so these are kindof some of the topicsthat we were essentially, this is, again,pulled from internal slidesthat we were like, okay, here'sthe thing that we need to doin order to be able to work well together.
+And this is kind of whatthe hiring ramp looked like.
+And I guess that's when we really startedour real big intern program too,as I now think about it.
 - [Allen] First year of it.
 - [Reid] Yup.
-'Cause we were trying to figure out how
-to continue to scale
-and the intern program
-was a way of doing that.
-So, do you wanna do this or?
-- [Allen] Yeah.
-- [Allen] So, briefly,
-you can actually read this
-on LinkedIn in completion.
-You go to Jeff's profile,
-you can find it from there.
-Basically, the idea was
-that Jeff knew from the
-very beginning that we were
-gonna grow really effectively.
-One of the things he had
-to make do is make sure
-that the values and culture of the company
-were communicated via the hiring process.
-So, then basically we as a company,
-when we were hiring new
-people, in a distributed way,
-every person who was doing hiring
-was using the same bar
-for culture and match
-and so forth over time,
-otherwise we'd end up
-with a cultureless company.
-So, what he did was he articulated
-the vision, the strategy,
-the mission and so forth.
+'Cause we were trying to figure out howto continue to scaleand the intern programwas a way of doing that.
+So, do you wanna do this or?- [Allen] Yeah.
+- [Allen] So, briefly,you can actually read thison LinkedIn in completion.
+You go to Jeff's profile,you can find it from there.
+Basically, the idea wasthat Jeff knew from thevery beginning that we weregonna grow really effectively.
+One of the things he hadto make do is make surethat the values and culture of the companywere communicated via the hiring process.
+So, then basically we as a company,when we were hiring newpeople, in a distributed way,every person who was doing hiringwas using the same barfor culture and matchand so forth over time,otherwise we'd end upwith a cultureless company.
+So, what he did was he articulatedthe vision, the strategy,the mission and so forth.
 Go next.
-But he also articulated this
-set of culture and values
-and you can see here
-they're stated in the sense
-of here's how you use
-this to test somebody
-during the hiring process
-because he need to make sure
-that was part of the way
-we were thinking about
-each new person who came in the door.
-- Yup, and frequently, we
-actually have a number of places
-where this is on the wall so
-that people can refer to it
-when they're talking amongst each other
-about how to make a decision
-on a values point or something else.
-- Yeah, and it's the rooms
-where we actually hire people.
-The key thing about this though,
-in terms of making this work,
-and Jeff pointed out in his post,
-is you can't just talk about it,
-you can't just put it on the wall,
-you've gotta make it part of the way
-you manage on a daily basis.
-And to their credit, Jeff
-does it on a regular basis,
-but the person in the company
-who actually does the culture
-and value stuff best is Mike Gamson,
-who's the head of sales.
-And basically he runs
-our sales organization
-very differently than any
-other sales organization.
+But he also articulated thisset of culture and valuesand you can see herethey're stated in the senseof here's how you usethis to test somebodyduring the hiring processbecause he need to make surethat was part of the waywe were thinking abouteach new person who came in the door.
+- Yup, and frequently, weactually have a number of placeswhere this is on the wall sothat people can refer to itwhen they're talking amongst each otherabout how to make a decisionon a values point or something else.
+- Yeah, and it's the roomswhere we actually hire people.
+The key thing about this though,in terms of making this work,and Jeff pointed out in his post,is you can't just talk about it,you can't just put it on the wall,you've gotta make it part of the wayyou manage on a daily basis.
+And to their credit, Jeffdoes it on a regular basis,but the person in the companywho actually does the cultureand value stuff best is Mike Gamson,who's the head of sales.
+And basically he runsour sales organizationvery differently than anyother sales organization.
 He runs it based on this set of values.
-Okay, so I wanna talk a
-little bit about process.
+Okay, so I wanna talk alittle bit about process.
 Some notes, this is from a tech All-Hands.
-Basically, people recruiting
-was the number one thing
-that the tech team was
-actually worried about.
-So community in that
-culture was essential.
-There's a ton of stuff here
-about what would be great
-about coming and working at a place
-and actually some
-reasonable advice in here
-about what attracts tech
-talent to a particular place.
-- 'Cause by the way, part of
-the thing that this underlies,
-which is one of the reasons we decided
-to even put a kind of an
-eye-sore slide up that,
-don't bother trying to read
-out all of it and all the rest.
+Basically, people recruitingwas the number one thingthat the tech team wasactually worried about.
+So community in thatculture was essential.
+There's a ton of stuff hereabout what would be greatabout coming and working at a placeand actually somereasonable advice in hereabout what attracts techtalent to a particular place.
+- 'Cause by the way, part ofthe thing that this underlies,which is one of the reasons we decidedto even put a kind of aneye-sore slide up that,don't bother trying to readout all of it and all the rest.
 - Yeah, it's on the video.
-- But the thing to understand was,
-so when you're a small
-company, you're a tribe,
-you're something else, actually,
-in fact, part of your pitch
-to new talent coming in is
-be part of the early set,
-help define this, help find
-the product-market fit,
-be one of the first engineers working
-on iOS or Android or something else
-When you're scaling up, that
-pitch doesn't exist anymore.
-So you're changing your
-pitch about saying,
-how do you say, who is
-a high quality talent
-that you wanna have join.
+- But the thing to understand was,so when you're a smallcompany, you're a tribe,you're something else, actually,in fact, part of your pitchto new talent coming in isbe part of the early set,help define this, help findthe product-market fit,be one of the first engineers workingon iOS or Android or something elseWhen you're scaling up, thatpitch doesn't exist anymore.
+So you're changing yourpitch about saying,how do you say, who isa high quality talentthat you wanna have join.
 You're evolving it.
-It may not change 100%,
-but you're changing it.
-And this was part of
-the, okay, how do we need
-to now talk about what is the mission
-that high quality folks,
-technical talent, engineers,
-would wanna come and say work at LinkedIn.
-And that was part of
-the work that was done
-as part of enabling the scaling.
+It may not change 100%,but you're changing it.
+And this was part ofthe, okay, how do we needto now talk about what is the missionthat high quality folks,technical talent, engineers,would wanna come and say work at LinkedIn.
+And that was part ofthe work that was doneas part of enabling the scaling.
 - Yup.
 So, I didn't realize this had build in it.
-Of course I have to go
-through it all again.
-This is a set of things which
-was a part of a discussion
-the team was having 'cause we moved
-into the world of process.
-Again, you don't need to read all of it,
-but basically the team, which is now
-a little over 200 engineers
-at the time this slide was written,
-were basically in a
-position where we couldn't
-effectively work together anymore.
-We had too little structure,
-too little understanding
-of the way the pieces came together
-and we had a build system
-which looked like this.
-Or sorry, release system
-which looked like this.
-And believe me it was just as painful
-as this diagram is to read.
-We spent years chasing
-after the right kind
-of release system before
-we got to the place
-where we usually have DevOps today,
-but this reality is where we lived.
-Getting these processes
-right is absolutely essential
-to letting 300 or 400 or
-500 people work together.
+Of course I have to gothrough it all again.
+This is a set of things whichwas a part of a discussionthe team was having 'cause we movedinto the world of process.
+Again, you don't need to read all of it,but basically the team, which is nowa little over 200 engineersat the time this slide was written,were basically in aposition where we couldn'teffectively work together anymore.
+We had too little structure,too little understandingof the way the pieces came togetherand we had a build systemwhich looked like this.
+Or sorry, release systemwhich looked like this.
+And believe me it was just as painfulas this diagram is to read.
+We spent years chasingafter the right kindof release system beforewe got to the placewhere we usually have DevOps today,but this reality is where we lived.
+Getting these processesright is absolutely essentialto letting 300 or 400 or500 people work together.
 Okay, so...
 Sorry.
 Oh, that's David Henke.
 - [Reid] Yes.
-- [Allen] And he's reminding
-us that when we have a spike
-like that, that means
-the site's throttling,
-which was happening back in 2009,
-and that that can't happen anymore.
-He looks angry, right?
-- [Reid] Yup.
+- [Allen] And he's remindingus that when we have a spikelike that, that meansthe site's throttling,which was happening back in 2009,and that that can't happen anymore.
+He looks angry, right?- [Reid] Yup.
 - [Allen] All right.
-- All right, so, the other
-part of going in and scaling
-is to make sure that
-you have enough capital.
-And so one of the things
-we said is all right,
-we've got money in the bank,
-we've got millions of dollars in the bank,
-but we're about to throw in the gas.
-We think we have a good
-scale of product-market fit.
+- All right, so, the otherpart of going in and scalingis to make sure thatyou have enough capital.
+And so one of the thingswe said is all right,we've got money in the bank,we've got millions of dollars in the bank,but we're about to throw in the gas.
+We think we have a goodscale of product-market fit.
 You never are at 100%.
 You're always at some percent, you know.
-We probably thought we were at 85%,
-but, you know, what if
-you discovered it was 60
-or takes an extra year or so?
-So we said, okay, what we
-should do is we should raise
-enough capital to smooth out a challenge.
-By the way, doing that before
-you're in the challenge
-is actually much less painful, again,
-than when you're in the challenge.
-And so I went out and kind
-of raised this series D,
-which is the last one.
-Now, many of you may be familiar
-with a LinkedIn series B
-deck, which I published.
-And you should, if you're
-not, you should be.
-But this is essentially,
-like, there was a deck,
-which I will go through
-a couple of the slides,
-but part of what happens
-when you're actually getting to scale,
-you're able to articulate
-your pitch very succinctly.
-And this was like, this
-is what the company is,
-this is what we're doing,
-this is why we do it.
-So, when you go down here
-you say, for example,
-why do you have an email address?
-Well, that's because,
-look, our viral engine
-actually, in fact, if people
-choose to invite people
-we can actually still be
-growing and inviting people.
-It's not actually, you
-know, kind of tapped out.
-And we have a number of
-people, who are all connected,
-interacting with each other,
-so that's likely to happen.
-Here's a summary of what
-our revenue growth has been.
-And so you go like, okay,
-where does that lead to?
-And you kind of build a model
-and you talk about that.
-You say, look, we've got
-very smart people behind us
-and then you go, okay,
-here is the key thing
-about why this an
-interesting business model.
-We essentially have no cost
-to customer acquisition,
-we're growing high, we have a high margin
-because it's all digital goods.
-You go it's highly scalable
-because we can just replicate
-it to as many people
-as possibly can happen.
-We have network effects
-on what we're doing
-and there's huge markets
-in each of these things
-'cause this gets back
-to the network and apps,
-like recruiting is one
-app, but so is kind of
-what is business media, what
-is services, what is sales.
-There's a bunch of things,
-obviously a bunch of this stuff,
-you know, who knows if we'll ever get to.
-And then the other part of pitching
-is when people are like,
-look, I haven't really studied
-your business, but I wanna
-know why to be excited.
-It's the analogy and this was covered
-in the series B, as you say, look,
-here is some value companies
-and this is how we're like them.
-Doesn't mean we're gonna be exactly that,
-but this is a way of going, oh, right,
-if you're right about
-one of those analogies,
-I wanna be an investor,
-is essentially the pitch.
-And so this gets back to, 'cause remember,
-we had shifted and part of the
-reason we included this slide
-is we said we'd shifted from
-how we were articulating it
-from the internal plan we were managing,
-but this was still the
-network is the platform
-was the key way that we're
-driving the strategy.
-And part of the thing
-that we're gonna get to
-is say, okay, how do we essentially,
-look, we'll already in this thread,
-this is the capital that
-we're trying to raise
-in order to really
-scale our business model
-and get this compounding.
+We probably thought we were at 85%,but, you know, what ifyou discovered it was 60or takes an extra year or so?So we said, okay, what weshould do is we should raiseenough capital to smooth out a challenge.
+By the way, doing that beforeyou're in the challengeis actually much less painful, again,than when you're in the challenge.
+And so I went out and kindof raised this series D,which is the last one.
+Now, many of you may be familiarwith a LinkedIn series Bdeck, which I published.
+And you should, if you'renot, you should be.
+But this is essentially,like, there was a deck,which I will go througha couple of the slides,but part of what happenswhen you're actually getting to scale,you're able to articulateyour pitch very succinctly.
+And this was like, thisis what the company is,this is what we're doing,this is why we do it.
+So, when you go down hereyou say, for example,why do you have an email address?Well, that's because,look, our viral engineactually, in fact, if peoplechoose to invite peoplewe can actually still begrowing and inviting people.
+It's not actually, youknow, kind of tapped out.
+And we have a number ofpeople, who are all connected,interacting with each other,so that's likely to happen.
+Here's a summary of whatour revenue growth has been.
+And so you go like, okay,where does that lead to?And you kind of build a modeland you talk about that.
+You say, look, we've gotvery smart people behind usand then you go, okay,here is the key thingabout why this aninteresting business model.
+We essentially have no costto customer acquisition,we're growing high, we have a high marginbecause it's all digital goods.
+You go it's highly scalablebecause we can just replicateit to as many peopleas possibly can happen.
+We have network effectson what we're doingand there's huge marketsin each of these things'cause this gets backto the network and apps,like recruiting is oneapp, but so is kind ofwhat is business media, whatis services, what is sales.
+There's a bunch of things,obviously a bunch of this stuff,you know, who knows if we'll ever get to.
+And then the other part of pitchingis when people are like,look, I haven't really studiedyour business, but I wannaknow why to be excited.
+It's the analogy and this was coveredin the series B, as you say, look,here is some value companiesand this is how we're like them.
+Doesn't mean we're gonna be exactly that,but this is a way of going, oh, right,if you're right aboutone of those analogies,I wanna be an investor,is essentially the pitch.
+And so this gets back to, 'cause remember,we had shifted and part of thereason we included this slideis we said we'd shifted fromhow we were articulating itfrom the internal plan we were managing,but this was still thenetwork is the platformwas the key way that we'redriving the strategy.
+And part of the thingthat we're gonna get tois say, okay, how do we essentially,look, we'll already in this thread,this is the capital thatwe're trying to raisein order to reallyscale our business modeland get this compounding.
 This is kind of the key path to doing it.
-Then you kind of get to, all right, so,
-is it a bunch of kind of random people,
-your numbers look big,
-but they're not that good.
-So frequently when your pitch,
-'cause you're thinking
-about why would they want to
-and what would their objections be.
-Part of their objections
-is do you have good people
-and it's like, yes, look, here's the thing
-you can send your analyst to go check
-about what's going on and this is, what?
-2008? Yeah.
+Then you kind of get to, all right, so,is it a bunch of kind of random people,your numbers look big,but they're not that good.
+So frequently when your pitch,'cause you're thinkingabout why would they want toand what would their objections be.
+Part of their objectionsis do you have good peopleand it's like, yes, look, here's the thingyou can send your analyst to go checkabout what's going on and this is, what?2008? Yeah.
 - [Allen] 2008, yeah.
 - [Reid] Right.
-By the way, part of the
-reason to include this
-is we were saying, look, we can get more
-into the media business
-than we currently are.
-This was 2008,
-this is well before
-influencers or anything else.
-Most of these strategy
-plans tend to be long laid.
-They don't necessarily,
-each tactic is not thought,
-like influencers was
-something we thought about
-relatively longer, but we
-said, we have a network
-as a platform, we have a
-personal identity as a platform,
-what kinds of things we can do.
-We can help people figure out what kinds
-of business information
-is most relevant for them.
-We included this slide mostly to show
-that as you're beginning to scale,
-you're doing this kind of analysis.
-As opposed to I have a
-concept, you're saying,
-here is what mean revenue
-per member looks like in each
-of these different circumstances,
-here's what we think we
-can possibly capture,
-and then here is current
-revenue projections
-and here is if we get certain things right
-and we talk about those
-things being right.
-Actually, it's funny,
-we haven't done this.
-We should go back and crosscheck how much
-of the upside, yeah, we should do that.
+By the way, part of thereason to include thisis we were saying, look, we can get moreinto the media businessthan we currently are.
+This was 2008,this is well beforeinfluencers or anything else.
+Most of these strategyplans tend to be long laid.
+They don't necessarily,each tactic is not thought,like influencers wassomething we thought aboutrelatively longer, but wesaid, we have a networkas a platform, we have apersonal identity as a platform,what kinds of things we can do.
+We can help people figure out what kindsof business informationis most relevant for them.
+We included this slide mostly to showthat as you're beginning to scale,you're doing this kind of analysis.
+As opposed to I have aconcept, you're saying,here is what mean revenueper member looks like in eachof these different circumstances,here's what we think wecan possibly capture,and then here is currentrevenue projectionsand here is if we get certain things rightand we talk about thosethings being right.
+Actually, it's funny,we haven't done this.
+We should go back and crosscheck how muchof the upside, yeah, we should do that.
 I haven't done that.
 I mean, this is a long time ago.
-So, that's essentially,
-kind of the LinkedIn
-going through the village and prepping
-for the really major scale
-and you have to solve the capital thing,
-you have to solve the
-organization and talent thing,
-you have to solve the communications,
-you have to figure out what's the way
-that as you're growing
-all this organization,
-growing your fit-to-market,
-that actually, in fact,
-you stay at a strong
-fighting organization.
-And that's part of the thing
-that is actually, in fact,
-part of the core challenge.
-- And you have to have clarity
-in terms of what you're
-actually trying to get done
-because it's very easy
-here, as in any other stage
-of a company, to get too much
-focus on too many things.
-So, getting down to a single thing
-and making sure that it's right
-and doing what's necessary
-for that is a key part
-to actually navigating
-this section of a company's
-history successfully.
-- [Reid] Questions?
-- Oh, please, you go ahead.
+So, that's essentially,kind of the LinkedIngoing through the village and preppingfor the really major scaleand you have to solve the capital thing,you have to solve theorganization and talent thing,you have to solve the communications,you have to figure out what's the waythat as you're growingall this organization,growing your fit-to-market,that actually, in fact,you stay at a strongfighting organization.
+And that's part of the thingthat is actually, in fact,part of the core challenge.
+- And you have to have clarityin terms of what you'reactually trying to get donebecause it's very easyhere, as in any other stageof a company, to get too muchfocus on too many things.
+So, getting down to a single thingand making sure that it's rightand doing what's necessaryfor that is a key partto actually navigatingthis section of a company'shistory successfully.
+- [Reid] Questions?- Oh, please, you go ahead.
 - No, it doesn't matter.
 Go ahead.
-- [Voiceover] So how many companies
-or what percentage, roughly,
-fail at this stage and actually
-is failing at this stage fatal
-or does it just mean
-you need to try it again
-at a slower rate of changing
-some of your assumptions?
-- What percentage of
-companies fail at this stage
-and can they go back and do it again or?
-- Well, so what happens,
-it depends a little bit
-on what your competitive
-landscape looks like
-for a lot of these companies,
-so there are a bunch of companies
-that fail at this stage.
-Sometimes it's product-market fit,
-sometimes it's technology.
-Friendster, I think, fundamentally
-failed at this stage.
+- [Voiceover] So how many companiesor what percentage, roughly,fail at this stage and actuallyis failing at this stage fatalor does it just meanyou need to try it againat a slower rate of changingsome of your assumptions?- What percentage ofcompanies fail at this stageand can they go back and do it again or?- Well, so what happens,it depends a little biton what your competitivelandscape looks likefor a lot of these companies,so there are a bunch of companiesthat fail at this stage.
+Sometimes it's product-market fit,sometimes it's technology.
+Friendster, I think, fundamentallyfailed at this stage.
 - [Allen] Yeah.
-- [Reid] Right?
-- [Reid] As an example.
+- [Reid] Right?- [Reid] As an example.
 - Technology in their case.
-- Yes, it was technology in their case,
-plus kind of an inability to
-pull the organization together,
-there was a lot of
-infighting as they grew.
+- Yes, it was technology in their case,plus kind of an inability topull the organization together,there was a lot ofinfighting as they grew.
 - [Allen] Yeah, very true.
 - [Reid] There's actually a ton.
-I don't know what the exact percentage is
-because we all tend to
-look at the success biases.
-We look at the ones like this
-and say, oh those ones work.
-(Allen chuckles)
-But, you know,
-like part of like, you
-think, Friendster's gone,
-MySpace is gone, (laughs) right?
-There is--
-- [Allen] Orkut reached this scale.
-- Orkut, yes, Orkut was
-definitely, yes I remember Orkut.
+I don't know what the exact percentage isbecause we all tend tolook at the success biases.
+We look at the ones like thisand say, oh those ones work.
+(Allen chuckles)But, you know,like part of like, youthink, Friendster's gone,MySpace is gone, (laughs) right?There is--- [Allen] Orkut reached this scale.
+- Orkut, yes, Orkut wasdefinitely, yes I remember Orkut.
 Anyway, so there's a ton.
-And right now we're only
-within the social space,
-which is a place we're watching carefully.
-You tend to look at the
-same thing with any commerce
-and a bunch of other things.
-So, the short answer is, there's a lot
-of different failure things,
-some of them is inability
-to manage the scale stuff.
-Sometimes it's other things too,
-but there's a lot of
-failures at this point.
-- [Voiceover] How did you
-approach launching a new location?
-Like you're going international,
-you're starting to focus.
-And the viral loop you
-had is very different
-in each location you're going,
-so how do you redesign that viral loop,
-and how'd you make it work in the end?
-- Do you wanna?
-- The short answer is we
-didn't redesign the viral loop.
-One of the things which is
-a bias for early companies
-is that globalization happens.
+And right now we're onlywithin the social space,which is a place we're watching carefully.
+You tend to look at thesame thing with any commerceand a bunch of other things.
+So, the short answer is, there's a lotof different failure things,some of them is inabilityto manage the scale stuff.
+Sometimes it's other things too,but there's a lot offailures at this point.
+- [Voiceover] How did youapproach launching a new location?Like you're going international,you're starting to focus.
+And the viral loop youhad is very differentin each location you're going,so how do you redesign that viral loop,and how'd you make it work in the end?- Do you wanna?- The short answer is wedidn't redesign the viral loop.
+One of the things which isa bias for early companiesis that globalization happens.
 It just might happen.
-- [Reid] Especially
-- [Reid] internet companies.
-- [Allen] And especially for--
-- Little bit different
-for enterprise, but yes.
+- [Reid] Especially- [Reid] internet companies.
+- [Allen] And especially for--- Little bit differentfor enterprise, but yes.
 - For sure.
-So basically on day one for LinkedIn,
-we're back in OS1,
-we were half international and half US
-and we never dropped below that ratio.
+So basically on day one for LinkedIn,we're back in OS1,we were half international and half USand we never dropped below that ratio.
 So globalization just sort of occurred.
-That was before we translated the site
-or any of that kind of stuff.
-So, the viral mechanism
-all remained the same.
-Now, it doesn't function, as
-you say, the same everywhere
-and the places where it doesn't
-function in the same way
-are places where our growth
-has been extremely slow.
-- And it's more in the
-last couple of years
-we've started actually, in fact,
-doing the specific changes for it
-'cause part of it also
-is we were still getting
-such good growth from email,
-it was like, okay. (laughs)
-- Yeah.
+That was before we translated the siteor any of that kind of stuff.
+So, the viral mechanismall remained the same.
+Now, it doesn't function, asyou say, the same everywhereand the places where it doesn'tfunction in the same wayare places where our growthhas been extremely slow.
+- And it's more in thelast couple of yearswe've started actually, in fact,doing the specific changes for it'cause part of it alsois we were still gettingsuch good growth from email,it was like, okay. (laughs)- Yeah.
 - And it wasn't the absolute top problem.
-- [Voiceover] So,
-(mumbles) of fundraising,
-(mumbles) of that fact that
-you're trying to blitzscale
-to out-compete some of your competitors.
-How do you not fall into the temptation
-of doing what a lot of,
-especially in the current climate,
-of just raising so soon
-and raising so much,
-just to be able to
-outspend your competitors.
-- Can you repeat it a little bit?
-- Yes, so the question is
-when you get to a spot,
-what's to slow you down
-from just raising a ton of money
-and using a bunch of
-capital to out-compete.
-Well, I think you have to think
-of a couple of different things.
-So, by default, you actually
-raise more capital than less.
-So you say, I can't get
-to a coherent answer,
-I just raise more capital.
-Because the more capital
-gives you more optionality.
+- [Voiceover] So,(mumbles) of fundraising,(mumbles) of that fact thatyou're trying to blitzscaleto out-compete some of your competitors.
+How do you not fall into the temptationof doing what a lot of,especially in the current climate,of just raising so soonand raising so much,just to be able tooutspend your competitors.
+- Can you repeat it a little bit?- Yes, so the question iswhen you get to a spot,what's to slow you downfrom just raising a ton of moneyand using a bunch ofcapital to out-compete.
+Well, I think you have to thinkof a couple of different things.
+So, by default, you actuallyraise more capital than less.
+So you say, I can't getto a coherent answer,I just raise more capital.
+Because the more capitalgives you more optionality.
 There are problems that come with it.
-Sometimes exit prices,
-sometimes a lack of discipline
-in what you're doing.
-Sometimes, you know, kind of
-what are the expectations
-of the new investor?
-All of those things can actually
-complicate your execution.
-So there are downsides to it,
-but by default you say,
-actually, a bigger war chest,
-intelligently managed, is
-better than a smaller war chest.
-Now, one of the prices
-is obviously dilution.
-So depending a little
-bit on what the price
-and everything else happening.
-But part of the reason,
-the last couple years,
-the general thing has
-been, well, go for it
-if you can get the capitals
-because the valuations
-are high enough and
-enough capital you say,
-look, I'll just run for it
-and even if my valuation
-is above what I should
-be, I'll grow into it
-using the capital as a
-way of making it happen.
-And that's fine as long as
-you actually, for example,
-on the pile of capital that
-you're currently raising,
-if winter comes you could
-get to a break-even state
-because part of what
-also frequently happens
-is that once you look badly capitalized,
-it's very hard to raise additional money.
-So those are all the kinds
-of factors that go into it.
-Now, for us, we kind of said, all right,
-each of our fundraises
-was not actually trying
-to in fact manage as much capital
-in the company as possible
-because we were steering
-into a very different area
-than the other companies
-that were fundamentally
-doing this massive capital
-rise and running we're going at
-because we had this notion
-of professional identity
-and network is a platform.
-In our early stages,
-like family and tribe,
-most of our competitors
-thought it was companies
-were the primary thing, not individuals.
-We were the one doing individuals,
-so it was kind of like if they were right,
-doesn't really matter if
-we raised 2x the capital,
-or they raised 2x the capital.
-If we were right, again,
-also doesn't matter
-'cause it was kind of a different thesis.
-And then when we got to the series D,
-which Bane led,
-we now view that it's a market opportunity
-and we're gonna go for it,
-but we're really, we
-were doing kind of more
-the reasonable scale blitzscaling
-versus ultra blitzscaling.
-We weren't doing the hirer,
-like hire people desperately.
-We were opening up a number of offices
-and we were beginning
-to experiment with that
-and we were taking in
-the communications burden
-that came with it, but we weren't,
-like, for example, we
-could say, well, you know,
-look, if it took an extra month
-or two to make that higher,
-that's not actually, in
-fact, deathly for us.
+Sometimes exit prices,sometimes a lack of disciplinein what you're doing.
+Sometimes, you know, kind ofwhat are the expectationsof the new investor?All of those things can actuallycomplicate your execution.
+So there are downsides to it,but by default you say,actually, a bigger war chest,intelligently managed, isbetter than a smaller war chest.
+Now, one of the pricesis obviously dilution.
+So depending a littlebit on what the priceand everything else happening.
+But part of the reason,the last couple years,the general thing hasbeen, well, go for itif you can get the capitalsbecause the valuationsare high enough andenough capital you say,look, I'll just run for itand even if my valuationis above what I shouldbe, I'll grow into itusing the capital as away of making it happen.
+And that's fine as long asyou actually, for example,on the pile of capital thatyou're currently raising,if winter comes you couldget to a break-even statebecause part of whatalso frequently happensis that once you look badly capitalized,it's very hard to raise additional money.
+So those are all the kindsof factors that go into it.
+Now, for us, we kind of said, all right,each of our fundraiseswas not actually tryingto in fact manage as much capitalin the company as possiblebecause we were steeringinto a very different areathan the other companiesthat were fundamentallydoing this massive capitalrise and running we're going atbecause we had this notionof professional identityand network is a platform.
+In our early stages,like family and tribe,most of our competitorsthought it was companieswere the primary thing, not individuals.
+We were the one doing individuals,so it was kind of like if they were right,doesn't really matter ifwe raised 2x the capital,or they raised 2x the capital.
+If we were right, again,also doesn't matter'cause it was kind of a different thesis.
+And then when we got to the series D,which Bane led,we now view that it's a market opportunityand we're gonna go for it,but we're really, wewere doing kind of morethe reasonable scale blitzscalingversus ultra blitzscaling.
+We weren't doing the hirer,like hire people desperately.
+We were opening up a number of officesand we were beginningto experiment with thatand we were taking inthe communications burdenthat came with it, but we weren't,like, for example, wecould say, well, you know,look, if it took an extra monthor two to make that higher,that's not actually, infact, deathly for us.
 - Yeah.
-The only other comment
-I would make is that
-sometimes when you're raising here,
-you're raising with different
-uses of the capital in mind.
-So acquisitions is one that
-we didn't talk about here.
-It's pretty common during
-OS3 to actually acquire
-small companies, specifically
-to fight over talent.
+The only other commentI would make is thatsometimes when you're raising here,you're raising with differentuses of the capital in mind.
+So acquisitions is one thatwe didn't talk about here.
+It's pretty common duringOS3 to actually acquiresmall companies, specificallyto fight over talent.
 - It's a big layout for hires.
-- We didn't put it in here,
-we didn't talk about it today
-because LinkedIn didn't make
-any acquisitions during OS3.
-(student asking question)
-- So, first question is, you know,
-when you're in the
-family and tribe stages,
-you hire people that can
-scale the village and beyond
-or village and you know up,
-that you're hiring deliberately
-in advance you're hiring for it.
-And the second question is,
-if you know that your hire,
-'cause some of the people
-you know, that you will,
-are very uncertain, do you
-have the hard conversation?
-And the short answer is
-there's very few people
-that you actually have 100% confidence.
+- We didn't put it in here,we didn't talk about it todaybecause LinkedIn didn't makeany acquisitions during OS3.
+(student asking question)- So, first question is, you know,when you're in thefamily and tribe stages,you hire people that canscale the village and beyondor village and you know up,that you're hiring deliberatelyin advance you're hiring for it.
+And the second question is,if you know that your hire,'cause some of the peopleyou know, that you will,are very uncertain, do youhave the hard conversation?And the short answer isthere's very few peoplethat you actually have 100% confidence.
 It's like a confidence interval.
-It's very few that you go
-95, 98, you know, like
-this is gonna happen.
-When I look back at LinkedIn,
-some people broke earlier
-than I expected and some people went
-much further than I expected.
-It happens that way
-'cause it's a new challenge,
-new circumstance, your own judgment.
-But part of that is then
-what gives you an ability.
-If you have your conversation with people,
-where you say, look,
-it's not an entitlement,
-it's not guaranteed you're gonna be there,
-for example, part of the
-way that I talk to people
-at LinkedIn is not I'm gonna
-be the CEO all the time either.
-We are defined by our mission
-about what we're doing
-and how we're being successful.
-And your job of me or your manager
-is to give you good feedback
-and give you traction on that
-and if you start the
-conversation gently early,
-you have a much higher likelihood
-of getting to a positive result.
-So if you essentially
-go to someone and say,
-look, this particular part of your job,
-even something you particularly
-love and hold on to,
-isn't actually going to survive.
+It's very few that you go95, 98, you know, likethis is gonna happen.
+When I look back at LinkedIn,some people broke earlierthan I expected and some people wentmuch further than I expected.
+It happens that way'cause it's a new challenge,new circumstance, your own judgment.
+But part of that is thenwhat gives you an ability.
+If you have your conversation with people,where you say, look,it's not an entitlement,it's not guaranteed you're gonna be there,for example, part of theway that I talk to peopleat LinkedIn is not I'm gonnabe the CEO all the time either.
+We are defined by our missionabout what we're doingand how we're being successful.
+And your job of me or your manageris to give you good feedbackand give you traction on thatand if you start theconversation gently early,you have a much higher likelihoodof getting to a positive result.
+So if you essentiallygo to someone and say,look, this particular part of your job,even something you particularlylove and hold on to,isn't actually going to survive.
 Let's have a conversation now.
 Go away, think about it for a couple days.
 Let's have another conversation about it.
-While you're having a
-conversation, you're articulating
-to the person, look, this is
-what you're really good at,
-this is why I really would
-love it if you would stay here,
-this is why you still have a great mission
-if you're doing these things.
-So you're articulating
-it, you're not saying,
-oh you still can't do that.
-You're like, look, here are all the things
-that are really good.
-And ultimately, one of
-the techniques that I use
-as a manager is I say
-look, I'm not asking you
-in some metaphysical sense
-to 100% agree with me
-in terms of what I'm
-saying during judgment,
-but this is the way that we're running.
-So it's not like you
-have to say, okay great,
-I'm really not very good at that.
-Fine, you can say I think I'm
-better at that than you do
-and then just continuing playing
-and we'll see how it plays out.
-So, those are the kinds
-of things that play
-into those kinds of conversation.
-Oh, and then the very last piece of it is
-you're almost never hiring,
-as part of not knowing the scale,
-you're almost always hiring
-a certain percentage,
-call it, you know, it could
-be 50, it could be 70%
-of people who you know are
-really good at this stage
-and that's the stage you
-should be solving for.
-Like they should be
-100% good at this stage
-and you don't know of the next
-and so you're targeting
-this stage, generally.
-- [Allen] So, let's pause there
-because we're a little over time.
-- Take one last question?
-- [Allen] One last question is great
-and then we also wanna talk
-about what's coming next.
-- [Voiceover] Thanks, can I (mumbles)?
-Well no, and so,
-what percentage of people
-did you guys end up firing
-or like if you could give a range?
-Like was it highly uncommon or was it,
-you know, one every five people?
-- Well, generally speaking, we
-would try as much as possible
-to manage people out through a process
-'cause we thought that was the
-right, kind of human thing,
-so technically it's not a firing.
-'Cause that's not the,
-you know, here's a paper,
-the security person's
-walking you to the door.
-(laughs) Right?
-You know, that kind of thing.
-So we'd had relatively
-few firings, I think
-because we made a real
-effort to try to do that.
-We did have a lot of people
-that maybe, probably, half per stage?
-Third per stage?
-- A third, I think probably a third.
-- Third?
-Okay, roughly, that we were
-kind of going through that way.
-- [Voiceover] And that means
-like, hey, you're really good
-at these things, how about
-you focus on those more?
-And then over time you end up--
-- Yeah, or like, hey
-this isn't really like,
-what you want isn't really
-gonna play out here.
-Let's try to make it work so it works
-for both of you and for us.
-And I've had more conversations like that
-than I can remember the number.
-- Okay, so let's talk
-about what's coming on
-the next two weeks.
-- [Reid] And by the way, we
-can come back to questions
-on this all throughout the class.
-So, it's not a speak once, forever--
-- And we'll be around for a couple
-of minutes afterwards, for followups.
-So, Selina from SurveyMonkey
-and Patrick from Stripe
-and Nirav from Nextdoor.
-I don't know if you wanna
-give an introduction
-to any of them at this point.
-You're gonna meet them all
-in the next couple of weeks.
-- So the high line is SurveyMonkey,
-most people who are
-operative in the valley
-actually know it's a
-super interesting company
-that has a very
-interesting business model.
+While you're having aconversation, you're articulatingto the person, look, this iswhat you're really good at,this is why I really wouldlove it if you would stay here,this is why you still have a great missionif you're doing these things.
+So you're articulatingit, you're not saying,oh you still can't do that.
+You're like, look, here are all the thingsthat are really good.
+And ultimately, one ofthe techniques that I useas a manager is I saylook, I'm not asking youin some metaphysical senseto 100% agree with mein terms of what I'msaying during judgment,but this is the way that we're running.
+So it's not like youhave to say, okay great,I'm really not very good at that.
+Fine, you can say I think I'mbetter at that than you doand then just continuing playingand we'll see how it plays out.
+So, those are the kindsof things that playinto those kinds of conversation.
+Oh, and then the very last piece of it isyou're almost never hiring,as part of not knowing the scale,you're almost always hiringa certain percentage,call it, you know, it couldbe 50, it could be 70%of people who you know arereally good at this stageand that's the stage youshould be solving for.
+Like they should be100% good at this stageand you don't know of the nextand so you're targetingthis stage, generally.
+- [Allen] So, let's pause therebecause we're a little over time.
+- Take one last question?- [Allen] One last question is greatand then we also wanna talkabout what's coming next.
+- [Voiceover] Thanks, can I (mumbles)?Well no, and so,what percentage of peopledid you guys end up firingor like if you could give a range?Like was it highly uncommon or was it,you know, one every five people?- Well, generally speaking, wewould try as much as possibleto manage people out through a process'cause we thought that was theright, kind of human thing,so technically it's not a firing.
+'Cause that's not the,you know, here's a paper,the security person'swalking you to the door.
+(laughs) Right?You know, that kind of thing.
+So we'd had relativelyfew firings, I thinkbecause we made a realeffort to try to do that.
+We did have a lot of peoplethat maybe, probably, half per stage?Third per stage?- A third, I think probably a third.
+- Third?Okay, roughly, that we werekind of going through that way.
+- [Voiceover] And that meanslike, hey, you're really goodat these things, how aboutyou focus on those more?And then over time you end up--- Yeah, or like, heythis isn't really like,what you want isn't reallygonna play out here.
+Let's try to make it work so it worksfor both of you and for us.
+And I've had more conversations like thatthan I can remember the number.
+- Okay, so let's talkabout what's coming onthe next two weeks.
+- [Reid] And by the way, wecan come back to questionson this all throughout the class.
+So, it's not a speak once, forever--- And we'll be around for a coupleof minutes afterwards, for followups.
+So, Selina from SurveyMonkeyand Patrick from Stripeand Nirav from Nextdoor.
+I don't know if you wannagive an introductionto any of them at this point.
+You're gonna meet them allin the next couple of weeks.
+- So the high line is SurveyMonkey,most people who areoperative in the valleyactually know it's asuper interesting companythat has a veryinteresting business model.
 It's somewhat stealth to everybody else.
-They may, you have taken the surveys,
-but don't understand
-how big the business is.
-Selina is the person who grew the product
-and engineering team for
-doing it and it's interesting.
-Patrick Collison is the CEO
-and co-founder of Stripe,
-which is kind of the next
-generation of payments.
-And Nirav Tolia is Nextdoor,
-which is social networks
-for neighborhoods.
-And they're all like
-unicorn, unicorn, unicorn.
-Really. Right?
-- [Allen] Yeah. (laughs)
-- [Reid] So.
+They may, you have taken the surveys,but don't understandhow big the business is.
+Selina is the person who grew the productand engineering team fordoing it and it's interesting.
+Patrick Collison is the CEOand co-founder of Stripe,which is kind of the nextgeneration of payments.
+And Nirav Tolia is Nextdoor,which is social networksfor neighborhoods.
+And they're all likeunicorn, unicorn, unicorn.
+Really. Right?- [Allen] Yeah. (laughs)- [Reid] So.
 - [Allen] All right, great.
-Thanks very much, we'll
-see you on Thursday.
+Thanks very much, we'llsee you on Thursday.

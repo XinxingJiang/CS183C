@@ -1,2524 +1,749 @@
-WEBVTT
-Kind: captions
-Language: en
-- [Reid] It is my great privilege
-that we have Eric Schmidt with us today.
-Actually, on the topic of blitzscaling,
-there is nobody higher in the world
-that I would like to talk to
-about this subject than Eric.
-He has literally done it in
-the most serious ways possible,
-He thinks about these things
-in theoretical and deep ways,
-and actually teaches his own
-class on entrepreneurship
-and everything else.
-So, it is with great pleasure,
-why don't we welcome Eric.
-(applause)
-And then kick it off.
-I don't know if everyone
-knows that you had a
-kind of a substantive
-career before Google,
-since they all know about
-your career at Google.
-First at Sun doing very
-hardcore tech stuff,
-and then Novell.
-What did you learn from those two gigs
-that you took with you to Google,
-that was really helpful
-and essential for Google?
-- First, thank you for having me.
-and obviously I support
-what you're trying to do with Stanford.
-in fact, all of your activities
-and there's nobody I work
-with who's more clever
-and insightful on most of
-these issues than Reid Hoffman.
-It's interesting that
-yesterday I went to visit
-my old boss when I worked at Xerox Park,
-whose name is Bob Taylor.
-And to talk to somebody
-who is the person who
-funded the ARPANET, and
-ask him how did he do that,
-and the person who conceived
-the personal computer
-and who did he work with,
-gives you a reminder
-of both the extraordinary
-and the awesome things
-that have happened in our industry,
-and also, frankly, how old I am.
+WEBVTTKind: captionsLanguage: en- [Reid] It is my great privilegethat we have Eric Schmidt with us today.
+Actually, on the topic of blitzscaling,there is nobody higher in the worldthat I would like to talk toabout this subject than Eric.
+He has literally done it inthe most serious ways possible,He thinks about these thingsin theoretical and deep ways,and actually teaches his ownclass on entrepreneurshipand everything else.
+So, it is with great pleasure,why don't we welcome Eric.
+(applause)And then kick it off.
+I don't know if everyoneknows that you had akind of a substantivecareer before Google,since they all know aboutyour career at Google.
+First at Sun doing veryhardcore tech stuff,and then Novell.
+What did you learn from those two gigsthat you took with you to Google,that was really helpfuland essential for Google?- First, thank you for having me.
+and obviously I supportwhat you're trying to do with Stanford.
+in fact, all of your activitiesand there's nobody I workwith who's more cleverand insightful on most ofthese issues than Reid Hoffman.
+It's interesting thatyesterday I went to visitmy old boss when I worked at Xerox Park,whose name is Bob Taylor.
+And to talk to somebodywho is the person whofunded the ARPANET, andask him how did he do that,and the person who conceivedthe personal computerand who did he work with,gives you a reminderof both the extraordinaryand the awesome thingsthat have happened in our industry,and also, frankly, how old I am.
 That's sort of my conclusion.
-My history is I'm a computer
-scientist at PC from Berkeley,
-but I've been around
-here for almost 40 years.
-After working at Xerox
-Park, I went to Sun.
-And one of my sort of rules
-as a first young manager
-is as a young manager,
-you absorb everything.
-So, my manager at Xerox, Bob Taylor,
-had a particular management style which
-I now realize, 40 years
-later, is kind of like mine
-in the way I approach things.
-My first impressions
-of being a Sun manager
-and the way Sun worked I think colored
-the next 30 years of development.
-One of the things to remember
-is that the next five or
-10 years of your careers
-is in fact crucial because
-that's when you learn
-all this shit, right?
-And sort of where you
-are and the people you,
-the sort of subtle things
-that make leadership happen
-are learned during that period,
-which was a surprise to me.
-So at Sun, Sun was both very tumultuous,
-very political, and very complicated.
-There were many, many
-good things that I learned
-and I also learned some real negatives.
-One of the things I learned negatively
-is that companies can
-reorganize prematurely.
+My history is I'm a computerscientist at PC from Berkeley,but I've been aroundhere for almost 40 years.
+After working at XeroxPark, I went to Sun.
+And one of my sort of rulesas a first young manageris as a young manager,you absorb everything.
+So, my manager at Xerox, Bob Taylor,had a particular management style whichI now realize, 40 yearslater, is kind of like minein the way I approach things.
+My first impressionsof being a Sun managerand the way Sun worked I think coloredthe next 30 years of development.
+One of the things to rememberis that the next five or10 years of your careersis in fact crucial becausethat's when you learnall this shit, right?And sort of where youare and the people you,the sort of subtle thingsthat make leadership happenare learned during that period,which was a surprise to me.
+So at Sun, Sun was both very tumultuous,very political, and very complicated.
+There were many, manygood things that I learnedand I also learned some real negatives.
+One of the things I learned negativelyis that companies canreorganize prematurely.
 Companies can become religious.
 Companies can not react to actual facts.
-The low point in my time at Sun was
-we had a meeting where we were looking at
-Sun computers versus PCs
-and we concluded we could not
-get our manufacturing costs
-equal to that of PCs.
-Now, by the way, that's a
-signal that you should quit,
-because I failed to answer
-the question I advocate now
-which is, "What does the
-next five years look like?"
-One of the sort of things we talk about
-in my other class in the MBA school is
-ask the five-year question.
-I learned that sort of
-the hard way becuase
-for most of my life, the
-answers were given to me
-or they were highly narrow.
-So now I ask, "What's gonna
-happen the next five years?"
-and I learn down.
-So, after 14 years at Sun,
-lots of politics and so forth,
-I did the Java maneuver
-which we can talk about
-if you're interested, I went to Novell
-under the mistaken idea
-that I wanted to be a CEO
-and I failed to do any due diligence.
-Had I done the due diligence,
-I wouldn't have taken the job
-and therefore I would
-not have gone to Google,
-so it's probably good I
-didn't do the due diligence.
-At Novell, there was a
-week which we remember,
-my colleague and I who had joined with me,
-was the worst week ever.
-Our basic goal was to
-get out of this with our
-professional reputations
-intact and not in jail.
-And that's, after you join
-a company, you discover
-the books are cooked, and
-the people are frauds,
-and the customers aren't
-paying, and so forth and so on.
-In hindsight, what I
-learned is that you can
-actually overcome that.
-The skills I developed at Novell, in fact,
-allowed us to do things at Google.
-So, what happened when
-I showed up at Google,
-to make a long story short there, was that
-the company's very
-interesting, very innovative,
-but because I'd had such
-a tough time at Novell,
-I understood the role of cash.
-So we did everything we
-could to run the company
-for revenue, and the rest is history.
-- Is there anything other
-than maybe telling yourself
-to maybe one time not do due diligence,
-but other times do it,
-for the obvious thing of
-getting to Google, if you go
-back to your younger self,
-is there anything you
-would have told yourself
-to do differently pre-Google?
-- I think all answers of
-that category in our industry
-are to do things that you did sooner,
-and to make fewer mistakes.
-In hindsight, I would always have
-made the right decision faster
-and I would have made fewer mistakes.
-I wonder what is it that causes me
-to not make the decisions quickly,
-and, by the way, I continue
-to have this problem.
-It may just be that some people are
-quicker decision-makers than others.
-It's not obvious that you have to make
-all the decisions
-quickly, but in hindsight,
-you would judge them all that way.
-And every executive and
-every business class
-and every management class
-will say the same thing
-which is, "I should've fixed this earlier.
+The low point in my time at Sun waswe had a meeting where we were looking atSun computers versus PCsand we concluded we could notget our manufacturing costsequal to that of PCs.
+Now, by the way, that's asignal that you should quit,because I failed to answerthe question I advocate nowwhich is, "What does thenext five years look like?"One of the sort of things we talk aboutin my other class in the MBA school isask the five-year question.
+I learned that sort ofthe hard way becuasefor most of my life, theanswers were given to meor they were highly narrow.
+So now I ask, "What's gonnahappen the next five years?"and I learn down.
+So, after 14 years at Sun,lots of politics and so forth,I did the Java maneuverwhich we can talk aboutif you're interested, I went to Novellunder the mistaken ideathat I wanted to be a CEOand I failed to do any due diligence.
+Had I done the due diligence,I wouldn't have taken the joband therefore I wouldnot have gone to Google,so it's probably good Ididn't do the due diligence.
+At Novell, there was aweek which we remember,my colleague and I who had joined with me,was the worst week ever.
+Our basic goal was toget out of this with ourprofessional reputationsintact and not in jail.
+And that's, after you joina company, you discoverthe books are cooked, andthe people are frauds,and the customers aren'tpaying, and so forth and so on.
+In hindsight, what Ilearned is that you canactually overcome that.
+The skills I developed at Novell, in fact,allowed us to do things at Google.
+So, what happened whenI showed up at Google,to make a long story short there, was thatthe company's veryinteresting, very innovative,but because I'd had sucha tough time at Novell,I understood the role of cash.
+So we did everything wecould to run the companyfor revenue, and the rest is history.
+- Is there anything otherthan maybe telling yourselfto maybe one time not do due diligence,but other times do it,for the obvious thing ofgetting to Google, if you goback to your younger self,is there anything youwould have told yourselfto do differently pre-Google?- I think all answers ofthat category in our industryare to do things that you did sooner,and to make fewer mistakes.
+In hindsight, I would always havemade the right decision fasterand I would have made fewer mistakes.
+I wonder what is it that causes meto not make the decisions quickly,and, by the way, I continueto have this problem.
+It may just be that some people arequicker decision-makers than others.
+It's not obvious that you have to makeall the decisionsquickly, but in hindsight,you would judge them all that way.
+And every executive andevery business classand every management classwill say the same thingwhich is, "I should've fixed this earlier.
 I should've fired this person sooner.
-I should have cleaned that
-up earlier," and so forth.
-And that's why businesses
-are not like the government
-where none of that ever happens.
-(laughter)
-- Or very little.
+I should have cleaned thatup earlier," and so forth.
+And that's why businessesare not like the governmentwhere none of that ever happens.
+(laughter)- Or very little.
 - Yeah.
 - So let's go to Google.
-What was the employee size
-when you joined Google?
-- About 150.
+What was the employee sizewhen you joined Google?- About 150.
 I should tell you this story about Google.
-Larry and Sergey had to take in funding,
-$25 million, from two
-venture capitalists who--
-thank you very much, Peter.
-This, by the way,
-delivering the Diet Coke is
-Peter Wendell, my co-professor,
-thank you very much Peter,
-in my business school class
-who's joining us for a minute,
-and we hope to steal all of your
-best ideas for our class,
-Reid, so we're clear.
+Larry and Sergey had to take in funding,$25 million, from twoventure capitalists who--thank you very much, Peter.
+This, by the way,delivering the Diet Coke isPeter Wendell, my co-professor,thank you very much Peter,in my business school classwho's joining us for a minute,and we hope to steal all of yourbest ideas for our class,Reid, so we're clear.
 That's why we're here, so we're clear.
 - [Reid] With pleasure and honor.
-- So what happened was,
-the venture guys had said,
-"These two young men are
-brilliant, crazy, and unreliable
-and they need a proper CEO."
-So the two young men agreed to hire a CEO
-as long as they could vet them.
-And so their vetting algorithm was
-they had to spend a weekend
-with the two of them.
-So each candidate would do
-something for the weekend.
-The took some of them
-skiing, some of them boating,
-some of them go to the various farms.
-They went to New York once
-with somebody, and so forth.
-This guaranteed no one
-was gonna get hired.
-I was eventually called
-by John Doerr and I said,
-"Well, I'm really not gonna do that," but
-in turns out we met and it
-pretty obvious we agreed.
+- So what happened was,the venture guys had said,"These two young men arebrilliant, crazy, and unreliableand they need a proper CEO."So the two young men agreed to hire a CEOas long as they could vet them.
+And so their vetting algorithm wasthey had to spend a weekendwith the two of them.
+So each candidate would dosomething for the weekend.
+The took some of themskiing, some of them boating,some of them go to the various farms.
+They went to New York oncewith somebody, and so forth.
+This guaranteed no onewas gonna get hired.
+I was eventually calledby John Doerr and I said,"Well, I'm really not gonna do that," butin turns out we met and itpretty obvious we agreed.
 I made a list of things they had to fix.
-They had to fix them
-and the rest happened.
-What's interesting about
-Larry and Sergey is that
-they had both been here and they had
-the same professor 18 years later,
-so we're far more similar
-than we'd like to admit.
+They had to fix themand the rest happened.
+What's interesting aboutLarry and Sergey is thatthey had both been here and they hadthe same professor 18 years later,so we're far more similarthan we'd like to admit.
 Similar backgrounds.
 We have a question.
-- [Student 1] I was just
-wondering if you could remember
-some of the things that were on the list.
-- I have the list,
-because I save everything.
+- [Student 1] I was justwondering if you could remembersome of the things that were on the list.
+- I have the list,because I save everything.
 Remember, this is Google.
-(laughter)
-You know, when you think
-about a small company,
-almost all of them have the property that
-they're full of energy and no process.
-And they get to the
-point where Google was at
-by just sheer force of energy, hard work,
-and figuring stuff out.
-So, my list was pretty straightforward:
-International expansion plans;
-sales plans; hiring plans;
-"Is the money real?" proper accounting;
-"Do you understand where
-your inventory is?"
-in this case, Google didn't have any;
-development plans; 18-month product plans,
-none of which existed.
-The first meeting I was in at Google,
-it was like being in graduate
-school at a university,
-full of very interesting conversations
-without deadlines or deliverables
-was sort of the style.
-Much of the Google culture
-was developed out of
-the graduate school of Stanford.
-In other words, the offices
-have four people in it
-because that was the office
-that Larry and Sergey had.
+(laughter)You know, when you thinkabout a small company,almost all of them have the property thatthey're full of energy and no process.
+And they get to thepoint where Google was atby just sheer force of energy, hard work,and figuring stuff out.
+So, my list was pretty straightforward:International expansion plans;sales plans; hiring plans;"Is the money real?" proper accounting;"Do you understand whereyour inventory is?"in this case, Google didn't have any;development plans; 18-month product plans,none of which existed.
+The first meeting I was in at Google,it was like being in graduateschool at a university,full of very interesting conversationswithout deadlines or deliverableswas sort of the style.
+Much of the Google culturewas developed out ofthe graduate school of Stanford.
+In other words, the officeshave four people in itbecause that was the officethat Larry and Sergey had.
 It felt very much like that.
-It turns out that with
-that kind of raw material,
-all you have to do is ask
-questions, like "what's the plan?"
-They go, "Ohh," then an answer comes out.
-It's not that they haven't
-though- well, it is.
+It turns out that withthat kind of raw material,all you have to do is askquestions, like "what's the plan?"They go, "Ohh," then an answer comes out.
+It's not that they haven'tthough- well, it is.
 If you push them, they can develop a plan.
-It's just they didn't
-think it was important.
-It was more interesting
-to talk about this,
-and that's where the raw talent matters.
-- Just as an elaboration on that,
-what advice would you give-
-how does the partnership
-between young, ambitious,
-highly-talented, super-smart founders
-and new people coming in?
-What were the key things to
-make that work really well?
-- I was well aware of the
-John Sculley/Steve Jobs story,
-and you all are too young
-to have lived through it,
-but the fact of the matter is that
-Jobs needed someone to be the CEO.
+It's just they didn'tthink it was important.
+It was more interestingto talk about this,and that's where the raw talent matters.
+- Just as an elaboration on that,what advice would you give-how does the partnershipbetween young, ambitious,highly-talented, super-smart foundersand new people coming in?What were the key things tomake that work really well?- I was well aware of theJohn Sculley/Steve Jobs story,and you all are too youngto have lived through it,but the fact of the matter is thatJobs needed someone to be the CEO.
 The board picked Sculley.
 The two had a fight.
-Sculley went to the board. The
-board had to support the CEO.
+Sculley went to the board. Theboard had to support the CEO.
 Because if they don't, the CEO quits.
 And the rest happened.
 Eventually, Steve left.
-Formed a company called
-Next, and as you know,
-he very cleverly ultimately
-got himself acquired,
-and then within a month or two,
-got the CEO who acquired him fired
-and replaced the entire board.
+Formed a company calledNext, and as you know,he very cleverly ultimatelygot himself acquired,and then within a month or two,got the CEO who acquired him firedand replaced the entire board.
 By the way, that's a Steve Jobs moment.
-That's very hard to do,
-certainly for you and I.
-That's like an amazing
-achievement in and of itself.
-(laughter)
-And, you know, it produced the most
-valuable company in the world,
-so, you know, it's clearly
-the right choice in hindsight.
-Well, I was very, very
-aware of this issue of
-founders and the outsider,
-and I understood I was the outsider.
-So from the moment I started,
-I knew it was their company,
-and I didn't get confused.
-It's their company. It's their
-company. It's their company.
-So what does this mean?
-I refuse to do any press.
-So, as young executives,
-and all sorts of press,
-they really enjoyed it,
-they had all these pictures,
-they were on the cover of
-Time, and so forth and so on.
-And then, right before the IPO,
-they did an interview with Playboy.
-(laughter) No pictures,
-just so we're clear.
-The interview with
-Playboy was on, roughly,
-February 20 or April 20 of that year.
-It turns out that the
-interview was at the wrong time
-in the cycle of being quiet period,
-and it put our IPO in jeopardy.
-So I still remember in August of that year
-sitting with them and saying-
-you know, these are my closest
-friends, my colleagues.
+That's very hard to do,certainly for you and I.
+That's like an amazingachievement in and of itself.
+(laughter)And, you know, it produced the mostvaluable company in the world,so, you know, it's clearlythe right choice in hindsight.
+Well, I was very, veryaware of this issue offounders and the outsider,and I understood I was the outsider.
+So from the moment I started,I knew it was their company,and I didn't get confused.
+It's their company. It's theircompany. It's their company.
+So what does this mean?I refuse to do any press.
+So, as young executives,and all sorts of press,they really enjoyed it,they had all these pictures,they were on the cover ofTime, and so forth and so on.
+And then, right before the IPO,they did an interview with Playboy.
+(laughter) No pictures,just so we're clear.
+The interview withPlayboy was on, roughly,February 20 or April 20 of that year.
+It turns out that theinterview was at the wrong timein the cycle of being quiet period,and it put our IPO in jeopardy.
+So I still remember in August of that yearsitting with them and saying-you know, these are my closestfriends, my colleagues.
 I really care deeply for them.
-They have those long
-faces people get on them,
-and uncharacteristically they said,
-"Did we screw up?" and
-the correct answer is,
-"Yes. You really screwed up,"
-but the even more correct answer is,
-"No problem. Easy mistake to make.
-I would have made this mistake."
-And we papered it over
-in a legally-correct way.
-From that moment on,
-they've given no interviews.
-(laughter)
-- [Reid] Really? From that moment on?
-- From that moment on.
+They have those longfaces people get on them,and uncharacteristically they said,"Did we screw up?" andthe correct answer is,"Yes. You really screwed up,"but the even more correct answer is,"No problem. Easy mistake to make.
+I would have made this mistake."And we papered it overin a legally-correct way.
+From that moment on,they've given no interviews.
+(laughter)- [Reid] Really? From that moment on?- From that moment on.
 Now that was 12 years ago.
-What's interesting
-about that psychology is
-somehow, as young
-executives, they wanted it,
-but once they didn't want it,
-it was fine for me to do it.
-But intuitively, it is their
-company. It's not my company.
-I am the professional that was
-hired. They are the owners.
+What's interestingabout that psychology issomehow, as youngexecutives, they wanted it,but once they didn't want it,it was fine for me to do it.
+But intuitively, it is theircompany. It's not my company.
+I am the professional that washired. They are the owners.
 They are the founders. It's their company.
-If you get confused on this
-point, you're not gonna win.
-Nowadays, the founders
-are much less likely
-to offer control the way, say,
-Pierre Omidyar offered it to Meg Whitman.
-There's an increasing sort
-of view of their own ability.
+If you get confused on thispoint, you're not gonna win.
+Nowadays, the foundersare much less likelyto offer control the way, say,Pierre Omidyar offered it to Meg Whitman.
+There's an increasing sortof view of their own ability.
 And that's fine, too.
-If you look at Facebook,
-it's worked really quite well
-with Mark, who's brilliant and young.
-By bringing in someone who
-is much more experienced
-in many, many things, Sheryl Sandberg,
-that partnership worked extremely well.
+If you look at Facebook,it's worked really quite wellwith Mark, who's brilliant and young.
+By bringing in someone whois much more experiencedin many, many things, Sheryl Sandberg,that partnership worked extremely well.
 So there's not one answer.
-- So, joined at 100. It's
-now over 50,000 people.
+- So, joined at 100. It'snow over 50,000 people.
 - 60-plus thousand.
-- 60-plus thousand, a classic
-example of blitzscaling.
-Matter of fact, there was
-one year - I think it was
-2004 to 2005 - you over tripled
-the number of employees in that year.
+- 60-plus thousand, a classicexample of blitzscaling.
+Matter of fact, there wasone year - I think it was2004 to 2005 - you over tripledthe number of employees in that year.
 - I do have a saying about this.
-It's easy to double. It's very
-hard to quadruple every year.
-(Reid chuckles)
-It's a bit of advice. You can double.
-You can kind of see it. You can kind of,
-"Okay, I can add in another person here.
-I can add another person,
-and then, you know,
-I can expand into this country,"
-and so forth and so on.
+It's easy to double. It's veryhard to quadruple every year.
+(Reid chuckles)It's a bit of advice. You can double.
+You can kind of see it. You can kind of,"Okay, I can add in another person here.
+I can add another person,and then, you know,I can expand into this country,"and so forth and so on.
 But to quadruple is almost impossible.
-- So, what were the kind of-
-because you had to invent a
-lot of these techniques, right?
-These hacks, I mean.
-Everything from the three
-of you reading every resume
-to, you know, keeping innovation going
-20-percent time, other kinds of things.
-What were the key hacks that worked
-and the key hacks that didn't work?
-- So, I want to offfer a cautionary tale.
-And again, having both read your book
-and also the notes that you
-kindly sent me before this,
-if you don't understand the subtlety here,
-you would conclude that
-the correct thing to do
-is to grow everything as fast
-as you possibly can everywhere
-so let's just make as many
-engineers, as many salespeople,
-as many products, and so forth and so on.
+- So, what were the kind of-because you had to invent alot of these techniques, right?These hacks, I mean.
+Everything from the threeof you reading every resumeto, you know, keeping innovation going20-percent time, other kinds of things.
+What were the key hacks that workedand the key hacks that didn't work?- So, I want to offfer a cautionary tale.
+And again, having both read your bookand also the notes that youkindly sent me before this,if you don't understand the subtlety here,you would conclude thatthe correct thing to dois to grow everything as fastas you possibly can everywhereso let's just make as manyengineers, as many salespeople,as many products, and so forth and so on.
 That completely does not work.
-It doesn't work because
-no product shall ship
-before it actually works, alright?
-The way you build great products
-is you have small teams
-with strong leaders
-who obsess over trade-offs
-and they push things off
-and they say "we've gotta get it done,"
-and they put a lot of
-pressure on the team,
-they work all night, and
-they produce a product
-that just barely works.
+It doesn't work becauseno product shall shipbefore it actually works, alright?The way you build great productsis you have small teamswith strong leaderswho obsess over trade-offsand they push things offand they say "we've gotta get it done,"and they put a lot ofpressure on the team,they work all night, andthey produce a productthat just barely works.
 I'll use non-Google examples.
 The original iPod just barely worked.
 Look what it became.
-Try, people, to remember
-the original iPhone.
+Try, people, to rememberthe original iPhone.
 No apps, right? Everyone's forgotten that.
-Just barely worked, but was
-just the right combination
-to create an enormous franchise that's now
-70% of the revenue of the
-world's most valuable company.
+Just barely worked, but wasjust the right combinationto create an enormous franchise that's now70% of the revenue of theworld's most valuable company.
 I was talking to Travis Kalanick.
-We are major investors inside of Uber,
-so we have good relationships with Uber.
-And his description of Uber was that
-he understood scaling, but the product,
-the app, wasn't ready.
-So you have to sort of
-have judgement about
-when the product is ready
-to scale against it.
+We are major investors inside of Uber,so we have good relationships with Uber.
+And his description of Uber was thathe understood scaling, but the product,the app, wasn't ready.
+So you have to sort ofhave judgement aboutwhen the product is readyto scale against it.
 We would debate this over and over again.
 Larry and Sergey would play tricks on me.
-A typical example would be:
-I would say, "We're not strong enough
-to take on Microsoft."
-They wanted to do an operating system
-and a browser, and I said,
-"There's no scenario where we'll ever do
-an operating system and a browser,
-because Microsoft will kill us,
-and I don't want to get killed.
-We're a small company, and yes, yes,
-you're very smart, and yes, yes,
-we're full of smart people,
-and yes, yes, we have lots of revenue.
-These guys can kill us, because I've been
-previously killed at previous jobs."
-So, they hired somebody to improve
-the performance of Firefox.
-Six months later, I'm
-called down to one office,
-and the person who was supposed to improve
-the performance of Firefox
-has managed to invent Chrome.
-(laughter)
-Shocking.
-And I'd say, "Well, how long
-have you been doing this?"
-"Well, I've been doing it on the side."
-"No, you haven't. You've
-done it full-time."
-"Well, yeah, you know, I
-had three other people."
-"Okay. Well, how many
-more people do you have?"
-"Oh, 10 more people."
-"Okay, did Larry and
-Sergey know about this?"
-"Larry and Sergey encouraged it."
-I said, "Screw those assholes."
-I knew it. I knew they
-were going around me.
-(laughter)
-So, and then I said, "We
-can't do an operating system."
-So, they bought this
-company called Android
-and they said, "it's just for smartphones.
+A typical example would be:I would say, "We're not strong enoughto take on Microsoft."They wanted to do an operating systemand a browser, and I said,"There's no scenario where we'll ever doan operating system and a browser,because Microsoft will kill us,and I don't want to get killed.
+We're a small company, and yes, yes,you're very smart, and yes, yes,we're full of smart people,and yes, yes, we have lots of revenue.
+These guys can kill us, because I've beenpreviously killed at previous jobs."So, they hired somebody to improvethe performance of Firefox.
+Six months later, I'mcalled down to one office,and the person who was supposed to improvethe performance of Firefoxhas managed to invent Chrome.
+(laughter)Shocking.
+And I'd say, "Well, how longhave you been doing this?""Well, I've been doing it on the side.""No, you haven't. You'vedone it full-time.""Well, yeah, you know, Ihad three other people.""Okay. Well, how manymore people do you have?""Oh, 10 more people.""Okay, did Larry andSergey know about this?""Larry and Sergey encouraged it."I said, "Screw those assholes."I knew it. I knew theywere going around me.
+(laughter)So, and then I said, "Wecan't do an operating system."So, they bought thiscompany called Androidand they said, "it's just for smartphones.
 It's software for smartphones.
-Don't worry, Eric."
-(laughter)
-Today, Android is 1.4 billion-plus
-operating systems used.
-Largest number of operating
-systems in the world.
-Chrome is the largest and
-most successful browser.
-Maybe the lesson to learn in management is
-"I'm just wrong all the time."
-But the secret was you
-have to have judgement
-as to when these things can scale.
-I can give you plenty
-of negative examples.
+Don't worry, Eric."(laughter)Today, Android is 1.4 billion-plusoperating systems used.
+Largest number of operatingsystems in the world.
+Chrome is the largest andmost successful browser.
+Maybe the lesson to learn in management is"I'm just wrong all the time."But the secret was youhave to have judgementas to when these things can scale.
+I can give you plentyof negative examples.
 An obvious one is Wave.
-It was a complicated email
-product that we launched
-to great fanfare, and we
-watched its adoption rate.
-Marissa had this rule, which
-is a good rule, at Google:
-you cannot tell how
-successful a product is
-until the first six months,
-because what happens is
-you get this adoption cycle,
-and everyone loves the product
-because everyone tests it, and
-then you watch what happens.
-And the great products,
-they're bumpy, but they go up.
-Well, this is what it
-looked like. Like this.
-So, it took Eric, your
-friendly CEO, 18 months
-of going down, before that
-project was cancelled.
+It was a complicated emailproduct that we launchedto great fanfare, and wewatched its adoption rate.
+Marissa had this rule, whichis a good rule, at Google:you cannot tell howsuccessful a product isuntil the first six months,because what happens isyou get this adoption cycle,and everyone loves the productbecause everyone tests it, andthen you watch what happens.
+And the great products,they're bumpy, but they go up.
+Well, this is what itlooked like. Like this.
+So, it took Eric, yourfriendly CEO, 18 monthsof going down, before thatproject was cancelled.
 So, again, lack of due diligence lasts.
-The reason I'm answering your question,
-the blitzgrowth argument,
-by saying you've got to have
-the products you can scale.
-If you have the products that can scale,
-the thing that's new is
-you can scale very quickly.
+The reason I'm answering your question,the blitzgrowth argument,by saying you've got to havethe products you can scale.
+If you have the products that can scale,the thing that's new isyou can scale very quickly.
 The Uber example.
-Once you have an app and a business model
-that more or less works,
-there's no reason why you
-shouldn't go global and wide.
-When I started at Google,
-my first concern with Google is
-I thought the whole thing was a sham.
-The company was using
-Quickbooks for its accounting
-and I was convinced
-that there were errors,
-so I asked to be shown the
-actual cash balance in the bank.
-There was, in fact, cash in the bank,
-which was shocking to me.
-So then the sales guy, his name was Omid,
-who's now just gone off to Twitter.
-I said, "Okay, well, where's
-this money coming from?"
-He said, "We have sales
-for us. We sell these ads."
-"Who clicks on these ads?"
-"Well, nobody."
-"Well, okay, whatever." It
-must be some fake thing.
-So, we investigated and we decide
-people really were clicking on these ads,
-so I said, "How many clicks do you get
-outside of America?" and
-he said, "Well, none."
-I said, "Well, you have
-lots of traffic," so I said,
-"Leave and go to Europe,
-and don't come back
-until you have sales operations in
-Britain, the UK, and France,"
-which is a strange thing
-to say to somebody.
-This is a month after
-I started, so he left,
-and he came back in three weeks
-having set up those operations.
-Today, the operations he set up contribute
-60% of the profits of a 60
-billion-dollar corporation.
-So, in hindsight, I should
-have done it a month earlier.
-Think about the compound
-value of that decision.
-There's a point where you keep it small,
-and there's a point where you expand.
-When you expand, you
-grow very, very quickly.
+Once you have an app and a business modelthat more or less works,there's no reason why youshouldn't go global and wide.
+When I started at Google,my first concern with Google isI thought the whole thing was a sham.
+The company was usingQuickbooks for its accountingand I was convincedthat there were errors,so I asked to be shown theactual cash balance in the bank.
+There was, in fact, cash in the bank,which was shocking to me.
+So then the sales guy, his name was Omid,who's now just gone off to Twitter.
+I said, "Okay, well, where'sthis money coming from?"He said, "We have salesfor us. We sell these ads.""Who clicks on these ads?""Well, nobody.""Well, okay, whatever." Itmust be some fake thing.
+So, we investigated and we decidepeople really were clicking on these ads,so I said, "How many clicks do you getoutside of America?" andhe said, "Well, none."I said, "Well, you havelots of traffic," so I said,"Leave and go to Europe,and don't come backuntil you have sales operations inBritain, the UK, and France,"which is a strange thingto say to somebody.
+This is a month afterI started, so he left,and he came back in three weekshaving set up those operations.
+Today, the operations he set up contribute60% of the profits of a 60billion-dollar corporation.
+So, in hindsight, I shouldhave done it a month earlier.
+Think about the compoundvalue of that decision.
+There's a point where you keep it small,and there's a point where you expand.
+When you expand, yougrow very, very quickly.
 And it has to be replicable.
 So, let's just use Uber as an example.
-Always the favorite example,
-because everybody
-understands Uber, as I said.
-Do you believe that the Uber model
-scales well outside of the United States?
-Well, ask the French, okay?
-The French love it, but
-the government hates it.
-So they meet two problems:
-They need a scalable app
-and they need a scalable
-negotiation strategy
-with the governments, right?
-So, now you can guess how far they'll be.
-Google had the same problem
-with China, and we lost.
-- So, any heuristics for when
-the product is right for scaling?
-- Well, I have another opinion about this.
-If you think about the greatest products,
-they've almost always been designed
-for the benefit of the people
-who are actually building them.
-So, the Uber story: they
-built this to share apps.
-In fact, the original Uber
-was a private sharing group.
-Larry and Sergey built Google for Stanford
-and in particular, for themselves.
-The server was in Larry's dorm room,
-and they needed a second server.
-They didn't have enough power,
-so they ran the cord over the room
-into the gentleman next door's dorm room.
-They opened up the server
-for the entire campus here,
-and the usage was phenomenal.
-Andy Bechtolsheim heard about
-it through David Cheriton.
+Always the favorite example,because everybodyunderstands Uber, as I said.
+Do you believe that the Uber modelscales well outside of the United States?Well, ask the French, okay?The French love it, butthe government hates it.
+So they meet two problems:They need a scalable appand they need a scalablenegotiation strategywith the governments, right?So, now you can guess how far they'll be.
+Google had the same problemwith China, and we lost.
+- So, any heuristics for whenthe product is right for scaling?- Well, I have another opinion about this.
+If you think about the greatest products,they've almost always been designedfor the benefit of the peoplewho are actually building them.
+So, the Uber story: theybuilt this to share apps.
+In fact, the original Uberwas a private sharing group.
+Larry and Sergey built Google for Stanfordand in particular, for themselves.
+The server was in Larry's dorm room,and they needed a second server.
+They didn't have enough power,so they ran the cord over the roominto the gentleman next door's dorm room.
+They opened up the serverfor the entire campus here,and the usage was phenomenal.
+Andy Bechtolsheim heard aboutit through David Cheriton.
 He wrote a $100,000 check.
 They didn't have a name for the company.
-He wrote the check, he gave it to Sergey,
-Sergey put it in his
-wallet without a name on it
-for $100,000 and left it
-in his wallet for a month
-until they had the name Google invented.
-(chuckles)
-They moved into Sergey's
-girlfriend's sister at the time
-- then wife, ex-wife; long
-history of life there -
-house, which we now own, where they
-set up the servers in the garage.
-And they slowly took over
-each of the bedrooms,
-and this poor woman, who I
-think was pregnant at the time,
-kept saying, "The baby's
-coming. The baby's coming."
-They put "Google World
-Headquarters" in the baby's room.
-(chuckles)
-So, the rest happened.
-- But then is the heuristic,
-you already see such
-impressive demand, you know
-you have to keep up with it,
-or is sometimes, your heuristic simpler,
-or different than that?
-- It's easier that I give you a latch.
-It is tempting to believe that you have
-a product that works before it works.
-The error that's made, especially
-by non-technical people,
-is they believe what
-the engineers tell them,
-and then they pre-scale for a product
-that doesn't work very well.
+He wrote the check, he gave it to Sergey,Sergey put it in hiswallet without a name on itfor $100,000 and left itin his wallet for a monthuntil they had the name Google invented.
+(chuckles)They moved into Sergey'sgirlfriend's sister at the time- then wife, ex-wife; longhistory of life there -house, which we now own, where theyset up the servers in the garage.
+And they slowly took overeach of the bedrooms,and this poor woman, who Ithink was pregnant at the time,kept saying, "The baby'scoming. The baby's coming."They put "Google WorldHeadquarters" in the baby's room.
+(chuckles)So, the rest happened.
+- But then is the heuristic,you already see suchimpressive demand, you knowyou have to keep up with it,or is sometimes, your heuristic simpler,or different than that?- It's easier that I give you a latch.
+It is tempting to believe that you havea product that works before it works.
+The error that's made, especiallyby non-technical people,is they believe whatthe engineers tell them,and then they pre-scale for a productthat doesn't work very well.
 So, think of it in a different way.
-Think of it as, "I'm going
-to raise money from you,"
-because, of course, you're a
-very famous venture capitalist.
-I'm going to take your
-money, and I'm going to do
-everything I can to build a great product,
-and you're going to be all over me.
-"Where is your international strategy?
-Where is your sales strategy?"
-and I'm going to say, "Reid, just stop.
-The product doesn't work
-yet. I'm saving your money."
-Because I know, in today's market,
-the moment I have that
-product, I know I can hire
-a sales and marketing and
-evangelism team in a week.
+Think of it as, "I'm goingto raise money from you,"because, of course, you're avery famous venture capitalist.
+I'm going to take yourmoney, and I'm going to doeverything I can to build a great product,and you're going to be all over me.
+"Where is your international strategy?Where is your sales strategy?"and I'm going to say, "Reid, just stop.
+The product doesn't workyet. I'm saving your money."Because I know, in today's market,the moment I have thatproduct, I know I can hirea sales and marketing andevangelism team in a week.
 And I can do it globally.
 That's the difference.
-Think of it not as the
-measure I described here,
-but rather as a funnel
-which is very tight,
-then there's a global expansion period.
-I think that's the essence of
-what you're trying to say in your book,
-which is there's a point
-where the sum of all of this,
-it's like this huge push, right?
-But you have to time it right.
-Now how do you know?
-One is people use the product itself.
-Let me give you- lots
-of failures in my case.
-Let's use Wave. Nobody
-at Google used Wave.
-Okay?
-Other people did.
-By the way, they were really
-nice and really energetic.
+Think of it not as themeasure I described here,but rather as a funnelwhich is very tight,then there's a global expansion period.
+I think that's the essence ofwhat you're trying to say in your book,which is there's a pointwhere the sum of all of this,it's like this huge push, right?But you have to time it right.
+Now how do you know?One is people use the product itself.
+Let me give you- lotsof failures in my case.
+Let's use Wave. Nobodyat Google used Wave.
+Okay?Other people did.
+By the way, they were reallynice and really energetic.
 They're not using it anymore.
-They were just, like,
-caught up in the hype.
-How many people do you see
-walking around Stanford
-using Google Glass?
-Anyone here wearing Google Glass?
-I don't see it. Okay.
-Let's keep going through the list, right?
-Again, maybe it's just we're at Version 1
-and we need Version 1.1.
-Maybe we need just a small
-change, and then boom.
+They were just, like,caught up in the hype.
+How many people do you seewalking around Stanfordusing Google Glass?Anyone here wearing Google Glass?I don't see it. Okay.
+Let's keep going through the list, right?Again, maybe it's just we're at Version 1and we need Version 1.1.
+Maybe we need just a smallchange, and then boom.
 Those are two examples.
-You can pick hundreds
-of examples at Google,
-and thank goodness we've
-all forgotten them.
-(chuckles)
-- So once you have the product/market fit
-that works sufficiently,
-part of the thing that I think
-we do here in the valley,
-China does, but it's
-actually relatively rare,
-is figure how to really build fast
-into that global opportunity.
-And some of those techniques
-were things that you guys invented,
-so what was some stuff in order for
-you guys to be able to--
-- Well, I want to talk a
-little bit about hiring.
-Before your excellent book,
-Jonathan and I wrote a book
-called "How Google Works."
-A third of the book is on recruiting.
-I want to give Sheryl Sandberg credit,
-because when she was with us,
-she set up a lot of this.
-There is a way to systematically hire
-better people than anybody else.
-What Bob Taylor, who I
-interviewed yesterday
-for a new book I'm working
-on, "The Future of Everything"
-which looks at the past
-of everything, said was,
-"Sell the dream."
-Here's how he funded the ARPANET:
-He called up people, and he
-described what he wanted.
-And they either got it and
-got incredibly excited,
-or they didn't.
-If they didn't, he just
-went to the next person.
-How hard is that?
-Well, if your idea's pretty good-
-if the person is sufficiently
-dull that they don't get it,
-then are they gonna get
-it after some persuasion?
-Probably not.
+You can pick hundredsof examples at Google,and thank goodness we'veall forgotten them.
+(chuckles)- So once you have the product/market fitthat works sufficiently,part of the thing that I thinkwe do here in the valley,China does, but it'sactually relatively rare,is figure how to really build fastinto that global opportunity.
+And some of those techniqueswere things that you guys invented,so what was some stuff in order foryou guys to be able to--- Well, I want to talk alittle bit about hiring.
+Before your excellent book,Jonathan and I wrote a bookcalled "How Google Works."A third of the book is on recruiting.
+I want to give Sheryl Sandberg credit,because when she was with us,she set up a lot of this.
+There is a way to systematically hirebetter people than anybody else.
+What Bob Taylor, who Iinterviewed yesterdayfor a new book I'm workingon, "The Future of Everything"which looks at the pastof everything, said was,"Sell the dream."Here's how he funded the ARPANET:He called up people, and hedescribed what he wanted.
+And they either got it andgot incredibly excited,or they didn't.
+If they didn't, he justwent to the next person.
+How hard is that?Well, if your idea's pretty good-if the person is sufficientlydull that they don't get it,then are they gonna getit after some persuasion?Probably not.
 You want somebody who's quick.
-One of the things you say
-is, "hire generalists."
-So, we, in the form of Larry
-and Sergey, to start with,
-had very strict rules.
+One of the things you sayis, "hire generalists."So, we, in the form of Larryand Sergey, to start with,had very strict rules.
 Here's a typical example.
-I would go in and I would say,
-"Hmm, we need some
-experience in this layer,
-in this area, and we need some people
-who can program in Java and SQL
-and various other sort of XML protocols,
-which I was very familiar
-with in my previous jobs,
-and they would say,
-"That's the stupidest thing
-we've ever heard. No one
-would ever want to use Java
-or any of those kinds of things."
-They did this partly just to annoy me.
-And I said, "Well, who
-do you want to hire?"
-They said, "We want to hire
-incredibly intelligent people."
-Well, so do I, okay.
-You're implying that people working on
-the stuff I care about
-are not very intelligent.
+I would go in and I would say,"Hmm, we need someexperience in this layer,in this area, and we need some peoplewho can program in Java and SQLand various other sort of XML protocols,which I was very familiarwith in my previous jobs,and they would say,"That's the stupidest thingwe've ever heard. No onewould ever want to use Javaor any of those kinds of things."They did this partly just to annoy me.
+And I said, "Well, whodo you want to hire?"They said, "We want to hireincredibly intelligent people."Well, so do I, okay.
+You're implying that people working onthe stuff I care aboutare not very intelligent.
 And they would say, "No, no no.
-We want to hire incredibly
-intelligent people.
-Incredibly intelligent
-people would figure out
-that the stuff you're
-talking about is stupid,
-and therefore, you should
-work on the right thing."
-(laughter)
-So we would have these debates,
-and it's all in great fun, of course.
-By the way, today we have
-thousands and thousands
-of Java programmers just in
-case you're worried about it.
-They were actually
-making a different point.
-They were making a point
-that you hire people
-who can get the job done,
-that the industry over-values experience
-and under-values strategic
-and intellectual flexibility,
-which is the point you make in your book.
+We want to hire incrediblyintelligent people.
+Incredibly intelligentpeople would figure outthat the stuff you'retalking about is stupid,and therefore, you shouldwork on the right thing."(laughter)So we would have these debates,and it's all in great fun, of course.
+By the way, today we havethousands and thousandsof Java programmers just incase you're worried about it.
+They were actuallymaking a different point.
+They were making a pointthat you hire peoplewho can get the job done,that the industry over-values experienceand under-values strategicand intellectual flexibility,which is the point you make in your book.
 And I feel very strongly about that.
 There's an easy way to understand this.
-I'll tell you, in all the
-issues we had at Google,
-I realized that I had no idea what to do.
-I am, after all, the CEO. I'm
-supposed to know what to do.
-I had no idea what to do,
-but I knew I had by far the best team
-ever assembled to address them.
-Examples would be dealing with the
-then-competitors at the time,
-the shift that we did in our business from
-one way of selling to now what is called
-the Vickrey auction or
-second-price auction.
+I'll tell you, in all theissues we had at Google,I realized that I had no idea what to do.
+I am, after all, the CEO. I'msupposed to know what to do.
+I had no idea what to do,but I knew I had by far the best teamever assembled to address them.
+Examples would be dealing with thethen-competitors at the time,the shift that we did in our business fromone way of selling to now what is calledthe Vickrey auction orsecond-price auction.
 I'll give you an example.
-There's this fellow named Saul,
-who's a biology undergraduate here
-who looked, to me, to be about 21.
-He's actually older than that,
-but he looked very young.
-So one day, he announces we're switching
-our entire revenue system
-from an as-sold model
-by the sales force, to
-an auction-based system.
-And I was convinced, remember,
-that these things were being oversold,
-that they weren't worth very much,
-and our sales guys were so incredibly good
-that they were maximizing the values
-to the point where the price was too high.
-I said, "I'm not sure."
-"But we won't get there with salespeople.
-We have to have an auction,"
-and I said, "Okay. Whatever."
-Larry and Sergey were on his side, anyway.
-I got so worried about
-this, I put in place
-a program in the first year which I called
-the Cash Restriction Program.
+There's this fellow named Saul,who's a biology undergraduate herewho looked, to me, to be about 21.
+He's actually older than that,but he looked very young.
+So one day, he announces we're switchingour entire revenue systemfrom an as-sold modelby the sales force, toan auction-based system.
+And I was convinced, remember,that these things were being oversold,that they weren't worth very much,and our sales guys were so incredibly goodthat they were maximizing the valuesto the point where the price was too high.
+I said, "I'm not sure.""But we won't get there with salespeople.
+We have to have an auction,"and I said, "Okay. Whatever."Larry and Sergey were on his side, anyway.
+I got so worried aboutthis, I put in placea program in the first year which I calledthe Cash Restriction Program.
 You can imagine the acronym.
-We would only spend
-money at 10am on Fridays,
-because that way, I figured I could
-control the amount of money.
-I was worried we were gonna go bankrupt
-while this very, very young
-man implemented this auction.
-We turned on the auction, I'm terrified,
-and the revenue triples in day one.
-Of course, we completely
-forget the whole program.
-And I'm saying, "You're telling me
-that our incredibly talented sales force
-is under-pricing our product
-by a factor of three?"
-So then I immediately call
-the sales guys and say,
-"What are you doing?"
-I don't know whether that's luck or scale,
-but it showed you in Saul,
-of course, a brilliant man
-and a person who really is
-responsible for the architecture
-that drove the $60 billion,
-you need ideas like
-that, that scale so fast.
-And let me put in a pitch
-for my current best idea,
-which is machine learning.
-In the careers that you all will have
-and the companies you'll
-found and so forth,
-machine learning will be the way
-in which you get that multiplier.
-For the non-programmers in the room,
-the way to understand this is that
-programmers like me were taught
-how to write algorithms that
-precisely specify the methodology,
-and we got really good at it,
-and we're very proud of it,
-and we're very arrogant.
-A new set of programmers understand
-how to have a computer learn something,
-and then the learning model
-is applied to this problem
-and that's a very scaleable model.
-And that's gonna produce
-immensely larger companies
-than the kind of companies we're talking.
-And the speed will be immense because
-once you learn something,
-the scaling can occur
-globally in a matter of hours.
+We would only spendmoney at 10am on Fridays,because that way, I figured I couldcontrol the amount of money.
+I was worried we were gonna go bankruptwhile this very, very youngman implemented this auction.
+We turned on the auction, I'm terrified,and the revenue triples in day one.
+Of course, we completelyforget the whole program.
+And I'm saying, "You're telling methat our incredibly talented sales forceis under-pricing our productby a factor of three?"So then I immediately callthe sales guys and say,"What are you doing?"I don't know whether that's luck or scale,but it showed you in Saul,of course, a brilliant manand a person who really isresponsible for the architecturethat drove the $60 billion,you need ideas likethat, that scale so fast.
+And let me put in a pitchfor my current best idea,which is machine learning.
+In the careers that you all will haveand the companies you'llfound and so forth,machine learning will be the wayin which you get that multiplier.
+For the non-programmers in the room,the way to understand this is thatprogrammers like me were taughthow to write algorithms thatprecisely specify the methodology,and we got really good at it,and we're very proud of it,and we're very arrogant.
+A new set of programmers understandhow to have a computer learn something,and then the learning modelis applied to this problemand that's a very scaleable model.
+And that's gonna produceimmensely larger companiesthan the kind of companies we're talking.
+And the speed will be immense becauseonce you learn something,the scaling can occurglobally in a matter of hours.
 - [Reid] Or even necessarily quicker.
-Hiring? Is there stuff you want to go into
-how you did hiring particularly well?
-- Well, we had a whole bunch of reasons.
-One of the rules is we didn't
-want to hire your friends,
-which always was upsetting.
-We also didn't want to hire anybody from
-what were considered to
-be lesser universities.
-(laughter)
-We also wanted to hire people
-who had very high GPAs.
-The constant problem was that somebody was
-a good employee, had
-someone they had worked
-with who was very loyal,
-very hard-working,
-who was not from a great
-university and did not have
-a very good GPA, we wouldn't hire them.
+Hiring? Is there stuff you want to go intohow you did hiring particularly well?- Well, we had a whole bunch of reasons.
+One of the rules is we didn'twant to hire your friends,which always was upsetting.
+We also didn't want to hire anybody fromwhat were considered tobe lesser universities.
+(laughter)We also wanted to hire peoplewho had very high GPAs.
+The constant problem was that somebody wasa good employee, hadsomeone they had workedwith who was very loyal,very hard-working,who was not from a greatuniversity and did not havea very good GPA, we wouldn't hire them.
 That was controversial.
-We've relaxed that a little bit now,
-but the fact of the matter is
-it got us to where we are today
-because it produced
-these high-IQ generalists
-from prestigious universities.
+We've relaxed that a little bit now,but the fact of the matter isit got us to where we are todaybecause it producedthese high-IQ generalistsfrom prestigious universities.
 That's the best way to understand this.
-The second thing is one
-day, we were looking-
-when I was at Novell, I
-had learned that there were
-people who I call "glue people."
-The glue people are incredibly nice people
-who sit at interstitial
-boundaries between groups,
-and they assist in activity.
-The are glue, and they
-are very, very loyal,
-and people love them, and
-you don't need them at all.
-At Novell, I kept trying to
-get rid of these glue people,
-because they were getting in the way
-because they slowed everything down.
-Every time I get rid of them in one group,
-they'd show up in another group,
-and they'd transfer, and
-get rehired and all that.
-I was telling Larry and Sergey
-this one day, and Larry said,
-"I don't understand what your problem is.
-Why don't we just review all the hiring."
-And I said, "What?"
-And Larry said, "Let's just
-review all the hiring."
-I said, "Really?"
-He said, "Yes."
-So, guess what?
-From that moment on, we
-reviewed every offer packet.
+The second thing is oneday, we were looking-when I was at Novell, Ihad learned that there werepeople who I call "glue people."The glue people are incredibly nice peoplewho sit at interstitialboundaries between groups,and they assist in activity.
+The are glue, and theyare very, very loyal,and people love them, andyou don't need them at all.
+At Novell, I kept trying toget rid of these glue people,because they were getting in the waybecause they slowed everything down.
+Every time I get rid of them in one group,they'd show up in another group,and they'd transfer, andget rehired and all that.
+I was telling Larry and Sergeythis one day, and Larry said,"I don't understand what your problem is.
+Why don't we just review all the hiring."And I said, "What?"And Larry said, "Let's justreview all the hiring."I said, "Really?"He said, "Yes."So, guess what?From that moment on, wereviewed every offer packet.
 Literally, every one.
-And anyone who smelled or
-looked like a glue person,
-plus the people that
-Larry and Sergey thought
-had backgrounds that I
-liked that they didn't,
-would all be fired.
-So anybody who sort of
-met the original profile,
-they'd go right through.
+And anyone who smelled orlooked like a glue person,plus the people thatLarry and Sergey thoughthad backgrounds that Iliked that they didn't,would all be fired.
+So anybody who sort ofmet the original profile,they'd go right through.
 We'd have this huge argument.
-Every once in a while,
-we'd have arguments that
-were sort of speechless.
-I remember this one
-argument about a fellow
-who one of the founders
-did not like his last name
-because it was too humerous.
+Every once in a while,we'd have arguments thatwere sort of speechless.
+I remember this oneargument about a fellowwho one of the foundersdid not like his last namebecause it was too humerous.
 By the way, we hired him.
-You can imagine you can
-have some fun with it.
-The fact of the matter is,
-because we never fire anybody,
-the hiring decision is crucial.
-The people you hire define the culture
-whether you like it or not.
-Larry and Sergey, when
-they started the company,
-said, "We need to have
-really smart people,"
-so they hired a rocket scientist.
+You can imagine you canhave some fun with it.
+The fact of the matter is,because we never fire anybody,the hiring decision is crucial.
+The people you hire define the culturewhether you like it or not.
+Larry and Sergey, whenthey started the company,said, "We need to havereally smart people,"so they hired a rocket scientist.
 And they hired a medical doctor.
-And they hired a Stanford graduate
-who had been a professional
-football player.
-Because they figured
-they wanted normal people
-who had done something exceptional.
-In my case, I was a pilot
-and I had done other things.
-They said, "Okay. You're good enough."
-The CEO has to have
-something besides being a CEO
-that makes them interesting.
-And everyone had something,
-and I would go around and I'd say,
-"Well, what's special about you?"
-like Sesame Street.
-What's special about you,
-and what's special about you?
-But there was always an interesting story.
-So another lesson I learned was that
-you don't hire generic people,
-you hire people who have had some kind of
-stress or achievement or whatever.
-The best people to hire, by the way,
-are CFOs who've gone bankrupt,
-because, boy, have they
-been through the war.
-On the CFO side and the finance side,
-you want somebody who's
-not gonna happen again.
+And they hired a Stanford graduatewho had been a professionalfootball player.
+Because they figuredthey wanted normal peoplewho had done something exceptional.
+In my case, I was a pilotand I had done other things.
+They said, "Okay. You're good enough."The CEO has to havesomething besides being a CEOthat makes them interesting.
+And everyone had something,and I would go around and I'd say,"Well, what's special about you?"like Sesame Street.
+What's special about you,and what's special about you?But there was always an interesting story.
+So another lesson I learned was thatyou don't hire generic people,you hire people who have had some kind ofstress or achievement or whatever.
+The best people to hire, by the way,are CFOs who've gone bankrupt,because, boy, have theybeen through the war.
+On the CFO side and the finance side,you want somebody who'snot gonna happen again.
 And you only go bankrupt once, by the way.
 - Exactly.
-Now, the interview process, as I recall,
-from early Google was fairly involved.
+Now, the interview process, as I recall,from early Google was fairly involved.
 - Oh yes. Yes.
-So the interviews. Well,
-anyway. Finish that.
-- I mean, it's precisely
-that. Was that a good thing?
-Bad thing? Mixed thing?
-Because it was definitely
-a deliberate thing.
-- Once we decided we were going
-to review all the packets,
-then we had to figure out
-how to score everybody.
-So we put in a scoring system
-and asked people to score.
+So the interviews. Well,anyway. Finish that.
+- I mean, it's preciselythat. Was that a good thing?Bad thing? Mixed thing?Because it was definitelya deliberate thing.
+- Once we decided we were goingto review all the packets,then we had to figure outhow to score everybody.
+So we put in a scoring systemand asked people to score.
 And they were scored between one and five.
-Sergey said, "The problem here
-is that these scores were biased."
-So we put in a statistical measure
-where we would look at the average weight
-of the scorers and then correlate that
-with the future performance
-of their scoring.
-So a year later, we would look back
-and see how we had graded that employee
-versus the way you had rated them.
-And oh my god. Guess what?
-We discovered that if it's a woman,
-the female is scored
-with inverse correlation
-to her performance.
-It's the most extreme
-evidence of male bias
-against female candidates was
-sitting right in front of us.
-How could this be?
-I mean, this is as liberal a
-company as we can full of guys.
+Sergey said, "The problem hereis that these scores were biased."So we put in a statistical measurewhere we would look at the average weightof the scorers and then correlate thatwith the future performanceof their scoring.
+So a year later, we would look backand see how we had graded that employeeversus the way you had rated them.
+And oh my god. Guess what?We discovered that if it's a woman,the female is scoredwith inverse correlationto her performance.
+It's the most extremeevidence of male biasagainst female candidates wassitting right in front of us.
+How could this be?I mean, this is as liberal acompany as we can full of guys.
 It's called "unconscious bias" now.
 We didn't have the term.
 - [Reid] Hidden bias.
 - Hidden bias. Excuse me.
-So we, in fact, changed the entire way
-in which we run the recruiting
-for female candidates
-and so forth and managed to correct that.
-So there's an example
-where something that,
-even as liberal and analytical
-a company as we had,
-we didn't really realize we were doing.
-And this is now a decade ago,
-so the good news is, we corrected it.
-But it's an interesting story that
-even the best-meaning people
-can have these kinds of biases.
-So, we would do this scoring
-and then we had the problem
-of people being interviewed.
+So we, in fact, changed the entire wayin which we run the recruitingfor female candidatesand so forth and managed to correct that.
+So there's an examplewhere something that,even as liberal and analyticala company as we had,we didn't really realize we were doing.
+And this is now a decade ago,so the good news is, we corrected it.
+But it's an interesting story thateven the best-meaning peoplecan have these kinds of biases.
+So, we would do this scoringand then we had the problemof people being interviewed.
 So, I still remember this packet.
-This gentleman who we
-interviewed 16 times.
-The person who was running this
-process had come in and said,
-"Look, you have gotta make a decision."
-And the recommendation
-was to not hire him.
-And I said, "Look, you just can't
-do this anymore to people."
-I said you can't interview
-people more than eight times.
-They have since revised
-the statistical metaphor
-that for engineers, they
-have five interviews,
-and for non-engineers, they have four,
-and that turns out to be
-statistically significant.
-So very interesting. You
-can systematize even that.
-- As I actually recall,
-the way you did that is
-you actually looked at when was the
-score dropoff no longer predicted.
-You were taking all that and then said,
-"Okay, at this interview,"
-yeah, and that was--
-- But those are simple techniques
-that wouldn't have occurred
-to the normal company.
-Because we'd hired all these
-smart generalist types
-with obnoxious degrees
-from famous universities
-that were obnoxious,
-you know, whatever stereotype you want,
-they applied an analytical bias.
+This gentleman who weinterviewed 16 times.
+The person who was running thisprocess had come in and said,"Look, you have gotta make a decision."And the recommendationwas to not hire him.
+And I said, "Look, you just can'tdo this anymore to people."I said you can't interviewpeople more than eight times.
+They have since revisedthe statistical metaphorthat for engineers, theyhave five interviews,and for non-engineers, they have four,and that turns out to bestatistically significant.
+So very interesting. Youcan systematize even that.
+- As I actually recall,the way you did that isyou actually looked at when was thescore dropoff no longer predicted.
+You were taking all that and then said,"Okay, at this interview,"yeah, and that was--- But those are simple techniquesthat wouldn't have occurredto the normal company.
+Because we'd hired all thesesmart generalist typeswith obnoxious degreesfrom famous universitiesthat were obnoxious,you know, whatever stereotype you want,they applied an analytical bias.
 We did the same thing.
-We did analytical bias to facilities
-and to cash management
-and so forth and so on.
-So, during this heyday,
-me made very sure that our
-marketing was disorder.
-I used to call this "the lava lamp pitch."
-What we would do is we
-would show you around
-all these incredible things we were doing.
-We would show you all the lava lamp,
-say it's complete chaos; people
-can do whatever they want,
-which, of course, is completely not true.
-And so if it was somebody important,
-like a shareholder, I would say,
-"By the way, there's
-another half of the company
-that's run incredibly
-rigorously with goals
-and so forth and so on
-that produces the results."
-So you want to distinguish between
-the marketing and the reality
-of how you manage them.
-- Speaking of management,
-growing an organization this fast
-is a nightmare to figure out how to manage
-who you promote into management,
-how do you run it.
-What were the things that worked
-and what were the things that didn't work?
-- I had had negative experience at Sun
-in divisionalization
-and operating companies
-and things like this.
+We did analytical bias to facilitiesand to cash managementand so forth and so on.
+So, during this heyday,me made very sure that ourmarketing was disorder.
+I used to call this "the lava lamp pitch."What we would do is wewould show you aroundall these incredible things we were doing.
+We would show you all the lava lamp,say it's complete chaos; peoplecan do whatever they want,which, of course, is completely not true.
+And so if it was somebody important,like a shareholder, I would say,"By the way, there'sanother half of the companythat's run incrediblyrigorously with goalsand so forth and so onthat produces the results."So you want to distinguish betweenthe marketing and the realityof how you manage them.
+- Speaking of management,growing an organization this fastis a nightmare to figure out how to managewho you promote into management,how do you run it.
+What were the things that workedand what were the things that didn't work?- I had had negative experience at Sunin divisionalizationand operating companiesand things like this.
 My position was pretty simple.
 Larry and Sergey are running things.
 It's chaos anyway.
-We're just gonna run it as a group
-and run it as fast as we can.
-We would have a meeting on Monday
-which was called "60 minutes,"
-which always took two hours.
-It was called "60 minutes" because
-you had to be offline and off
-your computer for 60 minutes,
-and if you were found, at the time,
-typing on your Blackberry,
-there was a 25-cent fine.
-We used to call this the prayer--
-- 25 cents? (chuckles)
-- Well, it's a cheap place.
-People would be on their Blackberries
-underneath us and we would
-do Blackberry detection.
-This strategy eventually
-failed, by the way.
-It turns out that it was
-impossible to get people
-off of their computers
-for one hour per week.
-Another example of a strategy
-that didn't work for me.
-On Tuesdays we had something called the
-"Google Product Strategy Meeting,"
-where we would review- we
-would use that as a checkpoint.
-With so much going on that-
-we realized we were
-launching all these products
-that no one knew that they were launching,
-so we put in a launch review process.
-You could not announce something without
-going through a launch
-review a week before,
-and that was sort of the way
-in which we caught the problems.
-Inevitably, the problem was the engineers
-were doing something that they hadn't told
-the support people or the lawyers about.
-My best example here was
-the fellow who walked in
-- and he was very young,
-probably early 20s -
-had taken one of our products
-and added the ability
-to geolocate where your friends are
-and predict where they were going to be
-and you were going to be.
-He puts this demo up
-and my face goes ashen.
-The lawyers are going, "Oh my god."
-The marketing people
-are going, "Oh my god."
-Larry and Sergey loved it.
-They went, and I still
-remember, this went on-
-and we had a schedule, and
-of course, it was blown.
-We're in there for two hours,
-and they're just screaming
-about how incredibly brilliant
-this product idea is and
-how wonderful this is
-and what was wrong with
-me and so forth and so on.
-I put it out there that
-there's this minor problem
-that such predictive behavior
-is almost certainly illegal.
-In any case, even if it weren't,
-I don't want to deal with
-all the real-time subpoenas
-that are gonna come in because now
-we know not only where you were,
-but where your friends are
-and we have it all on one database.
-I said, "Look, we can't even afford
-the lawyers to deal with
-the current subpoenas."
-The great thing about Google
-is, after you have one of these
-and by the way, just so we're clear,
-Larry and Sergey were
-doing this for effect.
-They were just trying to be
-disruptive and have a good time.
-This is part of the culture
-is to draw this out;
-to be provocative in a good way.
+We're just gonna run it as a groupand run it as fast as we can.
+We would have a meeting on Mondaywhich was called "60 minutes,"which always took two hours.
+It was called "60 minutes" becauseyou had to be offline and offyour computer for 60 minutes,and if you were found, at the time,typing on your Blackberry,there was a 25-cent fine.
+We used to call this the prayer--- 25 cents? (chuckles)- Well, it's a cheap place.
+People would be on their Blackberriesunderneath us and we woulddo Blackberry detection.
+This strategy eventuallyfailed, by the way.
+It turns out that it wasimpossible to get peopleoff of their computersfor one hour per week.
+Another example of a strategythat didn't work for me.
+On Tuesdays we had something called the"Google Product Strategy Meeting,"where we would review- wewould use that as a checkpoint.
+With so much going on that-we realized we werelaunching all these productsthat no one knew that they were launching,so we put in a launch review process.
+You could not announce something withoutgoing through a launchreview a week before,and that was sort of the wayin which we caught the problems.
+Inevitably, the problem was the engineerswere doing something that they hadn't toldthe support people or the lawyers about.
+My best example here wasthe fellow who walked in- and he was very young,probably early 20s -had taken one of our productsand added the abilityto geolocate where your friends areand predict where they were going to beand you were going to be.
+He puts this demo upand my face goes ashen.
+The lawyers are going, "Oh my god."The marketing peopleare going, "Oh my god."Larry and Sergey loved it.
+They went, and I stillremember, this went on-and we had a schedule, andof course, it was blown.
+We're in there for two hours,and they're just screamingabout how incredibly brilliantthis product idea is andhow wonderful this isand what was wrong withme and so forth and so on.
+I put it out there thatthere's this minor problemthat such predictive behavioris almost certainly illegal.
+In any case, even if it weren't,I don't want to deal withall the real-time subpoenasthat are gonna come in because nowwe know not only where you were,but where your friends areand we have it all on one database.
+I said, "Look, we can't even affordthe lawyers to deal withthe current subpoenas."The great thing about Googleis, after you have one of theseand by the way, just so we're clear,Larry and Sergey weredoing this for effect.
+They were just trying to bedisruptive and have a good time.
+This is part of the cultureis to draw this out;to be provocative in a good way.
 It's healthy.
-I'm saying this in a good way and
-I think it was a very healthy process.
-So guess what the solution was?
-This particular product,
-you could actually pin it
-and lie as to your location,
-which makes the legal records unreliable.
-We launched it. (chuckles) You see?
-- [Reid] Uh huh.
-- Another example that we had--
-- [Reid] Latitude.
+I'm saying this in a good way andI think it was a very healthy process.
+So guess what the solution was?This particular product,you could actually pin itand lie as to your location,which makes the legal records unreliable.
+We launched it. (chuckles) You see?- [Reid] Uh huh.
+- Another example that we had--- [Reid] Latitude.
 - Yeah. I remember Latitude.
-And then, another example
-is that we were having-
-after it was discovered
-we were doing Chrome,
-and we launched Chrome and it was
-beginning to be successful,
-we had a debate over HTML5
-and the exclusivity of browsers
-and the rate at which we put stuff
-into the browsers and so forth.
-And at the time, Chrome
-was not the number one.
-It was well behind Safari
-and Internet Explorer.
-And so, we have 20 people in the room,
-and we're having this argument.
-All of a sudden, it's pretty clear that
-Sergey's not gonna give up, right?
-He is absolutely convinced,
-and I disagree with him,
-and Larry disagrees with him and me.
-We had a rule, the three of us,
-that we would not have
-huge arguments in public,
-which, of course, we did anyway.
-I realized, at that point,
-I kicked everyone else out of the room,
-and the three of us had it out.
-We clearly didn't agree, and I said,
-"Look, you guys go back you your office."
-They shared an office.
-"You guys argue it through,
-and if you haven't
-decided by noon tomorrow,
-I'll make the decision,"
-which was clearly the worst decision
-of the three from their perspective.
-(laughter)
-- [Reid] A forcing function.
+And then, another exampleis that we were having-after it was discoveredwe were doing Chrome,and we launched Chrome and it wasbeginning to be successful,we had a debate over HTML5and the exclusivity of browsersand the rate at which we put stuffinto the browsers and so forth.
+And at the time, Chromewas not the number one.
+It was well behind Safariand Internet Explorer.
+And so, we have 20 people in the room,and we're having this argument.
+All of a sudden, it's pretty clear thatSergey's not gonna give up, right?He is absolutely convinced,and I disagree with him,and Larry disagrees with him and me.
+We had a rule, the three of us,that we would not havehuge arguments in public,which, of course, we did anyway.
+I realized, at that point,I kicked everyone else out of the room,and the three of us had it out.
+We clearly didn't agree, and I said,"Look, you guys go back you your office."They shared an office.
+"You guys argue it through,and if you haven'tdecided by noon tomorrow,I'll make the decision,"which was clearly the worst decisionof the three from their perspective.
+(laughter)- [Reid] A forcing function.
 - A forcing function.
-So that afternoon, I go back
-over to visit their office.
-"Hi guys. How are you?" You
-know, just chatting around.
-"Did you come up with a solution?"
-They'd come up with a
-completely better solution
-that was far better than
-any of the previous ideas.
+So that afternoon, I go backover to visit their office.
+"Hi guys. How are you?" Youknow, just chatting around.
+"Did you come up with a solution?"They'd come up with acompletely better solutionthat was far better thanany of the previous ideas.
 So sometimes the cauldron of ideas works.
 I'll give you another example.
-We had an engineer who
-had invented a free wi-fi.
-They had launched this
-thing in San Francisco.
-Nikash, who has since left
-the company had just come from
-Deutsche Telekom, and
-knew a lot about this.
-We knew nothing about free
-wi-fi, telecoms, and whatever.
-So he starts asking this guy
-very reasonable business questions,
-none of which he could answer.
-The review is going south,
-and it's getting worse
-and worse and worse.
-At some point, it was pretty clear that
-this was like torture, and we had to stop.
-I said, "Look, let's stop."
-At that point, you have a choice.
-You can say to the person,
-"You're an idiot for having
-brought such a terrible idea.
-You've clearly embarrassed yourself
-and the company," and so forth.
+We had an engineer whohad invented a free wi-fi.
+They had launched thisthing in San Francisco.
+Nikash, who has since leftthe company had just come fromDeutsche Telekom, andknew a lot about this.
+We knew nothing about freewi-fi, telecoms, and whatever.
+So he starts asking this guyvery reasonable business questions,none of which he could answer.
+The review is going south,and it's getting worseand worse and worse.
+At some point, it was pretty clear thatthis was like torture, and we had to stop.
+I said, "Look, let's stop."At that point, you have a choice.
+You can say to the person,"You're an idiot for havingbrought such a terrible idea.
+You've clearly embarrassed yourselfand the company," and so forth.
 That would be the wrong thing at Google.
-The right thing at Google, in a
-situation like that, is to say,
-which is what I did, is I said,
-"I think this is the most
-incredible idea I ever heard.
-You need to come up
-with a better approach.
-The objective of free wi-fi is
-incredibly strategic to the company."
-So all of a sudden, you can see this guy.
+The right thing at Google, in asituation like that, is to say,which is what I did, is I said,"I think this is the mostincredible idea I ever heard.
+You need to come upwith a better approach.
+The objective of free wi-fi isincredibly strategic to the company."So all of a sudden, you can see this guy.
 "Oh," and he runs out the room.
-Six months later, we re-introduced it,
-and got huge benefit from it.
-So we ran with this
-product strategy thing,
-and then we would do deals on Wednesdays.
+Six months later, we re-introduced it,and got huge benefit from it.
+So we ran with thisproduct strategy thing,and then we would do deals on Wednesdays.
 That was the structure.
-Thursdays, we had a no-meeting day,
-which meant that we
-were always in meetings.
-It was organized so that
-the salespeople could
-travel Wednesday and Thursday
-and come back Friday.
+Thursdays, we had a no-meeting day,which meant that wewere always in meetings.
+It was organized so thatthe salespeople couldtravel Wednesday and Thursdayand come back Friday.
 And the cycle would begin again.
-- But in terms of- I mean,
-Google had a bunch of
-different things where like sometimes-
-like there was a day where
-everyone worked for Larry,
-it was like we're gonna
-be completely flat.
+- But in terms of- I mean,Google had a bunch ofdifferent things where like sometimes-like there was a day whereeveryone worked for Larry,it was like we're gonnabe completely flat.
 - I have to tell you about the disorg.
 One day, again, we're in the first year.
 I'm a normal engineering manager.
-We have normal engineering
-plans, and I think they're fine.
+We have normal engineeringplans, and I think they're fine.
 We have five engineering directors.
-Wayne Rosing was the
-engineering vice president.
-Wayne came in and said,
-"You gotta come talk to me."
-I said, "What?"
-"Larry and Sergey are on the rampage."
-I said, "Over what?"
-We had something called Snippets,
-and the engineers were
-supposed to write down
-what they did per week.
-So Larry has been reading the snippets,
-and he's been correlating it with
-what the managers had been saying.
-Not good. Larry's very precise
-and a very analytical person.
+Wayne Rosing was theengineering vice president.
+Wayne came in and said,"You gotta come talk to me."I said, "What?""Larry and Sergey are on the rampage."I said, "Over what?"We had something called Snippets,and the engineers weresupposed to write downwhat they did per week.
+So Larry has been reading the snippets,and he's been correlating it withwhat the managers had been saying.
+Not good. Larry's very preciseand a very analytical person.
 So, he said, "Look, we've got a problem.
-I mean, I can't deny it."
-"Larry, what are you gonna do?"
-He said, "We're gonna get
-rid of all the managers."
-I said, "You can't do that, Larry."
-Nevertheless, that was, of course,
-an even greater challenge.
-They took the five managers and
-made them individual contributors.
-All of them are still in the company,
-I might add, ten years later.
-We have 120 people working for one
-engineering vice president directly.
-We reasoned that this would guarantee
-he couldn't interfere with their work.
+I mean, I can't deny it.""Larry, what are you gonna do?"He said, "We're gonna getrid of all the managers."I said, "You can't do that, Larry."Nevertheless, that was, of course,an even greater challenge.
+They took the five managers andmade them individual contributors.
+All of them are still in the company,I might add, ten years later.
+We have 120 people working for oneengineering vice president directly.
+We reasoned that this would guaranteehe couldn't interfere with their work.
 So we ran that way for two years.
 His name was Bill Cohen.
-He's now a very successful
-venture capitalist.
-He jokes about what it was like,
-but you can, in these situations,
-do extraordinary things.
+He's now a very successfulventure capitalist.
+He jokes about what it was like,but you can, in these situations,do extraordinary things.
 - That's probably a good tip, too.
-In this kind of blitzscaling circumstance,
-what's the role of the CEO?
-- I can tell you my role
-was to manage the chaos.
-You have different kinds of CEOs
-and there's no single answer.
-In any successful company,
-you've got to have somebody who can
-run very fast and has
-very good product sense
-and has sort of the intellectual
-emotional leadership
-of the key stakeholders.
+In this kind of blitzscaling circumstance,what's the role of the CEO?- I can tell you my rolewas to manage the chaos.
+You have different kinds of CEOsand there's no single answer.
+In any successful company,you've got to have somebody who canrun very fast and hasvery good product senseand has sort of the intellectualemotional leadershipof the key stakeholders.
 In that sense, it's like a faculty.
-The key engineering talent,
-they sort of put up with the management.
+The key engineering talent,they sort of put up with the management.
 They know what they're doing.
 They're incredibly professional.
 They're very, very driven.
 They know what great products look like.
 That's what success looks like.
-My job was to sort of organize
-the world around them.
-Ultimately, if you ask Larry and Sergey,
-when they hired me, Larry said to me,
-"We don't need you now, but
-we'll need you in the future."
-I think that was roughly right.
-As a small company, they were doing fine,
-but in order to scale, you needed
-someone who understood replication,
-and who could basically
-put the systems in place.
-So I set out to hire the
-non-essential executives,
-which was everyone else.
-All the other functions that you need
-and deal with all the
-other kinds of things
-while Larry and Sergey, as
-founders, were working on
-the technical side of things.
-There are other models where you have
-a very tactical founder
-who won't give up control
-who cedes partial business
-control to a business associate.
-I think Mark is a good example of that,
-where Mark's not gonna give
-up control over Facebook,
-and, by the way, Larry
-and Sergey didn't, either,
-it doesn't matter whether
-they're called CEO or not,
-but Mark allows the key stakeholders,
-in his case, the CFO and Sheryl,
-to run large parts of the company,
-and, of course, they do a great job.
-- One of our theses in
-blitzscaling is that
-part of what you do is that
-you also make decisions
-on what not to do in order to move fast.
-Were there any kind of key decisions about
-what not to do in order to be
-able to move fast at Google?
-- Surprisingly, no.
-Because the ambition was so broad,
-the only lever I had was
-to slow some things down
-and emphasize other things.
-I don't agree that you
-should narrow your focus.
-What I believe is that
-you get the best outcome
-when you make the broadest
-appeal in terms of
-leadership and excitement and so forth.
-And we worked very hard
-to make that happen.
+My job was to sort of organizethe world around them.
+Ultimately, if you ask Larry and Sergey,when they hired me, Larry said to me,"We don't need you now, butwe'll need you in the future."I think that was roughly right.
+As a small company, they were doing fine,but in order to scale, you neededsomeone who understood replication,and who could basicallyput the systems in place.
+So I set out to hire thenon-essential executives,which was everyone else.
+All the other functions that you needand deal with all theother kinds of thingswhile Larry and Sergey, asfounders, were working onthe technical side of things.
+There are other models where you havea very tactical founderwho won't give up controlwho cedes partial businesscontrol to a business associate.
+I think Mark is a good example of that,where Mark's not gonna giveup control over Facebook,and, by the way, Larryand Sergey didn't, either,it doesn't matter whetherthey're called CEO or not,but Mark allows the key stakeholders,in his case, the CFO and Sheryl,to run large parts of the company,and, of course, they do a great job.
+- One of our theses inblitzscaling is thatpart of what you do is thatyou also make decisionson what not to do in order to move fast.
+Were there any kind of key decisions aboutwhat not to do in order to beable to move fast at Google?- Surprisingly, no.
+Because the ambition was so broad,the only lever I had wasto slow some things downand emphasize other things.
+I don't agree that youshould narrow your focus.
+What I believe is thatyou get the best outcomewhen you make the broadestappeal in terms ofleadership and excitement and so forth.
+And we worked very hardto make that happen.
 There were other things.
-For example, we would refuse to
-doing exclusive deals with people,
-but I would explain to people, "We
-don't really do exclusive deals,
-but we only have the
-capacity to work with one,
-and it's going to be you."
-So there are other ways to
-achieve those kind of things.
-I'd be careful to conclude that
-you should do a small thing.
-All success starts with doing
-one thing really, really well,
-but you'll recruit better
-with a broader vision
-that's credible and
-that you can articulate.
-But go back to that 'selling the dream.'
-What you do is selling a dream.
-If you can't sell a dream, then
-you're not gonna be successful.
-- What were the key
-things that kept Google
-innovating intelligently as it scaled?
-20 percent time was something
-that was publicized.
+For example, we would refuse todoing exclusive deals with people,but I would explain to people, "Wedon't really do exclusive deals,but we only have thecapacity to work with one,and it's going to be you."So there are other ways toachieve those kind of things.
+I'd be careful to conclude thatyou should do a small thing.
+All success starts with doingone thing really, really well,but you'll recruit betterwith a broader visionthat's credible andthat you can articulate.
+But go back to that 'selling the dream.'What you do is selling a dream.
+If you can't sell a dream, thenyou're not gonna be successful.
+- What were the keythings that kept Googleinnovating intelligently as it scaled?20 percent time was somethingthat was publicized.
 - We talk a lot about that.
-20% time was a rule - again,
-when I started there -
-there were two actually interesting.
-One was 'don't be evil' and
-the second was 20% time.
+20% time was a rule - again,when I started there -there were two actually interesting.
+One was 'don't be evil' andthe second was 20% time.
 'Don't be evil,' I thought was a joke.
 Because I mean, nobody here is evil.
 I don't wanna be evil.
 You don't wanna be evil.
-I was sitting in the
-original conference room
-in the small building when we started,
-and there's this conversation
-about ad targeting
-and a particular ad click.
-One of the engineers, his name is Ron,
-pounds the table and said,
-"That would be evil."
-And I'm like, "Oh, okay.
-What just happened?"
-(laughter)
-The whole mood of the room changes
-and there's this huge debate
-over whether that's evil or not,
-and ultimately, they didn't do the change.
-So I thought, "What's the analogy there?"
-and the analogy was
-it's the kanban system.
-In Japan, the notion that any
-employee can stop the line
-if they see a poor-quality thing.
+I was sitting in theoriginal conference roomin the small building when we started,and there's this conversationabout ad targetingand a particular ad click.
+One of the engineers, his name is Ron,pounds the table and said,"That would be evil."And I'm like, "Oh, okay.
+What just happened?"(laughter)The whole mood of the room changesand there's this huge debateover whether that's evil or not,and ultimately, they didn't do the change.
+So I thought, "What's the analogy there?"and the analogy wasit's the kanban system.
+In Japan, the notion that anyemployee can stop the lineif they see a poor-quality thing.
 It works because of shared value.
-Strong shared values, a strong
-buy-in to principles, takes you far.
+Strong shared values, a strongbuy-in to principles, takes you far.
 I think that helped us.
-It may or may not be true today
-that the company has that feeling,
-but there's certainly- its
-history is clearly that.
-The second one was 20% time
-and the idea was that we could
-ask you as an employee to do
-everything you can in 80% of your time,
-and the other 20% time, you
-could do whatever you wanted.
-Don't be too worried
-here. These are engineers.
-They're not exactly gonna run
-off and do something wild.
-But if they're passionate about
-something, they could do a 20% project.
-Many of the features we offer
-today began as 20% explorations.
-Part of the management job was to
-listen for those 20% time things
-and then sort of aggregate them.
-And Marissa - again, I'm
-just mentioning people
-who you all would know - now
-running Yahoo, of course,
-and a superb executive,
-would watch for these things.
-So Marissa maintained a top-100
-list which had 300 things on it,
-and she was constantly,
-constantly culling that list
-and trying to identify these little ideas
-and trying to get them
-to talk to each other.
+It may or may not be true todaythat the company has that feeling,but there's certainly- itshistory is clearly that.
+The second one was 20% timeand the idea was that we couldask you as an employee to doeverything you can in 80% of your time,and the other 20% time, youcould do whatever you wanted.
+Don't be too worriedhere. These are engineers.
+They're not exactly gonna runoff and do something wild.
+But if they're passionate aboutsomething, they could do a 20% project.
+Many of the features we offertoday began as 20% explorations.
+Part of the management job was tolisten for those 20% time thingsand then sort of aggregate them.
+And Marissa - again, I'mjust mentioning peoplewho you all would know - nowrunning Yahoo, of course,and a superb executive,would watch for these things.
+So Marissa maintained a top-100list which had 300 things on it,and she was constantly,constantly culling that listand trying to identify these little ideasand trying to get themto talk to each other.
 - Marissa's a good example.
 Her, the APM program, etc.
-How did you end up growing managers?
-- I would argue,
-immodestly, that the program
-that's called the APM
-program is the largest source
-of entrepreneurs in the Bay Area today.
-So Marissa had this idea. Marissa,
-I think was an undergraduate
-or a TA here or something.
-- [Reid] Undergraduate
-in symbolic systems.
+How did you end up growing managers?- I would argue,immodestly, that the programthat's called the APMprogram is the largest sourceof entrepreneurs in the Bay Area today.
+So Marissa had this idea. Marissa,I think was an undergraduateor a TA here or something.
+- [Reid] Undergraduatein symbolic systems.
 - Oh, yeah. Incredible talent.
-Very, very technical, and
-she became a product manager.
-When I started there, she was one of
-the three product managers.
+Very, very technical, andshe became a product manager.
+When I started there, she was one ofthe three product managers.
 The company now has thousands.
-She had the idea that we should grow
-these Associate Product Managers,
-as she called them, and the idea
-was that you would hire people
-who were right out of college
-with a technical degree,
-particularly Computer Science,
-who did not themselves
-want to become programmers.
+She had the idea that we should growthese Associate Product Managers,as she called them, and the ideawas that you would hire peoplewho were right out of collegewith a technical degree,particularly Computer Science,who did not themselveswant to become programmers.
 They wanted to work with programmers.
-She would identify
-them, and they were all,
-again, very young, right out of college,
-and then she would train them.
-They would, for example,
-go on these trips for weeks
-and sleep four to a hotel room,
-just like in college or high school,
-and it forged these incredibly
-tight bonds of people
-who were highly technical
-and could specify products.
-Then she would run them through
-this sort of training program.
+She would identifythem, and they were all,again, very young, right out of college,and then she would train them.
+They would, for example,go on these trips for weeksand sleep four to a hotel room,just like in college or high school,and it forged these incrediblytight bonds of peoplewho were highly technicaland could specify products.
+Then she would run them throughthis sort of training program.
 Sundar was an example of this.
 Slightly older version of the same thing.
-All of the executives running
-the key parts of Google
-came in through that
-program, it turns out.
-The program, although she was
-too young to understand it,
-was originally invented by Microsoft.
-Microsoft had these people
-called Technical Leaders,
-who were non-programming
-liaisons who then,
-and they were incredibly technical,
-and they were the ones
-who did product specs.
-I think we give Microsoft the credit,
-and we give Marissa the idea for
-inventing the model at Google,
-and that model is scaleable today.
-- And is that the kind of key way that you
-populated a bunch of the
-key strategic leaders?
-- Yes.
-One other thing that we did:
-one day, we'd hired a woman named
-Shona Brown who had been at McKinsey.
-She had been a partner, and
-I guess she'd gotten tired
-of being a partner and she wanted to
-work in a proper company,
-so she came over and we made her
-chief operating pubaa something or other
-and put her in charge of all the things
-that nobody knew what to do with.
-So she comes in and says,
-"I think we should have our
-own McKinsey operation."
-I said, "No no. We're
-not gonna pay McKinsey."
-She said, "No no. We're just gonna hire
-the people from McKinsey."
-I said, "What?"
-and she goes, "No, we're
-going to hire the following:
-we're gonna get the people
-who would be associates,"
-that is non-tenured, non partnered people,
-"and we're gonna have them come in
-and do the McKinsey function."
-She didn't mean hiring from McKinsey,
-she meant replicating
-that function and they'll
-be in this group for one to two years,
-and they'll go with the
-business that they studied
-and that will be their career path.
-I said, "We'll give that a try."
-An example is that one of
-my students here at Stanford
-went into that program
-for a year and a half,
-again, very good Stanford
-MBA analytical skills.
-He's a pilot and just a great
-leader in all known ways.
+All of the executives runningthe key parts of Googlecame in through thatprogram, it turns out.
+The program, although she wastoo young to understand it,was originally invented by Microsoft.
+Microsoft had these peoplecalled Technical Leaders,who were non-programmingliaisons who then,and they were incredibly technical,and they were the oneswho did product specs.
+I think we give Microsoft the credit,and we give Marissa the idea forinventing the model at Google,and that model is scaleable today.
+- And is that the kind of key way that youpopulated a bunch of thekey strategic leaders?- Yes.
+One other thing that we did:one day, we'd hired a woman namedShona Brown who had been at McKinsey.
+She had been a partner, andI guess she'd gotten tiredof being a partner and she wanted towork in a proper company,so she came over and we made herchief operating pubaa something or otherand put her in charge of all the thingsthat nobody knew what to do with.
+So she comes in and says,"I think we should have ourown McKinsey operation."I said, "No no. We'renot gonna pay McKinsey."She said, "No no. We're just gonna hirethe people from McKinsey."I said, "What?"and she goes, "No, we'regoing to hire the following:we're gonna get the peoplewho would be associates,"that is non-tenured, non partnered people,"and we're gonna have them come inand do the McKinsey function."She didn't mean hiring from McKinsey,she meant replicatingthat function and they'llbe in this group for one to two years,and they'll go with thebusiness that they studiedand that will be their career path.
+I said, "We'll give that a try."An example is that one ofmy students here at Stanfordwent into that programfor a year and a half,again, very good StanfordMBA analytical skills.
+He's a pilot and just a greatleader in all known ways.
 He runs half of YouTube today.
-Now how did he get from, 10 years ago,
-that to running half of YouTube?
-He earned it. He went
-from project to project.
+Now how did he get from, 10 years ago,that to running half of YouTube?He earned it. He wentfrom project to project.
 I'll give you another example.
-Dennis Woodside, who's now the
-Chief Operating Officer of Dropbox,
-came in through a similar program.
-He studied salesforce effectiveness,
-and we put him in charge
-of the emerging world.
-He was doing so well, we eventually
-put him in charge of all of Europe.
-And then we eventually put him
-in charge of all of Motorola,
-and then he left to become
-number two at Dropbox,
-which is a good move for him.
-So these people who have these sort of
-business analytical skills
-are incredibly useful.
-Whenever we had problems
-involving business units
-and how the businesses interact,
-we'd take one of these people,
-and inevitably they'd go
-with the problem and fix it.
-Again, think of that as an
-eternal stable of talent.
+Dennis Woodside, who's now theChief Operating Officer of Dropbox,came in through a similar program.
+He studied salesforce effectiveness,and we put him in chargeof the emerging world.
+He was doing so well, we eventuallyput him in charge of all of Europe.
+And then we eventually put himin charge of all of Motorola,and then he left to becomenumber two at Dropbox,which is a good move for him.
+So these people who have these sort ofbusiness analytical skillsare incredibly useful.
+Whenever we had problemsinvolving business unitsand how the businesses interact,we'd take one of these people,and inevitably they'd gowith the problem and fix it.
+Again, think of that as aneternal stable of talent.
 Another story about the APMs.
-Marissa worked for Jonathan,
-and Jonathan was very colorful.
-Jonathan said, "We need a chain gang."
-And I said, "What is a chain gang?"
-He said, "A chain gang is
-a whole bunch of people
-who are waiting for work,
-and what we're gonna do is come up with
-projects which are good
-for the chain gang."
-So we wrote down a list of questions
-that we had about the business
-and the products and so
-forth that were sort of
-identifiable products and they
-had to be doable in a month.
-All of a sudden, we had answers
-to every question we had about
-competitors, positioning, evolution,
-costs and so forth through the chain gang.
-By the way, these are 23-year-olds,
-as part of their development learning.
-So you can use the talent,
-and those models I described
-are very scaleable.
-Yes, sir?
-- [Student 2] What are the
-most counter-intuitive signs
-of talent and potential
-at a very young age?
-- I would describe Nome.
-Nome went to Berkeley in the
-Math department at 19, got bored.
-He applied to Google and didn't
-meet any of our criteria.
-Somebody knew him and said,
-"You should talk to him."
-- [Reid] Berkeley wasn't elite enough?
-- Berkeley was not good enough.
-(laughter)
-He applied to Google and was
-rejected for obvious reasons.
-Somebody knew him and said,
-"You should talk to this guy."
-So he shows up and he's very unusual.
-He had figured out a way
-to do spelling correction.
-Somebody said we should just
-hire him to do spelling corrections.
-"Okay, whatever."
-In other words, it's kind of loose.
-So, he invents the spelling corrector,
-which is the first time
-this had ever been done,
-which is a huge achievement.
-Somebody said, "We should've hired him."
-I said, "Well, he didn't
-meet any of our criteria."
-So we have another rule, which is that
-if the person is super
-smart, hire them anyway.
-But they've got to be able to do
-like invent a new spelling corrector.
-Armed with that information,
-six months later,
-I'm in the cafeteria and it's six
-o'clock at night on a Friday night.
-I'm getting my dinner,
-and Nome is next to me.
-Nome says, "I gotta talk to you."
-I said, "What?"
-He said, "I need 10,000 machines now."
-10,000 machines at that time was a lot.
+Marissa worked for Jonathan,and Jonathan was very colorful.
+Jonathan said, "We need a chain gang."And I said, "What is a chain gang?"He said, "A chain gang isa whole bunch of peoplewho are waiting for work,and what we're gonna do is come up withprojects which are goodfor the chain gang."So we wrote down a list of questionsthat we had about the businessand the products and soforth that were sort ofidentifiable products and theyhad to be doable in a month.
+All of a sudden, we had answersto every question we had aboutcompetitors, positioning, evolution,costs and so forth through the chain gang.
+By the way, these are 23-year-olds,as part of their development learning.
+So you can use the talent,and those models I describedare very scaleable.
+Yes, sir?- [Student 2] What are themost counter-intuitive signsof talent and potentialat a very young age?- I would describe Nome.
+Nome went to Berkeley in theMath department at 19, got bored.
+He applied to Google and didn'tmeet any of our criteria.
+Somebody knew him and said,"You should talk to him."- [Reid] Berkeley wasn't elite enough?- Berkeley was not good enough.
+(laughter)He applied to Google and wasrejected for obvious reasons.
+Somebody knew him and said,"You should talk to this guy."So he shows up and he's very unusual.
+He had figured out a wayto do spelling correction.
+Somebody said we should justhire him to do spelling corrections.
+"Okay, whatever."In other words, it's kind of loose.
+So, he invents the spelling corrector,which is the first timethis had ever been done,which is a huge achievement.
+Somebody said, "We should've hired him."I said, "Well, he didn'tmeet any of our criteria."So we have another rule, which is thatif the person is supersmart, hire them anyway.
+But they've got to be able to dolike invent a new spelling corrector.
+Armed with that information,six months later,I'm in the cafeteria and it's sixo'clock at night on a Friday night.
+I'm getting my dinner,and Nome is next to me.
+Nome says, "I gotta talk to you."I said, "What?"He said, "I need 10,000 machines now."10,000 machines at that time was a lot.
 It wouldn't be today.
 I have a lot of credibility with Nome.
-I said, "What are you going to do?"
-"I'm gonna solve general
-knowledge by the weekend."
-(laughter)
-"Okay? Okay, good. Okay."
-I said okay. I put my tray down.
-I went over to the valet in
-charge of machines and I said,
-"Get him as many machines as he does."
-So he turns on the software.
-We're chunking away and
-the algorithm stops.
+I said, "What are you going to do?""I'm gonna solve generalknowledge by the weekend."(laughter)"Okay? Okay, good. Okay."I said okay. I put my tray down.
+I went over to the valet incharge of machines and I said,"Get him as many machines as he does."So he turns on the software.
+We're chunking away andthe algorithm stops.
 They can't figure it out.
-They don't need more
-than a couple thousand
-machines for the weekend, and I'm saved.
-Today, Nome is still
-trying to solve general AI,
-but if there's anybody I
-can think of in the world
-who's likely to do it, it's gonna be him.
-What do you learn?
-Talk to the person and figure out
-what is it that they're going to do.
+They don't need morethan a couple thousandmachines for the weekend, and I'm saved.
+Today, Nome is stilltrying to solve general AI,but if there's anybody Ican think of in the worldwho's likely to do it, it's gonna be him.
+What do you learn?Talk to the person and figure outwhat is it that they're going to do.
 If they've got a path, give them a shot.
-But they've got to be able
-to answer it that way.
-That's how you handle these
-sorts of strange cases.
+But they've got to be ableto answer it that way.
+That's how you handle thesesorts of strange cases.
 There are always odd cases.
 I can give you lots of examples of hiring.
-We try to hire people who can
-coexist with other human beings
-because we tend to work in teams,
-but there are cases where we've said,
-"Okay, keep them over there."
-(laughter)
-- Usually, the measure on that
-is they have to be so valuable,
-that you're willing to put all
-the infrastructure around--
-- And one of the things
-that Jonathan and I
-say in our book is that
-you should hire the divas.
-By the way, if you read any
-management text that says
-"Don't hire the divas, because they're
-nothing but a pain in the ass,"
-by the way, they are, but the people
-who are the divas who believe,
-are the ones that will drive
-the culture of excellence
-and they'll drive you to that excellence.
+We try to hire people who cancoexist with other human beingsbecause we tend to work in teams,but there are cases where we've said,"Okay, keep them over there."(laughter)- Usually, the measure on thatis they have to be so valuable,that you're willing to put allthe infrastructure around--- And one of the thingsthat Jonathan and Isay in our book is thatyou should hire the divas.
+By the way, if you read anymanagement text that says"Don't hire the divas, because they'renothing but a pain in the ass,"by the way, they are, but the peoplewho are the divas who believe,are the ones that will drivethe culture of excellenceand they'll drive you to that excellence.
 Steve Jobs was a diva.
 Bill Joy was my colleague for many years.
 He's an example of a diva.
 I mean this in the most flattering way.
-They expect a lot, they drive people hard,
-they're controversial, and
-they care passionately.
-If you find those people,
-you're probably gonna
-work for one, so be nice to them.
+They expect a lot, they drive people hard,they're controversial, andthey care passionately.
+If you find those people,you're probably gonnawork for one, so be nice to them.
 Pay attention, or be that passionate.
-- Back to innovation. How
-important is it to have
-separable groups to
-accomplish something big
-within an existing company?
-You know, the Android group, Google X--
-- This problem has never been solved.
+- Back to innovation. Howimportant is it to haveseparable groups toaccomplish something bigwithin an existing company?You know, the Android group, Google X--- This problem has never been solved.
 It's just a mess.
-The correct answer is two people with
-a graduate student and a
-faculty member at Stanford
-and they go off and change the world.
-Every project I've been associated with
-in the 40 years I've been doing this
-has started with two people,
-and roughly the equivalent
-of a graduate student,
-and roughly with an assistant professor
-who's working for tenure.
+The correct answer is two people witha graduate student and afaculty member at Stanfordand they go off and change the world.
+Every project I've been associated within the 40 years I've been doing thishas started with two people,and roughly the equivalentof a graduate student,and roughly with an assistant professorwho's working for tenure.
 So for example, Windows.
-The platform, you know,
-was started by one person
-who I happen to know.
+The platform, you know,was started by one personwho I happen to know.
 Unix was two people. Java was one person.
 I'd go on and on and on.
-Gmail was one person with his colleague,
-and that's Paul Buchheit.
-Now today, how many people work on Gmail?
-Many, many, many, many hundreds.
+Gmail was one person with his colleague,and that's Paul Buchheit.
+Now today, how many people work on Gmail?Many, many, many, many hundreds.
 Android: a very small team.
 Linux: done by Linus Torvalds.
 That's why it's called Linux.
 I can, again, go on and on and on.
 So one day- I'll give you an example.
-One day, I thought, "I love
-this Google Docs product.
-They've got a spreadsheet,
-and a word processor, and so forth.
-I want to meet the team."
-And there was a conference room near.
-I said, "Just bring them into the team."
-They said they won't fit.
-I said, "How many people
-work on Google Docs?"
-And they said 150.
-I said, "150? What do they do?"
-So, we'd then get
-everybody in a larger room,
-and I went, "What do you do?"
-Well, the answer is, the projects today
-require a lot more research.
-That's because of internationalization,
-integration, and so forth.
-The point here I'm trying
-to make is actually
-slightly different.
-One of the complaints I
-have is that teams that are
-doing the work of products you see
-are far larger than they should be.
+One day, I thought, "I lovethis Google Docs product.
+They've got a spreadsheet,and a word processor, and so forth.
+I want to meet the team."And there was a conference room near.
+I said, "Just bring them into the team."They said they won't fit.
+I said, "How many peoplework on Google Docs?"And they said 150.
+I said, "150? What do they do?"So, we'd then geteverybody in a larger room,and I went, "What do you do?"Well, the answer is, the projects todayrequire a lot more research.
+That's because of internationalization,integration, and so forth.
+The point here I'm tryingto make is actuallyslightly different.
+One of the complaints Ihave is that teams that aredoing the work of products you seeare far larger than they should be.
 And that's a failure of architecture.
-In other words, when you have
-that many programmers programming,
-that means they don't have the
-right libraries to depend on.
+In other words, when you havethat many programmers programming,that means they don't have theright libraries to depend on.
 They've not generalized the phenomena.
-It is my hope that the
-machine learning revolution
-will fix that problem.
-- [Reid] And is there anything
-you think is important
-about the separability
-so you don't have to
-interface with a cross-coordination
-with all the rest of the company?
-- Computer scientists understand
-the concept of interface and API.
-Well-done platform APIs
-are the key to everything.
-One of the problems we have internally is
-that our system is incredibly powerful,
-but now so co-mingled with itself,
-because of its co-dependence.
-It's very difficult to partition,
-and I think that's a
-fairly normal end-state
-for these large software projects.
-So, again, within the company,
-there's a major initiative to
-put services into Google Compute,
-which is the externalization
-of this, which requires APIs.
-Sorry for the technical jargon, but
-I'll tell you what I tell people.
-I never want to do a
-platform product without
-an appropriate end-user
-app that goes with it,
-and I want to look at the interface,
-and I want a well-designed
-interface between the two.
-If you can maintain that discipline,
-you can build great things.
-An example would be
-today, the vast majority,
-if you guys go to any
-startup here in the Valley,
-and most around the world, you're
-likely to use Amazon Web Services,
-AWS and its associated interfaces.
-What's unique about that
-web service's interfaces
-is that they're programmable
-by mere mortals.
+It is my hope that themachine learning revolutionwill fix that problem.
+- [Reid] And is there anythingyou think is importantabout the separabilityso you don't have tointerface with a cross-coordinationwith all the rest of the company?- Computer scientists understandthe concept of interface and API.
+Well-done platform APIsare the key to everything.
+One of the problems we have internally isthat our system is incredibly powerful,but now so co-mingled with itself,because of its co-dependence.
+It's very difficult to partition,and I think that's afairly normal end-statefor these large software projects.
+So, again, within the company,there's a major initiative toput services into Google Compute,which is the externalizationof this, which requires APIs.
+Sorry for the technical jargon, butI'll tell you what I tell people.
+I never want to do aplatform product withoutan appropriate end-userapp that goes with it,and I want to look at the interface,and I want a well-designedinterface between the two.
+If you can maintain that discipline,you can build great things.
+An example would betoday, the vast majority,if you guys go to anystartup here in the Valley,and most around the world, you'relikely to use Amazon Web Services,AWS and its associated interfaces.
+What's unique about thatweb service's interfacesis that they're programmableby mere mortals.
 They're relatively straightforward.
 They're relatively intuitive.
 They did a pretty good job of it.
-There are limitations to what it can do,
-but it represents good design.
-The original Mac Toolkit
-is another example of
-something where you can
-get a lot of work done.
+There are limitations to what it can do,but it represents good design.
+The original Mac Toolkitis another example ofsomething where you canget a lot of work done.
 It's in a single book.
-I worked on something called
-the Alto, which dates me.
+I worked on something calledthe Alto, which dates me.
 Done before you guys were born.
-The Alto had a single book
-which showed all the APIs.
-You know when you have that kind of
-proper interface, that's where you are.
+The Alto had a single bookwhich showed all the APIs.
+You know when you have that kind ofproper interface, that's where you are.
 So the question was about Alphabet.
-I was giving a technical
-answer to interfaces.
-There is a size at which companies
-begin to be- to fall in on themselves.
-I think Google has done
-particularly well because
-the two founders are so
-strong-minded and so technical
-and, obviously, so brilliant.
-And I would argue that Apple
-had done the same thing.
-If you look at the industry today,
-it's Apple, Amazon, Facebook, and
-Google driving sort of the first four.
-Then there's plenty of
-others right behind.
-Each of those companies has either a
-strong founder or a strong culture,
-a very strong product focus, and so forth.
-Steve told us, of course, I was on
-the board of Apple for many years.
-Steve told us that the
-problem with Google was that
-we had too many things going on.
-That his vision, which, of
-course, I think has been realized
-by the success of the company,
-is a very small number of
-incredibly well-done products.
-We can debate that, but
-the fact of the matter is
-the success speaks for itself.
-In our case, I think we've hit
-some kind of mission scale problem.
+I was giving a technicalanswer to interfaces.
+There is a size at which companiesbegin to be- to fall in on themselves.
+I think Google has doneparticularly well becausethe two founders are sostrong-minded and so technicaland, obviously, so brilliant.
+And I would argue that Applehad done the same thing.
+If you look at the industry today,it's Apple, Amazon, Facebook, andGoogle driving sort of the first four.
+Then there's plenty ofothers right behind.
+Each of those companies has either astrong founder or a strong culture,a very strong product focus, and so forth.
+Steve told us, of course, I was onthe board of Apple for many years.
+Steve told us that theproblem with Google was thatwe had too many things going on.
+That his vision, which, ofcourse, I think has been realizedby the success of the company,is a very small number ofincredibly well-done products.
+We can debate that, butthe fact of the matter isthe success speaks for itself.
+In our case, I think we've hitsome kind of mission scale problem.
 We spent two years arguing about this.
-The argument was "Should
-we change the logo?"
-which I don't really care,
-but everybody else cared.
-They said the mission was
-all the world's information
-that we could index and use.
-How do you match that with
-cars and biology and so forth?
-Larry reviewed this at some length.
-We had visited with Warren Buffet
-on the 14th floor of a building in Omaha.
-It was the three of us and Warren
-Buffet, if you can imagine that.
-He held forth. He's a facinating
-and impressive man in every regard.
+The argument was "Shouldwe change the logo?"which I don't really care,but everybody else cared.
+They said the mission wasall the world's informationthat we could index and use.
+How do you match that withcars and biology and so forth?Larry reviewed this at some length.
+We had visited with Warren Buffeton the 14th floor of a building in Omaha.
+It was the three of us and WarrenBuffet, if you can imagine that.
+He held forth. He's a facinatingand impressive man in every regard.
 It had a big impression, I think.
-You can understand Alphabet
-as an attempt to build
-a holding company that looks
-like Berkshire Hathaway
-out of an existing large company.
-This has never happened in the
-history of American business.
+You can understand Alphabetas an attempt to builda holding company that lookslike Berkshire Hathawayout of an existing large company.
+This has never happened in thehistory of American business.
 It's a big bet, not a little one.
-It's typical of Google,
-more important to know,
-that we announced this without actually
-even knowing what the companies were.
-One of the fun things I do with employees
-is I'll say- let's do a show of hands.
-How many Alphabet companies
-do we have, and what are they?
-Of course, there isn't a good answer
-because we haven't announced it.
+It's typical of Google,more important to know,that we announced this without actuallyeven knowing what the companies were.
+One of the fun things I do with employeesis I'll say- let's do a show of hands.
+How many Alphabet companiesdo we have, and what are they?Of course, there isn't a good answerbecause we haven't announced it.
 No rational company would ever do that.
-They would have had
-months spent of their time
-figuring out this market and so forth.
-Our attitude was, "Just get
-started and work it out."
-Today, there is one, which is
-the Google life sciences stuff,
-which looks like it's
-gonna be hugely successful.
-We've also said publicly that
-Calico, which is an aging company.
-We've also said publicly that
-Access, which is above Google Fiber
-and a few others are coming.
-Characteristically, we're
-not doing this halfway.
-So, having spent all week on this,
-I can tell you the
-instantaneous situation is
-that we're trying to push
-the Alphabet companies
-not to be divisions, but
-really separate companies.
-That means severing the ties and
-really operating autonomously.
-That's inspired by Warren Buffett's
-rule that he loves to hire people
-who would do it whether
-he hired them or not.
+They would have hadmonths spent of their timefiguring out this market and so forth.
+Our attitude was, "Just getstarted and work it out."Today, there is one, which isthe Google life sciences stuff,which looks like it'sgonna be hugely successful.
+We've also said publicly thatCalico, which is an aging company.
+We've also said publicly thatAccess, which is above Google Fiberand a few others are coming.
+Characteristically, we'renot doing this halfway.
+So, having spent all week on this,I can tell you theinstantaneous situation isthat we're trying to pushthe Alphabet companiesnot to be divisions, butreally separate companies.
+That means severing the ties andreally operating autonomously.
+That's inspired by Warren Buffett'srule that he loves to hire peoplewho would do it whetherhe hired them or not.
 He never has to worry about them.
-He knows that they're going
-to wake up in the morning
-and show up at work and work very hard.
-That's just the nature
-of the people they are.
-Ultimately, the recognition
-of our scale was
-we needed to have an
-organizational structure
-that would attract those leaders.
-We just hired this guy John,
-who's gonna run the car stuff.
-I talked to him yesterday,
-and he's fantastic.
+He knows that they're goingto wake up in the morningand show up at work and work very hard.
+That's just the natureof the people they are.
+Ultimately, the recognitionof our scale waswe needed to have anorganizational structurethat would attract those leaders.
+We just hired this guy John,who's gonna run the car stuff.
+I talked to him yesterday,and he's fantastic.
 He came here to do this.
 It's what he wants to do.
 He's gonna work 24 hours a day.
 He's from the car industry.
 He wants some exciting driving tasks.
-He has all sorts of issues
-and all sorts of partnerships.
-I can't think of a better
-leader to take it forward.
-Normally, companies would have
-given him a little bit of leeway.
-He's gonna be the CEO. He's
-gonna have his own operation,
-and he's gonna bear the
-risks as well as the upside,
-and that's very attractive to him.
-- If you're giving advice
-to entrepreneurs who are
-thinking about building
-game-changing companies,
-what do you think the key things were
-that made Google win?
-- First, you have to
-have the right founders.
+He has all sorts of issuesand all sorts of partnerships.
+I can't think of a betterleader to take it forward.
+Normally, companies would havegiven him a little bit of leeway.
+He's gonna be the CEO. He'sgonna have his own operation,and he's gonna bear therisks as well as the upside,and that's very attractive to him.
+- If you're giving adviceto entrepreneurs who arethinking about buildinggame-changing companies,what do you think the key things werethat made Google win?- First, you have tohave the right founders.
 You understand this.
-You are a founder and
-obviously, the right founder.
-You have to have the right
-founders for the problem.
-And the founders have to be good,
-and by good I mean they
-have to be impressive,
-they have to be smart,
-they have to be passionate,
-they have to be committed, you know,
-this has to be their life's work,
-which, again, was true of
-you, and it's true of ours.
+You are a founder andobviously, the right founder.
+You have to have the rightfounders for the problem.
+And the founders have to be good,and by good I mean theyhave to be impressive,they have to be smart,they have to be passionate,they have to be committed, you know,this has to be their life's work,which, again, was true ofyou, and it's true of ours.
 That's point one.
 Point two is you need to have some luck.
-And in our case, a search
-and the ads that we developed
-turned out to be a goldmine of revenue.
-So once I figured out
-that it wasn't a sham
-and once I figured out
-that people really were
-clicking on these ads,
-we set out to maximize
-the amount of revenue
-we could get from that business.
+And in our case, a searchand the ads that we developedturned out to be a goldmine of revenue.
+So once I figured outthat it wasn't a shamand once I figured outthat people really wereclicking on these ads,we set out to maximizethe amount of revenuewe could get from that business.
 If you look, it just went like this.
-You maximize that by making
-the ads more relevant,
-making them more useful,
-all the things you've heard.
-The fact that we wound up in a very
-high-gross margin business very early,
-gave us the ability to take these risks.
-When I talk to people I always say,
-"How much gross margin do you have?
-How much flexibility do you have?"
-I've been so lucky, and I give
-this credit to luck first,
-I forget that there are
-other businesses that are
-relatively low-margin businesses like
-almost every other business,
-by comparison.
-So you want to be careful to understand
-how much flexibility you really have.
-The ideal business is
-the Microsoft business,
-a monopoly software business
-with hardware competitors
-who are competing
-for good treatment by you
-in a growing and global industry.
+You maximize that by makingthe ads more relevant,making them more useful,all the things you've heard.
+The fact that we wound up in a veryhigh-gross margin business very early,gave us the ability to take these risks.
+When I talk to people I always say,"How much gross margin do you have?How much flexibility do you have?"I've been so lucky, and I givethis credit to luck first,I forget that there areother businesses that arerelatively low-margin businesses likealmost every other business,by comparison.
+So you want to be careful to understandhow much flexibility you really have.
+The ideal business isthe Microsoft business,a monopoly software businesswith hardware competitorswho are competingfor good treatment by youin a growing and global industry.
 Again, let's use Uber as and example.
-Notice that Uber spends
-an awful lot of time
-talking about how the
-drivers don't work for them
-and that they don't own the cars.
-There's a reason. It's not the
-legal and liability reasons.
-It's because if you think of them as a
-software infrastructure comany,
-in other words, they help
-and assemble this thing,
-then they have very different economics
-than if you think of
-them as needing to open
-and own all those things.
-In that sense, it's a modern
-version of the franchisee.
-Why do people own McDonald's franchises
-rather than McDonald's?
-Because McDonald's
-couldn't get the capital
-to own them all themselves.
-Franchisees have to risk their business
-under a franchise model.
-Why do hotels like Four Seasons doesn't
-actually own the buildings?
-Like how could the Four Seasons hotel
-not own its own building?
-It's actually better to be the operator
-with a fixed revenue share
-in all the ways that you know
-and let somebody else ride
-the real estate up and down
-which is vicious if you
-haven't spent some time in it.
+Notice that Uber spendsan awful lot of timetalking about how thedrivers don't work for themand that they don't own the cars.
+There's a reason. It's not thelegal and liability reasons.
+It's because if you think of them as asoftware infrastructure comany,in other words, they helpand assemble this thing,then they have very different economicsthan if you think ofthem as needing to openand own all those things.
+In that sense, it's a modernversion of the franchisee.
+Why do people own McDonald's franchisesrather than McDonald's?Because McDonald'scouldn't get the capitalto own them all themselves.
+Franchisees have to risk their businessunder a franchise model.
+Why do hotels like Four Seasons doesn'tactually own the buildings?Like how could the Four Seasons hotelnot own its own building?It's actually better to be the operatorwith a fixed revenue sharein all the ways that you knowand let somebody else ridethe real estate up and downwhich is vicious if youhaven't spent some time in it.
 - So I have a bunch of questions.
 I'm gonna ask one more.
-Then we're gonna open up,
-and if you guys don't have questions,
-I've got a stack of more and more.
+Then we're gonna open up,and if you guys don't have questions,I've got a stack of more and more.
 Way too many for the amount of time.
-- You and I are together
-tomorrow afternoon, too.
-We're doing something
-together in San Francisco.
-- Exactly, and it'll actually
-be on radio at some point.
-- Oh, really?
-- Yes.
-(laughter)
-- What do we do about the middle class?
-It's an important problem.
+- You and I are togethertomorrow afternoon, too.
+We're doing somethingtogether in San Francisco.
+- Exactly, and it'll actuallybe on radio at some point.
+- Oh, really?- Yes.
+(laughter)- What do we do about the middle class?It's an important problem.
 - I'm in favor of them.
 They click on ads a lot.
-(laughter)
-So it's clear what my position is,
-I'm in favor of more human beings,
-because more human beings
-means more customers.
-And more customers means more growth
-and revenue for the
-corporation that I represent.
-If you are confused on
-that, do the math around
-employment and people.
-We want more people. We
-want more immigration.
+(laughter)So it's clear what my position is,I'm in favor of more human beings,because more human beingsmeans more customers.
+And more customers means more growthand revenue for thecorporation that I represent.
+If you are confused onthat, do the math aroundemployment and people.
+We want more people. Wewant more immigration.
 We want more customers.
 We want more internet.
 We want more revenue.
 That's called capitalism.
-- [Reid] Exactly. We want
-more empowered people too.
-Google, obviously making
-massive amounts of progress
-in a lot of different areas.
-Everything from self-driving cars,
-genetics, global connectivity of internet,
-search, mobile phone systems,
-the list just goes on.
-Were there any kind of particular
-Valley of the Shadow
-moments where you were like,
-"Oh gosh. Is this gonna work?"
-- Well, a lot.
-The one that drove me crazy was
-the conversion in the auction.
-Six months later we had a-
-for various reasons, we had to
-merge our databases together
-and I thought, "Well this
-is a pretty big deal."
-I talked to the engineers, and we had
-three different databases
-to a single ad system,
-and I said, "Maybe I
-should spend the weekend
-in the data center watching it."
-An engineer said, "What
-planet are you from?
-You never visited the data center."
-I said, "Okay."
-I figured I'd take the weekend
-off, they would do the merger
-and I would go into
-work on Monday morning.
-For various reasons, I had
-to be in New York that day.
-I flew to New York on Sunday into Monday,
-and I wait and see what
-happened after the merger.
-So we're now merging to a
-single auction-based system
-which, based on the data,
-would produce a lot of revenue.
-At 5:00, I'm sitting
-next to a young woman,
-I have my little cube next
-to me, and the phone rings.
+- [Reid] Exactly. We wantmore empowered people too.
+Google, obviously makingmassive amounts of progressin a lot of different areas.
+Everything from self-driving cars,genetics, global connectivity of internet,search, mobile phone systems,the list just goes on.
+Were there any kind of particularValley of the Shadowmoments where you were like,"Oh gosh. Is this gonna work?"- Well, a lot.
+The one that drove me crazy wasthe conversion in the auction.
+Six months later we had a-for various reasons, we had tomerge our databases togetherand I thought, "Well thisis a pretty big deal."I talked to the engineers, and we hadthree different databasesto a single ad system,and I said, "Maybe Ishould spend the weekendin the data center watching it."An engineer said, "Whatplanet are you from?You never visited the data center."I said, "Okay."I figured I'd take the weekendoff, they would do the mergerand I would go intowork on Monday morning.
+For various reasons, I hadto be in New York that day.
+I flew to New York on Sunday into Monday,and I wait and see whathappened after the merger.
+So we're now merging to asingle auction-based systemwhich, based on the data,would produce a lot of revenue.
+At 5:00, I'm sittingnext to a young woman,I have my little cube nextto me, and the phone rings.
 You can hear on the voice.
-It's a man and he is
-screaming at this woman.
-"How could you do this to
-me ? This is a disaster."
-And this goes on for 25 minutes.
+It's a man and he isscreaming at this woman.
+"How could you do this tome ? This is a disaster."And this goes on for 25 minutes.
 I'm listening and writing down.
 I figured this is real feedback.
-They say in the book you're supposed to
-actually listen to the customers.
-I was happy to have her listen
-and I wrote down what this
-poor woman had to put up with.
-She hangs up eventually, she's
-as polite as she could be,
-and I said, "Well, what happened?"
-She said, "First place,
-he calls me every day."
-I said, "He treats you that way?"
-"Yup. Absolutely every day at 5:00."
-I said, "Why doesn't he drop you?"
-"Because everything in his
-business is dependent on us."
-I said, "Well, what was that all about?"
-"He said he couldn't get
-his report to show his boss
-that day of how much
-product they had sold."
-So sometimes, you get
-the wrong impression,
-if you build something
-that's that crucial.
-What happened was I thought, "Oh my god."
-So I go to the airport,
-I fly back, and I say,
-"We've got a disaster, and
-we're gonna have meetings
-every day until we resolve this."
-So, by Thursday, it still wasn't resolved.
-So I said, "Okay, we're gonna
-have meetings twice a day
-at 10 in the morning and
-four in the afternoon."
-That started Friday, and I said,
-"By the way, if next
-week this isn't resolved,
-we're gonna meet every hour
-for seven days a week."
-And we fixed it, and that
-database is the benefit.
-I think sometimes knowing
-where the problem is,
-and this poor woman and
-the abuse she suffered
-at the hands of this
-unknown customer drove that,
-and I thought, "Well,
-okay, that's both a lesson,
-but also a crisis."
-- [Student 4] At our company,
-we use a lot of Google products.
-We use Google Adwords, Atlas, Gmail,
-Google Docs, Android
-phones, the list goes on.
-One of the things we noticed was that
-our experience with Google as a company
-and their products was
-different with each product.
+They say in the book you're supposed toactually listen to the customers.
+I was happy to have her listenand I wrote down what thispoor woman had to put up with.
+She hangs up eventually, she'sas polite as she could be,and I said, "Well, what happened?"She said, "First place,he calls me every day."I said, "He treats you that way?""Yup. Absolutely every day at 5:00."I said, "Why doesn't he drop you?""Because everything in hisbusiness is dependent on us."I said, "Well, what was that all about?""He said he couldn't gethis report to show his bossthat day of how muchproduct they had sold."So sometimes, you getthe wrong impression,if you build somethingthat's that crucial.
+What happened was I thought, "Oh my god."So I go to the airport,I fly back, and I say,"We've got a disaster, andwe're gonna have meetingsevery day until we resolve this."So, by Thursday, it still wasn't resolved.
+So I said, "Okay, we're gonnahave meetings twice a dayat 10 in the morning andfour in the afternoon."That started Friday, and I said,"By the way, if nextweek this isn't resolved,we're gonna meet every hourfor seven days a week."And we fixed it, and thatdatabase is the benefit.
+I think sometimes knowingwhere the problem is,and this poor woman andthe abuse she sufferedat the hands of thisunknown customer drove that,and I thought, "Well,okay, that's both a lesson,but also a crisis."- [Student 4] At our company,we use a lot of Google products.
+We use Google Adwords, Atlas, Gmail,Google Docs, Androidphones, the list goes on.
+One of the things we noticed was thatour experience with Google as a companyand their products wasdifferent with each product.
 Support was different.
 Quality was different.
-So first of all, is that
-intentional, or kind of a result of
-all of those things that
-you were talking about?
-And secondly, how is that
-gonna change with Alphabet?
-- The products you're describing are all
-in the Google part, in the G of Alphabet,
-so there's no change from
-an Alphabet perspective.
-We had various of these kinds of problems
-and I think a lot of them
-have to do with scale.
-It's just a level of how
-well you can integrate
-all your support, the products are at
-different levels of maturity,
-there are interconnection
-issues and so forth.
-Without knowing the specifics,
-I can't give you a better answer.
-Initially, we didn't
-have any support at all.
+So first of all, is thatintentional, or kind of a result ofall of those things thatyou were talking about?And secondly, how is thatgonna change with Alphabet?- The products you're describing are allin the Google part, in the G of Alphabet,so there's no change froman Alphabet perspective.
+We had various of these kinds of problemsand I think a lot of themhave to do with scale.
+It's just a level of howwell you can integrateall your support, the products are atdifferent levels of maturity,there are interconnectionissues and so forth.
+Without knowing the specifics,I can't give you a better answer.
+Initially, we didn'thave any support at all.
 That was sort of a non-starter.
-One of the things that
-Valley companies do is
-they try to minimise the human
-support that they provide,
-because the model
-requires them not to have
-you know, the old telcom support model.
+One of the things thatValley companies do isthey try to minimise the humansupport that they provide,because the modelrequires them not to haveyou know, the old telcom support model.
